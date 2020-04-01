@@ -10,3 +10,5 @@ googleAnalytics = ""
 [params]
     author = "lab121.org"
     description = "Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19"
+    footer1 = "Lorem ipsum!"
+    footer2 = "Made with Love in Alessandria"

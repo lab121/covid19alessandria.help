@@ -50,6 +50,10 @@
 
     <div class="py-5 bg-light">
         <div class="container">
+            {{ if not .IsHome }}
+            {{ partial "breadcrumb.html" . }}
+            {{ end }}
+
             {{ block "main" . }}
             {{ end }}
         </div>
@@ -61,8 +65,8 @@
         <p class="float-right">
             <a href="#">Torna in cima</a>
         </p>
-        <p>Lorem ipsum!</p>
-        <p>Made with Love in Alessandria</p>
+        <p>{{ .Site.Params.footer1 }}</p>
+        <p>{{ .Site.Params.footer2 }}</p>
     </div>
 </footer>
 
