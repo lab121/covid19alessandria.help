@@ -9,7 +9,8 @@ layout: "page"
 Lo facciamo aggregando e verificando informazioni di diversa natura per **mettere in contatto chi offre beni e servizi e chi ne ha bisogno**. Abbiamo strutturato le informazioni in 7 campi principali al fine di consentire una fruizione quanto più veloce e immediata possibile. 
 
 
-Nel sito accanto a comunicazioni di servizio **abbiamo incluso anche informazioni di carattere istituzionale, nell'ottica di offrire un quadro il più possibile completo di tutto ciò è necessario sapere** in questo momento (super) complicato. 
+Nel sito accanto a comunicazioni di servizio **abbiamo incluso anche informazioni di carattere istituzionale, nell'ottica di offrire un quadro il più possibile completo di tutto ciò è necessario sapere** in questo momento (super) complicato.
+
 Abbiamo previsto anche dei moduli ad hoc per permettere sia la segnalazione e l'integrazione da parte dei cittadini di altri servizi e attività sia per **raccogliere le adesioni di chi volesse contribuire con il proprio tempo e le proprie competenze allo sviluppo del progetto**. 
 
 
