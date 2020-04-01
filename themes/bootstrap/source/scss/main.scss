@@ -1,0 +1,48 @@
+// element
+body {
+  font-family: 'Raleway', serif;
+}
+
+a {
+  color: #EC5923;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+// colors
+.bg-orange {
+  background-color: #EC5923;
+  border-color: #EC5923;
+}
+
+.bg-grey {
+  background-color: #333333;
+}
+
+// rules
+.jumbotron {
+  margin-bottom: 0;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.home-icons .col-md-3 {
+  text-align: center;
+}
+
+.discover .card {
+  min-height: 200px;
+}

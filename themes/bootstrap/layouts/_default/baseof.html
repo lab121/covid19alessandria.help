@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+
+<head>
+    {{ partial "head-meta.html" . }}
+
+    {{ block "schema-dot-org" . }}
+    <!-- schema.org metadata differs for Nodes and Pages -->
+    {{ end }}
+
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
+    {{ $style := resources.Get "css/style.css" | resources.Fingerprint }}
+    <link href="{{ $style.Permalink }}" rel="stylesheet" {{ if not .Site.Params.disable_sri }}
+          integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" {{ end }}>
+
+    {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `
+    <link rel="%s" type="%s" href="%s" title="%s"/>
+    ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+    {{ template "_internal/google_analytics_async.html" . }}
+</head>
+<body>
+
+<header>
+    <div class="navbar navbar-dark bg-dark shadow-sm">
+        <div class="container d-flex justify-content-between">
+            <a href="/" class="navbar-brand d-flex align-items-center">
+                <strong>{{ .Site.Title }}</strong>
+            </a>
+
+            <nav class="my-2 my-md-0 mr-md-3">
+                <a class="p-2" href="/faq">FAQ</a>
+                <a class="p-2" href="/privacy">Privacy</a>
+            </nav>
+
+        </div>
+    </div>
+</header>
+
+<main role="main">
+    {{ block "header" . }}
+    {{ end }}
+
+    <div class="py-5 bg-light">
+        <div class="container">
+            {{ block "main" . }}
+            {{ end }}
+        </div>
+    </div>
+</main>
+
+<footer class="text-muted">
+    <div class="container">
+        <p class="float-right">
+            <a href="#">Torna in cima</a>
+        </p>
+        <p>Lorem ipsum!</p>
+        <p>Made with Love in Alessandria</p>
+    </div>
+</footer>
+
+<script src="https://kwes.io/js/kwes.js"></script>
+{{ $fontawesome := resources.Get "js/fontawesome.min.js" | resources.Fingerprint }}
+<script defer src="{{ $fontawesome.Permalink }}" integrity="{{ $fontawesome.Data.Integrity }}"
+        crossorigin="anonymous"></script>
+
+{{ $bootstrap := resources.Get "js/bootstrap.min.js" | resources.Fingerprint }}
+<script defer src="{{ $bootstrap.Permalink }}" integrity="{{ $bootstrap.Data.Integrity }}"
+        crossorigin="anonymous"></script>
+
+</body>
+</html>

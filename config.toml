@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "it-it"
+title = "Covid19Alessandria.help"
+theme = "bootstrap"
+googleAnalytics = ""
+
+[taxonomies]
+  categoria = "categoria"
+
+[params]
+    author = "lab121.org"
+    description = "Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19"

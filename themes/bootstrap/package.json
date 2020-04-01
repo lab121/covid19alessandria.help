@@ -1,0 +1,21 @@
+{
+  "name": "covid19alessandria-bootstrap4-theme",
+  "scripts": {
+    "build:css": "node-sass --output-style expanded --precision 6 source/scss/style.scss assets/css/style.css.tmp && cleancss --level 1 assets/css/style.css.tmp -o assets/css/style.css",
+    "build:js": "webpack",
+    "build": "npm run build:css && npm run build:js && npm run clean",
+    "clean": "rm assets/css/style.css.tmp"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-brands-svg-icons": "^5.12.1",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "bootstrap": "~4.4.1",
+    "clean-css-cli": "^4.3.0",
+    "node-sass": "^4.13.1",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}

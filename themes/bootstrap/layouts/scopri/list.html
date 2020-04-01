@@ -1,0 +1,11 @@
+{{ define "title" }}Scopri{{ end }}
+
+{{ define "main" }}
+<h1>Scopri</h1>
+{{ .Page.Content }}
+
+{{ range .Sections }}
+<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+
+{{ end }}

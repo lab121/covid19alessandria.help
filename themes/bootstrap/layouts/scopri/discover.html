@@ -1,0 +1,23 @@
+{{ define "title" }}{{ .Page.Title }}{{ end }}
+
+{{ define "main" }}
+<h1>{{ .Page.Title }}</h1>
+{{ .Page.Content }}
+
+{{ range .Sections }}
+<h2>{{ .Title }}</h2>
+<div class="row discover">
+    {{ range .Pages }}
+    <div class="col-md-4">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-body">
+                {{ partial "summary.html" . }}
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</div>
+
+{{ end }}
+
+{{ end }}

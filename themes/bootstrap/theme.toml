@@ -1,0 +1,4 @@
+name = "Covid19Alessandria Bootstrap v4 Theme"
+license = "CC-BY-3.0"
+description = "Base theme for Covid19Alessandria website."
+min_version = 0.55
