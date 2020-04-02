@@ -57,11 +57,11 @@
             <form method="POST" action="https://kwes.io/api/foreign/forms/4tNNfBH53Xuc0kKIl2fM">
                 <div class="row">
                     <div class="col-md-6 mb-3">
-                        <label for="name">Nome</label>
+                        <label for="name">Nome *</label>
                         <input type="text" class="form-control" id="name" name="name" rules="required">
                     </div>
                     <div class="col-md-6 mb-3">
-                        <label for="category">Categoria</label>
+                        <label for="category">Categoria *</label>
                         <select type="text" class="form-control" id="category" name="category"
                                 rules="required">
                             {{ range .Params.form_options}}
@@ -72,18 +72,28 @@
                 </div>
 
                 <div class="mb-3">
-                    <label for="message">Messaggio</label>
+                    <label for="message">Messaggio *</label>
                     <textarea class="form-control" id="message" name="message" rules="required"></textarea>
                 </div>
 
                 <div class="mb-3">
+                    <label for="address">Indirizzo</label>
+                    <input type="text" class="form-control" id="address" name="address">
+                </div>
+
+                <div class="mb-3">
                     <label for="phone">Telefono</label>
-                    <input type="text" class="form-control" id="phone" name="phone" rules="required">
+                    <input type="text" class="form-control" id="phone" name="phone">
                 </div>
 
                 <div class="mb-3">
                     <label for="email">Email</label>
-                    <input type="text" class="form-control" id="email" name="email" rules="required|email">
+                    <input type="text" class="form-control" id="email" name="email" rules="email">
+                </div>
+
+                <div class="mb-3">
+                    <label for="link">Link</label>
+                    <input type="text" class="form-control" id="link" name="link">
                 </div>
 
                 <div class="mb-3">
