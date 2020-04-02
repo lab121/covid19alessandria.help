@@ -1,12 +1,12 @@
 {{ define "header" }}
 <section class="jumbotron bg-orange">
     <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <img src="/images/logo.png" alt="{{ .Site.Title }}" style="width: 400px">
+        <div class="row header">
+            <div class="col-md-6 header-logo">
+                <img src="/images/logo.png" alt="{{ .Site.Title }}">
             </div>
-            <div class="col-md-6">
-                <h1 class="jumbotron-heading" style="padding-top: 110px">{{ .Site.Params.description }}</h1>
+            <div class="col-md-6 header-claim">
+                <h1 class="jumbotron-heading">{{ .Site.Params.description }}</h1>
             </div>
         </div>
     </div>
