@@ -10,30 +10,26 @@
     </div>
 
     <div class="row mb-5">
-        {{ range .Sections }}
-            {{ if .Pages }}
-                {{ if .Params.split }}
-                    <div class="col-md-3 mb-3 text-center">
-                        <a href="{{ .Permalink }}">
-                            <span class="fas fa-{{ .Params.logo }} font-60" aria-hidden="true"></span>
-                            <h4>{{ .Title }}</h4>
-                        </a>
-                    </div>
-                {{ else }}
-                    <h2>{{ .Title }}</h2>
-                    <div class="row discover">
-                        {{ range .Pages }}
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <div class="card-body">
+            {{ range .Sections }}
+                {{ if .Pages }}
+                    {{ if .Params.split }}
+                        <div class="col-md-3 mb-3 text-center">
+                            <a href="{{ .Permalink }}">
+                                <span class="fas fa-{{ .Params.logo }} font-60" aria-hidden="true"></span>
+                                <h4>{{ .Title }}</h4>
+                            </a>
+                        </div>
+                    {{ else }}
+                        <div class="col-md-12">
+                            <h2>{{ .Title }}</h2>
+                            <div class="row discover">
+                                {{ range .Pages }}
                                     {{ partial "summary.html" . }}
-                                </div>
+                                {{ end }}
                             </div>
                         </div>
-                        {{ end }}
-                    </div>
+                    {{ end }}
                 {{ end }}
             {{ end }}
-        {{ end }}
     </div>
 {{ end }}

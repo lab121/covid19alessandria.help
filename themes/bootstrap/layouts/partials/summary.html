@@ -1,31 +1,39 @@
-<div class="cart-title">
-    <p><b>{{ .Title }}</b></p>
+<div class="col-md-4">
+    <div class="card mb-4 shadow-sm">
+        <div class="card-body">
+
+            <div class="cart-title">
+                <p><b>{{ .Title }}</b></p>
+            </div>
+
+            <hr>
+
+            {{ if .Content }}
+                <div class="cart-content">
+                    {{ .Content }}
+                </div>
+
+                <hr>
+            {{ end }}
+
+            {{ if .Params.phone }}
+                <div class="cart-phone mb-3">
+                    Tel: {{ .Params.phone }}
+                </div>
+            {{ end }}
+
+            {{ if .Params.mail }}
+                <div class="cart-mail mb-3">
+                    Email: {{ .Params.mail }}
+                </div>
+            {{ end }}
+
+            {{ if .Params.link }}
+                <div class="btn-group cart-link">
+                    <a href="{{ .Params.link }}" class="btn btn-sm btn-outline-secondary" target="_blank">Link</a>
+                </div>
+            {{ end }}
+
+        </div>
+    </div>
 </div>
-
-<hr>
-
-{{ if .Content }}
-    <div class="cart-content">
-        {{ .Content }}
-    </div>
-
-    <hr>
-{{ end }}
-
-{{ if .Params.phone }}
-    <div class="cart-phone mb-3">
-        Tel: {{ .Params.phone }}
-    </div>
-{{ end }}
-
-{{ if .Params.mail }}
-    <div class="cart-mail mb-3">
-        Email: {{ .Params.mail }}
-    </div>
-{{ end }}
-
-{{ if .Params.link }}
-    <div class="btn-group cart-link">
-        <a href="{{ .Params.link }}" class="btn btn-sm btn-outline-secondary" target="_blank">Link</a>
-    </div>
-{{ end }}
