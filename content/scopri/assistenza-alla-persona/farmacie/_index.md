@@ -1,5 +1,5 @@
 ---
 title: "Farmacie"
 layout: "discover"
-weight: 2
+weight: 1
 ---
