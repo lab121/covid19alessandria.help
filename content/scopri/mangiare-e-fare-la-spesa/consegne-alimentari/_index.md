@@ -1,4 +1,6 @@
 ---
 title: "Consegne alimentari"
-layout: "discover"
+layout: "discover_sub"
+logo: "utensils"
+split: true
 ---

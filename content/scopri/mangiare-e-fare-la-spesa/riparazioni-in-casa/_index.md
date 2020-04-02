@@ -1,4 +1,6 @@
 ---
 title: "Riparazioni in casa"
-layout: "discover"
+layout: "discover_sub"
+logo: "utensils"
+split: true
 ---

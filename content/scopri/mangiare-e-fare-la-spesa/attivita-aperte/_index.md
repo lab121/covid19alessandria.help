@@ -1,4 +1,6 @@
 ---
 title: "Attività aperte"
-layout: "discover"
+layout: "discover_sub"
+logo: "utensils"
+split: true
 ---

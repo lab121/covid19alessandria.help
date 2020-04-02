@@ -1,6 +1,7 @@
 ---
 title: "Chi siamo"
 layout: "page"
+logos: true
 ---
 
 ### Il progetto Covid19Alessandria.help, ispirato alla piattaforma nazionale Covid19Italia.help, è un progetto no-profit promosso da alcune realtà locali per condividere informazioni utili durante l'emergenza e facilitare l'attivazione di persone ed organizzazioni nella città di Alessandria.

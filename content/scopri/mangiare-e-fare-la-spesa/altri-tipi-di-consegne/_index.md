@@ -1,4 +1,6 @@
 ---
 title: "Altri tipi di consegne"
-layout: "discover"
+layout: "discover_sub"
+logo: "utensils"
+split: true
 ---
