@@ -5,4 +5,4 @@ draft: false
 weight: 1
 ---
 
-Chiama il numero 800 19 20 20 (numero regionale)
+Chiama il numero verde 800.192.020 (Regione Piemonte)
