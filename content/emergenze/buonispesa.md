@@ -6,4 +6,4 @@ draft: false
 weight: 2
 ---
 
-BUONI SPESA - Manifestazione interesse negozi di Alessandria
+Manifestazione di interesse per individuare gli esercizi commerciali che, dietro presentazione dei buoni spesa, si vogliano rendere disponibili alla fornitura di prodotti alimentari e generi di prima necessità.
