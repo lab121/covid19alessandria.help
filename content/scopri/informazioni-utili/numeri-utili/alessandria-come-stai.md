@@ -6,4 +6,4 @@ draft: false
 weight: 12
 ---
 
-Rilevazione sullo stato di salute della cittadinanza
+Rilevazione dello stato di salute della cittadinanza
