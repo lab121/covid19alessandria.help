@@ -1,57 +1,80 @@
 {{ define "title" }}{{ .Page.Title }}{{ end }}
 
 {{ define "main" }}
-<h1>{{ .Page.Title }}</h1>
-{{ .Page.Content }}
+    <h1>{{ .Page.Title }}</h1>
 
-{{ if .Params.form }}
-<div class="kwes-form">
-    <form method="POST" action="https://kwes.io/api/foreign/forms/4tNNfBH53Xuc0kKIl2fM">
+    <div class="row mb-5">
+        <div class="col-md-12">
+            {{ .Page.Content }}
+        </div>
+    </div>
+
+    {{ if .Pages }}
+        <div class="row mb-5 discover">
+            {{ range .Pages }}
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body">
+                        {{ partial "summary.html" . }}
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    {{ end }}
+
+    {{ if .Params.form }}
         <div class="row">
-            <div class="col-md-6 mb-3">
-                <label for="name">Nome</label>
-                <input type="text" class="form-control" id="name" name="name" rules="required">
+            <div class="col-md-12">
+                <h4 class="mb-3"><span class="fas fa-pencil-alt" aria-hidden="true"></span> {{ .Params.form_title }}</h4>
+                <div class="kwes-form">
+                    <form method="POST" action="https://kwes.io/api/foreign/forms/4tNNfBH53Xuc0kKIl2fM">
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label for="name">Nome</label>
+                                <input type="text" class="form-control" id="name" name="name" rules="required">
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="category">Categoria</label>
+                                <select type="text" class="form-control" id="category" name="category"
+                                        rules="required">
+                                    {{ range .Params.form_options}}
+                                    <option>{{ . }}</option>
+                                    {{ end }}
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="message">Messaggio</label>
+                            <textarea class="form-control" id="message" name="message" rules="required"></textarea>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="phone">Telefono</label>
+                            <input type="text" class="form-control" id="phone" name="phone" rules="required">
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="email">Email</label>
+                            <input type="text" class="form-control" id="email" name="email" rules="required|email">
+                        </div>
+
+                        <div class="mb-3">
+                            <div class="kw-checkbox-group" rules="required">
+                                <input type="checkbox" name="privacy" value="privacy" id="privacy"
+                                       label="Confermo di aver letto e accettato l'informativa trattamento dati personali">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 mb-3 offset-md-3">
+                                <button class="btn btn-primary btn-lg btn-block bg-orange" type="submit">Invia</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
             </div>
-            <div class="col-md-6 mb-3">
-                <label for="category">Categoria</label>
-                <select type="text" class="form-control" id="category" name="category"
-                        rules="required">
-                    {{ range .Params.form_options}}
-                    <option>{{ . }}</option>
-                    {{ end }}
-                </select>
-            </div>
         </div>
-
-        <div class="mb-3">
-            <label for="message">Messaggio</label>
-            <textarea class="form-control" id="message" name="message" rules="required"></textarea>
-        </div>
-
-        <div class="mb-3">
-            <label for="phone">Telefono</label>
-            <input type="text" class="form-control" id="phone" name="phone" rules="required">
-        </div>
-
-        <div class="mb-3">
-            <label for="email">Email</label>
-            <input type="text" class="form-control" id="email" name="email" rules="required|email">
-        </div>
-
-        <div class="mb-3">
-            <div class="kw-checkbox-group" rules="required">
-                <input type="checkbox" name="privacy" value="privacy" id="privacy"
-                       label="Confermo di aver letto e accettato l'informativa trattamento dati personali">
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-6 mb-3 offset-md-3">
-                <button class="btn btn-primary btn-lg btn-block bg-orange" type="submit">Invia</button>
-            </div>
-        </div>
-    </form>
-</div>
-{{ end }}
-
+    {{ end }}
 {{ end }}

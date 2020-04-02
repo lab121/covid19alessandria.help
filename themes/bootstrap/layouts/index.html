@@ -1,116 +1,116 @@
 {{ define "header" }}
-<section class="jumbotron bg-orange">
-    <div class="container">
-        <div class="row header">
-            <div class="col-md-6 header-logo">
-                <img src="/images/logo.png" alt="{{ .Site.Title }}">
-            </div>
-            <div class="col-md-6 header-claim">
-                <h1 class="jumbotron-heading">{{ .Site.Params.description }}</h1>
+    <section class="jumbotron bg-orange">
+        <div class="container">
+            <div class="row header">
+                <div class="col-md-6 header-logo">
+                    <img src="/images/logo.png" alt="{{ .Site.Title }}">
+                </div>
+                <div class="col-md-6 header-claim">
+                    <h1 class="jumbotron-heading">{{ .Site.Params.description }}</h1>
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 {{ end }}
 
 {{ define "main" }}
-<div class="row mb-5">
-    <div class="col-md-3 text-center">
-        <a href="/scopri">
-            <img class="rounded-circle bg-grey mb-4"
-                 src="/images/icons/ico_scopri.png"
-                 alt="Scopri" width="140" height="140">
-            <h2>Scopri</h2>
-        </a>
-    </div>
-    <div class="col-md-3 text-center">
-        <a href="/chi-siamo">
-            <img class="rounded-circle bg-grey mb-4"
-                 src="/images/icons/ico_chisiamo.png"
-                 alt="Chi siamo" width="140" height="140">
-            <h2>Chi siamo</h2>
-        </a>
-    </div>
-    <div class="col-md-3 text-center">
-        <a href="/partecipa">
-            <img class="rounded-circle bg-grey mb-4"
-                 src="/images/icons/ico_partecipa.png"
-                 alt="Partecipa" width="140" height="140">
-            <h2>Partecipa</h2>
-        </a>
-    </div>
-    <div class="col-md-3 text-center">
-        <a href="/emergenze">
-            <img class="rounded-circle bg-grey mb-4"
-                 src="/images/icons/ico_emergenze.png"
-                 alt="Emergenze" width="140" height="140">
-            <h2>Emergenze</h2>
-        </a>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-md-12">
-        <h4 class="mb-3"><span class="fas fa-pencil-alt" aria-hidden="true"></span> Segnala</h4>
-
-        <div class="kwes-form">
-            <form method="POST" action="https://kwes.io/api/foreign/forms/4tNNfBH53Xuc0kKIl2fM">
-                <div class="row">
-                    <div class="col-md-6 mb-3">
-                        <label for="name">Nome *</label>
-                        <input type="text" class="form-control" id="name" name="name" rules="required">
-                    </div>
-                    <div class="col-md-6 mb-3">
-                        <label for="category">Categoria *</label>
-                        <select type="text" class="form-control" id="category" name="category"
-                                rules="required">
-                            {{ range .Params.form_options}}
-                            <option>{{ . }}</option>
-                            {{ end }}
-                        </select>
-                    </div>
-                </div>
-
-                <div class="mb-3">
-                    <label for="message">Messaggio *</label>
-                    <textarea class="form-control" id="message" name="message" rules="required"></textarea>
-                </div>
-
-                <div class="mb-3">
-                    <label for="address">Indirizzo</label>
-                    <input type="text" class="form-control" id="address" name="address">
-                </div>
-
-                <div class="mb-3">
-                    <label for="phone">Telefono</label>
-                    <input type="text" class="form-control" id="phone" name="phone">
-                </div>
-
-                <div class="mb-3">
-                    <label for="email">Email</label>
-                    <input type="text" class="form-control" id="email" name="email" rules="email">
-                </div>
-
-                <div class="mb-3">
-                    <label for="link">Link</label>
-                    <input type="text" class="form-control" id="link" name="link">
-                </div>
-
-                <div class="mb-3">
-                    <div class="kw-checkbox-group" rules="required">
-                        <input type="checkbox" name="privacy" value="privacy" id="privacy"
-                               label="Confermo di aver letto e accettato l'informativa trattamento dati personali">
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-md-6 mb-3 offset-md-3">
-                        <button class="btn btn-primary btn-lg btn-block bg-orange" type="submit">Invia</button>
-                    </div>
-                </div>
-            </form>
+    <div class="row mb-5">
+        <div class="col-md-3 text-center">
+            <a href="/scopri">
+                <img class="rounded-circle bg-grey mb-4"
+                     src="/images/icons/ico_scopri.png"
+                     alt="Scopri" width="140" height="140">
+                <h2>Scopri</h2>
+            </a>
         </div>
-
+        <div class="col-md-3 text-center">
+            <a href="/chi-siamo">
+                <img class="rounded-circle bg-grey mb-4"
+                     src="/images/icons/ico_chisiamo.png"
+                     alt="Chi siamo" width="140" height="140">
+                <h2>Chi siamo</h2>
+            </a>
+        </div>
+        <div class="col-md-3 text-center">
+            <a href="/partecipa">
+                <img class="rounded-circle bg-grey mb-4"
+                     src="/images/icons/ico_partecipa.png"
+                     alt="Partecipa" width="140" height="140">
+                <h2>Partecipa</h2>
+            </a>
+        </div>
+        <div class="col-md-3 text-center">
+            <a href="/emergenze">
+                <img class="rounded-circle bg-grey mb-4"
+                     src="/images/icons/ico_emergenze.png"
+                     alt="Emergenze" width="140" height="140">
+                <h2>Emergenze</h2>
+            </a>
+        </div>
     </div>
-</div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <h4 class="mb-3"><span class="fas fa-pencil-alt" aria-hidden="true"></span> Segnala</h4>
+
+            <div class="kwes-form">
+                <form method="POST" action="https://kwes.io/api/foreign/forms/4tNNfBH53Xuc0kKIl2fM">
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="name">Nome *</label>
+                            <input type="text" class="form-control" id="name" name="name" rules="required">
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="category">Categoria *</label>
+                            <select type="text" class="form-control" id="category" name="category"
+                                    rules="required">
+                                {{ range .Params.form_options}}
+                                    <option>{{ . }}</option>
+                                {{ end }}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="message">Messaggio *</label>
+                        <textarea class="form-control" id="message" name="message" rules="required"></textarea>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="address">Indirizzo</label>
+                        <input type="text" class="form-control" id="address" name="address">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="phone">Telefono</label>
+                        <input type="text" class="form-control" id="phone" name="phone">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="email">Email</label>
+                        <input type="text" class="form-control" id="email" name="email" rules="email">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="link">Link</label>
+                        <input type="text" class="form-control" id="link" name="link">
+                    </div>
+
+                    <div class="mb-3">
+                        <div class="kw-checkbox-group" rules="required">
+                            <input type="checkbox" name="privacy" value="privacy" id="privacy"
+                                   label="Confermo di aver letto e accettato l'informativa trattamento dati personali">
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-3 offset-md-3">
+                            <button class="btn btn-primary btn-lg btn-block bg-orange" type="submit">Invia</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
 {{ end }}
