@@ -7,3 +7,5 @@ form_title: "Segnala un'emergenza"
 ---
 
 In questa pagina trovi notizie su emergenze e aiuti urgenti richiesti dagli Enti locali, dalle organizzazioni del territorio e da privati cittadini.
+
+**Hai il dubbio di aver contratto il virus? Chiama il numero 800.192.020**
