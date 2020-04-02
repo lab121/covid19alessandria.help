@@ -1,0 +1,12 @@
+---
+title: "Metropolitan Opera"
+link: "https://operawire.com/metropolitan-opera-to-offer-up-nightly-met-opera-streams/"
+phone: ""
+mail: ""
+address: ""
+coord: ""
+souce: ""
+date: 2020-04-02
+---
+
+Opera in streaming
