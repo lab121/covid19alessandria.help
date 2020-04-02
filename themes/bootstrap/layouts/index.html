@@ -1,11 +1,12 @@
 {{ define "header" }}
 <section class="jumbotron bg-orange">
     <div class="container">
-        <!--        <h1 class="jumbotron-heading">{{ .Site.Title }}</h1>-->
-        <!--        <p class="lead text-muted">{{ .Site.Params.description }}</p>-->
         <div class="row">
-            <div class="col-md-12">
-                <img src="/images/logo.png" alt="{{ .Site.Title }}" width="400px">
+            <div class="col-md-6">
+                <img src="/images/logo.png" alt="{{ .Site.Title }}" style="width: 400px">
+            </div>
+            <div class="col-md-6">
+                <h1 class="jumbotron-heading" style="padding-top: 110px">{{ .Site.Params.description }}</h1>
             </div>
         </div>
     </div>
@@ -13,8 +14,8 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="row mb-5 home-icons">
-    <div class="col-md-3">
+<div class="row mb-5">
+    <div class="col-md-3 text-center">
         <a href="/scopri">
             <img class="rounded-circle bg-grey mb-4"
                  src="/images/icons/ico_scopri.png"
@@ -22,7 +23,7 @@
             <h2>Scopri</h2>
         </a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-3 text-center">
         <a href="/chi-siamo">
             <img class="rounded-circle bg-grey mb-4"
                  src="/images/icons/ico_chisiamo.png"
@@ -30,7 +31,7 @@
             <h2>Chi siamo</h2>
         </a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-3 text-center">
         <a href="/partecipa">
             <img class="rounded-circle bg-grey mb-4"
                  src="/images/icons/ico_partecipa.png"
@@ -38,7 +39,7 @@
             <h2>Partecipa</h2>
         </a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-3 text-center">
         <a href="/emergenze">
             <img class="rounded-circle bg-grey mb-4"
                  src="/images/icons/ico_emergenze.png"

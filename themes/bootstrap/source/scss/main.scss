@@ -5,6 +5,9 @@ body {
 
 a {
   color: #EC5923;
+  &:hover {
+    color: #333333;
+  }
 }
 
 footer {
@@ -39,10 +42,16 @@ footer p {
   font-weight: 300;
 }
 
-.home-icons .col-md-3 {
-  text-align: center;
-}
-
 .discover .card {
   min-height: 200px;
+}
+
+.navbar-dark a {
+  &:hover {
+    color: #FFF;
+  }
+}
+
+.font-60 {
+  font-size: 60px;
 }

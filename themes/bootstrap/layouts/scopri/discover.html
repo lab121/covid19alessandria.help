@@ -2,7 +2,12 @@
 
 {{ define "main" }}
 <h1>{{ .Page.Title }}</h1>
-{{ .Page.Content }}
+
+<div class="row mb-5">
+    <div class="col-md-12">
+        {{ .Page.Content }}
+    </div>
+</div>
 
 {{ range .Sections }}
 <h2>{{ .Title }}</h2>
