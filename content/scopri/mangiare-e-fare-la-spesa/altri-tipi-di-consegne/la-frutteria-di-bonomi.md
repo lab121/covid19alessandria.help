@@ -5,7 +5,7 @@ phone: "0131 481722"
 mail: ""
 address: "Via San Lorenzo 5"
 coord: "44.9133702,8.6117717"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 43923
 ---
 

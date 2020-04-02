@@ -5,7 +5,7 @@ phone: "346.517.8981"
 mail: ""
 address: "Galleria Guerci Alessandria"
 coord: "44.912954,8.614401"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

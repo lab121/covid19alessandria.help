@@ -5,7 +5,7 @@ phone: "0131.232.467"
 mail: ""
 address: "Via dei Guasco, 135 Alessandria"
 coord: "44.9187763,8.6158508"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

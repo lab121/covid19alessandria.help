@@ -5,7 +5,7 @@ phone: "348.138.7823"
 mail: ""
 address: "Via Parma, 14 Alessandria"
 coord: "44.912358,8.618211"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

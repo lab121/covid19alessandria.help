@@ -5,7 +5,7 @@ phone: "0131.249.020"
 mail: ""
 address: "Via del Legno, 23 Alessandria"
 coord: "44.891739,8.615587"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

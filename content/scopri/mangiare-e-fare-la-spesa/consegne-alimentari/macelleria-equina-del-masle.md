@@ -5,7 +5,7 @@ phone: "393.192.4252"
 mail: ""
 address: "Via San Lorenzo Alessandria"
 coord: "44.9105342,8.6110752"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

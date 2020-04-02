@@ -5,7 +5,7 @@ phone: "388.476.5799"
 mail: ""
 address: "Via Trotti, 23 Alessandria"
 coord: "44.912793,8.612326"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

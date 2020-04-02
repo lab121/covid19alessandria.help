@@ -5,7 +5,7 @@ phone: "392.026.1937"
 mail: ""
 address: "Via Dante, 68 Alessandria"
 coord: "44.9129547,8.6177299"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

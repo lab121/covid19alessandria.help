@@ -5,7 +5,7 @@ phone: "0131.265.213"
 mail: ""
 address: "Via Giuseppe Borsalino, 7 Alessandria"
 coord: "44.908203,8.612522"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

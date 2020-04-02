@@ -5,7 +5,7 @@ phone: "0131 231634,    348 5159965, 366 2122944"
 mail: ""
 address: ""
 coord: "44.9203284,8.6154158"
-souce: "ASCOM"
+source: "ASCOM"
 date: 43923
 ---
 

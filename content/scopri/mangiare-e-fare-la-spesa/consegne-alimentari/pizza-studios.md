@@ -5,7 +5,7 @@ phone: "0131.225.898"
 mail: ""
 address: "Via Gaetano Donizetti, 2 Alessandria"
 coord: "44.9196705,8.6161711"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

@@ -5,7 +5,7 @@ phone: "0131.251.105"
 mail: ""
 address: "Via Ferrara, 22 Alessandria"
 coord: "44.9132938,8.6120013"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

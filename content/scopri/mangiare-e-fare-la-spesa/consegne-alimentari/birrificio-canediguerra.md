@@ -5,7 +5,7 @@ phone: "0131.325.438"
 mail: ""
 address: "Via del Prato, 11 Alessandria"
 coord: "44.91335,8.6049048"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

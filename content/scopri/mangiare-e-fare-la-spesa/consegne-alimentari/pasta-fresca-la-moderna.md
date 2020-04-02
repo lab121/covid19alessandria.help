@@ -5,7 +5,7 @@ phone: "0131.265.454"
 mail: ""
 address: "Via San Lorenzo, 92 Alessandria"
 coord: "44.910759,8.6112095"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

@@ -5,7 +5,7 @@ phone: "391.763.1095"
 mail: ""
 address: "Galleria Guerci Alessandria"
 coord: "44.912833,8.614901"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

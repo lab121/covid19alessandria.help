@@ -5,7 +5,7 @@ phone: "335.821.9395"
 mail: ""
 address: "Via Genova, 159 Fraz. Spinetta Marengo"
 coord: "44.8851381,8.6789276"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

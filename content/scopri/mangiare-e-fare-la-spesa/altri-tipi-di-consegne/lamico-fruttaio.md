@@ -5,7 +5,7 @@ phone: "0131 254109"
 mail: ""
 address: "Piazza Marconi"
 coord: "44.9203284,8.6154158"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 43923
 ---
 

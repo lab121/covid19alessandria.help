@@ -5,7 +5,7 @@ phone: "0131 266082"
 mail: ""
 address: "Via Savona, 18"
 coord: "44.9203284,8.6154158"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 43923
 ---
 

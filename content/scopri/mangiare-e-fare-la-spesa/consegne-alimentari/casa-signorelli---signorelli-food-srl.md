@@ -5,7 +5,7 @@ phone: "0131.196.5155 - 0131.246.937"
 mail: ""
 address: "Via dei Martiri, 1 Alessandria"
 coord: "44.913722,8.615244"
-souce: "Comune. Città di Alessandria.it"
+source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---
 

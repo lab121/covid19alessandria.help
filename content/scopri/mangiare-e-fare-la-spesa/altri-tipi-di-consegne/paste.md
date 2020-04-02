@@ -5,7 +5,7 @@ phone: "335 8219395"
 mail: ""
 address: "Via Genova 159 Fraz. Spinetta Marengo, Alessandria"
 coord: "44.9203284"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 43923
 ---
 

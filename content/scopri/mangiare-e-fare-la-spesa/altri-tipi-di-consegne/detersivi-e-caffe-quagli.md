@@ -5,7 +5,7 @@ phone: "0131 253663"
 mail: ""
 address: ""
 coord: ""
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 43923
 ---
 

@@ -5,7 +5,7 @@ phone: "370.374.2884"
 mail: ""
 address: "Via Carlo Caniggia, 6 Alessandria"
 coord: "44.9099972,8.6105067"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

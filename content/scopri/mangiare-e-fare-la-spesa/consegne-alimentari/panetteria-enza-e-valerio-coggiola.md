@@ -5,7 +5,7 @@ phone: "333.278.0352"
 mail: ""
 address: "Via Nenni 74 Alessandria"
 coord: "44.894897,8.584256"
-souce: "Comune. Città di Alessandria.it"
+source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---
 

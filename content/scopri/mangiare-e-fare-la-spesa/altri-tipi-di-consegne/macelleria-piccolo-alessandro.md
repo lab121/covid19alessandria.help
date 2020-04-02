@@ -5,7 +5,7 @@ phone: "393 1924252"
 mail: ""
 address: "Via Dante, 68"
 coord: "44.9129547,8.6177299"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 43923
 ---
 

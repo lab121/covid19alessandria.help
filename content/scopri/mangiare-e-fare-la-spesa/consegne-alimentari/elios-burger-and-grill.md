@@ -5,7 +5,7 @@ phone: "0131.344.267"
 mail: ""
 address: "Corso Carlo Marx, 54 Alessandria"
 coord: "44.900849,8.603552"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

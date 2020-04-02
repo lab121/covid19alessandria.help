@@ -5,7 +5,7 @@ phone: "0131.381.577"
 mail: ""
 address: ""
 coord: ""
-souce: "Comune. Città di Alessandria.it"
+source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---
 

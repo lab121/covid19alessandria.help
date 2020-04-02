@@ -5,7 +5,7 @@ phone: "342.149.3466"
 mail: ""
 address: "Via Galileo Galilei, 93 Alessandria"
 coord: "44.9045735,8.6216459"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

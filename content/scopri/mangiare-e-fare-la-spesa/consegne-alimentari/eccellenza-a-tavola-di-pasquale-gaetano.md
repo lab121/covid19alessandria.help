@@ -5,7 +5,7 @@ phone: "335.605.8424"
 mail: ""
 address: "Via Einaudi, 15 Alessandria"
 coord: "44.901081,8.587888"
-souce: "Comune. Città di Alessandria.it"
+source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---
 

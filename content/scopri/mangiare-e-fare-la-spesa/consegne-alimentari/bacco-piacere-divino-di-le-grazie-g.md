@@ -5,7 +5,7 @@ phone: "0131.231.634  - 348.515.9965 - 366.212.2944"
 mail: ""
 address: "Via Gioacchino Rossini, 11 Alessandria"
 coord: "44.9203284,8.6154158"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

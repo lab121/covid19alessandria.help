@@ -5,7 +5,7 @@ phone: "380.694.0317"
 mail: ""
 address: "Via Pietro Nenni, 210 Alessandria"
 coord: "44.894660,8.585253"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

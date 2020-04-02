@@ -6,7 +6,7 @@ phone: "335 6058424"
 mail: ""
 address: ""
 coord: ""
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 43923
 ---
 

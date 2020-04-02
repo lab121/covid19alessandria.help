@@ -5,7 +5,7 @@ phone: "333.817.9100"
 mail: ""
 address: "Viale Milite Ignoto, 40 Alessandria"
 coord: "44.9240335,8.6200893"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

@@ -5,7 +5,7 @@ phone: "338.651.1384 - 366.475.3477"
 mail: ""
 address: "Via Savona, 20 Alessandria"
 coord: "44.907828,8.611731"
-souce: "Comune. Città di Alessandria.it"
+source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---
 

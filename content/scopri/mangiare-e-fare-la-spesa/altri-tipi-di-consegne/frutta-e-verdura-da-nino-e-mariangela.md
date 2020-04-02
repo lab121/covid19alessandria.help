@@ -5,7 +5,7 @@ phone: "0131 1481722"
 mail: ""
 address: "Via San Lorenzo"
 coord: ""
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 43923
 ---
 

@@ -5,7 +5,7 @@ phone: "334.168.7059"
 mail: ""
 address: "Corso IV Novembre, 47 Alessandria"
 coord: "44.906036,8.621419"
-souce: "Comune. Città di Alessandria.it"
+source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---
 

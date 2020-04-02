@@ -5,7 +5,7 @@ phone: "0131.224.036"
 mail: ""
 address: "Via Milazzo, 3/5 Alessandria"
 coord: "44.917997,8.614514"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

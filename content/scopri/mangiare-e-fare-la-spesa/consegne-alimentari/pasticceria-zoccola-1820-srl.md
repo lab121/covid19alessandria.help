@@ -5,7 +5,7 @@ phone: "0131.254.767"
 mail: ""
 address: "Corso Alfonso Lamarmora, 61 Alessandria"
 coord: "44.911221,8.621325"
-souce: "Comune. Città di Alessandria.it"
+source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---
 

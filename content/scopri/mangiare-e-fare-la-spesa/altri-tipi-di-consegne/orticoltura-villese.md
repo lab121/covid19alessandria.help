@@ -5,7 +5,7 @@ phone: "338 5392631"
 mail: ""
 address: "Strada Rocca, 30"
 coord: "44.9109829"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 43923
 ---
 

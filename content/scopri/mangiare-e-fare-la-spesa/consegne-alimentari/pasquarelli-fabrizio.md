@@ -5,7 +5,7 @@ phone: "0131.345.304"
 mail: ""
 address: "Corso Carlo Marx, 29/D Alessandria"
 coord: "44.901086,8.603356"
-souce: "Comune. Città di Alessandria.it"
+source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---
 

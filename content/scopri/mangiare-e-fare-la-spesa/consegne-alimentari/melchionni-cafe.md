@@ -5,7 +5,7 @@ phone: "0131.287.509"
 mail: ""
 address: "Via Giuseppe Antonio Chenna, 18 Alessandria"
 coord: "44.914594,8.615087"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

@@ -5,7 +5,7 @@ phone: "349.745.6603"
 mail: ""
 address: "Strada Provinciale Pavia, 50 Alessandria"
 coord: "44.938135,8.612643"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

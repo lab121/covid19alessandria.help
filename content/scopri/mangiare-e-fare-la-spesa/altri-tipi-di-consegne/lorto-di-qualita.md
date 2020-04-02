@@ -5,7 +5,7 @@ phone: "333 8179100"
 mail: ""
 address: "Viale Milite Ignoto, 40"
 coord: "44.91335"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 43923
 ---
 

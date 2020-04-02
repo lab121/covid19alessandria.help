@@ -5,7 +5,7 @@ phone: "0131 251105"
 mail: ""
 address: "Via Ferrara, 22"
 coord: "44.9132938,8.6120013"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 43923
 ---
 

@@ -5,7 +5,7 @@ phone: "0131.254.109"
 mail: ""
 address: "Piazza Marconi Alessandria"
 coord: "44.9203284,8.6154158"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

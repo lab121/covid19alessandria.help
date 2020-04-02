@@ -5,7 +5,7 @@ phone: "347.015.1401"
 mail: ""
 address: "Via Arnaldo da Brescia, 13 Alessandria"
 coord: "44.913808,8.610299"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

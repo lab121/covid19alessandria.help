@@ -5,7 +5,7 @@ phone: "0131.224.557"
 mail: ""
 address: "Piazza Santa Maria Di Castello, 1 Alessandria"
 coord: "44.9177055,8.613573"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

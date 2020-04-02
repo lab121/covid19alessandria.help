@@ -5,7 +5,7 @@ phone: "0131.262.932"
 mail: "biocafe@libero.it"
 address: "Via Erba, 12 Alessandria"
 coord: "44.914313,8.612640"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

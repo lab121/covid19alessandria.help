@@ -5,7 +5,7 @@ phone: "0131.416.09"
 mail: ""
 address: "Via San Lorenzo, 86 Alessandria"
 coord: "44.9108726,8.6112275"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

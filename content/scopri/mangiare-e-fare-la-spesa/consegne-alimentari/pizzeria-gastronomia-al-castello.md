@@ -5,7 +5,7 @@ phone: "0131.222.802"
 mail: ""
 address: "Corso Monferrato, 91 Alessandria"
 coord: "44.9183238,8.6110751"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 

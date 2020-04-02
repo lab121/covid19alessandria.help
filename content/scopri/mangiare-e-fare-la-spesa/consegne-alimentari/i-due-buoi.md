@@ -5,7 +5,7 @@ phone: "0131.517.105"
 mail: ""
 address: "Via Cavour, 34 Alessandria"
 coord: "44.911036,8.616376"
-souce: "ASCOM"
+source: "ASCOM"
 date: 2020-04-02
 ---
 

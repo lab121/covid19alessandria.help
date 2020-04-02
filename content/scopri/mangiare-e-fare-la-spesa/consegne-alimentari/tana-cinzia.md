@@ -5,7 +5,7 @@ phone: "347.901.9541"
 mail: ""
 address: "Via Giovanni Scazzola, 9 Alessandria"
 coord: "44.9038557,8.6011738"
-souce: "Confesercenti"
+source: "Confesercenti"
 date: 2020-04-02
 ---
 
