@@ -2,7 +2,7 @@
 title: "Mangiare e fare la spesa"
 layout: "discover"
 logo: "utensils"
-has_map: true
+has_map: false
 weight: 2
 ---
 
