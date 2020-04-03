@@ -1,6 +1,30 @@
 {{ define "title" }}{{ .Page.Title }}{{ end }}
 
 {{ define "main" }}
-<h1>{{ .Page.Title }}</h1>
-{{ .Page.Content }}
+    <h1>{{ .Page.Title }}</h1>
+    {{ .Page.Content }}
+
+    {{ if .Params.phone }}
+        <div class="cart-phone mb-3">
+            <b>Tel:</b> {{ .Params.phone }}
+        </div>
+    {{ end }}
+
+    {{ if .Params.mail }}
+        <div class="cart-mail mb-3">
+            <b>Email:</b> {{ .Params.mail }}
+        </div>
+    {{ end }}
+
+    {{ if .Params.address }}
+        <div class="cart-mail mb-3">
+            <b>Indirizzo:</b> {{ .Params.address }}
+        </div>
+    {{ end }}
+
+    {{ if .Params.link }}
+        <div class="btn-group cart-link">
+            <a href="{{ .Params.link }}" class="btn btn-sm btn-outline-secondary" target="_blank">Link</a>
+        </div>
+    {{ end }}
 {{ end }}
