@@ -1,0 +1,17 @@
+{{ define "title" }}{{ .Page.Title }}{{ end }}
+
+{{ define "main" }}
+    <h1>{{ .Page.Title }}</h1>
+
+    <div class="row mb-5">
+        <div class="col-md-12">
+            {{ .Page.Content }}
+        </div>
+    </div>
+
+    <div class="row mb-5 discover">
+        {{ range .Pages }}
+            {{ partial "summary.html" . }}
+        {{ end }}
+    </div>
+{{ end }}
