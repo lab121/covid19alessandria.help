@@ -1,7 +1,7 @@
 ---
 title: "Riparazioni in casa"
 layout: "discover_sub"
-logo: "utensils"
+logo: "hammer"
 split: true
 weight: 4
 ---
