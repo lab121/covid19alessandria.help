@@ -12,5 +12,4 @@ rm hugo_${HUGOVERSION}_Linux-64bit.tar.gz
 npm install atomic-algolia
 node_modules/.bin/atomic-algolia
 
-echo $ALGOLIA_INDEX_NAME
-echo $foo
+echo $PLATFORM_VARIABLES | base64 --decode
