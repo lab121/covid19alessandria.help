@@ -70,6 +70,7 @@
 </footer>
 
 <script src="https://kwes.io/js/kwes.js"></script>
+
 {{ $fontawesome := resources.Get "js/fontawesome.min.js" | resources.Fingerprint }}
 <script defer src="{{ $fontawesome.Permalink }}" integrity="{{ $fontawesome.Data.Integrity }}"
         crossorigin="anonymous"></script>

@@ -1,19 +1,24 @@
 const path = require('path');
 
-module.exports = {
-    entry: './source/js/fontawesome.js',
-    output: {
-            path: path.resolve(__dirname, 'assets/js'),
-            filename: 'fontawesome.min.js'
-          },
-    mode: 'production'
-};
-
-module.exports = {
-  entry: './source/js/bootstrap.js',
+module.exports = [{
+  output: {
+    path: path.resolve(__dirname, 'assets/js'),
+    filename: 'fontawesome.min.js'
+  },
+  entry: './source/js/fontawesome.js',
+  mode: 'production',
+}, {
   output: {
     path: path.resolve(__dirname, 'assets/js'),
     filename: 'bootstrap.min.js'
   },
-  mode: 'production'
-};
+  entry: './source/js/bootstrap.js',
+  mode: 'production',
+}, {
+  output: {
+    path: path.resolve(__dirname, 'assets/js'),
+    filename: 'leaflet.min.js'
+  },
+  entry: './source/js/leaflet.js',
+  mode: 'production',
+}];
