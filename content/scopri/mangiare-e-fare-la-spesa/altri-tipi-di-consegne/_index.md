@@ -1,7 +1,7 @@
 ---
 title: "Altri tipi di consegne"
 layout: "discover_sub"
-logo: "utensils"
+logo: "dolly"
 split: true
 weight: 2
 ---
