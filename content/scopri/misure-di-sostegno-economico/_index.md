@@ -5,4 +5,4 @@ logo: "money-bill"
 weight: 4
 ---
 
-Descrizione della sezione.
+Raccolta di pagine e informazioni in tema di contributi e sostegno a persone e imprese.
