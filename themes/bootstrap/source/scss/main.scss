@@ -5,8 +5,12 @@ body {
 
 a {
   color: #EC5923;
+  -webkit-transition: 0.3s ease;
+
   &:hover {
     color: #333333;
+    text-decoration: none;
+    -webkit-transition: 0.3s ease;
   }
 }
 
@@ -63,4 +67,10 @@ footer p {
 
 .font-60 {
   font-size: 60px;
+}
+
+.btn-outline-secondary {
+  color: #ffffff;
+  border-color: #EC5923;
+  background: #EC5923;
 }

@@ -25,4 +25,4 @@ web:
             index: ['index.html']
             scripts: false
             allow: true
-            expires: 1d
+            expires: 1h
