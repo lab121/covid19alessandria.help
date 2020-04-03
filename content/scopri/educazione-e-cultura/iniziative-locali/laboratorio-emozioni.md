@@ -1,6 +1,6 @@
 ---
 title: "Human Art - La meraviglia delle emozioni"
-link: "https://www.culturaesviluppo.it/laculturanonsiferma"
+link: ""
 phone: "333.6612598 - 329.4070192"
 mail: ""
 address: ""
