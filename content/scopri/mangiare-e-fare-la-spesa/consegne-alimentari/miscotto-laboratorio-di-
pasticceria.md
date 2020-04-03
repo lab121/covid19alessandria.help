@@ -1,5 +1,6 @@
 ---
-title: "Miscotto, Laboratorio di pasticceria"
+title: "Miscotto, Laboratorio di 
+pasticceria"
 link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
 phone: "392.371.5116"
 mail: "info@miscotto.it"

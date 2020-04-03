@@ -1,5 +1,6 @@
 ---
-title: "Panetteria Enza e Valerio Coggiola"
+title: "Panetteria Enza e Valerio 
+Coggiola"
 link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
 phone: "333.278.0352"
 mail: ""

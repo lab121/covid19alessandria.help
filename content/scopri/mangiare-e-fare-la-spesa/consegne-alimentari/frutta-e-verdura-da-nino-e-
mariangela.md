@@ -1,10 +1,11 @@
 ---
-title: "Salumeria Cusimano Salvatore"
+title: "Frutta e verdura da Nino e 
+Mariangela"
 link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
-phone: "0131.251.105"
+phone: "0131.858.816"
 mail: ""
-address: "Via Ferrara, 22 Alessandria"
-coord: "44.9132938,8.6120013"
+address: "Via San Lorenzo Alessandria"
+coord: ""
 source: "Confesercenti"
 date: 2020-04-02
 ---

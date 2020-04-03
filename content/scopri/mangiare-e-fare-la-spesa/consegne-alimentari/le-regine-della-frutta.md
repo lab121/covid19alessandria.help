@@ -1,10 +1,10 @@
 ---
-title: "Salumeria Cusimano Salvatore"
+title: "Le Regine della Frutta"
 link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
-phone: "0131.251.105"
+phone: "349.774.0699"
 mail: ""
-address: "Via Ferrara, 22 Alessandria"
-coord: "44.9132938,8.6120013"
+address: ""
+coord: ""
 source: "Confesercenti"
 date: 2020-04-02
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Pizzeria Barbarossa e Eliana Amato"
+title: "Pizzeria Barbarossa e 
+Eliana Amato"
 link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
 phone: "0131.265.213"
 mail: ""
