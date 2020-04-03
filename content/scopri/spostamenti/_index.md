@@ -5,4 +5,4 @@ logo: "walking"
 weight: 6
 ---
 
-Descrizione della sezione.
+Informazioni su trasporto pubblico e privato a carattere territoriale e nazionale.
