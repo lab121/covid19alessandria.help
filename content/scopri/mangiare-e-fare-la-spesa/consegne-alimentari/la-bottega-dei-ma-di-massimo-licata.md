@@ -4,8 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "347.806.6651"
 mail: ""
 address: "Via Dante, 23 Alessandria"
-coord_lat: 44.9150293
-coord_lon: 8.6234736
+coord_lat: 44.913305
+coord_lon: 8.618375
 source: "Confesercenti"
 date: 2020-04-02
 ---
