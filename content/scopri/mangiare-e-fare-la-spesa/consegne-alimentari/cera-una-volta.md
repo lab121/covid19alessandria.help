@@ -4,7 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "347.179.0279"
 mail: ""
 address: "Via Santa Caterina da Siena, 13 Alessandria"
-coord: "44.914994,8.620217"
+coord_lat: 44.914994
+coord_lon: 8.620217
 source: "Confesercenti"
 date: 2020-04-02
 ---

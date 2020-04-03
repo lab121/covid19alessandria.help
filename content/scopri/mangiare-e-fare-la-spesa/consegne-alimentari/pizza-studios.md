@@ -4,7 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "0131.225.898"
 mail: ""
 address: "Via Gaetano Donizetti, 2 Alessandria"
-coord: "44.9196705,8.6161711"
+coord_lat: 44.9196705
+coord_lon: 8.6161711
 source: "Confesercenti"
 date: 2020-04-02
 ---

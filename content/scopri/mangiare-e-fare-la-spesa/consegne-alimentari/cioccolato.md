@@ -4,7 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "335.547.0549"
 mail: ""
 address: "Via Bissati, 26 Alessandria"
-coord: "44.9151865,8.6110619"
+coord_lat: 44.9151865
+coord_lon: 8.6110619
 source: "Confesercenti"
 date: 2020-04-02
 ---

@@ -4,7 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "348.463.8410"
 mail: ""
 address: "Via Maggioli, 35 Alessandria"
-coord: "44.9021317,8.6044444"
+coord_lat: 44.9021317
+coord_lon: 8.6044444
 source: "Confesercenti"
 date: 2020-04-02
 ---

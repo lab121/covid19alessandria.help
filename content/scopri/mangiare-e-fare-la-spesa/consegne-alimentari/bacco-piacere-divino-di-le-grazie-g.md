@@ -4,7 +4,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "0131.231.634  - 348.515.9965 - 366.212.2944"
 mail: ""
 address: "Via Gioacchino Rossini, 11 Alessandria"
-coord: "44.9203284,8.6154158"
+coord_lat: 44.9203284
+coord_lon: 8.6154158
 source: "ASCOM"
 date: 2020-04-02
 ---

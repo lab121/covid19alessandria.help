@@ -4,7 +4,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "339.856.7897"
 mail: ""
 address: "Via Genova, 103 Spinetta Marengo"
-coord: "44.887557,8.677864"
+coord_lat: 44.887557
+coord_lon: 8.677864
 source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---

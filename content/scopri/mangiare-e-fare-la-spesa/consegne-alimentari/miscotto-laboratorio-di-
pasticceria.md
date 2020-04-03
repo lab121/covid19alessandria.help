@@ -5,7 +5,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "392.371.5116"
 mail: "info@miscotto.it"
 address: "Via della cappelletta 40 Alessandria"
-coord: "44.930003,8.621728"
+coord_lat: 44.930003
+coord_lon: 8.621728
 source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---

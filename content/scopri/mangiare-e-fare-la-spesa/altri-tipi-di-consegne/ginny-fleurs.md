@@ -4,7 +4,8 @@ link: "https://www.alxte.it"
 phone: "0131.222.898 - 333.521.8073"
 mail: "ivonemerlini@virgilio.it"
 address: "Spalto Rovereto, 48, Alessandria"
-coord: "44.9194961,8.6158493"
+coord_lat: 44.9194961
+coord_lon: 8.6158493
 source: "ASCOM"
 date: 2020-04-02
 ---

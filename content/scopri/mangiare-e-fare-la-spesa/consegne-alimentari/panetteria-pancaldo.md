@@ -4,7 +4,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "392.706.5186"
 mail: ""
 address: "Corso Roma 121 Alessandria"
-coord: "44.909932,8.611905"
+coord_lat: 44.909932
+coord_lon: 8.611905
 source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---

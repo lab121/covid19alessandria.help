@@ -4,7 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "342.149.3466"
 mail: ""
 address: "Via Galileo Galilei, 93 Alessandria"
-coord: "44.9045735,8.6216459"
+coord_lat: 44.9045735
+coord_lon: 8.6216459
 source: "Confesercenti"
 date: 2020-04-02
 ---

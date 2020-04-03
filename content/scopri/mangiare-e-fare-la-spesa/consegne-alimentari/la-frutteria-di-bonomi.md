@@ -4,7 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "0131.481.722"
 mail: ""
 address: "Via San Lorenzo, 5 Alessandria"
-coord: "44.9133702,8.6117717"
+coord_lat: 44.9133702
+coord_lon: 8.6117717
 source: "Confesercenti"
 date: 2020-04-02
 ---

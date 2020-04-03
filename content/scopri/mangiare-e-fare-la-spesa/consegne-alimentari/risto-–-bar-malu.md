@@ -4,7 +4,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "380.694.0317"
 mail: ""
 address: "Via Pietro Nenni, 210 Alessandria"
-coord: "44.894660,8.585253"
+coord_lat: 44.894660
+coord_lon: 8.585253
 source: "ASCOM"
 date: 2020-04-02
 ---

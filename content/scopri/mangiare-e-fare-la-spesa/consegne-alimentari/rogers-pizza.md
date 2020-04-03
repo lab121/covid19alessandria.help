@@ -4,7 +4,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "0131.224.036"
 mail: ""
 address: "Via Milazzo, 3/5 Alessandria"
-coord: "44.917997,8.614514"
+coord_lat: 44.917997
+coord_lon: 8.614514
 source: "ASCOM"
 date: 2020-04-02
 ---

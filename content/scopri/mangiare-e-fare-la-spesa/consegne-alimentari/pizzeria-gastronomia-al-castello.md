@@ -4,7 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "0131.222.802"
 mail: ""
 address: "Corso Monferrato, 91 Alessandria"
-coord: "44.9183238,8.6110751"
+coord_lat: 44.9183238
+coord_lon: 8.6110751
 source: "Confesercenti"
 date: 2020-04-02
 ---

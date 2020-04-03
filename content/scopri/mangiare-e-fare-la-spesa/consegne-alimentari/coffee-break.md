@@ -4,7 +4,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "0131.249.020"
 mail: ""
 address: "Via del Legno, 23 Alessandria"
-coord: "44.891739,8.615587"
+coord_lat: 44.891739
+coord_lon: 8.615587
 source: "ASCOM"
 date: 2020-04-02
 ---

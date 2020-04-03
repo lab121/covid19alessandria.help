@@ -4,7 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "339.315.5912"
 mail: ""
 address: "Via Urbano Rattazzi, 11 Alessandria"
-coord: "44.914197,8.612079"
+coord_lat: 44.914197
+coord_lon: 8.612079
 source: "Confesercenti"
 date: 2020-04-02
 ---

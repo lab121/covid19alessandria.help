@@ -5,7 +5,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "333.278.0352"
 mail: ""
 address: "Via Nenni 74 Alessandria"
-coord: "44.894897,8.584256"
+coord_lat: 44.894897
+coord_lon: 8.584256
 source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---

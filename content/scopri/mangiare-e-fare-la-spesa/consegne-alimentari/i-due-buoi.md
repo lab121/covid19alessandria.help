@@ -4,7 +4,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "0131.517.105"
 mail: ""
 address: "Via Cavour, 34 Alessandria"
-coord: "44.911036,8.616376"
+coord_lat: 44.911036
+coord_lon: 8.616376
 source: "ASCOM"
 date: 2020-04-02
 ---

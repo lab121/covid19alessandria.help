@@ -4,7 +4,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "0131.344.267"
 mail: ""
 address: "Corso Carlo Marx, 54 Alessandria"
-coord: "44.900849,8.603552"
+coord_lat: 44.900849
+coord_lon: 8.603552
 source: "ASCOM"
 date: 2020-04-02
 ---

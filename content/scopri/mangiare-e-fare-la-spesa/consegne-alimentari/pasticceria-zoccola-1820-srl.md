@@ -4,7 +4,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "0131.254.767"
 mail: ""
 address: "Corso Alfonso Lamarmora, 61 Alessandria"
-coord: "44.911221,8.621325"
+coord_lat: 44.911221
+coord_lon: 8.621325
 source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---

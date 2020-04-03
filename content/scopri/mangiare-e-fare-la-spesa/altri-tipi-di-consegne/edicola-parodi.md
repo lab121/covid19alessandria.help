@@ -4,7 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "0131.253941"
 mail: ""
 address: "Piazza Matteotti , 10  Alessandria"
-coord: "44.911507,8.6221714"
+coord_lat: 44.911507
+coord_lon: 8.6221714
 source: "Confesercenti"
 date: 2020-04-02
 ---
