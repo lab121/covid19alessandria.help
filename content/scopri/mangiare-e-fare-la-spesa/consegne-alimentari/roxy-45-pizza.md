@@ -4,8 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "0131.224.557"
 mail: ""
 address: "Piazza Santa Maria Di Castello, 1 Alessandria"
-coord_lat: 44.9177392
-coord_lon: 8.6156139
+coord_lat: 44.9177017
+coord_lon: 8.613573
 source: "Confesercenti"
 date: 2020-04-02
 ---
