@@ -13,3 +13,4 @@ npm install atomic-algolia
 node_modules/.bin/atomic-algolia
 
 echo $ALGOLIA_INDEX_NAME
+echco foo
