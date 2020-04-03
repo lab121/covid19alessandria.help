@@ -5,4 +5,4 @@ logo: "heart"
 weight: 3
 ---
 
-Descrizione della sezione.
+Servizi e inizative di supporto alla persona attivate da Enti e Istituzioni cittadine.
