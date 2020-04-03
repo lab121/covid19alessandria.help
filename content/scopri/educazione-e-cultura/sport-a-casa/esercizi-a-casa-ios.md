@@ -1,6 +1,6 @@
 ---
 title: "Esercizi a casa (iOS)"
-link: "https://play.google.com/store/apps/details?id=sworkitapp.sworkit.com&hl=it"
+link: "https://itunes.apple.com/it/app/esercizi-a-casa/id1286964854?mt=8"
 phone: ""
 mail: ""
 address: ""
