@@ -5,4 +5,4 @@ logo: "utensils"
 weight: 2
 ---
 
-Descrizione della sezione.
+Elenco di esercizi commerciali aperti e relativi servizi di consegna a domicilio del territorio.
