@@ -1,12 +1,12 @@
 ---
-title: "Salumeria Cusimano salvatore"
+title: "Edicola Bersi Giancarlo"
 link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
-phone: "0131 251105"
+phone: "333.663.3262"
 mail: ""
-address: "Via Ferrara, 22"
-coord: "44.9132938,8.6120013"
+address: "C.so Cavallotti Alessandria"
+coord: "44.911783, 8.607705"
 source: "Confesercenti"
-date: 43923
+date: 2020-04-02
 ---
 
-
+Edicola

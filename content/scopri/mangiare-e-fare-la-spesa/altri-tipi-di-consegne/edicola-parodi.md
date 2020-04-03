@@ -1,12 +1,12 @@
 ---
-title: "L'amico fruttaio"
+title: "Edicola parodi"
 link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
-phone: "0131 254109"
+phone: "0131.253941"
 mail: ""
-address: "Piazza Marconi"
-coord: "44.9203284,8.6154158"
+address: "Piazza Matteotti , 10  Alessandria"
+coord: "44.911507,8.6221714"
 source: "Confesercenti"
-date: 43923
+date: 2020-04-02
 ---
 
-Frutta e verdura
+Edicola
