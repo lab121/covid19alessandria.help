@@ -8,6 +8,3 @@ tar xvzf hugo_${HUGOVERSION}_Linux-64bit.tar.gz
 rm hugo_${HUGOVERSION}_Linux-64bit.tar.gz
 
 ./hugo
-
-npm install atomic-algolia
-node_modules/.bin/atomic-algolia
