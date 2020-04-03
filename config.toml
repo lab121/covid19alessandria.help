@@ -1,5 +1,6 @@
 baseURL = "https://covid19alessandria.help"
 languageCode = "it-it"
+DefaultContentLanguage = "it"
 title = "Covid19Alessandria.help"
 theme = "bootstrap"
 googleAnalytics = ""
@@ -11,3 +12,16 @@ googleAnalytics = ""
     author = "lab121.org"
     description = "Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19"
     footer = "Made with Love for Alessandria"
+
+[outputFormats.Algolia]
+    baseName = "algolia"
+    isPlainText = true
+    mediaType = "application/json"
+    notAlternative = true
+
+[params.algolia]
+    vars = ["title"]
+    params = []
+
+[outputs]
+    home = ["HTML", "RSS", "Algolia"]
