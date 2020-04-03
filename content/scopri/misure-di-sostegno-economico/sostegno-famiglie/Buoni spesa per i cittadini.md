@@ -1,5 +1,5 @@
 ---
-title:  "Comune di Alessandria  Alessandria - Buoni spesa"
+title:  "Comune di Alessandria - Buoni spesa"
 link: "https://www.comune.alessandria.it/buoni-spesa-per-i-cittadini"
 date: 2020-04-03
 draft: false
