@@ -5,4 +5,4 @@ logo: "puzzle-piece"
 weight: 5
 ---
 
-Descrizione della sezione.
+Iniziative culturali, didattica e sport a distanza, intratteniento e giochi per bambini e ragazzi.
