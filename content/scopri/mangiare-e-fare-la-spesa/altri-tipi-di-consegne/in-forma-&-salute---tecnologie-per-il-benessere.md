@@ -4,8 +4,8 @@ link: "www.informaesalutealessandria.it/e-commerce/"
 phone: "348.467.9628"
 mail: ""
 address: ""
-coord_lat: 44.904740
-coord_lon:  8.621769
+coord_lat: 44.904547
+coord_lon:  8.621704
 source: "ASCOM"
 date: 2020-04-02
 ---
