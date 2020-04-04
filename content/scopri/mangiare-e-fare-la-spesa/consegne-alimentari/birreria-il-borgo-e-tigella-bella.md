@@ -4,8 +4,8 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "331.743.1906 - 334.167.2959"
 mail: ""
 address: "Via Milano, 28 Alessandria"
-coord_lat: 44.914884
-coord_lon: 8.613547
+coord_lat: 44.914905
+coord_lon: 8.613590
 source: "Confesercenti"
 date: 2020-04-02
 ---
