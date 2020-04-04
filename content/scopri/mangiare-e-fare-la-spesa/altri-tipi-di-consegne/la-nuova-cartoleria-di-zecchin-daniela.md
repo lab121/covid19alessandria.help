@@ -4,8 +4,8 @@ link: "https://www.alxte.it/negozio?shop=122"
 phone: "0131.267.219 - 328.657.4780"
 mail: "lanuovacartzecchin@libero.it"
 address: "Corso Virginia Marini, 81 Alessandria"
-coord_lat: 44.914348
-coord_lon: 8.607695
+coord_lat: 44.914371
+coord_lon: 8.609894
 source: "ASCOM"
 date: 2020-04-02
 ---
