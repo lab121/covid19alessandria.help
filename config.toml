@@ -1,4 +1,4 @@
-baseURL = "https://covid19alessandria.help"
+baseURL = "/"
 languageCode = "it-it"
 DefaultContentLanguage = "it"
 title = "Covid19Alessandria.help"
