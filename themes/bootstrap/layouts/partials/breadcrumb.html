@@ -13,7 +13,11 @@
 {{ if eq .p1 .p2 }}
 <li class="breadcrumb-item active" aria-current="page">{{ .p1.Title }}</li>
 {{ else }}
+{{ if .p1.IsHome}}
+<li class="breadcrumb-item"><a href="{{ .p1.Permalink }}">Home</a></li>
+{{ else }}
 <li class="breadcrumb-item"><a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a></li>
+{{ end }}
 {{ end }}
 
 {{ end }}
