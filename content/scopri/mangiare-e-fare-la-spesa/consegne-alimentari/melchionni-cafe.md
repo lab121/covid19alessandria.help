@@ -4,8 +4,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "0131.287.509"
 mail: ""
 address: "Via Giuseppe Antonio Chenna, 18 Alessandria"
-coord_lat: 44.914594
-coord_lon: 8.615087
+coord_lat: 44.914636
+coord_lon: 8.615301
 source: "ASCOM"
 date: 2020-04-02
 ---
