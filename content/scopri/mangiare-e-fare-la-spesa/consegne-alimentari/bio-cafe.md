@@ -4,8 +4,8 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 phone: "0131.262.932"
 mail: "biocafe@libero.it"
 address: "Via Erba, 12 Alessandria"
-coord_lat: 44.914313
-coord_lon: 8.612640
+coord_lat: 44.914323
+coord_lon: 8.612663
 source: "ASCOM"
 date: 2020-04-02
 ---
