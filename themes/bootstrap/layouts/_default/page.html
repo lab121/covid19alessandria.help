@@ -73,58 +73,6 @@
     {{ end }}
 
     {{ if .Params.logos }}
-        <h6 class="mb-3 text-center">Promotori</h6>
-        <div class="row">
-            <div class="col-md-3 text-center mb-2">
-                <a href="https://www.lab121.org" target="_blank">
-                    <img src="/images/promotori/lab121.png" alt="Lab121" width="140px" height="140px">
-                </a>
-            </div>
-            <div class="col-md-3 text-center mb-2">
-                <a href="https://sites.google.com/view/bellastorialessandria/home" target="_blank">
-                    <img src="/images/promotori/bellastoria.png" alt="BellaStoria!" width="140px" height="140px">
-                </a>
-            </div>
-            <div class="col-md-3 text-center mb-2">
-                <a href="http://blogalessandria.blogspot.com" target="_blank">
-                    <img src="/images/promotori/blogal.png" alt="Blog Alessandria" width="140px" height="140px">
-                </a>
-            </div>
-            <div class="col-md-3 text-center mb-2">
-                <a href="https://www.facebook.com/casa.alessandria" target="_blank">
-                    <img src="/images/promotori/casadiquartiere.png" alt="CasadiQuartiere" width="140px" height="140px">
-                </a>
-            </div>
-            <div class="col-md-3 text-center mb-2">
-                <a href="https://www.culturaesviluppo.it" target="_blank">
-                    <img src="/images/promotori/culturaesviluppo.png" alt="Cultura e Sviluppo" width="140px" height="140px">
-                </a>
-            </div>
-            <div class="col-md-3 text-center mb-2">
-                <a href="https://www.facebook.com/AlessandriaHumanArt" target="_blank">
-                    <img src="/images/promotori/humanart.png" alt="Human art" width="140px" height="140px">
-                </a>
-            </div>
-            <div class="col-md-3 text-center mb-2">
-                <a href="http://www.ostellodialessandria.it" target="_blank">
-                    <img src="/images/promotori/ilchiostro.png" alt="Il Chiostro" width="140px" height="140px">
-                </a>
-            </div>
-            <div class="col-md-3 text-center mb-2">
-                <a href="http://www.medeacontroviolenza.it" target="_blank">
-                    <img src="/images/promotori/medea.png" alt="Me.dea" width="140px" height="140px">
-                </a>
-            </div>
-            <div class="col-md-3 text-center mb-2">
-                <a href="http://www.inchiostrofestival.com/web" target="_blank">
-                    <img src="/images/promotori/propostal.png" alt="Propostal" width="140px" height="140px">
-                </a>
-            </div>
-            <div class="col-md-3 text-center mb-2">
-                <a href="http://www.sinelimes.org" target="_blank">
-                    <img src="/images/promotori/sinelimes.png" alt="Sine Limes" width="140px" height="140px">
-                </a>
-            </div>
-        </div>
+        {{ partial "promoters.html" . }}
     {{ end }}
 {{ end }}
