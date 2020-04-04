@@ -10,4 +10,4 @@ source: "ASCOM"
 date: 2020-04-02
 ---
 
-In Alessandria a un raggio di 3 km da Corso C.Marx 54, spesa minima 20 euro
+Steakhouse. In Alessandria a un raggio di 3 km da Corso C.Marx 54, spesa minima 20 euro
