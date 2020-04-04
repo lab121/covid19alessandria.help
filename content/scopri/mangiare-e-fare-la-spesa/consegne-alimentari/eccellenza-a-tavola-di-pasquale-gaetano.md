@@ -4,10 +4,10 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "335.605.8424"
 mail: ""
 address: "Via Einaudi, 15 Alessandria"
-coord_lat: 44.901081
-coord_lon: 8.587888
+coord_lat: 44.901095
+coord_lon: 8.587941
 source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---
 
-Consegna ad Alessandria, Valmadonna, Valle San Bartolomeo, Pecetto di Valenza, Valenza il lunedì, martedì e giovedì.
+Alimentari: formaggi, salumi, olive, merluzzo e altro. Consegna ad Alessandria, Valmadonna, Valle San Bartolomeo, Pecetto di Valenza, Valenza il lunedì, martedì e giovedì.
