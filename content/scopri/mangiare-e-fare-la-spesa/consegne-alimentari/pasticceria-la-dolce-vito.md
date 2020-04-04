@@ -7,7 +7,7 @@ address: "Via Genova, 126/e Spinetta Marengo"
 coord_lat: 44.886187
 coord_lon: 8.680132
 source: "ASCOM"
-date: 2020-04-02
+date: 2020-04-04
 ---
 
 

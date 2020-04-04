@@ -4,10 +4,10 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "0131.251.105"
 mail: ""
 address: "Via Ferrara, 22 Alessandria"
-coord_lat: 44.9132938
-coord_lon: 8.6120013
+coord_lat: 44.913291
+coord_lon: 8.614190
 source: "Confesercenti"
-date: 2020-04-02
+date: 2020-04-04
 ---
 
 

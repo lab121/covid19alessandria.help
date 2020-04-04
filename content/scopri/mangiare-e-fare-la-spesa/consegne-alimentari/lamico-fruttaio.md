@@ -4,10 +4,10 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "0131.254.109"
 mail: ""
 address: "Piazza Marconi Alessandria"
-coord_lat: 44.9203284
-coord_lon: 8.6154158
+coord_lat: 44.909957
+coord_lon: 8.613406
 source: "Confesercenti"
 date: 2020-04-02
 ---
-
+Frutta e verdura
 

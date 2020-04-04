@@ -4,10 +4,10 @@ link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria
 phone: "370.374.2884"
 mail: ""
 address: "Via Carlo Caniggia, 6 Alessandria"
-coord_lat: 44.9099972
-coord_lon: 8.6105067
+coord_lat: 44.909871
+coord_lon: 8.612906
 source: "Confesercenti"
-date: 2020-04-02
+date: 2020-04-04
 ---
 
 
