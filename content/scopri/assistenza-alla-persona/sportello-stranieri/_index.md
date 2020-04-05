@@ -1,5 +1,5 @@
 ---
 title: "Sportello stranieri"
-layout: "discover"
+layout: "discover_sub"
 weight: 4
 ---

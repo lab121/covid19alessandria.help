@@ -1,5 +1,5 @@
 ---
 title: "Trasporti privati"
-layout: "discover"
+layout: "discover_sub"
 weight: 2
 ---

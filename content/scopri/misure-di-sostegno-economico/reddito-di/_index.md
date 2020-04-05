@@ -1,5 +1,5 @@
 ---
 title: "Reddito di..."
-layout: "discover"
+layout: "discover_sub"
 weight: 4
 ---

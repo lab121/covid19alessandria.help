@@ -1,5 +1,5 @@
 ---
 title: "Trasporti pubblici"
-layout: "discover"
+layout: "discover_sub"
 weight: 1
 ---

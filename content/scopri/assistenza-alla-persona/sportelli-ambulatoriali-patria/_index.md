@@ -1,5 +1,5 @@
 ---
 title: "Sportelli ambulatoriali Patria"
-layout: "discover"
+layout: "discover_sub"
 weight: 7
 ---

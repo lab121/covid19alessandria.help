@@ -1,5 +1,5 @@
 ---
 title: "Comunicati ufficiali, ordinanze, DCPM"
-layout: "discover"
+layout: "discover_sub"
 weight: 3
 ---

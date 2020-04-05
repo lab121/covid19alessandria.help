@@ -1,5 +1,5 @@
 ---
 title: "Servizi Cissaca"
-layout: "discover"
+layout: "discover_sub"
 weight: 5
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supporto psicologico"
-layout: "discover"
+layout: "discover_sub"
 weight: 2
 ---

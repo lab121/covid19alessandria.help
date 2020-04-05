@@ -1,5 +1,5 @@
 ---
 title: "Donazioni di sangue"
-layout: "discover"
+layout: "discover_sub"
 weight: 3
 ---

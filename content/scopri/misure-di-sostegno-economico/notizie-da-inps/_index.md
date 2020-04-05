@@ -1,5 +1,5 @@
 ---
 title: "Notizie dall'INPS"
-layout: "discover"
+layout: "discover_sub"
 weight: 3
 ---
