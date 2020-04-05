@@ -4,7 +4,8 @@
 {{- range .Site.AllPages -}}
 {{- if and (.IsDescendant $section) (not .Draft) (not .Params.private) (ne .Kind "home") (ne .Type "privacy") (ne .Type "cerca") -}}
 {{- $content := substr (trim (.Content|plainify) "\n") 0 300 }}
-{{- $.Scratch.Add "index" (dict "objectID" .File.UniqueID "description" $content "dir" .File.Dir "fuzzywordcount" .FuzzyWordCount "keywords" .Keywords "kind" .Kind "lang" .Lang "lastmod" .Lastmod.UTC.Unix "permalink" .Permalink "relpermalink" .RelPermalink "title" .Title "type" .Type "weight" .Weight "wordcount" .WordCount "section" .Section)}}
+{{- $permalink := (printf "%v%v" "https://covid19alessandria.help/" .RelPermalink) -}}
+{{- $.Scratch.Add "index" (dict "objectID" .File.UniqueID "description" $content "dir" .File.Dir "fuzzywordcount" .FuzzyWordCount "keywords" .Keywords "kind" .Kind "lang" .Lang "lastmod" .Lastmod.UTC.Unix "permalink" $permalink "relpermalink" .RelPermalink "title" .Title "type" .Type "weight" .Weight "wordcount" .WordCount "section" .Section "link" .Params.link)}}
 {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}

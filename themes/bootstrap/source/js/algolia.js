@@ -27,7 +27,7 @@ const renderHits = (renderOptions, isFirstRender) => {
             <div class="card mb-4 shadow-sm">
                 <div class="card-body">
                     <div class="cart-title">
-                        <p><b>${item.title}</b></p>
+                        <p><a href="${item.permalink}">${item.title}</a></p>
                     </div>
 
                     <hr>
@@ -35,7 +35,7 @@ const renderHits = (renderOptions, isFirstRender) => {
                     ${item.phone ? `<div class="cart-phone mb-3"><b>Tel:</b> ${item.phone}</div>` : ''}
                     ${item.email ? `<div class="cart-mail mb-3"><b>Email:</b> ${item.email}</div>` : ''}
                     ${item.address ? `<div class="cart-mail mb-3"><b>Indirizzo:</b> ${item.address}</div>` : ''}
-                    ${item.permalink ? `<div class="btn-group cart-link"><a href="${item.permalink}" class="btn btn-sm btn-outline-secondary" target="_blank">Link</a></div>` : ''}
+                    ${item.link ? `<div class="btn-group cart-link"><a href="${item.link}" class="btn btn-sm btn-outline-secondary" target="_blank">Link</a></div>` : ''}
                 </div>
             </div>
           </div>`
