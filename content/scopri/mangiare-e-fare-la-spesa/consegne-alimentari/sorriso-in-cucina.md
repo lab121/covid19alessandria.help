@@ -7,7 +7,6 @@ address: "Via Canova 39, Alessandria"
 coord_lat: 44.899424
 coord_lon: 8.596175
 source: "ASCOM"
-weight: 1
 date: 2020-04-05
 ---
 
