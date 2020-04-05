@@ -2,8 +2,9 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- $section := $.Site.GetPage "section" .Section }}
 {{- range .Site.AllPages -}}
-{{- if or (and (.IsDescendant $section) (and (not .Draft) (not .Params.private))) $section.IsHome -}}
-{{- $.Scratch.Add "index" (dict "objectID" .File.UniqueID "description" .Content "dir" .File.Dir "fuzzywordcount" .FuzzyWordCount "keywords" .Keywords "kind" .Kind "lang" .Lang "lastmod" .Lastmod.UTC.Unix "permalink" .Permalink "relpermalink" .RelPermalink "title" .Title "type" .Type "weight" .Weight "wordcount" .WordCount "section" .Section)}}
+{{- if and (.IsDescendant $section) (not .Draft) (not .Params.private) (ne .Kind "home") (ne .Type "privacy") (ne .Type "cerca") -}}
+{{- $content := substr (trim (.Content|plainify) "\n") 0 300 }}
+{{- $.Scratch.Add "index" (dict "objectID" .File.UniqueID "description" $content "dir" .File.Dir "fuzzywordcount" .FuzzyWordCount "keywords" .Keywords "kind" .Kind "lang" .Lang "lastmod" .Lastmod.UTC.Unix "permalink" .Permalink "relpermalink" .RelPermalink "title" .Title "type" .Type "weight" .Weight "wordcount" .WordCount "section" .Section)}}
 {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}

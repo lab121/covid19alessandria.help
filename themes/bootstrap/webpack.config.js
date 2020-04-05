@@ -21,4 +21,11 @@ module.exports = [{
   },
   entry: './source/js/leaflet.js',
   mode: 'production',
+}, {
+  output: {
+    path: path.resolve(__dirname, 'assets/js'),
+    filename: 'algolia.min.js'
+  },
+  entry: './source/js/algolia.js',
+  mode: 'production',
 }];

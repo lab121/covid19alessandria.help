@@ -1,6 +1,8 @@
 ---
 title: "Privacy policy"
 layout: "page"
+menu: main
+weight: 8
 ---
 
 #### Covid19alessandria è un progetto promosso dall'associazione di promozione sociale lab121 di concerto con altre organizzazioni e volontari.  Covid19alessandria non costituisce testata giornalistica e non è un prodotto editoriale, non ha carattere periodico ed è aggiornato in base alle scelte totalmente discrezionali dello staff, al fine di supportare la gestione dell’emergenza causata dalla pandemia Covid-19 in Italia nel 2020.

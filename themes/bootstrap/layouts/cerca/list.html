@@ -1,0 +1,13 @@
+{{ define "title" }}Cerca{{ end }}
+
+{{ define "main" }}
+<div id="searchbox" class="mb-5"></div>
+
+<div id="hits" class="row mb-5 discover"></div>
+
+<div id="powered-by"></div>
+
+{{ $algolia := resources.Get "js/algolia.min.js" | resources.Fingerprint }}
+<script src="{{ $algolia.Permalink }}" integrity="{{ $algolia.Data.Integrity }}"
+        crossorigin="anonymous"></script>
+{{ end }}

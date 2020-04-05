@@ -4,6 +4,8 @@ layout: "page"
 form: true
 form_options: ["Donazioni di beni", "Commissioni", "Sviluppo del sito", "Altro"]
 form_title: "Segnala"
+menu: main
+weight: 3
 ---
 
 Siamo un gruppo di realtà locali e volontari da sempre impegnate in attività di volontariato, solidarietà e sviluppo del territorio. 

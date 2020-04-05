@@ -18,6 +18,8 @@
     "webpack-cli": "^3.3.11",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.1",
-    "leaflet": "^1.6.0"
+    "leaflet": "^1.6.0",
+    "algoliasearch": "^4.1.0",
+    "instantsearch.js": "^4.3.1"
   }
 }
