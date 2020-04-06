@@ -3,6 +3,7 @@ languageCode = "it-it"
 DefaultContentLanguage = "it"
 title = "Covid19Alessandria.help"
 theme = "bootstrap"
+enableRobotsTXT = true
 
 [taxonomies]
   categoria = "categoria"
