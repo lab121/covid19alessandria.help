@@ -1,6 +1,7 @@
 ---
 title: "Didattica a distanza"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 2
 logo: "puzzle-piece"
 split: true

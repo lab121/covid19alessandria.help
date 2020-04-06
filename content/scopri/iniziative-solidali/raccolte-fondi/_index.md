@@ -1,5 +1,6 @@
 ---
 title: "Raccolte fondi"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 1
 ---

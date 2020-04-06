@@ -1,6 +1,7 @@
 ---
 title: "Iniziative Solidali"
-layout: "discover"
+type: "group"
+layout: "section"
 logo: "hands-helping"
 weight: 1
 ---

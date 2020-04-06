@@ -1,6 +1,7 @@
 ---
 title: "Riparazioni in casa"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 logo: "hammer"
 split: true
 weight: 4

@@ -1,5 +1,6 @@
 ---
 title: "Cosa fare se non ti senti bene"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 1
 ---

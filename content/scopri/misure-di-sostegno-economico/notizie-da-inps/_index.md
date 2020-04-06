@@ -1,5 +1,6 @@
 ---
 title: "Notizie dall'INPS"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 3
 ---

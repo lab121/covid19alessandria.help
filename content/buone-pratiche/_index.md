@@ -1,6 +1,7 @@
 ---
 title: "Buone pratiche"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 menu: main
 weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Trasporti privati"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 2
 ---

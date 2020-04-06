@@ -1,6 +1,7 @@
 ---
 title: "Assistenza alla persona"
-layout: "discover"
+type: "group"
+layout: "section"
 logo: "heart"
 weight: 3
 ---

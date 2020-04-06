@@ -1,6 +1,7 @@
 ---
 title: "Iniziative culturali"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 4
 logo: "puzzle-piece"
 split: true

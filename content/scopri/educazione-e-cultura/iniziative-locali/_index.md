@@ -1,6 +1,7 @@
 ---
 title: "Iniziative locali"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 1
 logo: "puzzle-piece"
 split: true

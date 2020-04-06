@@ -1,6 +1,7 @@
 ---
 title: "Informazioni utili"
-layout: "discover"
+type: "group"
+layout: "section"
 logo: "broadcast-tower"
 weight: 7
 ---

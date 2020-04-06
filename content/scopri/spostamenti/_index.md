@@ -1,6 +1,7 @@
 ---
 title: "Spostamenti"
-layout: "discover"
+type: "group"
+layout: "section"
 logo: "walking"
 weight: 6
 ---

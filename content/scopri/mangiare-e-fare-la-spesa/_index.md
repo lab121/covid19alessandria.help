@@ -1,6 +1,7 @@
 ---
 title: "Mangiare e fare la spesa"
-layout: "discover"
+type: "group"
+layout: "section"
 logo: "utensils"
 has_map: true
 weight: 2

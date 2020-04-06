@@ -1,5 +1,6 @@
 ---
 title: "Info per parenti carcere Alessandria"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 6
 ---

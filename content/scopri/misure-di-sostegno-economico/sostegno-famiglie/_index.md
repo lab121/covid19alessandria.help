@@ -1,5 +1,6 @@
 ---
 title: "Sostegno famiglie"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Trasporti pubblici"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 1
 ---

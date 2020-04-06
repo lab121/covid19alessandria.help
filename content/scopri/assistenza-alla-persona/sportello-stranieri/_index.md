@@ -1,5 +1,6 @@
 ---
 title: "Sportello stranieri"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 4
 ---

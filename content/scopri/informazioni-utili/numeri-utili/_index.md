@@ -1,5 +1,6 @@
 ---
 title: "Numeri utili"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 2
 ---

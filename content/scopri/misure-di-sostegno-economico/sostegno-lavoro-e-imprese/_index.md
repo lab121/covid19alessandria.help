@@ -1,5 +1,6 @@
 ---
 title: "Sostegno lavoro e imprese"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 1
 ---

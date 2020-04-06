@@ -1,6 +1,7 @@
 ---
 title: "Educazione e cultura"
-layout: "discover"
+type: "group"
+layout: "section"
 logo: "puzzle-piece"
 weight: 5
 ---

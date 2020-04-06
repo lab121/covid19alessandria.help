@@ -1,5 +1,6 @@
 ---
 title: "Reddito di..."
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 4
 ---

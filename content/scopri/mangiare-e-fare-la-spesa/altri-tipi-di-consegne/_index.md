@@ -1,6 +1,7 @@
 ---
 title: "Altri tipi di consegne"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 logo: "dolly"
 split: true
 weight: 2

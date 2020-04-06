@@ -1,5 +1,6 @@
 ---
 title: "Comunicati ufficiali, ordinanze, DCPM"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 3
 ---

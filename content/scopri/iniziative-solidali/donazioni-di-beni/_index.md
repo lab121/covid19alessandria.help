@@ -1,5 +1,6 @@
 ---
 title: "Donazioni di beni"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 2
 ---

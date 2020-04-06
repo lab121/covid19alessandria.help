@@ -1,5 +1,6 @@
 ---
 title: "Autocertificazione"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 4
 ---

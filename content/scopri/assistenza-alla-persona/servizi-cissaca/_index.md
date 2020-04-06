@@ -1,5 +1,6 @@
 ---
 title: "Servizi Cissaca"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 weight: 5
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Attività aperte"
-layout: "discover_sub"
+type: "group"
+layout: "subsection"
 logo: "store-alt"
 split: true
 weight: 3

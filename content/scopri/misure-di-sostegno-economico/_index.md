@@ -1,6 +1,7 @@
 ---
 title: "Misure di sostegno economico"
-layout: "discover"
+type: "group"
+layout: "section"
 logo: "money-bill"
 weight: 4
 ---
