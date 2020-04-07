@@ -1,6 +1,6 @@
 ---
 title: "Pizzeria Isola"
-link: ""
+link: "https://goo.gl/maps/5h93rn1zAgrBsCio7"
 phone: "0131.441.198"
 mail: "mario1969panatta@gmail.com"
 address: "Corso Felice Cavallotti, 32 Alessandria"
