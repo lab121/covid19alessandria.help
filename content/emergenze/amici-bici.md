@@ -1,7 +1,7 @@
 ---
 title: "FIAB Gli amici delle bici ricerca volontari"
-Link: "http://www.gliamicidellebici.it/"
-phone: 328.549.0227
+link: "http://www.gliamicidellebici.it/"
+phone: "328.549.0227"
 mail: "info@gliamicidellebici.it"
 date: 2020-04-07
 draft: false
