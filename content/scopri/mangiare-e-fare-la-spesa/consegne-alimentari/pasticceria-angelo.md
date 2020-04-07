@@ -1,6 +1,6 @@
 ---
 title: "Pasticceria Angelo"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/pasticceriangelo"
 phone: "388.177.2068"
 mail: "pasticceria.angelo@libero.it"
 address: "Via Marengo, 61 Alessandria"
