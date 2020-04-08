@@ -1,4 +1,4 @@
-baseURL = "https://covid19alessandria.help"
+baseURL = "/"
 languageCode = "it-it"
 DefaultContentLanguage = "it"
 title = "Covid19Alessandria.help"
@@ -13,6 +13,7 @@ enableRobotsTXT = true
     description = "Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19"
     footer = "Made with Love for Alessandria"
     images = ["images/banner/covid19alessandriahelp_banner_quadrato.png"]
+    prodURL = "https://covid19alessandria.help"
 
 [outputFormats.Algolia]
     baseName = "algolia"
@@ -26,3 +27,6 @@ enableRobotsTXT = true
 
 [outputs]
     home = ["HTML", "RSS", "Algolia"]
+
+[sitemap]
+  changefreq = "monthly"

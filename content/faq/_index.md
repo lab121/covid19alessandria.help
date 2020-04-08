@@ -1,5 +1,5 @@
 ---
 title: "FAQ"
-menu: main
-weight: 7
+menu: secondary
+weight: 2
 ---

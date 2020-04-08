@@ -60,8 +60,16 @@
             <div class="navbar-collapse offcanvas-collapse">
                 <ul class="navbar-nav ml-auto">
                     {{ $currentPage := . }}
-                    {{ range .Site.Menus.main }}
-                        <li class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="sections" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sezioni</a>
+                        <div class="dropdown-menu" aria-labelledby="sections">
+                            {{ range .Site.Menus.main }}
+                                <a class="dropdown-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+                            {{ end }}
+                        </div>
+                    </li>
+                    {{ range .Site.Menus.secondary }}
+                        <li class="{{ if or ($currentPage.IsMenuCurrent "secondary" .) ($currentPage.HasMenuCurrent "secondary" .) }}active{{ end }}">
                             <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
                         </li>
                     {{ end }}

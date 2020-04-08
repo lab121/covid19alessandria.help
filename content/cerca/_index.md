@@ -1,5 +1,5 @@
 ---
 title: "Cerca"
-menu: main
-weight: 6
+menu: secondary
+weight: 1
 ---
