@@ -15,6 +15,14 @@
 
 {{ define "main" }}
     <div class="row mb-5">
+        <div class="col-12">
+            <form method="GET" action="/cerca">
+                <input type="text" class="form-control" id="query" name="query">
+            </form>
+        </div>
+    </div>
+
+    <div class="row mb-5">
         <div class="col-sm-4 col-md-4 col-lg-2 offset-lg-1 mb-3 text-center">
             <a href="/scopri">
                 <img class="rounded-circle bg-grey mb-4"

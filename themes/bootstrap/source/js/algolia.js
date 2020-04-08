@@ -9,6 +9,11 @@ const search = instantsearch({
   indexName: 'covid19alessandria',
   searchClient,
   searchFunction(helper) {
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.has('query')) {
+      helper.setQuery(urlParams.get('query'));
+    }
+
     if (helper.state.query) {
       helper.search();
     }
