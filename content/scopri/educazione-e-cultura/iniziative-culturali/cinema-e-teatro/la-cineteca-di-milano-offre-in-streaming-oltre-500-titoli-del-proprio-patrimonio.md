@@ -1,5 +1,5 @@
 ---
-title: "La Cineteca di Milano offre in streaming oltre 500 titoli del proprio patrimonio"
+title: "Cineteca di Milano"
 link: "https://www.cinetecamilano.it/biblioteca/catalogo/login"
 phone: ""
 mail: ""
