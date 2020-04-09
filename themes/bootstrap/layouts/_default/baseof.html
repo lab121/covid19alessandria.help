@@ -61,7 +61,7 @@
                 <ul class="navbar-nav ml-auto">
                     {{ $currentPage := . }}
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="sections" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sezioni</a>
+                        <a class="nav-link dropdown-toggle" href="#" id="sections" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Menu</a>
                         <div class="dropdown-menu" aria-labelledby="sections">
                             {{ range .Site.Menus.main }}
                                 <a class="dropdown-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
