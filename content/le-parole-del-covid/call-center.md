@@ -1,9 +1,9 @@
 ---
-title: "Call center di tracciamento attivo"
-link: "https://www.covidhacks.org/active-tracing-call-centre/"
+title: "Cosa sono i Coronavirus"
+link: "https://www.epicentro.iss.it/coronavirus/cosa-sono"
 date: 2020-03-31
 draft: false
-weight: 4
+weight: 1
 ---
 
-Come ridurre l'impatto economico del coronavirus trasformando una quarantena nazionale in una quarantena mirata e basata sui dati e l'utilizzo di test predittivi.
+Descrizione: Pagina dell'Istituto Superiore di Sanità nella quale viene descritta la famiglia di virus respiratori, chiamati così per le punte a forma di corona che sono presenti sulla loro superficie, alla quale appartiene il SARS-CoV-2 (il coronavirus che che causa la COVID-19).   
