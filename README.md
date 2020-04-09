@@ -14,12 +14,12 @@ Installare hugo di sistema oppure usare il binario già presente
 
     $ tar vfxz hugo_0.68.3_Linux-64bit.tar.gz
 
-Installare Node.js oppure creare una immagine docker in questa maniera ( se si decide per Node.js di sistema bastan installare i pacchetti listati nel file *docker/Dockerfile )
+Installare Node.js oppure creare una immagine docker in questa maniera ( se si decide per Node.js di sistema basta installare i pacchetti listati nel file *docker/Dockerfile* )
 
     $ cd docker/
     $ docker build . -t covidale-node-8 
 
-Ad ogni modifica degli stili o Javascript è necessario ricompilarli con node.js.
+Ad ogni modifica degli stili o Javascript è necessario ricompilarli con node.js:
 
 Con Docker
 
