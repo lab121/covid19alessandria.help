@@ -5,3 +5,4 @@ date: 2020-04-09
 draft: false
 weight: 1
 ---
+Decreto liquidità pubblicato sulla Gazzetta Ufficiale
