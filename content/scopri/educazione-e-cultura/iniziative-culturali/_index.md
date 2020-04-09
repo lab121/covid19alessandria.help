@@ -1,7 +1,7 @@
 ---
 title: "Iniziative culturali"
 type: "group"
-layout: "subsection"
+layout: "section"
 weight: 4
 logo: "puzzle-piece"
 split: true
