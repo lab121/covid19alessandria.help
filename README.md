@@ -23,7 +23,7 @@ Ad ogni modifica degli stili o Javascript è necessario ricompilarli con node.js
 
 Con Docker
 
-    $ docker run --rm -v /home/work/devel/covid19alessandria.help/themes/bootstrap:/user/app -w /user/app covidale-node-8 npm run build
+    $ docker run --rm -v /abs_path/covid19alessandria.help/themes/bootstrap:/user/app -w /user/app covidale-node-8 npm run build
 
 Senza Docker 
 
