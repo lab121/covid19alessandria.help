@@ -1,6 +1,6 @@
 ---
 title: "Coffee Break"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/coffee.breaksas/"
 phone: "0131.249.020"
 mail: ""
 address: "Via del Legno, 23 Alessandria"

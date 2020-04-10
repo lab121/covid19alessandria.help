@@ -1,6 +1,6 @@
 ---
 title: "L'orto di qualità"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/ortodiqualita/"
 phone: "333.817.9100"
 mail: ""
 address: "Viale Milite Ignoto, 40 Alessandria"

@@ -1,6 +1,6 @@
 ---
 title: "Orticoltura Villese"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.campagnamica.it/la-nostra-rete/fattorie/orticoltura-villese-st-rocca-30-villa-del-foro/"
 phone: "338.539.2631"
 mail: ""
 address: "Strada Rocca, 30 Villa del Foro"

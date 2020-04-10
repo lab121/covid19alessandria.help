@@ -1,6 +1,6 @@
 ---
 title: "Melchionni Cafè"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/MelchionniCafe/"
 phone: "0131.287.509"
 mail: ""
 address: "Via Giuseppe Antonio Chenna, 18 Alessandria"

@@ -1,6 +1,6 @@
 ---
 title: "Cioccolato"
-link: "https://www.paginebianche.it/alessandria/ghibaudi-laura.5928189"
+link: ""
 phone: "335.547.0549"
 mail: ""
 address: "Via Bissati, 26 Alessandria"

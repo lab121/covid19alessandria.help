@@ -1,6 +1,6 @@
 ---
 title: "Bio Cafe'"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/Biocafealessandria"
 phone: "0131.262.932"
 mail: "biocafe@libero.it"
 address: "Via Erba, 12 Alessandria"

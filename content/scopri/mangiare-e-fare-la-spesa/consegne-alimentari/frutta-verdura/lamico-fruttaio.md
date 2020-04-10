@@ -1,6 +1,6 @@
 ---
 title: "L'amico fruttaio"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/LAMICO-FRUTTAIO-226135330788557/"
 phone: "0131.254.109"
 mail: ""
 address: "Piazza Marconi Alessandria"

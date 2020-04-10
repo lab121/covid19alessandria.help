@@ -1,6 +1,6 @@
 ---
 title: "Casa Signorelli - Signorelli Food srl"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/casasignorelli/"
 phone: "0131.196.5155 - 0131.246.937"
 mail: ""
 address: "Via dei Martiri, 1 Alessandria"

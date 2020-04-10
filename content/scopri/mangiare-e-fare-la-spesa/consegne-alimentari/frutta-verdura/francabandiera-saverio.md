@@ -1,6 +1,6 @@
 ---
 title: "Francabandiera Saverio"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: ""
 phone: "347.428.4721"
 mail: ""
 address: "Spalto Marengo, 4 Alessandria"

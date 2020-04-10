@@ -1,6 +1,6 @@
 ---
 title: "Risto – Bar Malù"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/Risto-bar-malu-1695465204019741/"
 phone: "380.694.0317"
 mail: ""
 address: "Via Pietro Nenni, 210 Alessandria"
