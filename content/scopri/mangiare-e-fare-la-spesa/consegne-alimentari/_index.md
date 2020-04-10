@@ -1,7 +1,7 @@
 ---
 title: "Consegne alimentari"
 type: "group"
-layout: "subsection"
+layout: "section"
 logo: "utensils"
 split: true
 weight: 1
