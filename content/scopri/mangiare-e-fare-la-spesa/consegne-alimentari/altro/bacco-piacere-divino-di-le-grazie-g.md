@@ -1,6 +1,6 @@
 ---
 title: "Bacco Piacere di...Vino di Le Grazie G."
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/baccopiaceredivino/"
 phone: "0131.231.634  - 348.515.9965 - 366.212.2944"
 mail: ""
 address: "Via Gioacchino Rossini, 11 Alessandria"
