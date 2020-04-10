@@ -1,6 +1,6 @@
 ---
 title: "Bar Latteria Missaghi Roberto"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: ""
 phone: "348.463.8410"
 mail: ""
 address: "Via Maggioli, 35 Alessandria"
