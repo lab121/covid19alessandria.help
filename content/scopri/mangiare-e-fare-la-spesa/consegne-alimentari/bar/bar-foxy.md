@@ -1,6 +1,6 @@
 ---
 title: "Bar Foxy"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/soloalfoxy"
 phone: "342.750.7400 - 0131.974.487"
 mail: ""
 address: "Via Trotti, 26 Alessandria"
