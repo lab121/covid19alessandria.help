@@ -1,6 +1,6 @@
 ---
 title: "Pasquarelli Fabrizio"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/Pasquarelli-Fabrizio-pasticceria-103996544487731/"
 phone: "0131.345.304"
 mail: ""
 address: "Corso Carlo Marx, 29/D Alessandria"

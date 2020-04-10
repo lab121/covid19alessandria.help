@@ -1,6 +1,6 @@
 ---
 title: "Caffè Paulista"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/Paulista-Caffè-Il-Negozio-343216982390145/"
 phone: "0131.441.4191 - 392.981.5447"
 mail: "coffeset@tiscali.it"
 address: "Via San Lorenzo, 83 Alessandria"

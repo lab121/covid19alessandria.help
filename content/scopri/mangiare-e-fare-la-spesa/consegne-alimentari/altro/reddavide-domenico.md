@@ -1,6 +1,6 @@
 ---
 title: "Reddavide Domenico"
-link: ""
+link: "https://www.facebook.com/ReddavideDomenicoDistribuzionebevande/"
 phone: "338.307.0821"
 mail: ""
 address: "Via Della Chiatta, 29 Alessandria"
