@@ -1,6 +1,6 @@
 ---
 title: "Fede Rica di Cresta Federica"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/pg/FedeRica105/"
 phone: "0131.381.577"
 mail: ""
 address: "Via Casalbagliano, 105 Alessandria"

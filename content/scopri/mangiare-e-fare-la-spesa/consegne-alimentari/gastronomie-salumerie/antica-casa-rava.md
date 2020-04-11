@@ -1,6 +1,6 @@
 ---
 title: "Antica casa Rava"
-link: "https://www.alxte.it/negozio?shop=102"
+link: "https://www.anticacasarava.com/"
 phone: "333.128.1346"
 mail: "anticacasarava@gmail.com"
 address: "Largo Catania, 12 Alessandria"

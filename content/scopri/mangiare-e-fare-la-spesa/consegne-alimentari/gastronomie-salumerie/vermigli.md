@@ -1,8 +1,8 @@
 ---
 title: "Pasta Fresca Vermigli"
-link: "https://www.confesercenti-al.it/news/248-consegne-a-domicilio-alessandria-lista-aggiornata-al-7-aprile.html"
+link: "https://www.pastafrescavermigli.it/"
 phone: "0131.253.672"
-mail: ""
+mail: "dalera.edoardo@libero.it"
 address: "Via Marsala, 29 Alessandria"
 coord_lat: 44.910309
 coord_lon: 8.621043

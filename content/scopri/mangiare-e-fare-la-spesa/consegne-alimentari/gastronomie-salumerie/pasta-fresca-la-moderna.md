@@ -1,8 +1,8 @@
 ---
 title: "Pasta Fresca La Moderna"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://pastafrescalamoderna.it/"
 phone: "0131.265.454"
-mail: ""
+mail: "federicomartini1@yahoo.it"
 address: "Via San Lorenzo, 92 Alessandria"
 coord_lat: 44.910757
 coord_lon: 8.613402

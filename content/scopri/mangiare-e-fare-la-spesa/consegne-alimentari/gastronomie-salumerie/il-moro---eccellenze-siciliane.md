@@ -1,6 +1,6 @@
 ---
 title: "Il Moro - eccellenze siciliane"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/Il-Moro-eccellenze-siciliane--105627531067417/"
 phone: "388.476.5799"
 mail: ""
 address: "Via Trotti, 23 Alessandria"

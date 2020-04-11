@@ -1,6 +1,6 @@
 ---
 title: "Sorriso in cucina"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "http://www.sorrisoincucina.it/"
 phone: "333.174.5606 – 333.944.7466"
 mail: "commerciale@sorrisoincucina.it"
 address: "Via Canova 39, Alessandria"

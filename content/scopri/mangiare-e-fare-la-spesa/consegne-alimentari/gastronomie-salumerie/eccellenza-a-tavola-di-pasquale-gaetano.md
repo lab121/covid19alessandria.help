@@ -1,6 +1,6 @@
 ---
 title: "Eccellenza a Tavola di Pasquale Gaetano"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: ""
 phone: "335.605.8424"
 mail: ""
 address: "Via Einaudi, 15 Alessandria"

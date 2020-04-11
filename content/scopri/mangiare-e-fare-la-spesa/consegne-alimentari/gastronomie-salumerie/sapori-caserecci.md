@@ -1,6 +1,6 @@
 ---
 title: "Sapori Caserecci"
-link: "https://www.alxte.it/negozio?shop=191"
+link: "https://www.facebook.com/Sapori-Caserecci-642087825950115/"
 phone: "0131.618.512"
 mail: "volpipaolo@icloud.com"
 address: "Via Genova, 164, Spinetta Marengo"

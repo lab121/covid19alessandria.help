@@ -1,6 +1,6 @@
 ---
 title: "Pastificio piemontese"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/Pastificio.Piemontese/"
 phone: "0131.232.467"
 mail: ""
 address: "Via dei Guasco, 135 Alessandria"
