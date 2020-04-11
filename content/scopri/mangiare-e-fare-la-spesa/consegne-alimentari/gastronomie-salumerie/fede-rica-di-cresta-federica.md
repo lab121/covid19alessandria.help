@@ -2,7 +2,7 @@
 title: "Fede Rica di Cresta Federica"
 link: "https://www.facebook.com/pg/FedeRica105/"
 phone: "0131.381.577"
-mail: ""
+mail: "fedexg.85@libero.it"
 address: "Via Casalbagliano, 105 Alessandria"
 coord_lat: 44.895639
 coord_lon: 8.561039

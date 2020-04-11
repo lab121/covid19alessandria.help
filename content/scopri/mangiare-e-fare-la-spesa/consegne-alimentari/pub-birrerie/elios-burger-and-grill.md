@@ -2,7 +2,7 @@
 title: "Elio's Burger and Grill"
 link: "https://www.facebook.com/eliosburgersandgrill/"
 phone: "0131.344.267"
-mail: ""
+mail: "frescarni@gmail.com"
 address: "Corso Carlo Marx, 54 Alessandria"
 coord_lat: 44.900839
 coord_lon: 8.603549

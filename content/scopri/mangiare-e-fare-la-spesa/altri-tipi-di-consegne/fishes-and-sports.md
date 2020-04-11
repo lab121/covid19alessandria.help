@@ -1,8 +1,8 @@
 ---
 title: "Fishes and Sports"
-link: "https://www.alxte.it"
+link: "http://www.fishesandsports.it/"
 phone: "0131.231.634 - 348.515.9965"
-mail: ""
+mail: "info@fishesandsports.it"
 address: "Via Marengo, 75 Alessandria"
 coord_lat: 44.910980
 coord_lon: 8.626488

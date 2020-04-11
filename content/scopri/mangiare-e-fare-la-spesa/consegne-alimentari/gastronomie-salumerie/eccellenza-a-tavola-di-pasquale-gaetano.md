@@ -2,7 +2,7 @@
 title: "Eccellenza a Tavola di Pasquale Gaetano"
 link: ""
 phone: "335.605.8424"
-mail: ""
+mail: "gaetanodipasquale.al@gmail.com"
 address: "Via Einaudi, 15 Alessandria"
 coord_lat: 44.901095
 coord_lon: 8.587941
