@@ -3,6 +3,6 @@ title: "Bar"
 type: "group"
 layout: "subsection"
 weight: 8
-logo: "utensils"
+logo: "coffee"
 split: true
 ---

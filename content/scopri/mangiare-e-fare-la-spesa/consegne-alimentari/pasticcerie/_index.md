@@ -3,6 +3,6 @@ title: "Pasticcerie"
 type: "group"
 layout: "subsection"
 weight: 5
-logo: "utensils"
+logo: "birthday-cake"
 split: true
 ---
