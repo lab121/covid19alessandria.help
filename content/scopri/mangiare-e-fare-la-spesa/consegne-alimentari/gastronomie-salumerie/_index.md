@@ -2,7 +2,7 @@
 title: "Gastronomie e Salumerie"
 type: "group"
 layout: "subsection"
-logo: "utensils"
+logo: "hamburger"
 split: true
 weight: 3
 ---

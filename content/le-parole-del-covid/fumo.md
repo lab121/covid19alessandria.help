@@ -1,5 +1,5 @@
 ---
-title: "Metodi efficaci per smettere di fumare durante la pandemia COVID-9"
+title: "Metodi efficaci per smettere di fumare durante la pandemia COVID-19"
 link: "https://www.cochranelibrary.com/collections/doi/SC000042/full"
 date: 2020-03-31
 draft: false

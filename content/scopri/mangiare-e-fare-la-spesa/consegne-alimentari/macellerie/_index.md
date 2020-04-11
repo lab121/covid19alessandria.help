@@ -3,6 +3,6 @@ title: "Macellerie"
 type: "group"
 layout: "subsection"
 weight: 4
-logo: "utensils"
+logo: "drumstick-bite"
 split: true
 ---
