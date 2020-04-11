@@ -1,6 +1,6 @@
 ---
 title: "Resicar"
-link: "https://www.alxte.it"
+link: "https://www.grupporesicar.it/"
 phone: "0131.610.182 - 335.697.7182"
 mail: "r.siri@grupporesicar.it"
 address: "Via Clemente, 64, Spinetta Marengo"

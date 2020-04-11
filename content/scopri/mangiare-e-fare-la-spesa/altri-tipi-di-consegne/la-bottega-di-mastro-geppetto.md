@@ -1,8 +1,8 @@
 ---
 title: "La bottega di Mastro Geppetto"
-link: "https://www.alxte.it"
+link: "http://labottegadimastrogeppetto.com/"
 phone: "0131.227.348"
-mail: ""
+mail: "info@labottegadimastrogeppetto.com"
 address: "Via Milano Alessandria"
 coord_lat: 44.915251
 coord_lon: 8.613477

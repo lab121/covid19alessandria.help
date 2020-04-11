@@ -2,7 +2,7 @@
 title: "Pasticceria Zoccola 1820 srl"
 link: "https://www.pasticceriazoccola.com/"
 phone: "0131.254.767"
-mail: ""
+mail: "pasticceriazoccola7@gmail.com"
 address: "Corso Alfonso Lamarmora, 61 Alessandria"
 coord_lat: 44.911301
 coord_lon: 8.621258

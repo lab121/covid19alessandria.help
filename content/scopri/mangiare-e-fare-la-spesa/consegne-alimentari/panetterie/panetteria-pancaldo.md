@@ -2,7 +2,7 @@
 title: "Panetteria Pancaldo"
 link: "https://www.facebook.com/PancaldoAlessandriaCorsoRoma/"
 phone: "392.706.5186"
-mail: ""
+mail: "pancaldo.panetteria@gmail.com"
 address: "Corso Roma 121 Alessandria"
 coord_lat: 44.909932
 coord_lon: 8.611903 

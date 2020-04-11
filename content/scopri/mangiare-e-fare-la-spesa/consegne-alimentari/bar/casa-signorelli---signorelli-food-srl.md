@@ -2,7 +2,7 @@
 title: "Casa Signorelli - Signorelli Food srl"
 link: "https://www.facebook.com/casasignorelli/"
 phone: "0131.196.5155 - 0131.246.937"
-mail: ""
+mail: "info.eventi@rovidasignorelli.it"
 address: "Via dei Martiri, 1 Alessandria"
 coord_lat: 44.913702
 coord_lon: 8.615294

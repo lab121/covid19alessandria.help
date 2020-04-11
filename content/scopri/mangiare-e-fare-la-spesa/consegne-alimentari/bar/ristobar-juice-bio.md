@@ -2,7 +2,7 @@
 title: "Ristobar Juice Bio"
 link: ""
 phone: "370.374.2884"
-mail: ""
+mail: "gruppocavaliere@gmail.com"
 address: "Via Carlo Caniggia, 6 Alessandria"
 coord_lat: 44.909871
 coord_lon: 8.612906

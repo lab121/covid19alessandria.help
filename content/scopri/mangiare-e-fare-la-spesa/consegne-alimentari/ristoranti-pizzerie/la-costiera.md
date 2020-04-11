@@ -2,7 +2,7 @@
 title: "La costiera"
 link: "https://www.pizzerialacostiera.eu/"
 phone: "0131.432.35"
-mail: ""
+mail: "pietro.porpora@gmail.com"
 address: "Piazza Don Amilcare Soria, 4 Alessandria"
 coord_lat: 44.914885
 coord_lon: 8.621479

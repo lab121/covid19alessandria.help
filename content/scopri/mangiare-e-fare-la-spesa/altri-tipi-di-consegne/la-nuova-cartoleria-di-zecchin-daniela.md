@@ -1,6 +1,6 @@
 ---
 title: "La nuova Cartoleria di Zecchin Daniela"
-link: "https://www.alxte.it/negozio?shop=122"
+link: ""
 phone: "0131.267.219 - 328.657.4780"
 mail: "lanuovacartzecchin@libero.it"
 address: "Corso Virginia Marini, 81 Alessandria"

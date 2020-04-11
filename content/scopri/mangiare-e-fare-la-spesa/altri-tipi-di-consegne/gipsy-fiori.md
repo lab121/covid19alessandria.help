@@ -1,6 +1,6 @@
 ---
 title: "Gipsy Fiori"
-link: "https://www.alxte.it"
+link: "https://www.gipsyfiori.it/"
 phone: "338.254.1461"
 mail: "pieroamarante@libero.it"
 address: "Via Trotti, 32 Alessandria"

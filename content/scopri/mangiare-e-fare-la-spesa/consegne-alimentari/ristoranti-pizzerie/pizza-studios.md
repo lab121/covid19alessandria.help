@@ -2,7 +2,7 @@
 title: "Pizza Studios"
 link: "https://www.facebook.com/Pizza-Studios-Pizzeria-Napoletana-Alessandria-128229470563290/"
 phone: "0131.225.898"
-mail: ""
+mail: "pizzastudios@libero.it"
 address: "Via Gaetano Donizetti, 2 Alessandria"
 coord_lat: 44.919668
 coord_lon: 8.618360

@@ -1,8 +1,8 @@
 ---
 title: "Peter's Tea House"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.peters-teahouse.it/"
 phone: "0131.264.635"
-mail: ""
+mail: "alessandria@peters-teahouse.it"
 address: "Via San Lorenzo, 45 Alessandria"
 coord_lat: 44.912211
 coord_lon: 8.613825

@@ -2,7 +2,7 @@
 title: "Pasquarelli Fabrizio"
 link: "https://www.facebook.com/Pasquarelli-Fabrizio-pasticceria-103996544487731/"
 phone: "0131.345.304"
-mail: ""
+mail: "pasticcerecavalli@gmail.com"
 address: "Corso Carlo Marx, 29/D Alessandria"
 coord_lat: 44.901087
 coord_lon: 8.603356

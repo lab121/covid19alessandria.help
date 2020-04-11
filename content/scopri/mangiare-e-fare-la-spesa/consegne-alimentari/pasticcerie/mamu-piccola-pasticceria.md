@@ -2,7 +2,7 @@
 title: "Mamu Piccola Pasticceria"
 link: "https://www.facebook.com/MamuPasticceriaAlessandria/"
 phone: "338.651.1384 - 366.475.3477"
-mail: ""
+mail: "silviapaoli1991@gmail.com"
 address: "Via Savona, 20 Alessandria"
 coord_lat: 44.907837
 coord_lon: 8.611737

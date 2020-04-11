@@ -2,7 +2,7 @@
 title: "Bottega del Maiale"
 link: "https://bottega-del-maiale-alessandria.business.site/"
 phone: "0131.416.09"
-mail: ""
+mail: "bdmalessandria@gmail.com"
 address: "Via San Lorenzo, 86 Alessandria"
 coord_lat: 44.910885
 coord_lon: 8.613413

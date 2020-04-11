@@ -2,7 +2,7 @@
 title: "Panetteria Sandroni"
 link: "https://it-it.facebook.com/pages/category/Grocery-Store/Panetteria-Sandroni-Luisa-184614214949541/"
 phone: "334.168.7059"
-mail: ""
+mail: "sandroniluisa@gmail.com"
 address: "Corso IV Novembre, 47 Alessandria"
 coord_lat: 44.906041
 coord_lon: 8.621437

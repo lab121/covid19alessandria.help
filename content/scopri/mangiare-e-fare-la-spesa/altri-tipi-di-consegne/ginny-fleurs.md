@@ -1,6 +1,6 @@
 ---
 title: "Ginny Fleurs"
-link: "https://www.alxte.it"
+link: ""
 phone: "0131.222.898 - 333.521.8073"
 mail: "ivonemerlini@virgilio.it"
 address: "Spalto Rovereto, 48, Alessandria"

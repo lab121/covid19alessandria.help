@@ -2,7 +2,7 @@
 title: "Locatelli Bistrot"
 link: "https://www.facebook.com/Locatelli-Bistrot-Alessandria-107141867498533/"
 phone: "391.763.1095"
-mail: ""
+mail: "spoonservicessrl@gmail.com"
 address: "Galleria Guerci Alessandria"
 coord_lat: 44.912846
 coord_lon: 8.614917

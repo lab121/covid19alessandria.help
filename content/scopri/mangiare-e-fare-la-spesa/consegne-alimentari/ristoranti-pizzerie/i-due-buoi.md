@@ -2,7 +2,7 @@
 title: "I Due Buoi"
 link: "https://www.iduebuoi.it/homepage/"
 phone: "0131.517.105"
-mail: ""
+mail: "gourmet@iduebuoi.it"
 address: "Via Cavour, 34 Alessandria"
 coord_lat: 44.911105
 coord_lon: 8.616368

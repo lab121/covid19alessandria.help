@@ -2,7 +2,7 @@
 title: "Tip Tap"
 link: "https://www.facebook.com/TipTapAlessandria/"
 phone: "348.138.7823"
-mail: ""
+mail: "tiptapalessandria@gmail.com"
 address: "Via Parma, 14 Alessandria"
 coord_lat: 44.912357
 coord_lon: 8.618211
