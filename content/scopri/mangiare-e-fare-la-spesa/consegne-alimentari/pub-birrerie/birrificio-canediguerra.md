@@ -1,6 +1,6 @@
 ---
 title: "Birrificio Canediguerra"
-link: ""
+link: "https://www.canediguerra.com"
 phone: "0131.325.438"
 mail: "delivery@canediguerra.com"
 address: "Via del Prato, 11 Alessandria"

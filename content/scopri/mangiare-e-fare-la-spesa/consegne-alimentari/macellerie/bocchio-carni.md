@@ -1,6 +1,6 @@
 ---
 title: "Bocchio Carni srl"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: ""
 phone: "0131.299.464"
 mail: ""
 address: "Via Asti, Bosco Marengo"

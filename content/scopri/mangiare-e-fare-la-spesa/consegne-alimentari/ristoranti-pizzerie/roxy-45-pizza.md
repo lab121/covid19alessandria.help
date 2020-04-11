@@ -1,6 +1,6 @@
 ---
 title: "Roxy 45 Pizza"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/roxy45pizza"
 phone: "0131.224.557"
 mail: ""
 address: "Piazza Santa Maria Di Castello, 1 Alessandria"

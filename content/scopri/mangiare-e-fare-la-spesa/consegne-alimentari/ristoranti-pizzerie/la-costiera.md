@@ -1,6 +1,6 @@
 ---
 title: "La costiera"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.pizzerialacostiera.eu/"
 phone: "0131.432.35"
 mail: ""
 address: "Piazza Don Amilcare Soria, 4 Alessandria"

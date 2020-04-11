@@ -1,6 +1,6 @@
 ---
 title: "Pan di Zucchero"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/valquiriapandizucchero/"
 phone: "0131.481.716"
 mail: ""
 address: "Via Ferrara, 24 Alessandria"

@@ -1,6 +1,6 @@
 ---
 title: "Tip Tap"
-link: ""
+link: "https://www.facebook.com/TipTapAlessandria/"
 phone: "348.138.7823"
 mail: ""
 address: "Via Parma, 14 Alessandria"

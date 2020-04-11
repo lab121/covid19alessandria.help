@@ -1,6 +1,6 @@
 ---
 title: "Mamu Piccola Pasticceria"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/MamuPasticceriaAlessandria/"
 phone: "338.651.1384 - 366.475.3477"
 mail: ""
 address: "Via Savona, 20 Alessandria"

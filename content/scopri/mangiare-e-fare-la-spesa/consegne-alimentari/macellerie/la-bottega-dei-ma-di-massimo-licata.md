@@ -1,6 +1,6 @@
 ---
 title: "La Bottega dei Ma di Massimo Licata"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/pg/labottegadeima/about/"
 phone: "347.806.6651"
 mail: ""
 address: "Via Dante, 23 Alessandria"

@@ -1,6 +1,6 @@
 ---
 title: "I Due Buoi"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.iduebuoi.it/homepage/"
 phone: "0131.517.105"
 mail: ""
 address: "Via Cavour, 34 Alessandria"

@@ -1,6 +1,6 @@
 ---
 title: "Pizza Studios"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/Pizza-Studios-Pizzeria-Napoletana-Alessandria-128229470563290/"
 phone: "0131.225.898"
 mail: ""
 address: "Via Gaetano Donizetti, 2 Alessandria"

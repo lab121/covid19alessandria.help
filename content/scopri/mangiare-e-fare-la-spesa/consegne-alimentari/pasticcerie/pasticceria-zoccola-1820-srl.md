@@ -1,6 +1,6 @@
 ---
 title: "Pasticceria Zoccola 1820 srl"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.pasticceriazoccola.com/"
 phone: "0131.254.767"
 mail: ""
 address: "Corso Alfonso Lamarmora, 61 Alessandria"

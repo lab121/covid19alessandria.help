@@ -1,6 +1,6 @@
 ---
 title: "HOP mangiare di birra"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/HOP-mangiare-di-birra-165561040123033/"
 phone: "347.015.1401"
 mail: "remobenzi@gmail.com"
 address: "Via Arnaldo da Brescia, 13 Alessandria"

@@ -1,6 +1,6 @@
 ---
 title: "Pasticceria Gallina"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.pasticceriagallina.it"
 phone: "0131.527.91"
 mail: "info@pasticceriagallina.it"
 address: "Via Vochieri, 46 Alessandria"

@@ -1,6 +1,6 @@
 ---
 title: "Locatelli Bistrot"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/Locatelli-Bistrot-Alessandria-107141867498533/"
 phone: "391.763.1095"
 mail: ""
 address: "Galleria Guerci Alessandria"

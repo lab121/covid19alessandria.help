@@ -1,6 +1,6 @@
 ---
 title: "Panetteria Sandroni"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://it-it.facebook.com/pages/category/Grocery-Store/Panetteria-Sandroni-Luisa-184614214949541/"
 phone: "334.168.7059"
 mail: ""
 address: "Corso IV Novembre, 47 Alessandria"

@@ -1,6 +1,6 @@
 ---
 title: "Panetteria Pancaldo"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/PancaldoAlessandriaCorsoRoma/"
 phone: "392.706.5186"
 mail: ""
 address: "Corso Roma 121 Alessandria"

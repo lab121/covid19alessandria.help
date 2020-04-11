@@ -1,7 +1,7 @@
 ---
 title: "Panetteria Enza e Valerio 
 Coggiola"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/panetteriaartigianale/"
 phone: "333.278.0352"
 mail: ""
 address: "Via Nenni 74 Alessandria"

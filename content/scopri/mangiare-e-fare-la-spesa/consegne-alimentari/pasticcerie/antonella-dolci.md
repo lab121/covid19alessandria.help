@@ -1,6 +1,6 @@
 ---
 title: "Antonella Dolci"
-link: "https://www.alxte.it/negozio?shop=138"
+link: "https://www.maisonantonella1986.it/"
 phone: "349.693.4779"
 mail: "info@antonelladolci.it"
 address: "Piazza Giuseppe Garibaldi, 46 Alessandria"

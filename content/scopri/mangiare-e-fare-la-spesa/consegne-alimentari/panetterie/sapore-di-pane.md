@@ -1,6 +1,6 @@
 ---
 title: "Sapore di Pane"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://it-it.facebook.com/SaporeDiPaneSrl"
 phone: "339.599.0816"
 mail: ""
 address: "Via San Lorenzo 67, Alessandria"

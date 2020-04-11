@@ -1,6 +1,6 @@
 ---
 title: "Master Bakery"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://it-it.facebook.com/masterbakeryal"
 phone: "0131.342.244"
 mail: ""
 address: "Corso Acqui, 178 Alessandria"

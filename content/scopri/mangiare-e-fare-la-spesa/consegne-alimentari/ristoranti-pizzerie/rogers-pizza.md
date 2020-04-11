@@ -1,6 +1,6 @@
 ---
 title: "Roger's Pizza"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/RogersPizza"
 phone: "0131.224.036"
 mail: ""
 address: "Via Milazzo, 3/5 Alessandria"

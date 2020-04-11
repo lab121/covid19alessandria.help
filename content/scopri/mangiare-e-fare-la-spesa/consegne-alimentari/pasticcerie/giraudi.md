@@ -1,6 +1,6 @@
 ---
 title: "Giraudi Cioccolato Artigianale"
-link: "https://www.alxte.it/negozi-spesa"
+link: "https://www.giraudi.it/"
 phone: "335.838.9530"
 mail: ""
 address: "Via Baudolino Giraudi, 498 Castellazzo Bormida AL"

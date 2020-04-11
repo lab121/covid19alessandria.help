@@ -1,6 +1,6 @@
 ---
 title: "Miscotto, Laboratorio di pasticceria"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "http://www.miscotto.it/"
 phone: "392.371.5116"
 mail: "info@miscotto.it"
 address: "Via della cappelletta 40 Alessandria"

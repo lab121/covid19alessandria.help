@@ -1,6 +1,6 @@
 ---
 title: "Pastè"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "http://alpaste.it/"
 phone: "335.821.9395"
 mail: ""
 address: "Via Genova, 159 Fraz. Spinetta Marengo"

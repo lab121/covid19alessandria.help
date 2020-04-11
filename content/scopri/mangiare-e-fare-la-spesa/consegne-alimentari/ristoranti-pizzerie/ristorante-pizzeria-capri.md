@@ -1,6 +1,6 @@
 ---
 title: "Ristorante Pizzeria Capri"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/pizzeriaristorantecaprialessandria/"
 phone: "0131.231.990"
 mail: ""
 address: "Via Carlo Caniggia, 8 Alessandria"

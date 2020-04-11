@@ -1,6 +1,6 @@
 ---
 title: "Pizzeria Piazza Maino"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.pizzeriapiazzamaino.it/"
 phone: "342.149.3466"
 mail: ""
 address: "Via Galileo Galilei, 93 Alessandria"

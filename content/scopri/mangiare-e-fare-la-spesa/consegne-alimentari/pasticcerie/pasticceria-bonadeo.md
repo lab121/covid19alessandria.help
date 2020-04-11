@@ -1,6 +1,6 @@
 ---
 title: "Pasticceria Bonadeo"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "http://www.pasticceriabonadeo.it/"
 phone: "346.517.8981"
 mail: "pasticceriabonadeo@gmail.com"
 address: "Galleria Guerci Alessandria"

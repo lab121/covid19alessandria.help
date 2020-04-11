@@ -1,6 +1,6 @@
 ---
 title: "Malvicini Gian Carlo Pasticceria"
-link: "https://www.alxte.it/negozi-spesa"
+link: "https://www.facebook.com/pages/Pasticceria-Malvicini/776044755874959"
 phone: "334.288.1315"
 mail: "pasticceria.malvicini@gmail.com"
 address: "Corso Crimea, 17 Alessandria"

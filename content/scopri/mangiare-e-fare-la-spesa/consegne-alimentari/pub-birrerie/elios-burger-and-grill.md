@@ -1,6 +1,6 @@
 ---
 title: "Elio's Burger and Grill"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
+link: "https://www.facebook.com/eliosburgersandgrill/"
 phone: "0131.344.267"
 mail: ""
 address: "Corso Carlo Marx, 54 Alessandria"

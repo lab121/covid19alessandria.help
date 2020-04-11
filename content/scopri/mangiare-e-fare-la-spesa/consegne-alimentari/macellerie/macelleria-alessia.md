@@ -1,6 +1,6 @@
 ---
 title: "Macelleria Alessia"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/pages/category/Grocery-Store/Macelleria-Di-Via-Savona-107847467339122/"
 phone: "0131.266.082"
 mail: ""
 address: "Via Savona, 18 Alessandria"

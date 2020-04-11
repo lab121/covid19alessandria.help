@@ -1,6 +1,6 @@
 ---
 title: "Pizzeria-Gastronomia Al Castello"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/AlCastelloAlessandria"
 phone: "0131.222.802"
 mail: ""
 address: "Corso Monferrato, 91 Alessandria"
