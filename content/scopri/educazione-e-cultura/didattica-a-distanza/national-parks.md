@@ -4,7 +4,6 @@ link: "https://artsandculture.withgoogle.com/en-us/national-parks-service/parks"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

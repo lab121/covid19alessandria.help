@@ -4,7 +4,6 @@ link: "https://www.nga.gov/index.html"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

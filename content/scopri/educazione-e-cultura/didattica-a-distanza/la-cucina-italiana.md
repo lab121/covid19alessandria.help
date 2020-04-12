@@ -4,7 +4,6 @@ link: "https://www.lacucinaitaliana.it/news/in-primo-piano/corsi-video-la-cucina
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

@@ -4,7 +4,6 @@ link: "http://www.museivaticani.va/content/museivaticani/it/collezioni/musei/cap
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

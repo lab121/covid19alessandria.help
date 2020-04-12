@@ -4,7 +4,6 @@ link: "http://www.fondazionefs.it/content/fondazionefs/it/esplora-il-museo/tour-
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

@@ -4,7 +4,6 @@ link: "https://naturalhistory.si.edu/visit/virtual-tour"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

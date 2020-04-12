@@ -4,7 +4,6 @@ link: "https://artsandculture.google.com/project/360-videos?hl=it"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

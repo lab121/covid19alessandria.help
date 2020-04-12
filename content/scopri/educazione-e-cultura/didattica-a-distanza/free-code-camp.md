@@ -4,7 +4,6 @@ link: "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae67
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

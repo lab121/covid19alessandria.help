@@ -4,7 +4,6 @@ link: "https://my.matterport.com/show/?m=vLYoS66CWpk&fbclid=IwAR0Ca40_9QLqnz8b3p
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-07
 ---

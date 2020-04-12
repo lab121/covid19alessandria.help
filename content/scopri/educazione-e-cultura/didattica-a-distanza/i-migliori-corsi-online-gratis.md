@@ -4,7 +4,6 @@ link: "https://www.pieromazzini.com/i-migliori-corsi-online-gratis/"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

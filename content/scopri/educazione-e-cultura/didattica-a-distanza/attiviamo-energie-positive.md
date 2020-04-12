@@ -4,7 +4,6 @@ link: "https://www.attiviamoenergiepositive.it/?fbclid=IwAR1NJdRlmvV6gPM8GGZR4dA
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

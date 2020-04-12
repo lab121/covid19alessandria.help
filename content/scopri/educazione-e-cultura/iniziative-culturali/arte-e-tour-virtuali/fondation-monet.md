@@ -4,7 +4,6 @@ link: "https://fondation-monet.com/visite-virtuelle/"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-10
 ---

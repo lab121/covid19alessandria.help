@@ -4,7 +4,6 @@ link: "https://it.babbel.com/it/magazine/un-mese-di-corsi-gratis-con-babbel"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---
