@@ -14,21 +14,20 @@ Installare hugo di sistema oppure usare il binario già presente
 
     $ tar vfxz hugo_0.68.3_Linux-64bit.tar.gz
 
-Installare Node.js oppure creare una immagine docker in questa maniera ( se si decide per Node.js di sistema basta installare i pacchetti listati nel file *docker/Dockerfile* )
+Installare Node.js 
 
-    $ cd docker/
-    $ docker build . -t covidale-node-8 
-
-Ad ogni modifica degli stili o Javascript è necessario ricompilarli con node.js:
+    $ cd /home/work/devel/covid19alessandria.help/themes/bootstrap
+    $ npm install
+    $ npm run build
 
 Con Docker
 
-    $ docker run --rm -v /abs_path/covid19alessandria.help/themes/bootstrap:/user/app -w /user/app covidale-node-8 npm run build
+    $ docker run --rm -v /path_al_codice/covid19alessandria.help/themes/bootstrap:/user/app -w /user/app node:8 npm install
+    $ docker run --rm -v /path_al_codice/covid19alessandria.help/themes/bootstrap:/user/app -w /user/app node:8 npm run build
 
-Senza Docker 
+# Troubleshooting 
 
-    $ cd /home/work/devel/covid19alessandria.help/themes/bootstrap
-    $ npm run build
+In caso di errori con i package rimuovi la dir ``node_modules`` e riesegui install e build step di npm 
 
 ## Development server con Hugo ##
 
