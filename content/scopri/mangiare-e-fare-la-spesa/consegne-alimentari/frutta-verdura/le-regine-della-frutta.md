@@ -4,7 +4,6 @@ link: ""
 phone: "349.774.0699"
 mail: ""
 address: ""
-coord: ""
 source: "Confesercenti"
 date: 2020-04-02
 ---

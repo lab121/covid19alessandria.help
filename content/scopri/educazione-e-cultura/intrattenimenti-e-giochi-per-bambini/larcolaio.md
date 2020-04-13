@@ -4,7 +4,6 @@ link: "https://www.facebook.com/permalink.php?story_fbid=2536042956654052&id=217
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

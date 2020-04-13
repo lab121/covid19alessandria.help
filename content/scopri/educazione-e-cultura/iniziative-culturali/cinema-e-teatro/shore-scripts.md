@@ -4,7 +4,6 @@ link: "https://www.shorescripts.com/free-screenplays-to-learn-how-to-be-a-screen
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

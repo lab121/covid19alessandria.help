@@ -4,7 +4,6 @@ link: "https://librivox.org/search?primary_key=4&search_category=language&search
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

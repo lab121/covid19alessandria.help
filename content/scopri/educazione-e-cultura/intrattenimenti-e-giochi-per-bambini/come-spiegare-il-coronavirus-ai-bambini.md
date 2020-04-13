@@ -4,7 +4,6 @@ link: "http://www.culturaesviluppo.it/wordpress/wp-content/uploads/2020/03/agia_
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

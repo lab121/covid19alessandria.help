@@ -4,7 +4,6 @@ link: "http://www.didatticarte.it/Blog/?page_id=12540&fbclid=IwAR1q-NPCMqodLWm96
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

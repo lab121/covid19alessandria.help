@@ -4,7 +4,6 @@ link: "https://www.lospaziobianco.it/restiamoacasa-fumetti-gratuiti-online/"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

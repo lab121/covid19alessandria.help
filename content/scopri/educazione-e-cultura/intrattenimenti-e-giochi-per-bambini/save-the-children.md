@@ -4,7 +4,6 @@ link: "https://www.savethechildren.it/blog-notizie/alleniamo-la-mente-8-attivita
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

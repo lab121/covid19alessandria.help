@@ -4,7 +4,6 @@ link: "https://www.beic.it/it/articoli/biblioteca-digitale?fbclid=IwAR3vt69f6Xbh
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

@@ -4,7 +4,6 @@ link: "https://www.lab121.org/formazione/"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-06
 ---

@@ -4,7 +4,6 @@ link: "https://www.accademiaperosi.org/?utm_source=&utm_medium=&utm_term=&utm_co
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

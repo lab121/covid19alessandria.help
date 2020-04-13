@@ -4,7 +4,6 @@ link: "https://www.youtube.com/channel/UCD0nBMLdq_KbIK9u-mzpNkA"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-03
 ---

@@ -4,7 +4,6 @@ link: "https://www.culturaesviluppo.it/laculturanonsiferma"
 phone: ""
 mail: "laculturanonsiferma@culturaesviluppo.it"
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

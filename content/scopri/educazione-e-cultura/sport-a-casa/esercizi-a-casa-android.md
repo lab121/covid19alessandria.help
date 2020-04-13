@@ -4,7 +4,6 @@ link: "https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.no
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-03
 ---

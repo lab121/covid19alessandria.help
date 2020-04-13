@@ -4,7 +4,6 @@ link: "http://radio.garden/visit"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

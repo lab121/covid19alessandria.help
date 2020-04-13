@@ -4,7 +4,6 @@ link: "https://www.youtube.com/user/WomensHealthMag"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-03
 ---

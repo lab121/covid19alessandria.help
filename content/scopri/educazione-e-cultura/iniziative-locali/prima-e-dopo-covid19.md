@@ -4,7 +4,6 @@ link: "https://www.lab121.org/prima-e-dopo-il-covid19/"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

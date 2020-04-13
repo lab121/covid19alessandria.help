@@ -4,7 +4,6 @@ link: "https://www.keeponlive.com/blog/iniziative/stayon-perch-l-arte-non-pu-fin
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

@@ -4,7 +4,6 @@ link: "http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

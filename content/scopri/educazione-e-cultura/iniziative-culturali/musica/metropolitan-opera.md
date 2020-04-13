@@ -4,7 +4,6 @@ link: "https://operawire.com/metropolitan-opera-to-offer-up-nightly-met-opera-st
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

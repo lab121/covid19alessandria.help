@@ -4,7 +4,6 @@ link: ""
 phone: "333.6612598 - 329.4070192"
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-03
 ---

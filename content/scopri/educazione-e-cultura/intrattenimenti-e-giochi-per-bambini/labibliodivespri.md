@@ -4,7 +4,6 @@ link: "https://labibliodivespri.blogspot.com/2020/03/cera-una-volta-un-re.html?s
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

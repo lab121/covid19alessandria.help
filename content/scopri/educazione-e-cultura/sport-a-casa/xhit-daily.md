@@ -4,7 +4,6 @@ link: "https://www.youtube.com/channel/UCM1Nde-9eorUhq-teaWlgUA"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-03
 ---

@@ -4,7 +4,6 @@ link: "https://www.vogue.it/news/article/vogue-italia-gratis-per-tre-mesi-come-o
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

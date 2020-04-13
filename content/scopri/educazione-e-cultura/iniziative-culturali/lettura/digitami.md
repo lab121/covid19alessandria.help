@@ -4,7 +4,6 @@ link: "http://www.digitami.it/percorso.do;jsessionid=E1D44C73E6E6521312554725FA5
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

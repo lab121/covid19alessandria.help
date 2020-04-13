@@ -4,7 +4,6 @@ link: "https://join.skype.com/k9sxXvEtp7eO?fbclid=IwAR12XamdqijeSpxTcw2fP3W6f586
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-03
 ---

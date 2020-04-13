@@ -4,7 +4,6 @@ link: "https://www.cinetecamilano.it/biblioteca/catalogo/login"
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

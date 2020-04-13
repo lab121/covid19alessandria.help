@@ -1,6 +1,5 @@
 ---
-title: "Panetteria Enza e Valerio 
-Coggiola"
+title: "Panetteria Enza e Valerio Coggiola"
 link: "https://www.facebook.com/panetteriaartigianale/"
 phone: "333.278.0352"
 mail: ""

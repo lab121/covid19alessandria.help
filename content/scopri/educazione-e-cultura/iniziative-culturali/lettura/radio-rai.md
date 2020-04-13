@@ -4,7 +4,6 @@ link: "https://www.raiplayradio.it/articoli/2018/01/Radio3--Ad-alta-voce--tutti-
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---

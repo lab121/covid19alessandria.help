@@ -4,7 +4,6 @@ link: "https://www3.nhk.or.jp/nhkworld/en/ondemand/program/video/10yearshayaomiy
 phone: ""
 mail: ""
 address: ""
-coord: ""
 source: ""
 date: 2020-04-02
 ---
