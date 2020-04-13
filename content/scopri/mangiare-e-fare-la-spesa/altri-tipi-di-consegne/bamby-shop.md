@@ -1,6 +1,6 @@
 ---
 title: "Bamby Shop"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/Bamby-shop-223011514914129/"
 phone: "388.994. 3578"
 mail: ""
 address: "via Galvani, 10 Alessandria"

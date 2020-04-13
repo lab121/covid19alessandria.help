@@ -1,6 +1,6 @@
 ---
 title: "Chiariotti Foto"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/Foto-Cine-Chiariotti-194758703873003/"
 phone: "0131.441.068 - 327.053.1041"
 mail: "cesare.chiariotti@gmail.com"
 address: "Via Galilei, 72 Alessandria"

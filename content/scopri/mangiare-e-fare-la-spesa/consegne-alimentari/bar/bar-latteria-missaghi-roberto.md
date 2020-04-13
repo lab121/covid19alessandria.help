@@ -2,7 +2,7 @@
 title: "Bar Latteria Missaghi Roberto"
 link: ""
 phone: "348.463.8410"
-mail: ""
+mail: "missaghiroberto@libero.it"
 address: "Via Maggioli, 35 Alessandria"
 coord_lat: 44.902154
 coord_lon: 8.606632

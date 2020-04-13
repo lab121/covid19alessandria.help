@@ -1,6 +1,6 @@
 ---
 title: "Edicola Bersi Giancarlo"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: ""
 phone: "333.663.3262"
 mail: ""
 address: "C.so Cavallotti Alessandria"

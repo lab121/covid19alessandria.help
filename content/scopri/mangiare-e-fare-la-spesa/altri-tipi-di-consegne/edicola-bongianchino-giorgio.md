@@ -1,6 +1,6 @@
 ---
 title: "Edicola Bongianchino Giorgio"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: ""
 phone: "334.907.9850"
 mail: ""
 address: "C.so Crimea/Giardini pubblici Alessandria"

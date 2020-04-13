@@ -1,6 +1,7 @@
 ---
 title: "ECOS Mind, servizio gratuito di supporto psicologico"
 link: "https://www.ecos-europe.com/nasce-ecos-mind-servizio-gratuito-di-supporto-psicologico/"
+mail: "info@ecos-europe.com"
 date: 2020-04-01
 draft: false
 weight: 9

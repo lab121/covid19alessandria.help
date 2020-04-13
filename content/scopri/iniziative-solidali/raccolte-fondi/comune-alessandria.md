@@ -1,6 +1,7 @@
 ---
 title: "Progetto di aiuto della città di Alessandria - Comune di Alessandria"
 link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2108"
+mail: "urp@comune.alessandria.it"
 date: 2020-04-08
 draft: false
 ---

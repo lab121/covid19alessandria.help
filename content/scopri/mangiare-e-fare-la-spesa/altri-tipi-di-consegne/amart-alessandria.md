@@ -1,6 +1,6 @@
 ---
 title: "Amart Alessandria"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/Amart.alessandria.it"
 phone: "331.950.3929"
 mail: ""
 address: "Via Angelo Morbelli, 16, Alessandria"

@@ -1,6 +1,6 @@
 ---
 title: "Riprocentro"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "http://www.riprocentro.it/"
 phone: "0131.235.742"
 mail: "riprocentro@gmail.com"
 address: "Via Arnaldo da Brescia, 16, Alessandria"
