@@ -1,6 +1,6 @@
 ---
 title: "Intimo 2012"
-link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
+link: "https://www.facebook.com/Intimo2012/"
 phone: "339.397.6036"
 mail: ""
 address: "Galleria Guerci, 2, Alessandria"

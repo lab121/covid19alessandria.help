@@ -2,7 +2,7 @@
 title: "Giraudi Cioccolato Artigianale"
 link: "https://www.giraudi.it/"
 phone: "335.838.9530"
-mail: ""
+mail: "info@giraudi.it"
 address: "Via Baudolino Giraudi, 498 Castellazzo Bormida AL"
 coord_lat: 44.855046
 coord_lon: 8.545117

@@ -2,7 +2,7 @@
 title: "Bocchio Carni srl"
 link: ""
 phone: "0131.299.464"
-mail: ""
+mail: "bocchio.carni@libero.it"
 address: "Via Asti, Bosco Marengo"
 coord_lat: 44.826483
 coord_lon: 8.684308 

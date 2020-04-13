@@ -2,7 +2,7 @@
 title: "Coffee Break"
 link: "https://www.facebook.com/coffee.breaksas/"
 phone: "0131.249.020"
-mail: ""
+mail: "coffee.breaksas@libero.it"
 address: "Via del Legno, 23 Alessandria"
 coord_lat: 44.891714
 coord_lon: 8.615560

@@ -2,7 +2,7 @@
 title: "Pastè"
 link: "http://alpaste.it/"
 phone: "335.821.9395"
-mail: ""
+mail: "paste.spinetta@gmail.com"
 address: "Via Genova, 159 Fraz. Spinetta Marengo"
 coord_lat: 44.885135
 coord_lon: 8.681117
