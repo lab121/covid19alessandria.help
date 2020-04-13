@@ -1,6 +1,6 @@
 ---
 title: "Forlini-Provera Pierpaola"
-link: "https://radiogold.it/cronaca/224279-lelenco-confesercenti-dei-negozi-consegnano-alessandria/"
+link: ""
 phone: "338.483.1698"
 mail: ""
 address: "Via Casalbagliano, 171 Alessandria"

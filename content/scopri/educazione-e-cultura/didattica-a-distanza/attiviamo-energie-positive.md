@@ -1,6 +1,6 @@
 ---
 title: "Attiviamo energie positive"
-link: "https://www.attiviamoenergiepositive.it/?fbclid=IwAR1NJdRlmvV6gPM8GGZR4dA8ObpADrwC1ze3UQkvQNCD9HqhudXBPfHN2sI"
+link: "https://www.attiviamoenergiepositive.it/"
 phone: ""
 mail: ""
 address: ""

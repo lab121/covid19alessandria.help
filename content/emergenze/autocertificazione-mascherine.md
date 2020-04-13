@@ -1,6 +1,7 @@
 ---
 title: "Coronavirus: istruzioni alle imprese per test autocertificazioni"
 link: "https://www.regione.piemonte.it/web/temi/sviluppo/sistema-ricerca-innovazione/coronavirus-istruzioni-alle-imprese-per-test-autocertificazioni"
+mail: "urpalessandria@regione.piemonte.it"
 date: 2020-03-31
 draft: false
 weight: 6

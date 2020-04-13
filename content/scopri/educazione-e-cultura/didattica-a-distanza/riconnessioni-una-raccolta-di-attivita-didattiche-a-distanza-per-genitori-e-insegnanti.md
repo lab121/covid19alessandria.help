@@ -2,7 +2,7 @@
 title: "Riconnessioni: una raccolta di attività didattiche a distanza per genitori e insegnanti"
 link: "https://www.riconnessioni.it/"
 phone: ""
-mail: ""
+mail: "riconnessioni@fondazionescuola.it"
 address: ""
 source: ""
 date: 2020-04-02

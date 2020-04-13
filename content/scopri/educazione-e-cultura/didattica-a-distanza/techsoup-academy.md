@@ -2,7 +2,7 @@
 title: "TechSoup Academy"
 link: "https://www.techsoup.it/academy"
 phone: ""
-mail: ""
+mail: "customerservice@techsoup.it"
 address: ""
 source: ""
 date: 2020-04-02
