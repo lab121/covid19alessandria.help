@@ -1,6 +1,6 @@
 ---
 title: "Bimbi e ragazzi connessi, come tutelarli"
-link: "https://www.youtube.com/channel/UC6dMi4xvj_9tKoqcrL7TgdQ"
+link: "https://youtu.be/xP1SfeGT7FM"
 phone: ""
 mail: ""
 address: ""
