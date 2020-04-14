@@ -7,6 +7,7 @@ address: "Spalto Marengo, 110 Alessandria"
 coord_lat: 44.911594
 coord_lon: 8.626866
 source: "ASCOM"
+draft: true
 date: 2020-04-13
 ---
 
