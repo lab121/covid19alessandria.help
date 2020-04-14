@@ -4,7 +4,7 @@ link: "https://youtu.be/xP1SfeGT7FM"
 phone: ""
 mail: ""
 address: ""
-wight: "1"
+weight: "1"
 source: ""
 date: 2020-04-14
 ---
