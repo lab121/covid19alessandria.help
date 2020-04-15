@@ -2,7 +2,7 @@
 title: "BellaStoria: scoprire le realtà positive di Alessandria"
 link: "https://sites.google.com/view/bellastorialessandria/home"
 phone: ""
-mail: ""
+mail: "bellastoria.ale@gmail.com"
 address: ""
 source: ""
 date: 2020-04-03

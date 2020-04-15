@@ -1,6 +1,6 @@
 ---
 title: "British Museum"
-link: "https://www.louvre.fr/en/visites-en-ligne"
+link: "https://www.britishmuseum.org/"
 phone: ""
 mail: ""
 address: ""
