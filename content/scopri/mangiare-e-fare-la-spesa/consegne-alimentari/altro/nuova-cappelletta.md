@@ -10,4 +10,5 @@ source: "Confagricoltura Piemonte"
 date: 2020-04-15
 ---
 
+Vini biologici e biodinamici in bottiglia.
 E-shop con condizioni sul sito. corriere con consegne in tutta italia.
