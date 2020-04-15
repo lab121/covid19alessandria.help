@@ -28,14 +28,8 @@ enableRobotsTXT = true
     vars = ["title"]
     params = []
 
-[outputFormats.Opendata]
-    baseName = "opendata"
-    isPlainText = true
-    mediaType = "text/csv"
-    notAlternative = true
-
 [outputs]
-    home = ["HTML", "RSS", "Algolia", "Opendata"]
+    home = ["HTML", "RSS", "Algolia"]
 
 [sitemap]
     changefreq = "monthly"
