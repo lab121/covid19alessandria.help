@@ -8,4 +8,6 @@ source: ""
 date: 2020-04-02
 ---
 
-Spiegare
+Cari genitori, anche se stiamo vivendo una situazione complicata che richiede di tenere alta l’attenzione, non dobbiamo trasmettere paura ai più piccoli. 
+Dobbiamo certamente proteggerli, ma senza spaventarli, e soprattutto dobbiamo dialogare con loro.
+Eccovi, allora, alcuni suggerimenti su cosa dire e su come rispondere ai tanti perché dei nostri bambini.
