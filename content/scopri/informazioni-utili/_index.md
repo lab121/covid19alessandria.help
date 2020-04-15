@@ -3,6 +3,7 @@ title: "Informazioni utili"
 type: "group"
 layout: "section"
 logo: "broadcast-tower"
+promote_to_home: true
 weight: 7
 ---
 

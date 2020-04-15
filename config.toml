@@ -4,6 +4,7 @@ DefaultContentLanguage = "it"
 title = "Covid19Alessandria.help"
 theme = "bootstrap"
 enableRobotsTXT = true
+enableGitInfo = true
 
 [taxonomies]
   categoria = "categoria"
@@ -25,8 +26,14 @@ enableRobotsTXT = true
     vars = ["title"]
     params = []
 
+[outputFormats.Opendata]
+    baseName = "opendata"
+    isPlainText = true
+    mediaType = "text/csv"
+    notAlternative = true
+
 [outputs]
-    home = ["HTML", "RSS", "Algolia"]
+    home = ["HTML", "RSS", "Algolia", "Opendata"]
 
 [sitemap]
   changefreq = "monthly"
