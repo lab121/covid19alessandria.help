@@ -10,5 +10,6 @@ source: "Confagricoltura Piemonte"
 date: 2020-04-15
 ---
 
+Vino in bottiglia e in bag da 5 litri.
 Consegna gratuita con ordine minimo di 100 €.
 Consegna con corriere in tutta italia.
