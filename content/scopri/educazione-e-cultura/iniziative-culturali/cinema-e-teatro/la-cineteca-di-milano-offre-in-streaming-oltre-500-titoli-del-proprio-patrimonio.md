@@ -2,7 +2,7 @@
 title: "Cineteca di Milano"
 link: "https://www.cinetecamilano.it/biblioteca/catalogo/login"
 phone: ""
-mail: ""
+mail: "info@cinetecamilano.it"
 address: ""
 source: ""
 date: 2020-04-02
