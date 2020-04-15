@@ -10,6 +10,7 @@ source: "Confagricoltura Piemonte"
 date: 2020-04-15
 ---
 
+Gavi docg, Spumanti, Rosato.
 Ordine minimo in valore: 45 euro. 
 Modalità di consegna ai clienti e raggio di consegna: si consegna in tutta Italia. 
 Per Nord Italia consegna gratuita a partire da 6 bottiglie.
