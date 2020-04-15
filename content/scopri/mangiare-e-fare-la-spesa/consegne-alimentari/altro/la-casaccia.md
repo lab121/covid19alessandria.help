@@ -10,5 +10,7 @@ source: "Confagricoltura Piemonte"
 date: 2020-04-15
 ---
 
-Raggio di consegna 30 km e più lontano tramite corriere. 
+Vini biologici Barbera del Monferrato doc, Grignolino del Monferrato Casalese doc, Chardonnay Piemonte doc, Freisa del Monferrato doc. 
+Tipologie di vino visibili sulla pagina del sito ordine minimo in valore 2/3 cartoni (70/80 euro)
+Raggio di consegna 30 km, più lontano tramite corriere. 
 Pagamento in contanti o tramite bonifico bancario.
