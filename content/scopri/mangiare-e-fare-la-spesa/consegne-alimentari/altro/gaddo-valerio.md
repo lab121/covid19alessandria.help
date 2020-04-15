@@ -8,4 +8,5 @@ source: "Confagricoltura Piemonte"
 date: 2020-04-15
 ---
 
+Vino sfuso e bottiglie (cartoni da 6 bottiglie e da 12).
 Ordine minimo: euro 150. Consegna: a domicilio dell'acquirente. Zone di consegna: Piemonte - Liguria - Lombardia ed Emilia Romagna.
