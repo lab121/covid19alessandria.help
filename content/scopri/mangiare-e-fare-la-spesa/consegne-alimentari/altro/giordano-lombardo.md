@@ -10,4 +10,5 @@ source: "Confagricoltura Piemonte"
 date: 2020-04-15
 ---
 
+Vini biologici (Gavi DOCG del Comune di Gavi – Piemonte Barbera DOC – vino bianco – vino rosso).
 Consegna in tutta Italia tramite GLS. Ordine minimo 6 bottiglie.
