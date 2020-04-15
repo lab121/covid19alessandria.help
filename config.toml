@@ -5,9 +5,6 @@ title = "Covid19Alessandria.help"
 theme = "bootstrap"
 enableRobotsTXT = true
 
-[frontmatter]
-    lastmod = [":fileModTime", ":default"]
-
 [taxonomies]
     categoria = "categoria"
 
