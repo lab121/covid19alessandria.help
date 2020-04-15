@@ -10,4 +10,5 @@ source: "Confagricoltura Piemonte"
 date: 2020-04-15
 ---
 
+Vino sfuso e in bottiglia.
 In base ai km il minimo(che rimane di 50€) può variare. La consegna verrà effettuata dal titolare per un raggio di consegna di circa 50 km.
