@@ -6,4 +6,4 @@ draft: false
 weight: 1
 ---
 
-La garanzia pubblica che facilita l'accesso allo stanziamento fino a 25.000,00€ delle PMI e dei Professionisti.
+La garanzia pubblica che facilita l'accesso allo stanziamento fino a 25.000,00€ per le PMI e dei Professionisti.
