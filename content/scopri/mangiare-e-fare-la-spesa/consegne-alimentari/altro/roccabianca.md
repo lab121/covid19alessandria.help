@@ -9,3 +9,5 @@ coord_lon: 8.439026
 source: "Confagricoltura Piemonte"
 date: 2020-04-15
 ---
+
+Vini, uova, uova fertili e altri prodotti stagionali.
