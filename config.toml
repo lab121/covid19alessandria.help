@@ -5,8 +5,11 @@ title = "Covid19Alessandria.help"
 theme = "bootstrap"
 enableRobotsTXT = true
 
+[frontmatter]
+    lastmod = [":fileModTime", ":default"]
+
 [taxonomies]
-  categoria = "categoria"
+    categoria = "categoria"
 
 [params]
     author = "lab121.org"
@@ -29,4 +32,4 @@ enableRobotsTXT = true
     home = ["HTML", "RSS", "Algolia"]
 
 [sitemap]
-  changefreq = "monthly"
+    changefreq = "monthly"

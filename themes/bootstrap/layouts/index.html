@@ -14,185 +14,198 @@
 {{ end }}
 
 {{ define "main" }}
-    <div class="row mb-5 sections">
-        <div class="col-sm-4 col-md-4 col-lg-2 mb-3 text-center">
-            <a href="/scopri">
-                <img class="rounded-circle bg-grey mb-4"
-                     src="/images/icons/ico_scopri.png"
-                     alt="Scopri">
-                <h4>Scopri</h4>
-            </a>
-        </div>
-        <div class="col-sm-4 col-md-4 col-lg-2 mb-3 text-center">
-            <a href="/chi-siamo">
-                <img class="rounded-circle bg-grey mb-4"
-                     src="/images/icons/ico_chisiamo.png"
-                     alt="Chi siamo">
-                <h4>Chi siamo</h4>
-            </a>
-        </div>
-        <div class="col-sm-4 col-md-4 col-lg-2 mb-3 text-center">
-            <a href="/partecipa">
-                <img class="rounded-circle bg-grey mb-4"
-                     src="/images/icons/ico_partecipa.png"
-                     alt="Partecipa">
-                <h4>Partecipa</h4>
-            </a>
-        </div>
-        <div class="col-sm-4 col-md-4 col-lg-2 mb-3 text-center">
-            <a href="/buone-pratiche">
-                <img class="rounded-circle bg-grey mb-4"
-                     src="/images/icons/ico_buonepratiche.png"
-                     alt="Buone pratiche">
-                <h4>Buone pratiche</h4>
-            </a>
-        </div>
-        <div class="col-sm-4 col-md-4 col-lg-2 mb-3 text-center">
-            <a href="/le-parole-del-covid">
-                <img class="rounded-circle bg-grey mb-4"
-                     src="/images/icons/ico_scientifica.png"
-                     alt="Le parole del Covid">
-                <h4>Le parole del Covid</h4>
-            </a>
-        </div>
-        <div class="col-sm-4 col-md-4 col-lg-2 mb-3 text-center">
-            <a href="/emergenze">
-                <img class="rounded-circle bg-grey mb-4"
-                     src="/images/icons/ico_emergenze.png"
-                     alt="Emergenze">
-                <h4>Emergenze</h4>
-            </a>
+<div class="pt-5 pb-5 bg-grey1">
+    <div class="container">
+        <div class="row sections">
+            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
+                <a href="/scopri">
+                    <img class="rounded-circle bg-grey mb-4"
+                         src="/images/icons/ico_scopri.png"
+                         alt="Scopri">
+                    <h4>Scopri</h4>
+                </a>
+            </div>
+            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
+                <a href="/chi-siamo">
+                    <img class="rounded-circle bg-grey mb-4"
+                         src="/images/icons/ico_chisiamo.png"
+                         alt="Chi siamo">
+                    <h4>Chi siamo</h4>
+                </a>
+            </div>
+            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
+                <a href="/partecipa">
+                    <img class="rounded-circle bg-grey mb-4"
+                         src="/images/icons/ico_partecipa.png"
+                         alt="Partecipa">
+                    <h4>Partecipa</h4>
+                </a>
+            </div>
+            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
+                <a href="/buone-pratiche">
+                    <img class="rounded-circle bg-grey mb-4"
+                         src="/images/icons/ico_buonepratiche.png"
+                         alt="Buone pratiche">
+                    <h4>Buone pratiche</h4>
+                </a>
+            </div>
+            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
+                <a href="/le-parole-del-covid">
+                    <img class="rounded-circle bg-grey mb-4"
+                         src="/images/icons/ico_scientifica.png"
+                         alt="Le parole del Covid">
+                    <h4>Le parole del Covid</h4>
+                </a>
+            </div>
+            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
+                <a href="/emergenze">
+                    <img class="rounded-circle bg-grey mb-4"
+                         src="/images/icons/ico_emergenze.png"
+                         alt="Emergenze">
+                    <h4>Emergenze</h4>
+                </a>
+            </div>
         </div>
     </div>
+</div>
 
-    <div class="row">
-        <div class="col-md-12">
-            <h4 class="mb-3"><span class="fas fa-pencil-alt" aria-hidden="true"></span> Segnala</h4>
+<div class="pt-5 pb-5 bg-grey2">
+    <div class="container">
+        {{ partial "updated.html" . }}
+    </div>
+</div>
 
-            <div class="kwes-form">
-                <form method="POST" action="https://kwes.io/api/foreign/forms/4tNNfBH53Xuc0kKIl2fM">
-                    <div class="row">
-                        <div class="col-md-6 mb-3">
-                            <label for="name">Nome *</label>
-                            <input type="text" class="form-control" id="name" name="name" rules="required">
+<div class="pt-5 pb-5 bg-grey1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h4 class="mb-3"><span class="fas fa-pencil-alt" aria-hidden="true"></span> Segnala</h4>
+
+                <div class="kwes-form">
+                    <form method="POST" action="https://kwes.io/api/foreign/forms/4tNNfBH53Xuc0kKIl2fM">
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label for="name">Nome *</label>
+                                <input type="text" class="form-control" id="name" name="name" rules="required">
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="category">Categoria *</label>
+                                <select type="text" class="form-control" id="category" name="category"
+                                        rules="required">
+                                    {{ range .Params.form_options}}
+                                        <option>{{ . }}</option>
+                                    {{ end }}
+                                </select>
+                            </div>
                         </div>
-                        <div class="col-md-6 mb-3">
-                            <label for="category">Categoria *</label>
-                            <select type="text" class="form-control" id="category" name="category"
-                                    rules="required">
-                                {{ range .Params.form_options}}
-                                    <option>{{ . }}</option>
-                                {{ end }}
-                            </select>
+
+                        <div class="mb-3">
+                            <label for="message">Messaggio *</label>
+                            <textarea class="form-control" id="message" name="message" rules="required"></textarea>
                         </div>
-                    </div>
 
-                    <div class="mb-3">
-                        <label for="message">Messaggio *</label>
-                        <textarea class="form-control" id="message" name="message" rules="required"></textarea>
-                    </div>
-
-                    <div class="mb-3">
-                        <label for="address">Indirizzo</label>
-                        <input type="text" class="form-control" id="address" name="address">
-                    </div>
-
-                    <div class="mb-3">
-                        <label for="phone">Telefono</label>
-                        <input type="text" class="form-control" id="phone" name="phone">
-                    </div>
-
-                    <div class="mb-3">
-                        <label for="email">Email</label>
-                        <input type="text" class="form-control" id="email" name="email" rules="email">
-                    </div>
-
-                    <div class="mb-3">
-                        <label for="link">Link</label>
-                        <input type="text" class="form-control" id="link" name="link">
-                    </div>
-
-                    <div class="mb-3">
-                        <div class="kw-checkbox-group" rules="required">
-                            <input type="checkbox" name="privacy" value="privacy" id="privacy"
-                                   label="Confermo di aver letto e accettato l'informativa trattamento dati personali">
+                        <div class="mb-3">
+                            <label for="address">Indirizzo</label>
+                            <input type="text" class="form-control" id="address" name="address">
                         </div>
-                    </div>
 
-                    <div class="row">
-                        <div class="col-md-6 mb-3 offset-md-3">
-                            <button class="btn btn-primary btn-lg btn-block bg-orange" type="submit">Invia</button>
+                        <div class="mb-3">
+                            <label for="phone">Telefono</label>
+                            <input type="text" class="form-control" id="phone" name="phone">
                         </div>
-                    </div>
-                </form>
+
+                        <div class="mb-3">
+                            <label for="email">Email</label>
+                            <input type="text" class="form-control" id="email" name="email" rules="email">
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="link">Link</label>
+                            <input type="text" class="form-control" id="link" name="link">
+                        </div>
+
+                        <div class="mb-3">
+                            <div class="kw-checkbox-group" rules="required">
+                                <input type="checkbox" name="privacy" value="privacy" id="privacy"
+                                       label="Confermo di aver letto e accettato l'informativa trattamento dati personali">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 mb-3 offset-md-3">
+                                <button class="btn btn-primary btn-lg btn-block bg-orange" type="submit">Invia</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="pt-5 pb-5 bg-grey3">
+    <div class="container">
+        <h6 class="mb-3 text-center text-white">Partner Istituzionali</h6>
+        <div class="row mb-5">
+
+            <div class="col-6 text-center mb-2">
+                <a href="https://www.comune.alessandria.it" target="_blank">
+                    <img src="/images/partner_istituzionali/comune.png" alt="Comune di Alessandria" width="140px" height="140px">
+                </a>
+            </div>
+            <div class="col-6 text-center mb-2">
+                <a href="https://www.ospedale.al.it" target="_blank">
+                    <img src="/images/partner_istituzionali/ospedale.png" alt="Azienda ospedaliera di Alessandria" width="140px" height="140px">
+                </a>
+            </div>
+        </div>
+
+        <h6 class="mb-3 text-center text-white">Partner</h6>
+        <div class="row mb-5">
+            <div class="col-12 text-center mb-2">
+                <a href="https://www.csvastialessandria.it/" target="_blank">
+                    <img src="/images/partner/csvaa.png" alt="Centro Servizi Volontariato Alessandria e Asti" width="140px" height="140px">
+                </a>
+            </div>
+        </div>
+
+        <h6 class="mb-3 text-center text-white">Media partner</h6>
+        <div class="row mb-5">
+
+            <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
+                <img src="/images/media/alessandrianews.png" alt="Alessandria news" width="140px" height="140px">
+            </div>
+            <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
+                <img src="/images/media/ilpiccolo.png" alt="Il Piccolo" width="140px" height="140px">
+            </div>
+            <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
+                <img src="/images/media/lastampa.png" alt="La Stampa" width="140px" height="140px">
+            </div>
+            <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
+                <img src="/images/media/radiogold.png" alt="RadioGold" width="140px" height="140px">
+            </div>
+        </div>
+
+        <h6 class="mb-3 text-center text-white">Collaborazioni</h6>
+        <div class="row">
+            <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
+                <img src="/images/altri/alxte.png" alt="Alexte" width="140px" height="140px">
+            </div>
+            <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
+                <img src="/images/altri/confartigianato.png" alt="Confartigianato Alessandria" width="140px" height="140px">
+            </div>
+            <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
+                <img src="/images/altri/confcommercio.png" alt="Confcommercio Alessandria" width="140px" height="140px">
+            </div>
+            <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
+                <img src="/images/altri/confesercenti.png" alt="Confesercenti Alessandria" width="140px" height="140px">
+            </div>
+            <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
+                <img src="/images/altri/dlf.png" alt="DLF Alessandria Asti" width="140px" height="140px">
             </div>
 
         </div>
     </div>
-
-    <div class="row mb-5">
-        <div class="col-md-12">
-        </div>
-    </div>
-	
-	<h6 class="mb-3 text-center">Partner Istituzionali</h6>
-    <div class="row mb-5">
-
-        <div class="col-6 text-center mb-2">
-            <a href="https://www.comune.alessandria.it" target="_blank">
-                <img src="/images/partner_istituzionali/comune.png" alt="Comune di Alessandria" width="140px" height="140px">
-            </a>
-        </div>
-        <div class="col-6 text-center mb-2">
-            <a href="https://www.ospedale.al.it" target="_blank">
-                <img src="/images/partner_istituzionali/ospedale.png" alt="Azienda ospedaliera di Alessandria" width="140px" height="140px">
-            </a>
-        </div>
-    </div>
-	
-	<h6 class="mb-3 text-center">Partner</h6>
-    <div class="row mb-5">
-        <div class="col-12 text-center mb-2">
-            <a href="https://www.csvastialessandria.it/" target="_blank">
-                <img src="/images/partner/csvaa.png" alt="Centro Servizi Volontariato Alessandria e Asti" width="140px" height="140px">
-            </a>
-        </div>
-    </div>
-	
-    <h6 class="mb-3 text-center">Media partner</h6>
-    <div class="row mb-5">
-
-        <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
-            <img src="/images/media/alessandrianews.png" alt="Alessandria news" width="140px" height="140px">
-        </div>
-        <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
-            <img src="/images/media/ilpiccolo.png" alt="Il Piccolo" width="140px" height="140px">
-        </div>
-        <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
-            <img src="/images/media/lastampa.png" alt="La Stampa" width="140px" height="140px">
-        </div>
-        <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
-            <img src="/images/media/radiogold.png" alt="RadioGold" width="140px" height="140px">
-        </div>
-    </div>
-
-    <h6 class="mb-3 text-center">Collaborazioni</h6>
-    <div class="row">
-        <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
-            <img src="/images/altri/alxte.png" alt="Alexte" width="140px" height="140px">
-        </div>
-        <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
-            <img src="/images/altri/confartigianato.png" alt="Confartigianato Alessandria" width="140px" height="140px">
-        </div>
-        <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
-            <img src="/images/altri/confcommercio.png" alt="Confcommercio Alessandria" width="140px" height="140px">
-        </div>
-        <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
-            <img src="/images/altri/confesercenti.png" alt="Confesercenti Alessandria" width="140px" height="140px">
-        </div>
-        <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
-            <img src="/images/altri/dlf.png" alt="DLF Alessandria Asti" width="140px" height="140px">
-        </div>
-
-    </div>
+</div>
 {{ end }}
