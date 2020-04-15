@@ -1,7 +1,7 @@
 ---
 title: "Ipertensione"
 link: "http://www.doctor33.it/medicina-interna/covid-nuova-guida-per-i-pazienti-con-ipertensione-durante-lepidemia/"
-date: 2020-04-16
+date: 2020-04-15
 draft: false
 weight: 105
 ---
