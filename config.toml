@@ -4,10 +4,12 @@ DefaultContentLanguage = "it"
 title = "Covid19Alessandria.help"
 theme = "bootstrap"
 enableRobotsTXT = true
-enableGitInfo = true
+
+[frontmatter]
+    lastmod = [":fileModTime", ":default"]
 
 [taxonomies]
-  categoria = "categoria"
+    categoria = "categoria"
 
 [params]
     author = "lab121.org"
@@ -36,4 +38,4 @@ enableGitInfo = true
     home = ["HTML", "RSS", "Algolia", "Opendata"]
 
 [sitemap]
-  changefreq = "monthly"
+    changefreq = "monthly"
