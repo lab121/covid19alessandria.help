@@ -6,4 +6,4 @@ draft: false
 weight: 1
 ---
 
-APPELLO DELL?OSPEDALE DI ALESSANDRIA: Serve personale infermieristico specializzato per far fronte all’emergenza.
+APPELLO DELL'OSPEDALE DI ALESSANDRIA: Serve personale infermieristico specializzato per far fronte all’emergenza.
