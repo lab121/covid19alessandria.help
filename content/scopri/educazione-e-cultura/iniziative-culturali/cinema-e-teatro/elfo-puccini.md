@@ -2,7 +2,7 @@
 title: "Elfo Puccini"
 link: "https://www.elfo.org/eventi/20192020/iclassicidellelfoonline.html"
 phone: ""
-mail: ""
+mail: "nicola.manfredi@elfo.org"
 address: ""
 source: ""
 date: 2020-04-02
