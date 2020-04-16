@@ -10,6 +10,6 @@ date: 2020-04-15
 draft: false
 ---
 
-Consegna a domicilio di abiti per Bambini su segnalazione enti competenti.
+Consegna a domicilio di abiti per bambini su segnalazione enti competenti.
 Un progetto per il sostegno di bambini inseriti in famiglie in disagio sociale del nostro territorio.
 
