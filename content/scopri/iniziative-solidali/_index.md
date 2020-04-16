@@ -3,6 +3,7 @@ title: "Iniziative Solidali"
 type: "group"
 layout: "section"
 logo: "hands-helping"
+promote_to_home: true
 weight: 1
 ---
 

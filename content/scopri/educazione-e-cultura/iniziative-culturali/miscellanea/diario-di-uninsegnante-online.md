@@ -2,7 +2,7 @@
 title: "Diario di un'insegnante online"
 link: "https://www.doppiozero.com/materiali/diario-di-uninsegnante-line"
 phone: ""
-mail: ""
+mail: "redazione@doppiozero.com"
 address: ""
 source: ""
 date: 2020-04-02

@@ -6,7 +6,7 @@ theme = "bootstrap"
 enableRobotsTXT = true
 
 [taxonomies]
-  categoria = "categoria"
+    categoria = "categoria"
 
 [params]
     author = "lab121.org"
@@ -29,4 +29,4 @@ enableRobotsTXT = true
     home = ["HTML", "RSS", "Algolia"]
 
 [sitemap]
-  changefreq = "monthly"
+    changefreq = "monthly"

@@ -83,16 +83,19 @@
     {{ block "header" . }}
     {{ end }}
 
-    <div class="py-5 bg-light">
-        <div class="container">
             {{ if not .IsHome }}
-            {{ partial "breadcrumb.html" . }}
+                <div class="py-5 bg-light">
+                    <div class="container">
+                        {{ partial "breadcrumb.html" . }}
             {{ end }}
 
             {{ block "main" . }}
             {{ end }}
-        </div>
-    </div>
+
+            {{ if not .IsHome }}
+                </div>
+                    </div>
+            {{ end }}
 </main>
 
 <footer class="text-muted">
