@@ -8,5 +8,6 @@ source: ""
 date: 2020-04-15
 ---
 
-ARCA WebTV è la web tv di Rivarone che va in onda ogni martedì dalle 21:30 alle 22
-Tutte le istruzioni sul sito. #rivaronenonsiferma
+ARCA WebTV è la web tv di Rivarone.
+Le istruzioni di collegamento e la programmazione delle puntate sono disponibili sul sito www.rivaronesi.it 
+L'orario delle puntate è dalle 21:30 alle 22:30. #rivaronenonsiferma
