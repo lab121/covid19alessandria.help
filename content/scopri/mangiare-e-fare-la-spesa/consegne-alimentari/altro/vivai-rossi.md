@@ -10,4 +10,4 @@ source: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPa
 date: 2020-04-17
 ---
 
-Piante da orto, aromatiche, piante da frutto, semenza, terricci, concimi, annuali(viole, primule, begonie, gerani, ecc.). Contattaci per un consiglio dedicato oppure per conoscere la nostra disponibilità aggiornata. Consegniamo gratuitamente Tortona, frazioni e località limitrofe.Le consegne verranno effettuate nel rispetto delle normative igienico sanitarie in vigore. Pagamenti contanti, bonifico e PayPall.
+Piante da orto, aromatiche, piante da frutto, semenza, terricci, concimi, annuali(viole, primule, begonie, gerani, ecc.). Consegniamo gratuitamente Tortona, frazioni e località limitrofe. Le consegne verranno effettuate nel rispetto delle normative igienico sanitarie in vigore. Pagamenti contanti, bonifico e PayPal.
