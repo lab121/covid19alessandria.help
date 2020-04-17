@@ -1,7 +1,7 @@
 ---
 title: "Koela Cafè"
 link: "https://www.facebook.com/koelacafe/"
-phone: "0131.480.606 - 339.350.2006"
+phone: "0131.325.674"
 mail: ""
 address: "Spalto Gamondio, 25 Alessandria "
 coord_lat: 44.908520
