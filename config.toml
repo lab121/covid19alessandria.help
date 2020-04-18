@@ -29,7 +29,7 @@ enableRobotsTXT = true
     params = []
 
 [outputs]
-    home = ["HTML", "RSS", "Algolia"]
+    home = ["HTML", "RSS", "Algolia"
 
 [sitemap]
     changefreq = "monthly"
