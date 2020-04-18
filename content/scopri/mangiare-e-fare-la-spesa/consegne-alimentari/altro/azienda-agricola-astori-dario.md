@@ -4,7 +4,6 @@ link: "https://www.risogemma.it/"
 phone: "348.702.4889 - 334.111.2120"
 mail: "elena.mussini87@gmail.com"
 address: "Via Pietro Toselli, 49 Balzola"
-
 source: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
 date: 2020-04-17
 ---

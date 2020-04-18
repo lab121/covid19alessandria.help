@@ -4,7 +4,6 @@ link: "https://www.agribiopanificiobisoglio.com/"
 phone: "333.524.1597"
 mail: "gina.bisoglio@hotmail.it"
 address: "Via Gioacchino Rossini, 11 Alessandria"
-
 source: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2069"
 date: 2020-04-17
 ---
