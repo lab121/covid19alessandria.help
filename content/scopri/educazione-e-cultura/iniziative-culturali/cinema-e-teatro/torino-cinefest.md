@@ -1,6 +1,6 @@
 ---
 title: "Torino Cinefest"
-link: "https://www.indiecinema.it/torino-underground-cinefest"
+link: "https://tucfest.com/it/home-2/"
 phone: ""
 mail: ""
 address: ""
