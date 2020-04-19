@@ -2,7 +2,7 @@
 title: "Il Saggiatore"
 link: "https://www.ilsaggiatore.com/solidarieta/"
 phone: ""
-mail: ""
+mail: "segreteria@ilsaggiatore.com"
 address: ""
 source: ""
 date: 2020-04-02
