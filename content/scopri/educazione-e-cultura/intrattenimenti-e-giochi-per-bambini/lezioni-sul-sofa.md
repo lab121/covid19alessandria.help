@@ -1,6 +1,6 @@
 ---
 title: "Lezioni sul sofà"
-link: "http://www.lezionisulsofa.it/"
+link: "https://www.lezionisulsofa.it/"
 phone: ""
 mail: ""
 address: ""
