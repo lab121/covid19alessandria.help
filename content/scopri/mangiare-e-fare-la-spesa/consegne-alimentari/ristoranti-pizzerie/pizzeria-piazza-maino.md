@@ -2,7 +2,7 @@
 title: "Pizzeria Piazza Maino"
 link: "https://www.pizzeriapiazzamaino.it/"
 phone: "342.149.3466"
-mail: ""
+mail: "titty.roby@libero.it"
 address: "Via Galileo Galilei, 93 Alessandria"
 coord_lat: 44.904582
 coord_lon: 8.623786
