@@ -2,7 +2,7 @@
 title: "i concerti dal sofà"
 link: "https://www.accademiaperosi.org/?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign="
 phone: ""
-mail: ""
+mail: "segreteria@accademiaperosi.org"
 address: ""
 source: ""
 date: 2020-04-02

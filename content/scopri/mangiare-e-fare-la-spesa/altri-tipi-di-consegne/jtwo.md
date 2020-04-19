@@ -3,9 +3,9 @@ title: "J-two"
 link: ""
 phone: "0131.483.350 - 339.348.8986"
 mail: "juniorsrls@libero.it"
-address: "Via Migliara, 7 Alessandria"
-coord_lat: 44.914309
-coord_lon: 8.615383
+address: "Via dei Martiri 7a, Alessandria"
+coord_lat: 44.913746
+coord_lon: 8.614999
 source: "ASCOM"
 date: 2020-04-13
 ---

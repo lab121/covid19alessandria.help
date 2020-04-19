@@ -2,7 +2,7 @@
 title: "Museo Prado di Madrid"
 link: "https://www.museodelprado.es/en/the-collection/art-works"
 phone: ""
-mail: ""
+mail: "press@museodelprado.es"
 address: ""
 source: ""
 date: 2020-04-02
