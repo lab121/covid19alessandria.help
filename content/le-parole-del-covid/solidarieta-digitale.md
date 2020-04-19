@@ -1,6 +1,7 @@
 ---
 title: "Solidarietà digitale"
 link: "https://solidarietadigitale.agid.gov.it/"
+mail: "solidarietadigitale@agid.gov.it"
 date: 2020-04-15
 draft: false
 weight: 130
