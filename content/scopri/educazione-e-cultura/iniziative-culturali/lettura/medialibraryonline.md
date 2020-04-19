@@ -2,7 +2,7 @@
 title: "MediaLibraryOnline"
 link: "https://www.mlolplus.it/"
 phone: ""
-mail: ""
+mail: "info@mlolplus.it"
 address: ""
 source: ""
 date: 2020-04-02
