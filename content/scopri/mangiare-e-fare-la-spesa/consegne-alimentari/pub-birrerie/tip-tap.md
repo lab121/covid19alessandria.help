@@ -10,4 +10,4 @@ source: "ASCOM"
 date: 2020-04-04
 ---
 
-Minimo di spesa: 10 euro, consegne solo in città
+Minimo di spesa: 10 euro, consegne Alessandria e sobborghi
