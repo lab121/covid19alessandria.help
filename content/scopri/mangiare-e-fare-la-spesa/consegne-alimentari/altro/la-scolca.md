@@ -2,7 +2,7 @@
 title: "La Scolca"
 link: "https://www.lascolca.net/"
 phone: "0143.682.176"
-mail: "vini@lacasaccia.biz"
+mail: "contatti@scolca.it"
 address: "Strada per Rovereto, 170/r Gavi"
 coord_lat: 44.707434
 coord_lon: 8.781902
