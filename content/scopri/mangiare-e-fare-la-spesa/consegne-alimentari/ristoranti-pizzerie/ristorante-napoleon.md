@@ -10,4 +10,4 @@ source: "Confesercenti"
 date: 2020-04-04
 ---
 
-Solo venerdì e sabato a cena
+Venerdì, sabato e domenica
