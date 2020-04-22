@@ -10,4 +10,4 @@ source: "Comune. Città di Alessandria.it"
 date: 2020-04-04
 ---
 
-Vendita Uova di Pasqua, Baci Gallina, Gallinotti al Rhum, Crema spalmabile la Cittadella
+Vendita Baci Gallina, Gallinotti al Rhum, Crema spalmabile la Cittadella

@@ -6,6 +6,4 @@ draft: false
 weight: 
 ---
 
-
-Letalità:
-Descrizione: Il tasso di letalità si ottiene dividendo il numero delle persone decedute a causa della malattia con il totale dei malati.
+Il tasso di letalità si ottiene dividendo il numero delle persone decedute a causa della malattia con il totale dei malati.
