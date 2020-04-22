@@ -3,7 +3,7 @@ title: "Curva epidemica"
 link: "http://www.treccani.it/enciclopedia/epidemia_%28Universo-del-Corpo%29/"
 date: 2020-04-20
 draft: false
-weight: 140
+weight: 80
 ---
 
 
