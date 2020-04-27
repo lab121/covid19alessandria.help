@@ -1,5 +1,5 @@
 ---
-title: "Decreto Presitente Consiglio del 26 aprile "
+title: "Decreto Presidente Consiglio del 26 aprile "
 link: "https://radiogold.it/wp-content/uploads/2020/04/DPCM-e-allegato-del-26-aprile-2020.pdf.pdf"
 mail: ""
 date: 2020-04-27
