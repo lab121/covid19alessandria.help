@@ -2,7 +2,7 @@
 title: "Fun Learning for Kids"
 link: "https://funlearningforkids.com/"
 phone: ""
-mail: ""
+mail: "danielle@funlearningforkids.com"
 address: ""
 coord: ""
 source: ""

@@ -2,7 +2,7 @@
 title: "Buggy and Bunny"
 link: "https://buggyandbuddy.com/"
 phone: ""
-mail: ""
+mail: "buggyandbuddy@gmail.com"
 address: ""
 coord: ""
 source: ""
