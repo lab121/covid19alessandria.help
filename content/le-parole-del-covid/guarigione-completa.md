@@ -3,7 +3,7 @@ title: "Guarigione completa"
 link: "http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4274"
 date: 2020-04-20
 draft: false
-weight: 140
+weight: 111
 ---
 
 
