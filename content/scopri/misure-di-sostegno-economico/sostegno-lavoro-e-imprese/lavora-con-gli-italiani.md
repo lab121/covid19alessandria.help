@@ -1,7 +1,7 @@
 ---
 title:  "Cia lancia la piattaforma “Lavora con agricoltori italiani”"
 link: "https://lavoraconagricoltoriitaliani.cia.it/"
-mail: "jobincountry@coldiretti.it"
+mail: ""
 date: 2020-04-28
 draft: false
 weight: 1
