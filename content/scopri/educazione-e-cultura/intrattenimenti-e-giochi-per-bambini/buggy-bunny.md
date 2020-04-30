@@ -4,7 +4,6 @@ link: "https://buggyandbuddy.com/"
 phone: ""
 mail: "buggyandbuddy@gmail.com"
 address: ""
-coord: ""
 source: ""
 date: 2020-04-28
 ---
