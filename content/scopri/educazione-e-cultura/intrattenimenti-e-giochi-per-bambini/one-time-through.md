@@ -4,7 +4,6 @@ link: "http://onetimethrough.com/play/"
 phone: ""
 mail: "suelively2014@hotmail.com"
 address: ""
-coord: ""
 source: ""
 date: 2020-04-28
 ---
