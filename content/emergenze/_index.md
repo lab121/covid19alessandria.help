@@ -7,6 +7,7 @@ form_title: "Segnala un'emergenza"
 menu: main
 weight: 6
 promote_to_home: true
+relate: ["/scopri/iniziative-solidali"]
 ---
 
 In questa pagina trovi notizie su emergenze e aiuti urgenti richiesti dagli Enti locali, dalle organizzazioni del territorio e da privati cittadini.

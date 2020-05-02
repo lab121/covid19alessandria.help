@@ -17,6 +17,8 @@
         </div>
     {{ end }}
 
+    {{ partial "related.html" . }}
+
     {{ if .Params.form }}
         <div class="row">
             <div class="col-md-12">
@@ -76,4 +78,5 @@
     {{ if .Params.logos }}
         {{ partial "promoters.html" . }}
     {{ end }}
+
 {{ end }}

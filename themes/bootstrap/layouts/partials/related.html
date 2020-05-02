@@ -1,0 +1,16 @@
+{{ if .Params.relate }}
+<div class="row mb-5">
+    <div class="col-12">
+        <h3>Potrebbe interessarti anche:</h3>
+
+        <ul>
+            {{ range .Params.relate }}
+                {{ with $.Site.GetPage . }}
+                    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                {{ end }}
+            {{ end }}
+        </ul>
+
+    </div>
+</div>
+{{ end }}
