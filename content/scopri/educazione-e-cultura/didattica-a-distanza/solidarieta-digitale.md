@@ -2,7 +2,7 @@
 title: "Solidarietà digitale"
 link: "https://solidarietadigitale.agid.gov.it/"
 phone: ""
-mail: ""
+mail: "solidarietadigitale@agid.gov.it"
 address: ""
 source: ""
 date: 2020-04-02

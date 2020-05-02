@@ -1,7 +1,7 @@
 ---
 title: "Melchionni Cafè"
 link: "https://www.facebook.com/MelchionniCafe/"
-phone: "0131.287.509"
+phone: "392.425.0795 "
 mail: "info@melchionnicafe.it"
 address: "Via Giuseppe Antonio Chenna, 18 Alessandria"
 coord_lat: 44.914636

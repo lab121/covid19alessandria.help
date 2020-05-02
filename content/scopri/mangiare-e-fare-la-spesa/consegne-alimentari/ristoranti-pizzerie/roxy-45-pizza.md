@@ -10,4 +10,4 @@ source: "Confesercenti"
 date: 2020-04-04
 ---
 
-Ordinazioni dal martedì alla domenica alle ore 18.30 alle ore 22.30 attraverso app Deliveroo.it
+Ordinazioni venerdì, sabato e domenica dalle ore 18.30 alle ore 22.30 attraverso app Deliveroo.it

@@ -4,7 +4,11 @@
     {{ range .Site.AllPages }}
         {{ if .Params.promote_to_home}}
             {{ range .Pages }}
-                {{ range .Pages }}
+                {{ if .Pages }}
+                    {{ range .Pages }}
+                        {{- $.Scratch.Add "latest" . }}
+                    {{ end }}
+                {{ else }}
                     {{- $.Scratch.Add "latest" . }}
                 {{ end }}
             {{ end }}

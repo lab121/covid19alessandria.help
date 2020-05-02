@@ -2,7 +2,7 @@
 title: "Un filo per restare vicini"
 link: "https://www.comune.alessandria.it/servizi-scolastici/un-filo-per-restare-vicini-anche-se-lontani"
 phone: ""
-mail: ""
+mail: "urp@comune.alessandria.it"
 address: ""
 source: ""
 date: 2020-04-02

@@ -2,7 +2,7 @@
 title: "Il Carotone"
 link: ""
 phone: "0131.557.03"
-mail: ""
+mail: "s.bocchio@virgilio.it"
 address: "Via Milano, 41 Alessandria"
 coord_lat: 44.915307
 coord_lon: 8.613522

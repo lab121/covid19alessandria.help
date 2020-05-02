@@ -10,4 +10,4 @@ source: "Comune. Città di Alessandria.it"
 date: 2020-04-02
 ---
 
-Torte e biscotti, pane con farina biologica e lievito madre. Consegne in città e paesini limitrofi
+Torte e biscotti. Consegne in città e paesini limitrofi il venerdì pomeriggio con ordini entro il mercoledì mattina.
