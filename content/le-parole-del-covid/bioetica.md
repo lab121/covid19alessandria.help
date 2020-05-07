@@ -1,7 +1,7 @@
 ---
 title: "Bioetica"
 link: "https://www.nuffieldbioethics.org/blog/covid-19-public-health-public-trust-and-public-support"
-date: 2020-05-27
+date: 2020-05-06
 draft: false
 weight: 32
 ---
