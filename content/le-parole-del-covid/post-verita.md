@@ -1,6 +1,6 @@
 ---
 title: "Post Verità (Post Truth)"
-link: "Link: https://it.wikipedia.org/wiki/Post-verit%C3%A0"
+link: "https://it.wikipedia.org/wiki/Post-verit%C3%A0"
 date: 2020-05-06
 draft: false
 weight: 187
