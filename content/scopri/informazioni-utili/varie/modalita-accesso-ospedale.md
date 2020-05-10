@@ -8,4 +8,4 @@ draft: false
 weight: 1
 ---
 
-Modalità per l’ingresso di parenti, visitatori e accompagnatori a  seguito delle indicazioni fornite dall’Unità di Crisi
+Modalità per l’ingresso di parenti, visitatori e accompagnatori a seguito delle indicazioni fornite dall’Unità di Crisi
