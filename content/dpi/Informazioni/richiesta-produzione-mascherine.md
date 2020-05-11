@@ -1,6 +1,6 @@
 ---
 title: "Istituto Superiore di Sanità: Autorizzazioni Procedure per richiesta produzione mascherine"
-link: "https://www.iss.it/procedure-per-richiesta-produzione-mascherine"
+link: "https://www.infermieristicamente.it/articolo/11603/coronavirus-vademecum-mascherine-ffp1---ffp2---ffp3:-che-differenza-ce"
 date: 2020-05-11
 draft: false
 ---
