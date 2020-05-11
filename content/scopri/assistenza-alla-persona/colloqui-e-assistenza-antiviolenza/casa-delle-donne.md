@@ -1,5 +1,5 @@
 ---
-title: "No una di meno Alessandria: apre lo sportello 'non sei sola'"
+title: "Non una di meno Alessandria: apre lo sportello 'non sei sola'"
 link: "https://www.facebook.com/249594652136592/posts/895182500911134/"
 mail: "nonunadimeno.alessandria@gmail.com"
 phone: "3515920855" 
