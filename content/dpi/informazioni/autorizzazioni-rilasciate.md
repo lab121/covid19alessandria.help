@@ -1,5 +1,5 @@
 ---
-title: "Istituto Superiore di Sanità: Fase 2 - l’uso delle mascherine nella vita quotidiana, le indicazioni del dpcm
+title: "Istituto Superiore di Sanità: Fase 2 - l’uso delle mascherine nella vita quotidiana, le indicazioni del dpcm"
 link: "http://www.iss.it/web/guest/primo-piano/-/asset_publisher/o4oGR9qmvUz9/content/id/5372584"
 date: 2020-05-11
 draft: false
