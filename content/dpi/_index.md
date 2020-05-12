@@ -7,5 +7,5 @@ layout: "section"
 relate: ["/le-parole-del-covid"]
 ---
 
-Temi di approfondimento sui DPI. prova
+Temi di approfondimento sui DPI
 
