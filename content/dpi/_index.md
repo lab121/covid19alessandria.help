@@ -9,4 +9,3 @@ relate: ["/le-parole-del-covid"]
 
 Temi di approfondimento sui DPI.
 
-relate: ["/scopri/misure-di-sostegno-economico"]
