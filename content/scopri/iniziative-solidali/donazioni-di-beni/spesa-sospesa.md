@@ -6,4 +6,4 @@ date: 2020-05-15
 draft: false
 ---
 
-SPESASOSPESAprogetto patrocinato dal Comune di Alessandria permette il sostegno di aziende e cittadini in difficoltà. Funziona tramite una piattaforma che gestisce le donazioni di denaro e di cibo garantendo trasparenza e tracciabilità.
+SPESASOSPESA progetto patrocinato dal Comune di Alessandria permette il sostegno di aziende e cittadini in difficoltà. Funziona tramite una piattaforma che gestisce le donazioni di denaro e di cibo garantendo trasparenza e tracciabilità.
