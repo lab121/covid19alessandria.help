@@ -1,7 +1,7 @@
 ---
 title: "SPESA SOSPESA per cittadini ed aziende in difficoltà"
 link: "https://spesasospesa.org/"
-mail:"info@spesasospesa.org"
+mail: "info@spesasospesa.org"
 date: 2020-05-15
 draft: false
 ---
