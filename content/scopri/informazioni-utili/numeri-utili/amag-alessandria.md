@@ -1,9 +1,9 @@
 ---
 title: "Amag Alessandria - Info e numeri utili"
-link: "https://www.gruppoamag.it/gruppo-amag-chiusura-sportelli-prorogata-fino-a-lunedi-13-aprile-attivi-servizi-telefonici-e-online/"
-date: 2020-04-08
+link: "https://www.gruppoamag.it/gruppo-amag-lunedi-4-maggio-riapertura-sportelli-al-pubblico-si-entra-uno-alla-volta-massima-attenzione-alla-sicurezza-di-clienti-e-lavoratori/"
+date: 2020-05-16
 draft: false
 weight: 16
 ---
 
-Chiusura sportelli prorogata fino a lunedì 13 aprile. Attivi servizi telefonici e online
+Gruppo AMAG: lunedì 4 maggio riapertura sportelli al pubblico, si entra uno alla volta. Massima attenzione alla sicurezza di clienti e lavoratori
