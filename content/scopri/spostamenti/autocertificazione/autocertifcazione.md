@@ -1,10 +1,10 @@
 ---
-title: "Scarica l'Autocertificazione"
-link: "https://www.interno.gov.it/sites/default/files/allegati/nuovo_modello_autodichiarazione_26.03.2020_editabile.pdf"
-mail: "urp.prefal@pec.interno.it"
-date: 2020-03-31
+title: "Scarica l'Autodichiarazione"
+link: "https://covid19alessandria.help/documents/autodichiarazione_editabile_maggio_2020.pdf"
+date: 2020-05-04
 draft: false
 weight: 1
 ---
 
-Scarica l'Autocertificazione del Ministero per gli spostamenti
+Scarica [qua](/documents/autodichiarazione_editabile_maggio_2020.pdf) il pdf editabile
+
