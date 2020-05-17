@@ -2,7 +2,7 @@
 title: "Buone pratiche"
 type: "group"
 layout: "subsection"
-logo: "handshake-slash"
+logo: "award"
 promote_to_home: true
 weight: 8
 relate: ["/scopri/educazione-e-cultura/iniziative-locali"]

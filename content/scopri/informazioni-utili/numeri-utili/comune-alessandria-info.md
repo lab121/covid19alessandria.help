@@ -1,8 +1,8 @@
 ---
-title: "Comune di Alessandria - Numeri utili e comunicati"
-link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2053"
+title: "Comune di Alessandria - Numeri utili"
+link: "https://www.comune.alessandria.it/amministrazione/contatti"
 mail: "urp@comune.alessandria.it"
-date: 2020-03-31
+date: 2020-05-16
 draft: false
 weight: 4
 ---
