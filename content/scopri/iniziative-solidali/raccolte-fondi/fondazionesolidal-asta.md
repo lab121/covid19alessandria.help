@@ -3,7 +3,7 @@ title: "Fondazione Solidal: Asta Benefica Cuori SolidALi"
 link: "https://www.fondazionesolidal.it/asta-benefica/"
 mail: "info@fondazionesolidal.it"
 date: 2020-05-21
-draft: false
+draft: true
 ---
 
 Dieci artisti hanno disegnato un'opera speciale.
