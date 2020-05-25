@@ -5,5 +5,6 @@ phone: "339.699.8784"
 mail: "ilcontastorie@libero.it"
 address: ""
 source: ""
+draft: true
 date: 2020-05-08
 ---
