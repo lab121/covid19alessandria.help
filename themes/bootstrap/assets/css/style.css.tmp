@@ -9680,6 +9680,13 @@ footer p {
   background-color: #343A40;
 }
 
+.icon {
+  min-width: 3rem;
+  min-height: 3rem;
+  line-height: 2rem;
+  font-size: 2rem;
+}
+
 .jumbotron {
   margin-bottom: 0;
   border-radius: 0;
