@@ -104,8 +104,5 @@ Vue.component('form-el', {
 })
 
 new Vue({
-  el: '#form-wrapper',
-  data: {
-    message: 'Hello Vue!'
-  }
+  el: '#form-wrapper'
 })

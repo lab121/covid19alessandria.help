@@ -13,6 +13,6 @@ In questa pagina trovi notizie su emergenze e aiuti urgenti richiesti dagli Enti
 
 {{< row >}}
     {{< column 12 >}}
-        {{< form options="Commissioni,Consegne alimentari,Altri tipi di consegne,Riparazioni in casa,Trasporti da/per l'ospedale,Sportello antiviolenza,Sostegno famiglie,Altro" title="Segnala un'emergenza" name="emergenza" >}}
+        {{< form options="Commissioni,Consegne alimentari,Altri tipi di consegne,Riparazioni in casa,Trasporti da/per l\'ospedale,Sportello antiviolenza,Sostegno famiglie,Altro" title="Segnala un'emergenza" name="emergenza" >}}
     {{< /column >}}
 {{< /row >}}

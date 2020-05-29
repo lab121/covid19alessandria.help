@@ -1,7 +1,0 @@
-<div id="form-wrapper">
-    <form-el source="home" v-bind:categories="[{{ range .Params.form_options}}'{{ . }}',{{ end }}]"></form-el>
-</div>
-
-{{ $form := resources.Get "js/form.min.js" | resources.Fingerprint }}
-<script src="{{ $form.Permalink }}" integrity="{{ $form.Data.Integrity }}"
-        crossorigin="anonymous"></script>

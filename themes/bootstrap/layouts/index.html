@@ -104,8 +104,8 @@
 <div class="pt-5 pb-5 bg-grey2">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 col-sm-6 offset-3 text-center">
-                Un qualche rimando al forum
+            <div class="col-12 text-center">
+                <a href="http://forum.covid19alessandria.help" target="_blank"><img src="/images/banner/forum.png" alt="Forum" style="width: 1110px;"></a>
             </div>
         </div>
     </div>
@@ -119,13 +119,7 @@
 
 <div class="pt-5 pb-5 bg-grey2">
     <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h4 class="mb-3"><span class="fas fa-pencil-alt" aria-hidden="true"></span> Segnala</h4>
-                {{ partial "form.html" . }}
-
-            </div>
-        </div>
+        {{ .Page.Content }}
     </div>
 </div>
 
