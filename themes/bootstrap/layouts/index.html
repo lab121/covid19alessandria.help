@@ -119,7 +119,13 @@
 
 <div class="pt-5 pb-5 bg-grey2">
     <div class="container">
-        {{ .Page.Content }}
+        <div class="row">
+            <div class="col-md-12">
+                <h4 class="mb-3"><span class="fas fa-pencil-alt" aria-hidden="true"></span> Segnala</h4>
+                {{ partial "form.html" . }}
+
+            </div>
+        </div>
     </div>
 </div>
 

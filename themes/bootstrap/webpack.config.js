@@ -28,4 +28,11 @@ module.exports = [{
   },
   entry: './source/js/algolia.js',
   mode: 'production',
+}, {
+  output: {
+    path: path.resolve(__dirname, 'assets/js'),
+    filename: 'form.min.js'
+  },
+  entry: './source/js/form.js',
+  mode: 'production',
 }];
