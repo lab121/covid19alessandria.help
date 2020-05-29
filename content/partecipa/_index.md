@@ -1,9 +1,6 @@
 ---
 title: "Partecipa"
 layout: "page"
-form: true
-form_options: ["Donazioni di beni", "Commissioni", "Sviluppo del sito", "Altro"]
-form_title: "Segnala"
 menu: main
 weight: 3
 ---
@@ -19,3 +16,8 @@ _____________________
 ### Vuoi partecipare? 
 
 Compila il form dedicato o scrivici una mail a questo indirizzo covid19alessandria.help@lab121.org e ti ricontatteremo per darti maggiori informazioni e capire insieme cosa fare. 
+
+{{< row >}}
+{{< column 6 >}}{{< form options="Donazioni di beni,Commissioni,Altro" title="Segnala" name="partecipa->segnala" >}}{{< /column >}}
+{{< column 6 >}}{{< form options="Sviluppo del sito,Gestione segnalazioni,Altro" title="Entra nel team" name="partecipa->team" >}}{{< /column >}}
+{{< /row >}}

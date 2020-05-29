@@ -1,158 +1,118 @@
 {{ define "header" }}
-    <section class="jumbotron bg-orange">
-        <div class="container">
-            <div class="row header">
-                <div class="col-md-6 header-logo">
-                    <img src="/images/logo.png" alt="{{ .Site.Title }}">
-                </div>
-                <div class="col-md-6 header-claim">
-                    <h1 class="jumbotron-heading">{{ .Site.Params.description }}</h1>
+<section class="jumbotron bg-orange">
+    <div class="container">
+        <div class="row header">
+            <div class="col-md-6 header-logo text-center mt-5">
+                <img src="/images/logo.png" alt="{{ .Site.Title }}">
+                <h1 class="mt-3" style="font-size: 34px">{{ .Site.Params.description }}</h1>
+            </div>
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-6 mb-4 text-center">
+                        <a href="/scopri">
+                            <img class="rounded-circle bg-grey mb-2"
+                                 src="/images/icons/ico_scopri.png"
+                                 alt="Scopri" width="50%">
+                            <h4 style="color: #343a40; font-weight: bold">Scopri</h4>
+                        </a>
+                    </div>
+                    <div class="col-md-6 mb-4 text-center">
+                        <a href="/chi-siamo">
+                            <img class="rounded-circle bg-grey mb-2"
+                                 src="/images/icons/ico_chisiamo.png"
+                                 alt="Chi siamo" width="50%">
+                            <h4 style="color: #343a40; font-weight: bold">Chi siamo</h4>
+                        </a>
+                    </div>
+                    <div class="col-md-6 mb-4 text-center">
+                        <a href="/partecipa">
+                            <img class="rounded-circle bg-grey mb-2"
+                                 src="/images/icons/ico_partecipa.png"
+                                 alt="Partecipa" width="50%">
+                            <h4 style="color: #343a40; font-weight: bold">Partecipa</h4>
+                        </a>
+                    </div>
+                    <div class="col-md-6 mb-4 text-center">
+                        <a href="/dpi">
+                            <img class="rounded-circle bg-grey mb-2"
+                                 src="/images/icons/ico_dpi.png"
+                                 alt="DPI" width="50%">
+                            <h4 style="color: #343a40; font-weight: bold">DPI</h4>
+                        </a>
+                    </div>
+                    <div class="col-md-6 mb-4 text-center">
+                        <a href="/le-parole-del-covid">
+                            <img class="rounded-circle bg-grey mb-2"
+                                 src="/images/icons/ico_scientifica.png"
+                                 alt="Le parole del Covid" width="50%">
+                            <h4 style="color: #343a40; font-weight: bold">Le parole del Covid</h4>
+                        </a>
+                    </div>
+                    <div class="col-md-6 mb-4 text-center">
+                        <a href="/emergenze">
+                            <img class="rounded-circle bg-grey mb-2"
+                                 src="/images/icons/ico_emergenze.png"
+                                 alt="Emergenze" width="50%">
+                            <h4 style="color: #343a40; font-weight: bold">Emergenze</h4>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 {{ end }}
 
 {{ define "main" }}
 <div class="pt-5 pb-5 bg-grey1">
     <div class="container">
-        <div class="row sections">
-            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
-                <a href="/scopri">
-                    <img class="rounded-circle bg-grey mb-4"
-                         src="/images/icons/ico_scopri.png"
-                         alt="Scopri">
-                    <h4>Scopri</h4>
-                </a>
-            </div>
-            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
-                <a href="/chi-siamo">
-                    <img class="rounded-circle bg-grey mb-4"
-                         src="/images/icons/ico_chisiamo.png"
-                         alt="Chi siamo">
-                    <h4>Chi siamo</h4>
-                </a>
-            </div>
-            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
-                <a href="/partecipa">
-                    <img class="rounded-circle bg-grey mb-4"
-                         src="/images/icons/ico_partecipa.png"
-                         alt="Partecipa">
-                    <h4>Partecipa</h4>
-                </a>
-            </div>
-            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
-                <a href="/dpi">
-                    <img class="rounded-circle bg-grey mb-4"
-                         src="/images/icons/ico_dpi.png"
-                         alt="DPI">
-                    <h4>DPI</h4>
-                </a>
-            </div>
-            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
-                <a href="/le-parole-del-covid">
-                    <img class="rounded-circle bg-grey mb-4"
-                         src="/images/icons/ico_scientifica.png"
-                         alt="Le parole del Covid">
-                    <h4>Le parole del Covid</h4>
-                </a>
-            </div>
-            <div class="col-sm-4 col-md-4 col-lg-2 text-center">
-                <a href="/emergenze">
-                    <img class="rounded-circle bg-grey mb-4"
-                         src="/images/icons/ico_emergenze.png"
-                         alt="Emergenze">
-                    <h4>Emergenze</h4>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="pt-5 pb-5 bg-orange">
-    <div class="container">
         <div class="row">
-            <div class="col-md-12 text-center">
-                <div style="font-size:40px"><a href="/alessandria-come-va" style="color: #FFFF">Alessandria come va?</a></div>
-                <div style="font-size:24px"><a href="/alessandria-come-va" style="color: #FFFF">Un questionario per raccogliere informazioni legate agli aspetti della nostra vita quotidiana e ai cambiamenti avvenuti a causa dall’emergenza COVID-19</a></div>
+            <div class="col-lg-6 col-sm-6">
+                <div class="card text-center hover-shadow-lg hover-translate-y-n10">
+                    <div class="px-4 py-4 text-right">
+                        <span class="fas fa-list-alt" style="font-size: 40px;color: #EC5923" aria-hidden="true"></span>
+                    </div>
+                    <div class="px-4 pb-5">
+                        <h5><a href="/alessandria-come-va">Alessandria come va?</a></h5>
+                        <p class="text-muted">Un questionario per raccogliere informazioni legate agli aspetti della nostra vita quotidiana e ai cambiamenti avvenuti a causa dall’emergenza COVID-19</p>
+                    </div>
+                </div>
             </div>
+            <div class="col-lg-6 col-sm-6">
+                <div class="card text-center hover-shadow-lg hover-translate-y-n10">
+                    <div class="px-4 py-4 text-right">
+                        <span class="fas fa-list-alt" style="font-size: 40px;color: #EC5923" aria-hidden="true"></span>
+                    </div>
+                    <div class="px-4 pb-5">
+                        <h5><a href="https://survey.uniupo.it/index.php/945625?lang=it">Gli effetti dell'emergenza Covid-19</a></h5>
+                        <p class="text-muted">Questo questionario è rivolto a società di capitali, di persone, liberi professionisti, ditte individuali, freelance e cooperative operanti nella Provincia di Alessandria.</p>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
 
 <div class="pt-5 pb-5 bg-grey2">
     <div class="container">
-        {{ partial "updated.html" . }}
+        <div class="row">
+            <div class="col-lg-6 col-sm-6 offset-3 text-center">
+                Un qualche rimando al forum
+            </div>
+        </div>
     </div>
 </div>
 
 <div class="pt-5 pb-5 bg-grey1">
     <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h4 class="mb-3"><span class="fas fa-pencil-alt" aria-hidden="true"></span> Segnala</h4>
+        {{ partial "news.html" . }}
+    </div>
+</div>
 
-                <div class="kwes-form">
-                    <form method="POST" action="https://kwes.io/api/foreign/forms/4tNNfBH53Xuc0kKIl2fM">
-                        <div class="row">
-                            <div class="col-md-6 mb-3">
-                                <label for="name">Nome *</label>
-                                <input type="text" class="form-control" id="name" name="name" rules="required">
-                            </div>
-                            <div class="col-md-6 mb-3">
-                                <label for="category">Categoria *</label>
-                                <select type="text" class="form-control" id="category" name="category"
-                                        rules="required">
-                                    {{ range .Params.form_options}}
-                                        <option>{{ . }}</option>
-                                    {{ end }}
-                                </select>
-                            </div>
-                        </div>
-
-                        <div class="mb-3">
-                            <label for="message">Messaggio *</label>
-                            <textarea class="form-control" id="message" name="message" rules="required"></textarea>
-                        </div>
-
-                        <div class="mb-3">
-                            <label for="address">Indirizzo</label>
-                            <input type="text" class="form-control" id="address" name="address">
-                        </div>
-
-                        <div class="mb-3">
-                            <label for="phone">Telefono</label>
-                            <input type="text" class="form-control" id="phone" name="phone">
-                        </div>
-
-                        <div class="mb-3">
-                            <label for="email">Email</label>
-                            <input type="text" class="form-control" id="email" name="email" rules="email">
-                        </div>
-
-                        <div class="mb-3">
-                            <label for="link">Link</label>
-                            <input type="text" class="form-control" id="link" name="link">
-                        </div>
-
-                        <div class="mb-3">
-                            <div class="kw-checkbox-group" rules="required">
-                                <input type="checkbox" name="privacy" value="privacy" id="privacy"
-                                       label="Confermo di aver letto e accettato l'informativa trattamento dati personali">
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-md-6 mb-3 offset-md-3">
-                                <input name="form" type="hidden" value="Home">
-                                <button class="btn btn-primary btn-lg btn-block bg-orange" type="submit">Invia</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-
-            </div>
-        </div>
+<div class="pt-5 pb-5 bg-grey2">
+    <div class="container">
+        {{ .Page.Content }}
     </div>
 </div>
 
@@ -163,12 +123,14 @@
 
             <div class="col-6 text-center mb-2">
                 <a href="https://www.comune.alessandria.it" target="_blank">
-                    <img src="/images/partner_istituzionali/comune.png" alt="Comune di Alessandria" width="140px" height="140px">
+                    <img src="/images/partner_istituzionali/comune.png" alt="Comune di Alessandria" width="140px"
+                         height="140px">
                 </a>
             </div>
             <div class="col-6 text-center mb-2">
                 <a href="https://www.ospedale.al.it" target="_blank">
-                    <img src="/images/partner_istituzionali/ospedale.png" alt="Azienda ospedaliera di Alessandria" width="140px" height="140px">
+                    <img src="/images/partner_istituzionali/ospedale.png" alt="Azienda ospedaliera di Alessandria"
+                         width="140px" height="140px">
                 </a>
             </div>
         </div>
@@ -177,7 +139,8 @@
         <div class="row mb-5">
             <div class="col-12 text-center mb-2">
                 <a href="https://www.csvastialessandria.it/" target="_blank">
-                    <img src="/images/partner/csvaa.png" alt="Centro Servizi Volontariato Alessandria e Asti" width="140px" height="140px">
+                    <img src="/images/partner/csvaa.png" alt="Centro Servizi Volontariato Alessandria e Asti"
+                         width="140px" height="140px">
                 </a>
             </div>
         </div>
@@ -205,7 +168,8 @@
                 <img src="/images/altri/alxte.png" alt="Alexte" width="140px" height="140px">
             </div>
             <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
-                <img src="/images/altri/confartigianato.png" alt="Confartigianato Alessandria" width="140px" height="140px">
+                <img src="/images/altri/confartigianato.png" alt="Confartigianato Alessandria" width="140px"
+                     height="140px">
             </div>
             <div class="col-6 col-sm-6 col-md-3 text-center mb-2">
                 <img src="/images/altri/confcommercio.png" alt="Confcommercio Alessandria" width="140px" height="140px">

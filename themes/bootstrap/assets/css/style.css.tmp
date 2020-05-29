@@ -9694,7 +9694,7 @@ footer p {
 }
 
 .header-logo img {
-  width: 100%;
+  width: 50%;
   max-width: 400px;
 }
 
