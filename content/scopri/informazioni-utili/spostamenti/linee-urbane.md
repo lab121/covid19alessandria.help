@@ -4,7 +4,7 @@ link: "https://www.amagmobilita.it/trasporti-alessandria/orari-autobus-alessandr
 mail: "azienda@amagmobilita.it"
 date: 2020-03-31
 draft: false
-weight: 2
+weight: 20
 ---
 
 Amag mobilità (linee urbane)
