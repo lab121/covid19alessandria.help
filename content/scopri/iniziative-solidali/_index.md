@@ -4,7 +4,7 @@ type: "group"
 layout: "section"
 logo: "hands-helping"
 promote_to_home: true
-weight: 1
+weight: 2
 relate: ["/scopri/assistenza-alla-persona"]
 ---
 

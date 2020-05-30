@@ -6,6 +6,7 @@ logo: "money-bill"
 promote_to_home: true
 weight: 4
 relate: ["/scopri/assistenza-alla-persona"]
+draft: true
 ---
 
 Raccolta di pagine e informazioni in tema di contributi e sostegno a persone e imprese.

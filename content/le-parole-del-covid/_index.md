@@ -3,7 +3,7 @@ title: "Le parole del Covid"
 type: "group"
 layout: "subsection"
 menu: main
-weight: 5
+weight: 4
 relate: ["/buone-pratiche"]
 ---
 

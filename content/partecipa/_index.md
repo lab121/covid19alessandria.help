@@ -2,7 +2,7 @@
 title: "Partecipa"
 layout: "page"
 menu: main
-weight: 3
+weight: 5
 ---
 
 Siamo un gruppo di realtà locali e volontari da sempre impegnate in attività di volontariato, solidarietà e sviluppo del territorio. 
