@@ -32,7 +32,7 @@ Compila i questionari
                                 <i class="fas fa-list-alt"></i>
                             </div>
                             <div class="icon-text">
-                                <h5 class="h4"><a href="https://survey.uniupo.it/index.php/945625?lang=it" class="text-white">Gli effetti dell'emergenza Covid-19</a></h5>
+                                <h5 class="h4"><a href="/emergenza-covid19" class="text-white">Gli effetti dell'emergenza Covid-19</a></h5>
                                 <p class="mb-0 text-white">Questo questionario è rivolto a società di capitali, di persone, liberi professionisti, ditte individuali, freelance e cooperative operanti nella Provincia di Alessandria</p>
                             </div>
                         </div>
