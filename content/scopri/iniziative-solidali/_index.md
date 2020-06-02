@@ -8,4 +8,4 @@ weight: 2
 relate: ["/scopri/informazioni-utili"]
 ---
 
-Raccolte di fondi e di donazioni promosse da Istituzioni, Enti e organizzazioni del territorio.
+Raccolte di fondi, donazioni di beni e servizi per le fasce più deboli della cittadinanza

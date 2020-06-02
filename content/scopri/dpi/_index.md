@@ -7,5 +7,5 @@ logo: head-side-mask
 relate: ["/le-parole-del-covid"]
 ---
 
-Temi di approfondimento sui DPI
+Tutto su mascherine, guanti, DPI e norme di comportamento
 

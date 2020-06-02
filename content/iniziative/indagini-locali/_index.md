@@ -8,6 +8,9 @@ draft: false
 ---
 
 {{< rawhtml >}}
+Partecipa ai due questionari rivolti alle famiglie e alle imprese del territorio.<br />
+Collabora alla raccolta di dati utili a comprendere meglio la situazione per progettare risposte efficaci.
+
 <div class="pt-5 pb-5 bg-grey1">
     <div class="container">
         <div class="row">
