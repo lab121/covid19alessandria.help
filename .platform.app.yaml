@@ -26,3 +26,4 @@ web:
             scripts: false
             allow: true
             expires: 1h
+            passthru: '/404.html'
