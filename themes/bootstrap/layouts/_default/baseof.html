@@ -83,7 +83,7 @@
     {{ block "header" . }}
     {{ end }}
 
-            {{ if not .IsHome }}
+            {{ if and (not .IsHome) (not (eq .Page.Kind "404")) }}
                 <div class="py-5 bg-light">
                     <div class="container">
                         {{ partial "breadcrumb.html" . }}
@@ -92,7 +92,7 @@
             {{ block "main" . }}
             {{ end }}
 
-            {{ if not .IsHome }}
+            {{ if and (not .IsHome) (not (eq .Page.Kind "404")) }}
                 </div>
                     </div>
             {{ end }}
