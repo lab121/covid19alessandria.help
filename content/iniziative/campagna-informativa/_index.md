@@ -1,8 +1,9 @@
 ---
 title: "Campagna informativa"
 type: "group"
-layout: "section"
+layout: "subsection"
 logo: "list-alt"
+promote_to_home: true
 weight: 3
 draft: false
 ---

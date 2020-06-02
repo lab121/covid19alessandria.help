@@ -1,7 +1,7 @@
 ---
 title: "Didattica a distanza"
 type: "group"
-layout: "section"
+layout: "subsection"
 logo: "list-alt"
 weight: 4
 draft: false
