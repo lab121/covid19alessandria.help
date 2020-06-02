@@ -2,7 +2,7 @@
 title: "Sportelli"
 type: "group"
 layout: "section"
-logo: "list-alt"
+logo: "hands-helping"
 weight: 3
 draft: false
 ---

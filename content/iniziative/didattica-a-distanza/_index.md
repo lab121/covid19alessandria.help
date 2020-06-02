@@ -2,7 +2,7 @@
 title: "Didattica a distanza"
 type: "group"
 layout: "subsection"
-logo: "list-alt"
+logo: "chalkboard"
 weight: 4
 draft: false
 ---
