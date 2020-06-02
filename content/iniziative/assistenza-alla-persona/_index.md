@@ -4,7 +4,7 @@ type: "group"
 layout: "section"
 logo: "heart"
 promote_to_home: true
-weight: 3
+weight: 5
 relate: ["/iniziative/misure-di-sostegno-economico"]
 draft: false
 ---

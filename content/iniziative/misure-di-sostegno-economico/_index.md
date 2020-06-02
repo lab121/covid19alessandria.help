@@ -4,7 +4,7 @@ type: "group"
 layout: "section"
 logo: "money-bill"
 promote_to_home: true
-weight: 4
+weight: 6
 relate: ["/iniziative/assistenza-alla-persona"]
 draft: false
 ---
