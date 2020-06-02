@@ -1,5 +1,5 @@
 ---
-title: "Iniziative locali"
+title: "Iniziative culturali"
 type: "group"
 layout: "section"
 logo: "puzzle-piece"
