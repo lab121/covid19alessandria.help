@@ -1,6 +1,1082 @@
-"https://{default}/":
-  type: upstream
-  upstream: "app:http"
 "http://www.{default}/":
   type: redirect
   to: "https://{default}/"
+"https://{default}/":
+  type: upstream
+  upstream: "app:http"
+  redirects:
+    paths:
+      '/dpi/':
+        to: '/scopri/dpi/'
+      '/dpi/informazioni/':
+        to: '/scopri/dpi/informazioni/'
+      '/dpi/informazioni/autorizzazioni-rilasciate/':
+        to: '/scopri/dpi/informazioni/autorizzazioni-rilasciate/'
+      '/dpi/informazioni/differenze-mascherine/':
+        to: '/scopri/dpi/informazioni/differenze-mascherine/'
+      '/dpi/informazioni/elenco-dispositivi-autorizzati/':
+        to: '/scopri/dpi/informazioni/elenco-dispositivi-autorizzati/'
+      '/dpi/informazioni/mascherine-per-sordi/':
+        to: '/scopri/dpi/informazioni/mascherine-per-sordi/'
+      '/dpi/informazioni/opuscolo-guanti-ospedale/':
+        to: '/scopri/dpi/informazioni/opuscolo-guanti-ospedale/'
+      '/dpi/informazioni/prevenzione-e-trattamento/':
+        to: '/scopri/dpi/informazioni/prevenzione-e-trattamento/'
+      '/dpi/informazioni/report-ecdc/':
+        to: '/scopri/dpi/informazioni/report-ecdc/'
+      '/dpi/informazioni/richiesta-produzione-mascherine/':
+        to: '/scopri/dpi/informazioni/richiesta-produzione-mascherine/'
+      '/dpi/informazioni/sicurezza-dei-lavoratori/':
+        to: '/scopri/dpi/informazioni/sicurezza-dei-lavoratori/'
+      '/dpi/informazioni/uso-mascherine/':
+        to: '/scopri/dpi/informazioni/uso-mascherine/'
+      '/dpi/informazioni/utilizzo-dpi-in-strutture-sanitarie/':
+        to: '/scopri/dpi/informazioni/utilizzo-dpi-in-strutture-sanitarie/'
+      '/dpi/trova-dpi/':
+        to: '/scopri/dpi/trova-dpi/'
+      '/dpi/trova-dpi/distribuzione-mascherine-in-italia/':
+        to: '/scopri/dpi/trova-dpi/distribuzione-mascherine-in-italia/'
+      '/dpi/trova-dpi/mascherine-stampa3d/':
+        to: '/scopri/dpi/trova-dpi/mascherine-stampa3d/'
+      '/dpi/trova-dpi/trova-mascherine/':
+        to: '/scopri/dpi/trova-dpi/trova-mascherine/'
+      '/scopri/assistenza-alla-persona/':
+        to: '/iniziative/assistenza-alla-persona/'
+      '/scopri/assistenza-alla-persona/colloqui-e-assistenza-antiviolenza/':
+        to: '/iniziative/assistenza-alla-persona/colloqui-e-assistenza-antiviolenza/'
+      '/scopri/assistenza-alla-persona/colloqui-e-assistenza-antiviolenza/casa-delle-donne/':
+        to: '/iniziative/assistenza-alla-persona/colloqui-e-assistenza-antiviolenza/casa-delle-donne/'
+      '/scopri/assistenza-alla-persona/colloqui-e-assistenza-antiviolenza/me-dea/':
+        to: '/iniziative/assistenza-alla-persona/colloqui-e-assistenza-antiviolenza/me-dea/'
+      '/scopri/assistenza-alla-persona/farmacie/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/farmacie/consegna-farmaci-comune/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/farmacie/consegne-croce-rossa/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/farmacie/farmacia-dattrino/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/farmacie/farmacia-paolo-villosio/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/farmacie/farmacie-di-turno/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/farmacie/parafarmacia-dottorbianchi/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/info-per-parenti-carcere-al/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/info-per-parenti-carcere-al/casa-reclusione/':
+        to: '/iniziative/assistenza-alla-persona/servizi-socio-assistenziali/casa-reclusione/'
+      '/scopri/assistenza-alla-persona/servizi-cissaca/':
+        to: '/iniziative/assistenza-alla-persona/servizi-socio-assistenziali/'
+      '/scopri/assistenza-alla-persona/servizi-cissaca/caritas-dormitori/':
+        to: '/iniziative/assistenza-alla-persona/servizi-socio-assistenziali/caritas-dormitori/'
+      '/scopri/assistenza-alla-persona/servizi-cissaca/cissaca-docce/':
+        to: '/iniziative/assistenza-alla-persona/servizi-socio-assistenziali/caritas-docce/'
+      '/scopri/assistenza-alla-persona/servizi-cissaca/cissaca-spese-farmaci/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/sportelli-ambulatoriali-patria/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/sportelli-ambulatoriali-patria/consegna-farmaci-comune/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/sportello-stranieri/':
+        to: '/iniziative/assistenza-alla-persona/sportello-stranieri/'
+      '/scopri/assistenza-alla-persona/sportello-stranieri/cambalache/':
+        to: '/iniziative/assistenza-alla-persona/sportello-stranieri/cambalache/'
+      '/scopri/assistenza-alla-persona/sportello-stranieri/covid19italia.help/':
+        to: '/iniziative/assistenza-alla-persona/sportello-stranieri/covid19italia.help/'
+      '/scopri/assistenza-alla-persona/sportello-stranieri/ufficio-immigrazione-questura/':
+        to: '/iniziative/assistenza-alla-persona/sportello-stranieri/ufficio-immigrazione-questura/'
+      '/scopri/assistenza-alla-persona/supporto-psicologico/':
+        to: '/iniziative/assistenza-alla-persona/supporto-psicologico/'
+      '/scopri/assistenza-alla-persona/supporto-psicologico/360-psicoterapia-pedagogia-formazione/':
+        to: '/iniziative/assistenza-alla-persona/supporto-psicologico/360-psicoterapia-pedagogia-formazione/'
+      '/scopri/assistenza-alla-persona/supporto-psicologico/asl-alessandria/':
+        to: '/iniziative/assistenza-alla-persona/supporto-psicologico/asl-alessandria/'
+      '/scopri/assistenza-alla-persona/supporto-psicologico/associazione-camelia/':
+        to: '/iniziative/assistenza-alla-persona/supporto-psicologico/associazione-camelia/'
+      '/scopri/assistenza-alla-persona/supporto-psicologico/centro-ascolto-comunale/':
+        to: '/iniziative/assistenza-alla-persona/supporto-psicologico/centro-ascolto-comunale/'
+      '/scopri/assistenza-alla-persona/supporto-psicologico/ecos/':
+        to: '/iniziative/assistenza-alla-persona/supporto-psicologico/ecos/'
+      '/scopri/assistenza-alla-persona/supporto-psicologico/gapp-sanitari/':
+        to: '/iniziative/assistenza-alla-persona/supporto-psicologico/gapp-sanitari/'
+      '/scopri/assistenza-alla-persona/supporto-psicologico/sportello-ascolto-imprese/':
+        to: '/iniziative/assistenza-alla-persona/supporto-psicologico/sportello-ascolto-imprese/'
+      '/scopri/assistenza-alla-persona/supporto-psicologico/stare-bene-insieme/':
+        to: '/iniziative/assistenza-alla-persona/supporto-psicologico/stare-bene-insieme/'
+      '/scopri/assistenza-alla-persona/supporto-psicologico/supporto-psicologico-dipendenti/':
+        to: '/iniziative/assistenza-alla-persona/supporto-psicologico/supporto-psicologico-dipendenti/'
+      '/scopri/assistenza-alla-persona/supporto-psicologico/telefono-amico-sportello-connessioni/':
+        to: '/iniziative/assistenza-alla-persona/supporto-psicologico/telefono-amico-sportello-connessioni/'
+      '/scopri/assistenza-alla-persona/varie/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/varie/casa-quartiere-compilazione/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/varie/hackability/':
+        to: '/iniziative/assistenza-alla-persona/servizi-socio-assistenziali/hackability/'
+      '/scopri/assistenza-alla-persona/varie/netural-family/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/varie/patronato-acli/':
+        to: '/'
+      '/scopri/assistenza-alla-persona/varie/webinar-csva/':
+        to: '/'
+      '/scopri/educazione-e-cultura/':
+        to: '/scopri/iniziative-culturali/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/accademia-italiana-medici/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/accademia-italiana-medici/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/acquario-di-genova/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/acquario-di-genova/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/attiviamo-energie-positive/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/attiviamo-energie-positive/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/centro-restauro-venaria/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/centro-restauro-venaria/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/cepea/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/cepea/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/corsi-di-lingue-su-babbel/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/corsi-di-lingue-su-babbel/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/corso-di-fotografia-online-gratuito-del-moma-di-new-york/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/corso-di-fotografia-online-gratuito-del-moma-di-new-york/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/edu-open/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/edu-open/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/exploreorg/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/exploreorg/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/falchi-lombardi/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/falchi-lombardi/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/fender-play/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/fender-play/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/free-code-camp/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/free-code-camp/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/google-corsi-online/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/google-corsi-online/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/i-migliori-corsi-online-gratis/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/i-migliori-corsi-online-gratis/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/la-cucina-italiana/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/la-cucina-italiana/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/lezioni-di-barbero/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/lezioni-di-barbero/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/lezioni-sul-sofa/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/lezioni-sul-sofa/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/massive-online-open-course/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/massive-online-open-course/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/national-parks/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/national-parks/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/pisa-coderdojo/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/pisa-coderdojo/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/rai-scuola/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/rai-scuola/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/riconnessioni-una-raccolta-di-attivita-didattiche-a-distanza-per-genitori-e-insegnanti/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/riconnessioni-una-raccolta-di-attivita-didattiche-a-distanza-per-genitori-e-insegnanti/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/risorgimento-digitale/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/risorgimento-digitale/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/roger-taylor/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/roger-taylor/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/scienzaexpress/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/scienzaexpress/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/solidarieta-digitale/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/solidarieta-digitale/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/techsoup-academy/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/techsoup-academy/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/udemy/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/udemy/'
+      '/scopri/educazione-e-cultura/didattica-a-distanza/universta-federico-ii-na/':
+        to: '/scopri/iniziative-culturali/didattica-a-distanza/universta-federico-ii-na/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/':
+        to: '/scopri/iniziative-culturali/arte-cultura/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/360citiesnet/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/360citiesnet/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/360visiocom/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/360visiocom/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/ara-pacis/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/ara-pacis/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/british-museum/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/british-museum/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/cappella-sistina/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/cappella-sistina/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/casa-di-anna-frank/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/casa-di-anna-frank/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/citta-di-petra-in-giordania/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/citta-di-petra-in-giordania/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/enjoy-museum/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/enjoy-museum/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/fondation-monet/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/fondation-monet/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/galleria-degli-uffizi/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/galleria-degli-uffizi/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/google-arts-culture/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/google-arts-culture/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/google-earth/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/google-earth/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/google-video-immersivi-a-360/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/google-video-immersivi-a-360/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/hermitage-di-san-pietroburgo/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/hermitage-di-san-pietroburgo/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/louvre-di-parigi/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/louvre-di-parigi/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/mercati-di-traiano/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/mercati-di-traiano/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/metropolitan-museum/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/metropolitan-museum/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/ministero-turismo-egiziano/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/ministero-turismo-egiziano/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/musei-vaticani/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/musei-vaticani/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/museo-archeologico-di-atene/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/museo-archeologico-di-atene/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/museo-della-scienza/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/museo-della-scienza/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/museo-di-pietrarsa/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/museo-di-pietrarsa/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/museo-di-van-gogh/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/museo-di-van-gogh/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/museo-dorsay/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/museo-dorsay/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/museo-prado-di-madrid/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/museo-prado-di-madrid/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/nasa/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/nasa/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/national-gallery-of-art/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/national-gallery-of-art/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/passeggiata-in-mostra/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/passeggiata-in-mostra/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/pinacoteca-di-brera/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/pinacoteca-di-brera/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/reggia-di-versailles/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/reggia-di-versailles/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/russia-beyond/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/russia-beyond/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/sky-arte/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/sky-arte/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/the-smithsonian-museum/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/the-smithsonian-museum/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/tussen-kunst-en-quarantaine/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/tussen-kunst-en-quarantaine/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/arte-e-tour-virtuali/virtual-museum-italiano/':
+        to: '/scopri/iniziative-culturali/arte-cultura/arte-e-tour-virtuali/virtual-museum-italiano/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/auditorium-parco-della-musica/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/auditorium-parco-della-musica/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/carlo-felice/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/carlo-felice/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/cirque-du-soleil/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/cirque-du-soleil/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/elfo-puccini/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/elfo-puccini/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/internazionale/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/internazionale/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/ischiafilmfestival/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/ischiafilmfestival/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/istituto-luce/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/istituto-luce/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/la-cineteca-di-milano-offre-in-streaming-oltre-500-titoli-del-proprio-patrimonio/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/la-cineteca-di-milano-offre-in-streaming-oltre-500-titoli-del-proprio-patrimonio/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/la-fenice-di-venezia/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/la-fenice-di-venezia/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/lonely-planet/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/lonely-planet/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/ludanta-studios/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/ludanta-studios/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/mostra-faces-of-frida/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/mostra-faces-of-frida/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/mymovies/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/mymovies/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/piccolo-teatro/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/piccolo-teatro/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/shore-scripts/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/shore-scripts/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/teatro-alla-scala/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/teatro-alla-scala/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/teatro-del-maggio/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/teatro-del-maggio/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/teatro-donnafugata/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/teatro-donnafugata/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/cinema-e-teatro/torino-cinefest/':
+        to: '/scopri/iniziative-culturali/arte-cultura/cinema-e-teatro/torino-cinefest/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/amazon-audible/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/amazon-audible/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/audiolibriorg/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/audiolibriorg/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/autostimanet/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/autostimanet/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/biblioteca-europea/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/biblioteca-europea/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/biblioteche-di-roma/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/biblioteche-di-roma/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/classici-audiolibri/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/classici-audiolibri/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/digitami/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/digitami/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/ebook-gratis-da-internet-book-shop/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/ebook-gratis-da-internet-book-shop/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/ebook-mondadori-gratis/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/ebook-mondadori-gratis/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/emons-audiolibri/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/emons-audiolibri/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/il-saggiatore/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/il-saggiatore/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/ilario-vannucchi/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/ilario-vannucchi/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/la-scimmia-nuda-legge-un-podcast-per-sfogliare-libri-di-scienza-vecchi-e-nuovi/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/la-scimmia-nuda-legge-un-podcast-per-sfogliare-libri-di-scienza-vecchi-e-nuovi/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/liberliberit/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/liberliberit/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/libri-e-grandi-classici-da-ascoltare/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/libri-e-grandi-classici-da-ascoltare/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/librigratisnet/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/librigratisnet/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/librivox/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/librivox/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/lonely-planet/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/lonely-planet/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/medialibraryonline/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/medialibraryonline/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/molwickcom/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/molwickcom/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/progetto-babele/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/progetto-babele/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/project-gutenberg/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/project-gutenberg/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/radio-rai/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/radio-rai/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/strade-bianche/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/strade-bianche/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/lettura/world-digital-library/':
+        to: '/scopri/iniziative-culturali/arte-cultura/lettura/world-digital-library/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/miscellanea/':
+        to: '/scopri/iniziative-culturali/arte-cultura/miscellanea/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/miscellanea/archivio-storico-fs/':
+        to: '/scopri/iniziative-culturali/arte-cultura/miscellanea/archivio-storico-fs/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/miscellanea/arte-svelata/':
+        to: '/scopri/iniziative-culturali/arte-cultura/miscellanea/arte-svelata/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/miscellanea/diario-di-uninsegnante-online/':
+        to: '/scopri/iniziative-culturali/arte-cultura/miscellanea/diario-di-uninsegnante-online/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/miscellanea/dirette-rai/':
+        to: '/scopri/iniziative-culturali/arte-cultura/miscellanea/dirette-rai/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/miscellanea/nhk-world/':
+        to: '/scopri/iniziative-culturali/arte-cultura/miscellanea/nhk-world/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/miscellanea/radio-garden/':
+        to: '/scopri/iniziative-culturali/arte-cultura/miscellanea/radio-garden/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/miscellanea/raiplay/':
+        to: '/scopri/iniziative-culturali/arte-cultura/miscellanea/raiplay/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/miscellanea/vogue-gq-wired-ad/':
+        to: '/scopri/iniziative-culturali/arte-cultura/miscellanea/vogue-gq-wired-ad/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/musica/':
+        to: '/scopri/iniziative-culturali/arte-cultura/musica/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/musica/berliner-philharmoniker/':
+        to: '/scopri/iniziative-culturali/arte-cultura/musica/berliner-philharmoniker/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/musica/i-concerti-dal-sofa/':
+        to: '/scopri/iniziative-culturali/arte-cultura/musica/i-concerti-dal-sofa/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/musica/metropolitan-opera/':
+        to: '/scopri/iniziative-culturali/arte-cultura/musica/metropolitan-opera/'
+      '/scopri/educazione-e-cultura/iniziative-culturali/musica/quinte-parallere/':
+        to: '/scopri/iniziative-culturali/arte-cultura/musica/quinte-parallere/'
+      '/scopri/educazione-e-cultura/iniziative-locali/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/'
+      '/scopri/educazione-e-cultura/iniziative-locali/accogliamo-memoria/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/accogliamo-memoria/'
+      '/scopri/educazione-e-cultura/iniziative-locali/arcaweb-tv/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/arcaweb-tv/'
+      '/scopri/educazione-e-cultura/iniziative-locali/bella-storia/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/bella-storia/'
+      '/scopri/educazione-e-cultura/iniziative-locali/concorso-letterario-ospedale/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/concorso-letterario-ospedale/'
+      '/scopri/educazione-e-cultura/iniziative-locali/formazione-lab/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/formazione-lab/'
+      '/scopri/educazione-e-cultura/iniziative-locali/laboratorio-emozioni/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/laboratorio-emozioni/'
+      '/scopri/educazione-e-cultura/iniziative-locali/laculturanonsiferma/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/laculturanonsiferma/'
+      '/scopri/educazione-e-cultura/iniziative-locali/ludoteca-alessandria/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/ludoteca-alessandria/'
+      '/scopri/educazione-e-cultura/iniziative-locali/my-motion-alessandria/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/my-motion-alessandria/'
+      '/scopri/educazione-e-cultura/iniziative-locali/opuscolo-csvaa/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/opuscolo-csvaa/'
+      '/scopri/educazione-e-cultura/iniziative-locali/ponti-di-parole/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/ponti-di-parole/'
+      '/scopri/educazione-e-cultura/iniziative-locali/prima-e-dopo-covid19/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/prima-e-dopo-covid19/'
+      '/scopri/educazione-e-cultura/iniziative-locali/radio-illegale/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/radio-illegale/'
+      '/scopri/educazione-e-cultura/iniziative-locali/salotto-mandrogno/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/salotto-mandrogno/'
+      '/scopri/educazione-e-cultura/iniziative-locali/scuola-italiano/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/scuola-italiano/'
+      '/scopri/educazione-e-cultura/iniziative-locali/semaforo-blu/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/semaforo-blu/'
+      '/scopri/educazione-e-cultura/iniziative-locali/un-filo-per-restare-vicini/':
+        to: '/scopri/iniziative-culturali/iniziative-locali/un-filo-per-restare-vicini/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/acchiappa-idea/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/acchiappa-idea/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/associazione-solletico/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/associazione-solletico/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/babble-dabble-do/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/babble-dabble-do/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/bambini-e-tecnologie-a-casa-5-suggeriementi-per-una-navigazione-piu-sicura/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/bambini-e-tecnologie-a-casa-5-suggeriementi-per-una-navigazione-piu-sicura/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/bambini-patapum/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/bambini-patapum/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/bartolomeno/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/bartolomeno/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/buggy-bunny/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/buggy-bunny/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/chrome-musiclab/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/chrome-musiclab/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/cnr-edizioni/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/cnr-edizioni/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/come-spiegare-il-coronavirus-ai-bambini/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/come-spiegare-il-coronavirus-ai-bambini/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/cuore-di-maglia/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/cuore-di-maglia/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/didatticarte/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/didatticarte/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/digitalscape/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/digitalscape/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/dramatra/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/dramatra/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/faidatecreativocom/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/faidatecreativocom/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/fun-learning-kids/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/fun-learning-kids/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/happy-hooligans/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/happy-hooligans/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/imparare-il-decoupage/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/imparare-il-decoupage/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/imparare-il-patchwork/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/imparare-il-patchwork/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/jigidi/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/jigidi/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/jigsaw-planet/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/jigsaw-planet/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/js-puzzles/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/js-puzzles/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/labibliodivespri/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/labibliodivespri/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/larcolaio/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/larcolaio/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/left-brain-craft/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/left-brain-craft/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/lezioni-sul-sofa/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/lezioni-sul-sofa/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/lo-spazio-bianco/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/lo-spazio-bianco/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/ludoteca-alessandria/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/ludoteca-alessandria/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/missioni-geografiche/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/missioni-geografiche/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/museo-bambini-milano/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/museo-bambini-milano/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/national-geographic/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/national-geographic/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/one-time-through/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/one-time-through/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/save-the-children/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/save-the-children/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/sergio-bonelli/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/sergio-bonelli/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/solidal-bambini/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/solidal-bambini/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/sugar-spice-glitter/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/sugar-spice-glitter/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/tanatara/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/tanatara/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/teatro-verde-roma/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/teatro-verde-roma/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/the-colouring-book/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/the-colouring-book/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/tutelare-bambini-internet/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/tutelare-bambini-internet/'
+      '/scopri/educazione-e-cultura/intrattenimenti-e-giochi-per-bambini/versi-di-uccelli/':
+        to: '/scopri/iniziative-culturali/intrattenimenti-e-giochi-per-bambini/versi-di-uccelli/'
+      '/scopri/educazione-e-cultura/sport-a-casa/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/'
+      '/scopri/educazione-e-cultura/sport-a-casa/allenati-con-noi/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/allenati-con-noi/'
+      '/scopri/educazione-e-cultura/sport-a-casa/befit/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/befit/'
+      '/scopri/educazione-e-cultura/sport-a-casa/benessere-donna/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/benessere-donna/'
+      '/scopri/educazione-e-cultura/sport-a-casa/blogilates/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/blogilates/'
+      '/scopri/educazione-e-cultura/sport-a-casa/cus-brescia/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/cus-brescia/'
+      '/scopri/educazione-e-cultura/sport-a-casa/esercizi-a-casa-android/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/esercizi-a-casa-android/'
+      '/scopri/educazione-e-cultura/sport-a-casa/esercizi-a-casa-ios/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/esercizi-a-casa-ios/'
+      '/scopri/educazione-e-cultura/sport-a-casa/fitness-blender/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/fitness-blender/'
+      '/scopri/educazione-e-cultura/sport-a-casa/freddy-wear/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/freddy-wear/'
+      '/scopri/educazione-e-cultura/sport-a-casa/fss-amanda-russel/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/fss-amanda-russel/'
+      '/scopri/educazione-e-cultura/sport-a-casa/mans-health/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/mans-health/'
+      '/scopri/educazione-e-cultura/sport-a-casa/personal-running-coach/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/personal-running-coach/'
+      '/scopri/educazione-e-cultura/sport-a-casa/skorkit-ios/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/skorkit-ios/'
+      '/scopri/educazione-e-cultura/sport-a-casa/sworkit-android/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/sworkit-android/'
+      '/scopri/educazione-e-cultura/sport-a-casa/womens-health/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/womens-health/'
+      '/scopri/educazione-e-cultura/sport-a-casa/xhit-daily/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/xhit-daily/'
+      '/scopri/educazione-e-cultura/sport-a-casa/yoga/':
+        to: '/scopri/iniziative-culturali/sport-a-casa/yoga/'
+      '/scopri/informazioni-utili/comunicati-ufficiali/anci-lazio/':
+        to: '/scopri/informazioni-utili/comunicati-ufficiali/anci-piemonte/'
+      '/scopri/informazioni-utili/cosa-fare-se-non-ti-senti-bene/':
+        to: '/scopri/informazioni-utili/'
+      '/scopri/informazioni-utili/cosa-fare-se-non-ti-senti-bene/ho-la-febbre/':
+        to: '/scopri/informazioni-utili/'
+      '/scopri/informazioni-utili/cosa-fare-se-non-ti-senti-bene/in-caso-di-emergenze/':
+        to: '/scopri/informazioni-utili/'
+      '/scopri/informazioni-utili/cosa-fare-se-non-ti-senti-bene/vuoi-chiarimenti/':
+        to: '/scopri/informazioni-utili/'
+      '/scopri/informazioni-utili/numeri-utili/':
+        to: '/scopri/informazioni-utili/servizi-locali/'
+      '/scopri/informazioni-utili/numeri-utili/alessandria-come-stai/':
+        to: '/scopri/informazioni-utili/servizi-locali/alessandria-come-stai/'
+      '/scopri/informazioni-utili/numeri-utili/amag-alessandria/':
+        to: '/scopri/informazioni-utili/servizi-locali/amag-alessandria/'
+      '/scopri/informazioni-utili/numeri-utili/comune-alessandria-info/':
+        to: '/scopri/informazioni-utili/servizi-locali/comune-alessandria-info/'
+      '/scopri/informazioni-utili/numeri-utili/comune-modifiche/':
+        to: '/scopri/informazioni-utili/servizi-locali/comune-modifiche/'
+      '/scopri/informazioni-utili/numeri-utili/comune-numero-generico/':
+        to: '/scopri/informazioni-utili/servizi-locali/comune-numero-generico/'
+      '/scopri/informazioni-utili/numeri-utili/fascicolo-sanitario-elettronico/':
+        to: '/scopri/informazioni-utili/servizi-locali/fascicolo-sanitario-elettronico/'
+      '/scopri/informazioni-utili/numeri-utili/guardia-medica/':
+        to: '/scopri/informazioni-utili/servizi-locali/guardia-medica/'
+      '/scopri/informazioni-utili/numeri-utili/numero-verde-regione/':
+        to: '/scopri/informazioni-utili/servizi-locali/numero-verde-regione/'
+      '/scopri/informazioni-utili/numeri-utili/orari-autobus/':
+        to: '/'
+      '/scopri/informazioni-utili/numeri-utili/ospedale-aggiornamenti/':
+        to: '/scopri/informazioni-utili/servizi-locali/ospedale-aggiornamenti/'
+      '/scopri/informazioni-utili/numeri-utili/polizia-municipale/':
+        to: '/scopri/informazioni-utili/servizi-locali/polizia-municipale/'
+      '/scopri/informazioni-utili/numeri-utili/poste/':
+        to: '/scopri/informazioni-utili/servizi-locali/poste/'
+      '/scopri/informazioni-utili/numeri-utili/questura-avvisi/':
+        to: '/scopri/informazioni-utili/servizi-locali/questura-avvisi/'
+      '/scopri/informazioni-utili/numeri-utili/questura-orari/':
+        to: '/scopri/informazioni-utili/servizi-locali/questura-orari/'
+      '/scopri/informazioni-utili/numeri-utili/regione-piemonte-coronavirus/':
+        to: '/scopri/informazioni-utili/servizi-locali/regione-piemonte-coronavirus/'
+      '/scopri/informazioni-utili/numeri-utili/tribunale/':
+        to: '/'
+      '/scopri/informazioni-utili/numeri-utili/unione-consumatori/':
+        to: '/'
+      '/scopri/informazioni-utili/varie/':
+        to: '/'
+      '/scopri/informazioni-utili/varie/attivazione-servizio-oncologico/':
+        to: '/'
+      '/scopri/informazioni-utili/varie/modalita-accesso-ospedale/':
+        to: '/'
+      '/scopri/informazioni-utili/varie/opuscolo-supporto-psicologico/':
+        to: '/'
+      '/scopri/informazioni-utili/varie/ospedale-bambino-gesu/':
+        to: '/'
+      '/scopri/informazioni-utili/varie/ristorazione-misure/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/ab-games/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/agri2000/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/al-fleurs/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/amart-alessandria/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/artkolor/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/bamby-shop/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/botton-doro/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/carin/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/cartoservi/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/chiariotti-foto/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/coccinella/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/coltelleria-boido/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/dot-design-print/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/ecostore/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/edicola-bersi-giancarlo/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/edicola-bongianchino-giorgio/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/edicola-maimone-lorella/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/edicola-parodi/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/enoteca-boido/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/essecitecnica/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/ferrari-1908/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/ferrari-outlet/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/fishes-and-sports/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/forlini-provera/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/foto-la-greca/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/ginny-fleurs/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/gipsy-fiori/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/il-pavone/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/in-forma-salute-tecnologie-per-il-benessere/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/intimo-2012/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/jtwo/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/kasanova/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/la-bottega-di-mastro-geppetto/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/la-nuova-cartoleria-di-zecchin-daniela/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/lemon/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/lucetta-rissone-pelizza/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/maggiordomus/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/mauri-di-mauri-monica/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/molina/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/onda-blu/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/peters-tea-house/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/primigi/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/quagli/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/reposi/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/resicar/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/riprocentro/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/spazioverde/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/tartara-alberto/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/tuttocapsule-marengo-di-franco-giuliani/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/altri-tipi-di-consegne/vivy-fleurs/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/attivita-aperte/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/agro-bio-panificio-bisoglio/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/azienda-agricola-astori-dario/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/caffe-paulista/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/cantina-del-moro/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/cascina-la-signorina/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/cioccolato/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/cobevi/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/colle-manora/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/emporio-carli/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/fabbrica/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/fuga-di-sapori/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/gaddo-valerio/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/gelateria-pieruz/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/giordano-lombardo/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/il-rocchin/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/la-casaccia/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/la-faletta/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/la-mesna/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/la-rossa/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/la-scolca/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/la-vecchia-posta/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/luca-spinola/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/mantovana/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/monrabbioso/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/nuova-cappelletta/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/reddavide-domenico/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/roccabianca/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/societa-agricola-roccabianca/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/tenuta-la-marchesa/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/vigneti-repetto/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/altro/vivai-rossi/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/bar/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/bar/bar-foxy/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/bar/bar-latteria-missaghi-roberto/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/bar/bio-cafe/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/bar/casa-signorelli-signorelli-food-srl/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/bar/coffee-break/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/bar/inn-ale-cafe/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/bar/koela-cafe/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/bar/melchionni-cafe/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/bar/ristobar-juice-bio/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/bar/ristobar-malu/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/frutta-verdura/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/frutta-verdura/carotone/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/frutta-verdura/francabandiera-saverio/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/frutta-verdura/frutta-e-verdura-da-nino-e-mariangela/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/frutta-verdura/la-vitamina/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/frutta-verdura/lamico-fruttaio/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/frutta-verdura/le-regine-della-frutta/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/frutta-verdura/lorto-di-qualita/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/frutta-verdura/orticoltura-villese/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/frutta-verdura/piccolo-orto/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/al-mercatino/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/antica-casa-rava/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/cascina-san-lorenzo/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/cera-una-volta/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/eccellenza-a-tavola-di-pasquale-gaetano/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/fede-rica-di-cresta-federica/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/il-moro-eccellenze-siciliane/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/non-solo-capre/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/pasta-fresca-la-moderna/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/pastificio-piemontese/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/pastificio-roselda/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/salumeria-cusimano-salvatore/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/sapori-caserecci/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/scillo-luca-christian/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/sorriso-in-cucina/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/tana-cinzia/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/gastronomie-salumerie/vermigli/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/macellerie/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/macellerie/bocchio-carni/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/macellerie/bottega-del-maiale/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/macellerie/bottega-delle-carni/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/macellerie/la-bottega-dei-ma-di-massimo-licata/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/macellerie/macelleria-alessia/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/macellerie/macelleria-equina-del-masle/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/macellerie/macelleria-piccolo-alessandro/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/panetterie/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/panetterie/il-fornaio/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/panetterie/master-bakery/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/panetterie/pan-di-zucchero/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/panetterie/panetteria-enza-e-valerio-coggiola/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/panetterie/panetteria-ferrando/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/panetterie/panetteria-pancaldo/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/panetterie/panetteria-sandroni/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/panetterie/sapore-di-pane/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/antonella-dolci/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/giraudi/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/malvicini-gian-carlo/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/mamu-piccola-pasticceria/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/miscotto-laboratorio-di-pasticceria/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/pasquarelli-fabrizio/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/paste/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/pasticceria-angelo/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/pasticceria-bonadeo/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/pasticceria-gallina/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/pasticceria-la-dolce-vito/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pasticcerie/pasticceria-zoccola-1820-srl/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pub-birrerie/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pub-birrerie/birreria-il-borgo/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pub-birrerie/birrificio-canediguerra/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pub-birrerie/crepes-avarizia/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pub-birrerie/elios-burger-and-grill/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pub-birrerie/hop-mangiare-di-birra/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pub-birrerie/tigella-bella/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/pub-birrerie/tip-tap/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/attilio-70/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/gallo-doro/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/i-due-buoi/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/kuuk/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/la-costiera/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/la-cucina-di-francesca/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/locatelli-bistrot/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/luna-in-brodo/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/pizza-studios/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/pizzeria-barbarossa-e-eliana-amato/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/pizzeria-gastronomia-al-castello/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/pizzeria-isola/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/pizzeria-piazza-maino/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/ristorante-napoleon/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/ristorante-pizzeria-capri/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/rogers-pizza/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/consegne-alimentari/ristoranti-pizzerie/roxy-45-pizza/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/riparazioni-in-casa/':
+        to: '/'
+      '/scopri/mangiare-e-fare-la-spesa/riparazioni-in-casa/artigiani/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/':
+        to: '/iniziative/misure-di-sostegno-economico/'
+      '/scopri/misure-di-sostegno-economico/notizie-da-inps/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/notizie-da-inps/inps/':
+        to: '/scopri/informazioni-utili/servizi-locali/inps/'
+      '/scopri/misure-di-sostegno-economico/reddito-di/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/reddito-di/informagiovani-ricerca-lavoro/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-famiglie/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/al-via-fase-2/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/asili-nido/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-famiglie/asili-nido/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/bonus-baby-sitting/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-famiglie/bonus-baby-sitting/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/buoni-spesa-comune-2-tranche-avviso/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/buoni-spesa-comune-2-tranche-erogazione/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/buoni-spesa-comune-2-tranche-guida/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/buoni-spesa-comune-2-tranche/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/buoni-spesa-comune/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/buoni-spesa/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-famiglie/buoni-spesa/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/cissaca-aiuti/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/consulenza-legale/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-famiglie/consulenza-legale/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/deroga-pagamenti/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-famiglie/deroga-pagamenti/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/refugees-welcome/':
+        to: '/iniziative/assistenza-alla-persona/sportello-stranieri/refugees-welcome/'
+      '/scopri/misure-di-sostegno-economico/sostegno-famiglie/sospensione-mutui/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-famiglie/sospensione-mutui/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/attivazione-servizio-take-away/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/bonus-piemonte/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/bonus-piemonte/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/cia/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/cia/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/cig-deroga/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/cig-in-deroga/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/cig-in-deroga/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/citta-alessandria/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/citta-alessandria/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/cna/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/cna/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/coldiretti/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/coldiretti/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/confagricoltura/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/confagricoltura/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/confartigianato/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/confartigianato/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/confcommercio/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/confcommercio/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/confesercenti/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/confesercenti/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/confindustria/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/confindustria/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/decreto-cura-italia/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/decreto-cura-italia/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/dehor/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/dehor/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/fondo-garanzia-imprese/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/fondo-garanzia-imprese/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/humus/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/humus/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/job-in-country/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/job-in-country/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/lavora-con-gli-italiani/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/lavora-con-gli-italiani/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/pid-cciaa/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/pid-cciaa/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/rete-adesso/':
+        to: '/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/ricominciamodaldigitale/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/ricominciamodaldigitale/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/ripartipiemonte/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/ripartipiemonte/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/ripartireimpresa/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/ripartireimpresa/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/sistemazione-salariati/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/sistemazione-salariati/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/sostegno-agli-investimenti/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/sostegno-agli-investimenti/'
+      '/scopri/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/usarci/':
+        to: '/iniziative/misure-di-sostegno-economico/sostegno-lavoro-e-imprese/usarci/'
+      '/scopri/spostamenti/':
+        to: '/scopri/informazioni-utili/spostamenti/'
+      '/scopri/spostamenti/autocertificazione/':
+        to: '/scopri/informazioni-utili/spostamenti/autocertifcazione/'
+      '/scopri/spostamenti/autocertificazione/autocertifcazione/':
+        to: '/scopri/informazioni-utili/spostamenti/autocertifcazione/'
+      '/scopri/spostamenti/trasporti-privati/':
+        to: '/scopri/informazioni-utili/spostamenti/'
+      '/scopri/spostamenti/trasporti-privati/croce-rossa/':
+        to: '/scopri/informazioni-utili/servizi-locali/croce-rossa/'
+      '/scopri/spostamenti/trasporti-privati/radio-taxi-201900/':
+        to: '/scopri/informazioni-utili/spostamenti/radio-taxi-201900/'
+      '/scopri/spostamenti/trasporti-privati/radio-taxi/':
+        to: '/scopri/informazioni-utili/spostamenti/radio-taxi/'
+      '/scopri/spostamenti/trasporti-pubblici/':
+        to: '/scopri/informazioni-utili/spostamenti/trasporti-pubblici/'
+      '/scopri/spostamenti/trasporti-pubblici/amag-mobilita/':
+        to: '/scopri/informazioni-utili/spostamenti/amag-mobilita/'
+      '/scopri/spostamenti/trasporti-pubblici/linee-urbane/':
+        to: '/scopri/informazioni-utili/spostamenti/linee-urbane/'
+      '/scopri/spostamenti/trasporti-pubblici/oraritrenitalia/':
+        to: '/scopri/informazioni-utili/spostamenti/oraritrenitalia/'
+      '/scopri/spostamenti/trasporti-pubblici/trenitalia-fase2/':
+        to: '/scopri/informazioni-utili/spostamenti/trenitalia-fase2/'
+      '/scopri/spostamenti/trasporti-pubblici/trenitalia/':
+        to: '/scopri/informazioni-utili/spostamenti/trenitalia/'
+      '/scopri/spostamenti/trasporti-pubblici/video-inail-dispositivi/':
+        to: '/scopri/informazioni-utili/spostamenti/video-inail-dispositivi/'
