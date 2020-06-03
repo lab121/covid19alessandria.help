@@ -1,10 +1,17 @@
+{{ define "title" }}Pagina non trovata{{ end }}
+
 {{ define "main"}}
-
-<article class="blog-post">
-  <header>
-    <h2 class="blog-post-title">Page Not Found</h2>
-  </header>
-  <p>Page not found. Go back <a href="{{ "/" | relURL }}">home</a>.</p>
-</article> <!-- /.blog-post -->
-
+<div class="py-5 bg-light">
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-md-12">
+                <p>La pagina che stai cercando non è stata trovata. Ti suggeriamo di:</p>
+              <ul>
+                <li><a href="/">Andare alla home</a></li>
+                <li><a href="/cerca">Cercare un'informazione</a></li>
+              </ul>
+            </div>
+        </div>
+    </div>
+</div>
 {{ end }}

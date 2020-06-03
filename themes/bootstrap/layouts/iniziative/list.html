@@ -1,0 +1,22 @@
+{{ define "title" }}Iniziative{{ end }}
+
+{{ define "main" }}
+    <h1>Iniziative</h1>
+
+    <div class="row mb-5">
+        <div class="col-md-12">
+            {{ .Page.Content }}
+        </div>
+    </div>
+	<!--<h1>Sezioni</h1>-->
+    <div class="row mb-5">		
+        {{ range .Sections }}
+            <div class="col-md-3 mb-3 text-center">
+                <a href="{{ .Permalink }}">
+                    <span class="fas fa-{{ .Params.logo }} font-60" aria-hidden="true"></span>
+                    <h4>{{ .Title }}</h4>
+                </a>
+            </div>
+        {{ end }}
+    </div>
+{{ end }}

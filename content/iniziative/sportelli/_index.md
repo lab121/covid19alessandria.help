@@ -1,0 +1,11 @@
+---
+title: "Sportelli"
+type: "group"
+layout: "section"
+logo: "hands-helping"
+weight: 3
+draft: false
+---
+
+Attività di supporto e accompagnamento alle pratiche per l’accesso a misure di sostegno economico, per richiedere Voucher, contributi economici per il nucleo familiare o per l’impresa.
+Le informazioni precise sull'attivazione degli sportelli saranno a disposizione dalla giornata del 4 giugno 2020.

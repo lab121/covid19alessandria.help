@@ -1,0 +1,14 @@
+{{ $options := split (.Get "options") "," }}
+{{ $len := (len $options) }}
+
+<div class="row">
+    <div class="col-md-12">
+        <h4 class="mb-3"><span class="fas fa-pencil-alt" aria-hidden="true"></span> {{ .Get "title" }}</h4>
+        <div id="form-wrapper">
+            <form-el source="{{ .Get "name" }}" v-bind:categories="[{{ range $index, $element := $options }}'{{ . }}'{{ if lt (add $index 1) $len }},{{ end }}{{ end }}]"></form-el>
+        </div>
+    </div>
+</div>
+
+{{ $form := resources.Get "js/form.min.js" | resources.Fingerprint }}
+<script src="{{ $form.Permalink }}" integrity="{{ $form.Data.Integrity }}" crossorigin="anonymous"></script>

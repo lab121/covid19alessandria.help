@@ -1,7 +1,6 @@
 ---
 title: "Alessandria Come Va?"
 layout: "page"
-menu: main
 weight: 7
 ---
 

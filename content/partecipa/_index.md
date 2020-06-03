@@ -1,11 +1,8 @@
 ---
 title: "Partecipa"
 layout: "page"
-form: true
-form_options: ["Donazioni di beni", "Commissioni", "Sviluppo del sito", "Altro"]
-form_title: "Segnala"
 menu: main
-weight: 3
+weight: 5
 ---
 
 Siamo un gruppo di realtà locali e volontari da sempre impegnate in attività di volontariato, solidarietà e sviluppo del territorio. 
@@ -19,3 +16,5 @@ _____________________
 ### Vuoi partecipare? 
 
 Compila il form dedicato o scrivici una mail a questo indirizzo covid19alessandria.help@lab121.org e ti ricontatteremo per darti maggiori informazioni e capire insieme cosa fare. 
+
+{{< form options="Donazioni di beni,Commissioni,Sviluppo del sito,Altro" title="Segnala" name="partecipa->segnala" >}}
