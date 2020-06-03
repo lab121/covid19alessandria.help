@@ -1,5 +1,5 @@
 ---
-title: "Iniziative culturali"
+title: "Arte e cultura"
 type: "group"
 layout: "section"
 weight: 4
