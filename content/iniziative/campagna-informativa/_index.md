@@ -3,7 +3,6 @@ title: "Campagna informativa"
 type: "group"
 layout: "subsection"
 logo: "map"
-promote_to_home: true
 weight: 3
 draft: false
 ---

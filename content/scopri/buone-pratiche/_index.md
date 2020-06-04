@@ -3,7 +3,6 @@ title: "Buone pratiche"
 type: "group"
 layout: "subsection"
 logo: "award"
-promote_to_home: true
 weight: 8
 relate: ["/scopri/iniziative-locali"]
 ---
