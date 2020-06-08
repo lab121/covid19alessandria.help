@@ -1,6 +1,6 @@
 <h3 class="text-center mb-5">Ultimi aggiornamenti</h3>
 <div class="row">
-{{ .Scratch.Add "latest" slice }}{{ range .Site.Sections }}{{ if .Params.promote_to_home}}{{ range .Pages }}{{ if .Pages }}{{ range .Pages }}{{ $.Scratch.Add "latest" . }}{{ end }}{{ else }}{{ $.Scratch.Add "latest" . }}{{ end }}{{ end }}{{ end }}{{ end }}
+{{ .Scratch.Add "latest" slice }}{{ range .Site.AllPages }}{{ if .Params.promote_to_home}}{{ range .Pages }}{{ if .Pages }}{{ range .Pages }}{{ $.Scratch.Add "latest" . }}{{ end }}{{ else }}{{ $.Scratch.Add "latest" . }}{{ end }}{{ end }}{{ end }}{{ end }}
 
 {{ range (sort (.Scratch.Get "latest") "Lastmod" "desc") | first 3 }}
 {{ partial "summary_short.html" . }}
