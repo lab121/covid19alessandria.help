@@ -68,6 +68,9 @@
                             {{ end }}
                         </div>
                     </li>
+					<!--<li>
+						<a href="https://www.facebook.com/Covid19AlessandriaHelp-108070144209559/"><img src="https://covid19alessandria.help/images/icons/ico_facebook.png" width="30px" height="30px" /></a>
+					</li>-->
                     {{ range .Site.Menus.secondary }}
                         <li class="{{ if or ($currentPage.IsMenuCurrent "secondary" .) ($currentPage.HasMenuCurrent "secondary" .) }}active{{ end }}">
                             <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
