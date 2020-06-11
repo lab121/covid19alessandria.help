@@ -7,7 +7,4 @@ date: 2020-06-11
 weight: 10
 ---
 
-Presso Casa di Quartiere Alessandria. 
-Martedì e giovedì al mattino dalle 10 alle 13 e al pomeriggio dalle 15 alle 18.30
-Mercoledì al mattina dalle 10 alle 13.
-Siamo disponibili anche per effettuare domanda per il Bonus terzo figlio!
+Presso Casa di Quartiere Alessandria. Martedì e giovedì al mattino dalle 10 alle 13 e al pomeriggio dalle 15 alle 18.30. Mercoledì al mattina dalle 10 alle 13. Siamo disponibili anche per effettuare domanda per il Bonus terzo figlio!
