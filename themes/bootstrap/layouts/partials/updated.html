@@ -15,7 +15,7 @@
 	{{ end }}
 {{ end }}
 
-{{ range (sort (.Scratch.Get "latest") "Lastmod" "desc") | first 3000 }}
+{{ range (sort (.Scratch.Get "latest") "Lastmod" "desc") | first 3 }}
 	{{ partial "summary_short.html" . }}
 {{ end }}
 </div>
