@@ -6,6 +6,7 @@ mail: ""
 address: ""
 source: ""
 date: 2020-04-02
+draft: true
 ---
 
 Le educatrici della Cooperativa Semi di Senape saranno con voi per ascoltarvi e riflettere insieme  sugli aspetti educativi dei bambini in questo tempo di crisi sanitaria

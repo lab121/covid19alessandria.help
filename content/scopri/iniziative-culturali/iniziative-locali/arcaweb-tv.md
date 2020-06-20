@@ -6,6 +6,7 @@ mail: "info@rivaronesi.it"
 address: ""
 source: ""
 date: 2020-04-15
+draft: true
 ---
 
 ARCA WebTV è la web tv di Rivarone.
