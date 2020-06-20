@@ -1,6 +1,6 @@
 <h3 class="text-center mb-5">Ultimi aggiornamenti</h3>
 <div class="row">
-    {{- range ( where site.RegularPages "Section" "aggiornamenti" | first 3 ) }}
+    {{- range ( where site.RegularPages "Section" "aggiornamenti" | last 3 ) }}
         {{ partial "summary_short.html" . }}
     {{ end }}
 </div>
