@@ -1,7 +1,7 @@
 <h3 class="text-center mb-5">Ultimi aggiornamenti</h3>
 <div class="row">
-    {{- range ( where site.RegularPages.ByLastmod "Section" "aggiornamenti" | last 3 ) }}
-        {{ partial "summary_short.html" . }}
+    {{- range where ( where site.RegularPages "Section" "aggiornamenti") ".Params.weight" "=" 1 | last 3  }}
+	   {{ partial "summary_short.html" . }}
     {{ end }}
 </div>
 <h5 class="text-center"><a href="/aggiornamenti">Leggi tutti gli aggiornamenti</a></h5>
