@@ -6,4 +6,4 @@ weight: 6
 ---
 
 Il contributo spetta ai titolari di partita Iva che esercitano attività d’impresa e di lavoro autonomo o che sono titolari di reddito agrario, ed è commisurato alla diminuzione di fatturato subita a causa dell’emergenza epidemiologica.
-Dopo circolare dell'Agenzia delle Entrate i residenti in Provincia di Alessandria possono richiederlo anche senza calo di fatturato.
+Dopo circolare 22/E del 21.07.2020 dell'Agenzia delle Entrate i residenti in Provincia di Alessandria possono richiederlo anche senza calo di fatturato.
