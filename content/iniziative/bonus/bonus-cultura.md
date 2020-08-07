@@ -1,8 +1,8 @@
 ---
 title:  "Bonus Cultura Regione Piemonte"
 link: "https://www.regione.piemonte.it/web/temi/cultura-turismo-sport/cultura/bonus-cultura-700-1000-euro-fondo-perduto-per-fotografi-guide-turistiche-traduttori-operatori"
-mail: ""
-phone: ""
+mail: "bonuscultura@regione.piemonte.it"
+phone: "011.082.4407"
 date: 2020-08-07
 draft: false
 weight: 1
