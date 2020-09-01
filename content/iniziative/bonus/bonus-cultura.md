@@ -8,5 +8,4 @@ draft: false
 weight: 1
 ---
 
-Da venerdì 7 agosto a sabato 31 ottobre 2020 è attivo il bando per richiedere la corresponsione del Bonus Cultura della Regione Piemonte.
-Il sostegno è dedicato al comparto culturale tramite la concessione di un contributo una tantum a fondo perduto per i soggetti che non hanno accesso - o che non intendono accedere - ai contributi ordinari in materia di cultura, alle imprese e agli operatori aventi sede legale e operativa nella Regione Piemonte e che operano in ambito culturale e dell'indotto a supporto delle attività del comparto.
+Il sostegno è dedicato al comparto culturale tramite la concessione di un contributo una tantum a fondo perduto per le organizzazione culturali piemontesi che non hanno accesso - o che non intendono accedere - ai contributi ordinari in materia di cultura, e alle imprese e agli operatori aventi partita IVA e sede legale e operativa in Piemonte, che operano in ambito culturale e dell'indotto a supporto delle attività del comparto.
