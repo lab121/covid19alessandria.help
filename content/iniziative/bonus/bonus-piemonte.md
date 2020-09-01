@@ -1,11 +1,11 @@
 ---
-title:  "Bonus Piemonte: le istruzioni per riceverlo"
+title:  "Bonus Piemonte"
 link: "https://www.regione.piemonte.it/web/pinforma/notizie/bonus-piemonte-istruzioni-per-riceverlo"
-mail: "Gianni.Gennaro@regione.piemonte.it"
+mail: ""
 phone: ""
-date: 2020-05-21
+date: 2020-09-01
 draft: false
 weight: 1
 ---
 
-È in corso in questi giorni l’invio delle pec ai beneficiari del BonusPiemonte, il contributo a fondo perduto predisposto dalla Regione per sostenere le imprese colpite dal lockdown per l'emergenza Coronavirus.
+Contributo a fondo perduto predisposto dalla Regione per sostenere le imprese colpite dal lockdown per l'emergenza Coronavirus.
