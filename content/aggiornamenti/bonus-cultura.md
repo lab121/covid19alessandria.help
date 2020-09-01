@@ -5,7 +5,6 @@ mail: "bonuscultura@regione.piemonte.it"
 phone: "011.082.4407"
 date: 2020-08-07
 draft: false
-weight: 1
 ---
 
 Da venerdì 7 agosto a sabato 31 ottobre 2020 è attivo il bando per richiedere la corresponsione del Bonus Cultura della Regione Piemonte.
