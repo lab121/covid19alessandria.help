@@ -7,4 +7,4 @@ draft: false
 weight: 4
 ---
 
-Iinformazioni utili per le Istituzioni scolastiche, le Università, le Istituzioni dell'Alta formazione Artistica, Musicale e Coreutica sul Coronavirus.
+Informazioni utili per le Istituzioni scolastiche, le Università, le Istituzioni dell'Alta formazione Artistica, Musicale e Coreutica sul Coronavirus.
