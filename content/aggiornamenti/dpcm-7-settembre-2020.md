@@ -7,3 +7,4 @@ weight: 1
 ---
 
 Decreto del Presidente del Consiglio dei Ministri del 7 settembre 2020
+Scarica [qua](/documents/dpcm_07_settembre 2020.pdf) il pdf
