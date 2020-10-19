@@ -4,6 +4,7 @@ link: "http://www.governo.it/it/articolo/coronavirus-il-presidente-conte-firma-i
 mail: ""
 date: 2020-10-14
 weight: 1
+draft: true
 ---
 
 Decreto del Presidente del Consiglio dei Ministri del 13 ottobre 2020
