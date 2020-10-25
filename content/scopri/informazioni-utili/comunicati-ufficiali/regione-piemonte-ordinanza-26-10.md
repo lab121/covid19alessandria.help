@@ -6,8 +6,8 @@ date: 2020-26
 weight: 1
 ---
 
-scarica qui il [testo dell'ordinanza](\Documents\covid19alessandria.help\static\documents\ordinanza_salute-piemonte_23-10-20.pdf) 
+scarica qui il [testo dell'ordinanza](/Documents/covid19alessandria.help/static/documents/ordinanza_salute-piemonte_23-10-20.pdf) 
 
-scarica qui il [modello di autocertificazione](\Documents\covid19alessandria.help\static\documents\modello_autodichiarazione_editabile_ottobre_2020.pdf)
+scarica qui il [modello di autocertificazione](/Documents/covid19alessandria.help/static/documents/modello_autodichiarazione_editabile_ottobre_2020.pdf)
 
 Tutti gli aggiornamenti dalla Regione.
