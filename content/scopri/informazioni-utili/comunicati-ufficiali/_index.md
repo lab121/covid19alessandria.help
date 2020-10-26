@@ -1,5 +1,5 @@
 ---
-title: "Comunicati ufficiali, ordinanze, DCPM"
+title: "Comunicati ufficiali, ordinanze, DPCM"
 type: "group"
 logo: "file-alt"
 layout: "subsection"
