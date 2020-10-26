@@ -2,7 +2,7 @@
 title: "Spostamenti"
 type: "group"
 layout: "subsection"
-weight: 6
+weight: 3
 logo: "suitcase-rolling"
 ---
 

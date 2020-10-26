@@ -3,6 +3,7 @@ title: "Semaforo Blu"
 link: "https://www.facebook.com/semaforoblu/"
 mail: "semaforoblual@gmail.com"
 date: 2020-05-02
+draft: true
 ---
 
 Siamo un'associazione culturale e sportiva che, prima della quarantena, proponeva laboratori per bambini e ragazzi nelle librerie, biblioteche e musei. 

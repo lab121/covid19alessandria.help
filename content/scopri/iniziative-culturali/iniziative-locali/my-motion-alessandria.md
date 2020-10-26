@@ -6,6 +6,7 @@ mail: ""
 address: ""
 source: ""
 date: 2020-04-03
+draft: true
 ---
 
 Comodi video per continuare a fare esercizio fisico in casa

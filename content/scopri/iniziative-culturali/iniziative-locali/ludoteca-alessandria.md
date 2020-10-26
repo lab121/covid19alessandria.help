@@ -8,6 +8,7 @@ coord_lat: 44.919120
 coord_lon: 8.616980
 source: ""
 date: 2020-04-22
+draft: true
 ---
 
 Iniziative della Ludoteca di Alessandria per i più piccoli
