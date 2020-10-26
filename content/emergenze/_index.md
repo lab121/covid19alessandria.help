@@ -2,7 +2,6 @@
 title: "Emergenze"
 layout: "page"
 weight: 6
-promote_to_home: true
 relate: ["/scopri/iniziative-solidali"]
 ---
 

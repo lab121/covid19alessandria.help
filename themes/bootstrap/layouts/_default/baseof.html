@@ -68,16 +68,10 @@
                             {{ end }}
                         </div>
                     </li>
-					<li>
-						<div style="margin:10px;"><a href="https://www.facebook.com/Covid19AlessandriaHelp-108070144209559/"><img src="https://covid19alessandria.help/images/icons/ico_facebook.png" width="20px" height="20px" /></a></div>
-					</li>
-					<li>
-						<div style="margin:10px;"><a href="https://www.instagram.com/covid19alessandria.help/"><img src="https://covid19alessandria.help/images/icons/ico_instagram.png" width="20px" height="20px" /></a></div>
-					</li>
-					<li>
-						<div style="margin:10px;"><a href="mailto:covid19alessandria.help@lab121.org"><img src="https://covid19alessandria.help/images/icons/ico_mail_sito.png" width="20px" height="20px" /></a></div>
-					</li>
-					{{ range .Site.Menus.secondary }}
+					<!--<li>
+						<a href="https://www.facebook.com/Covid19AlessandriaHelp-108070144209559/"><img src="https://covid19alessandria.help/images/icons/ico_facebook.png" width="30px" height="30px" /></a>
+					</li>-->
+                    {{ range .Site.Menus.secondary }}
                         <li class="{{ if or ($currentPage.IsMenuCurrent "secondary" .) ($currentPage.HasMenuCurrent "secondary" .) }}active{{ end }}">
                             <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
                         </li>

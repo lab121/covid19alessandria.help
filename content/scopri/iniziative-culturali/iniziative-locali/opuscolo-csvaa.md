@@ -8,5 +8,6 @@ coord_lat: 44.915561
 coord_lon: 8.611441 
 source: ""
 date: 2020-04-30
+draft: true
 ---
 
