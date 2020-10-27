@@ -2,7 +2,7 @@
 title: "Sostegno economico"
 type: "group"
 layout: "section"
-logo: "head-side-mask"
+logo: "money-bill"
 weight: 4
 ---
 

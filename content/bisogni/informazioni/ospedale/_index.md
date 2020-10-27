@@ -1,6 +1,6 @@
 ---
 title: "Ospedale"
-logo: ""
+logo: "hospital"
 type: "group"
 layout: "subsection"
 weight: 1

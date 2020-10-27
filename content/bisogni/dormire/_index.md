@@ -2,7 +2,7 @@
 title: "Dormire"
 type: "group"
 layout: "section"
-logo: "utensils"
+logo: "bed"
 weight: 3
 ---
 

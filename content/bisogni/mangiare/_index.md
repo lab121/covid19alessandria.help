@@ -1,7 +1,7 @@
 ---
 title: "Mangiare"
 type: "group"
-layout: "section"
+layout: "subsection"
 logo: "utensils"
 weight: 1
 ---
