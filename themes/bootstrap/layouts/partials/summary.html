@@ -1,45 +1,39 @@
 <div class="col-md-4">
-    <div class="card mb-4 shadow-sm">
-        <div class="card-body">
 
-            <div class="cart-title">
-                <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
-            </div>
+    <div class="card-wrapper card-space">
+        <div class="card card-bg">
+            <div class="card-body">
+                <h5 class="card-title">{{ .Title }}</h5>
 
-            <hr>
+                {{ if .Content }}
+                <p class="card-text">{{ .Content }}</p>
+                {{ end }}
 
-            {{ if .Content }}
-                <div class="cart-content">
-                    {{ .Content }}
-                </div>
-
-                <hr>
-            {{ end }}
-
-            {{ if .Params.phone }}
+                {{ if .Params.phone }}
                 <div class="cart-phone mb-3">
                     <b>Tel:</b> {{ .Params.phone }}
                 </div>
-            {{ end }}
+                {{ end }}
 
-            {{ if .Params.mail }}
+                {{ if .Params.mail }}
                 <div class="cart-mail mb-3">
                     <b>Email:</b> {{ .Params.mail }}
                 </div>
-            {{ end }}
+                {{ end }}
 
-            {{ if .Params.address }}
-            <div class="cart-mail mb-3">
-                <b>Indirizzo:</b> {{ .Params.address }}
-            </div>
-            {{ end }}
-
-            {{ if .Params.link }}
-                <div class="btn-group cart-link">
-                    <a href="{{ .Params.link }}" class="btn btn-sm btn-outline-secondary" target="_blank">Link</a>
+                {{ if .Params.address }}
+                <div class="cart-mail mb-3">
+                    <b>Indirizzo:</b> {{ .Params.address }}
                 </div>
-            {{ end }}
+                {{ end }}
 
+                {{ if .Params.link }}
+                <a class="read-more" href="{{ .Permalink }}">
+                    <span class="text">Leggi di più</span>
+                </a>
+                {{ end }}
+            </div>
         </div>
     </div>
+
 </div>
