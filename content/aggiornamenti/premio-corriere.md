@@ -3,7 +3,6 @@ title: "Premio Economia della fiducia come migliore esperienza italiana nella ca
 link: "https://www.corriere.it/buone-notizie/civil-week/"
 mail: ""
 date: 2020-10-19
-weight: 1
 ---
 
 Siamo orgogliosi di ricevere il premio L'ECONOMIA DELLA FIDUCIA come migliore esperienza italiana nella categoria RETI.
