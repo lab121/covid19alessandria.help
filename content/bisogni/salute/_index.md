@@ -1,7 +1,7 @@
 ---
 title: "Salute"
 type: "group"
-layout: "section"
+layout: "subsection"
 logo: "head-side-mask"
 weight: 2
 ---
