@@ -1,5 +1,5 @@
 ---
-title: "Prenotazioni garantite e sospese"
+title: "Prenotazioni garantite e sospese ospedale di Alessandria"
 link: "https://www.ospedale.al.it/coronavirus-aggiornamenti/#1603386582230-0318c844-fcfc"
 mail: ""
 date: 2020-10-29
