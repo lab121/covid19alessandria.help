@@ -2,9 +2,19 @@
 title: "Community"
 layout: "page"
 weight: 6
+logo: "comments"
 ---
 
 {{< rawhtml >}}
+Pagina di archivio.
+<br />
+<strong>In questo momento di emergenza rimandiamo il nostro progetto di creare un luogo di discussione e di progettazione aperto a tutta la cittadinanza.</strong>
+<br />
+Lo riproporremo appena la situazione lo consentirà.
+<br />
+Puoi leggere quali erano le nostre intenzioni e che cosa volevamo fare.
+<br />
+<br />
 Da veicolo di informazione e orientamento a meccanismo di raccolta dati fino a strumento per la partecipazione attiva dei cittadini nella risposta al bisogno e nel (possibile) ridisegno delle politiche. 
 <br />
 Con lo spazio “Community” Il ciclo di vita della piattaforma covid19alessandria.help si completa con la messa a disposizione di uno spazio digitale di conversazione e confronto tra i cittadini, le organizzazioni e gli enti. 

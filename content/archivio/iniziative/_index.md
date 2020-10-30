@@ -6,4 +6,6 @@ logo: "puzzle-piece"
 weight: 9
 ---
 
-Testo da definire
+Pagina di archivio.
+
+Le nostre iniziative durante la fase 1.
