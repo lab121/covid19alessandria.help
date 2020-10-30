@@ -1,5 +1,5 @@
 ---
-title: "Informazioni"
+title: "Informazioni in caso di postività"
 logo: "briefcase-medical"
 promote_to_home: true
 weight: 5

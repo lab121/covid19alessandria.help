@@ -1,5 +1,5 @@
 ---
-title: "Informazioni protocollo tamponi"
+title: "Protocollo tamponi"
 logo: "briefcase-medical"
 promote_to_home: true
 type: "group"
