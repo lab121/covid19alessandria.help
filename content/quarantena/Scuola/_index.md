@@ -7,5 +7,7 @@ layout: "subsection"
 weight: 3
 ---
 
-Dove trovo le informazioni per la scuola di mio figlio?
+{{< rawhtml >}}
+Trovi tutte le informazioni che riguardano la scuola in <a href="/bisogni/scuola">questa sezione</a>
+{{< /rawhtml >}}
 
