@@ -6,4 +6,4 @@ logo: "utensils"
 weight: 1
 ---
 
-Testo da definire
+In questa pagina trovi informazioni su come risolvere alcuni problemi fondamentali per nutrirsi in questo periodo di emergenza.

@@ -3,7 +3,7 @@ title:  "Comune di Alessandria - Deroga Pagamenti"
 link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2183"
 mail: "urp@comune.alessandria.it"
 date: 2020-05-15
-draft: false
+draft: true
 weight: 1
 ---
 

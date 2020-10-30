@@ -4,7 +4,7 @@ link: "https://bandi.regione.piemonte.it/contributi-finanziamenti/sistemazione-t
 mail: ""
 phone: "011.432.4100 - 011.432.4341"
 date: 2020-05-15
-draft: false
+draft: true
 weight: 1
 ---
 

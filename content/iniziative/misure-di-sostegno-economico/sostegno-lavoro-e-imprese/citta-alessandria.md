@@ -3,7 +3,7 @@ title:  "Prime misure per il rilancio economico sociale della Città di Alessand
 link: "https://www.comune.alessandria.it/prime-misure-rilancio-economico-sociale-alessandria"
 mail: ""
 date: 2020-05-13
-draft: false
+draft: true
 weight: 1
 ---
 

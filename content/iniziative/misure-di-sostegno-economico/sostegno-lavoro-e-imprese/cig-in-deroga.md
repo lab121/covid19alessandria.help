@@ -4,7 +4,7 @@ link: "https://www.regione.piemonte.it/web/temi/coronavirus-piemonte/cassa-integ
 phone: ""
 mail: "cigsinderoga@regione.piemonte.it"
 date: 2020-05-10
-draft: false
+draft: true
 weight: 1
 ---
 

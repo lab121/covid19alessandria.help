@@ -1,9 +1,9 @@
 ---
 title: "Regione"
-logo: ""
+logo: "building"
 type: "group"
 layout: "subsection"
 weight: 4
 ---
 
-Informazioni da parte della Regione
+Informazioni da parte della Regione Piemonte

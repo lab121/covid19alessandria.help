@@ -1,9 +1,9 @@
 ---
 title: "Sostegno economico"
 type: "group"
-layout: "section"
+layout: "subsection"
 logo: "money-bill"
 weight: 4
 ---
 
-Testo da definire
+In questa pagina trovi informazioni per avere dei sostegni economici in questo periodo di emergenza.

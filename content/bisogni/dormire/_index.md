@@ -6,4 +6,4 @@ logo: "bed"
 weight: 3
 ---
 
-Testo da definire
+In questa pagina trovi informazioni su come trovare un posto per riposarti in questo periodo di emergenza.

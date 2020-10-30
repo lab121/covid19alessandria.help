@@ -4,4 +4,4 @@ menu: main
 weight: 1
 ---
 
-Testo da definire
+In questa pagina trovi tutte le informazioni per affrontare questa nuova emergenza divise per i nostri bisogni.

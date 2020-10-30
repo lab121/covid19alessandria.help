@@ -4,7 +4,7 @@ link: "https://www.informagiovani.al.it/laboratorio-di-ricerca-attiva-del-lavoro
 phone: "800.116.667"
 mail: "informagiovani@asmcostruireinsieme.it"
 date: 2020-05-15
-draft: false
+draft: true
 weight: 1
 ---
 
