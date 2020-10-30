@@ -1,5 +1,6 @@
 ---
 title: "Supporto alla quarantena"
+layout: "page"
 menu: "main"
 logo: "phone"
 weight: 7
