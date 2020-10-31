@@ -3,7 +3,7 @@ title:  "Comune di Alessandria - Apertura iscrizioni Asili Nido"
 link: "https://www.comune.alessandria.it/apertura-iscrizioni-asili-nido"
 mail: "urp@comune.alessandria.it"
 date: 2020-05-15
-draft: false
+draft: true
 weight: 1
 ---
 

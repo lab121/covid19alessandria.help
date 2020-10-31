@@ -4,7 +4,7 @@ link: "https://www.regione.piemonte.it/web/pinforma/notizie/bonus-piemonte-istru
 mail: ""
 phone: ""
 date: 2020-09-01
-draft: false
+draft: true
 weight: 1
 ---
 

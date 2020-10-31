@@ -3,7 +3,7 @@ title:  "Nuovo modulo per accedere al Fondo per la sospensione dei mutui sulla p
 link: "http://www.mef.gov.it/inevidenza/Pubblicato-il-nuovo-modulo-per-accedere-al-Fondo-per-la-sospensione-dei-mutui-sulla-prima-casa/"
 mail: "alservi@confesercenti-al.it"
 date: 2020-05-07
-draft: false
+draft: true
 weight: 5
 ---
 

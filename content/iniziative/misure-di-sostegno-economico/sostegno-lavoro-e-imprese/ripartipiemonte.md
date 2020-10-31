@@ -3,7 +3,7 @@ title:  "Con RipartiPiemonte un pieno di carburante per la ripresa economica e s
 link: "https://www.regione.piemonte.it/web/pinforma/notizie/ripartipiemonte-un-pieno-carburante-per-ripresa-economica-sociale"
 mail: ""
 date: 2020-05-06
-draft: false
+draft: true
 weight: 1
 ---
 

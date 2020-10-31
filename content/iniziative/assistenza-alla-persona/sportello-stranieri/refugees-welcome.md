@@ -1,8 +1,8 @@
 ---
-title:  "COVID-19: Aiutaci a dare una casa a chi non ce l'ha"
-link: "https://refugees-welcome.it/il-nostro-lavoro-prosegue/"
+title:  "Refugees Welcome: Aiutaci a dare una casa a chi non ce l'ha"
+link: "https://refugees-welcome.it/"
 mail: ""
-date: 2020-05-05
+date: 2020-10-30
 draft: false
 weight: 
 ---
