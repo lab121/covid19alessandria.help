@@ -1,19 +1,19 @@
 <div class="col-md-4">
-    <div class="card mb-4 shadow-sm" style="min-height: 205px">
-        <div class="card-body">
 
-            <div class="cart-title">
-                <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+    <div class="card-wrapper card-space">
+        <div class="card card-bg">
+            <div class="card-body">
+                <h5 class="card-title">{{ .Title }}</h5>
+
+                {{ if .Content }}
+                    <p class="card-text">{{ .Content | truncate 120 }}</p>
+                {{ end }}
+
+                <a class="read-more" href="{{ .Permalink }}">
+                    <span class="text">Leggi di più</span>
+                </a>
             </div>
-
-            <hr>
-
-            {{ if .Content }}
-                <div class="cart-content">
-                    {{ .Content | truncate 120 }}
-                </div>
-            {{ end }}
-
         </div>
     </div>
+
 </div>
