@@ -1,5 +1,5 @@
 ---
-title: "Informazioni"
+title: "Informazioni utili"
 logo: "broadcast-tower"
 promote_to_home: true
 weight: 5
