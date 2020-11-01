@@ -19,6 +19,10 @@
   background-color: #343A40;
 }
 
+.font-60 {
+  font-size: 60px;
+}
+
 .sections img {
   width: 140px;
 }

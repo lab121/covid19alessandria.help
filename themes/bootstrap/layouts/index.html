@@ -1,115 +1,4 @@
-{{ define "header" }}
-<section class="jumbotron bg-orange">
-    <div class="container">
-        <div class="row header">
-            <div class="col-md-6 header-logo text-center mt-0 mt-mb-5 mt-lg-5">
-                <img src="/images/logo.png" alt="{{ .Site.Title }}">
-                <h1 class="mt-3 mb-md-3" style="font-size: 34px; color: #ffffff">{{ .Site.Params.description }}</h1>
-            </div>
-            <div class="col-md-6 mt-3 mt-mb-0 mt-lg-0">
-                <div class="row">
-                    <div class="col-md-6 mb-4 text-center">
-                        <a href="/bisogni">
-                            <img class="rounded-circle bg-white mb-2"
-                                 src="/images/icons/ico_scopri.png"
-                                 alt="Bisogni" width="50%">
-                            <!--<h4 style="color: #343a40; font-weight: bold">Scopri</h4>-->
-							<h4 style="color: #ffffff; font-weight: bold">Bisogni</h4>
-                        </a>
-                    </div>
-                    <div class="col-md-6 mb-4 text-center">
-                        <a href="/chi-siamo">
-                            <img class="rounded-circle bg-white mb-2"
-                                 src="/images/icons/ico_chisiamo.png"
-                                 alt="Chi siamo" width="50%">
-                            <h4 style="color: #ffffff; font-weight: bold">Chi siamo</h4>
-                        </a>
-                    </div>
-					<div class="col-md-6 mb-4 text-center">
-                        <a href="/quarantena">
-                            <img class="rounded-circle bg-white mb-2"
-                                 src="/images/icons/ico_emergenze.png"
-                                 alt="Supporto alla Quarantena" width="50%">
-                            <h4 style="color: #ffffff; font-weight: bold">Supporto alla quarantena</h4>
-                        </a>
-                    </div>
-					<div class="col-md-6 mb-4 text-center">
-                        <a href="/archivio">
-                            <img class="rounded-circle bg-white mb-2"
-                                 src="/images/icons/ico_forum.png"
-                                 alt="Archivio" width="50%">
-                            <h4 style="color: #ffffff; font-weight: bold">Archivio</h4>
-                        </a>
-                    </div>
-					<div class="col-md-6 mb-4 text-center">
-                        <a href="/iniziative">
-                            <img class="rounded-circle bg-white mb-2"
-                                 src="/images/icons/ico_iniziative.png"
-                                 alt="Iniziative" width="50%">
-                            <h4 style="color: #ffffff; font-weight: bold">Iniziative</h4>
-                        </a>
-                    </div>
-                    
-                    <div class="col-md-6 mb-4 text-center">
-                        <a href="/partecipa">
-                            <img class="rounded-circle bg-white mb-2"
-                                 src="/images/icons/ico_partecipa.png"
-                                 alt="Partecipa" width="50%">
-                            <h4 style="color: #ffffff; font-weight: bold">Partecipa</h4>
-                        </a>
-                    </div>
-					<div class="col-md-6 mb-4 text-center">
-                        <a href="https://www.corriere.it/buone-notizie/civil-week/" target="_blank">
-                            <img class="rounded-circle bg-white mb-2"
-                                 src="/images/icons/economie_fiducia.png"
-                                 alt="Le parole del Covid" width="50%">
-                            <h4 style="color: #ffffff; font-weight: bold">Premio "Le economie della fiducia"</h4>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-{{ end }}
-
 {{ define "main" }}
-<!--<div class="pt-5 pb-5 bg-grey1">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="card bg-orange shadow hover-shadow-lg border-0 position-relative zindex-100" style="min-height: 258px;">
-                    <div class="card-body py-5">
-                        <div class="d-flex align-items-start">
-                            <div class="icon text-white">
-                                <i class="fas fa-list-alt"></i>
-                            </div>
-                            <div class="icon-text">
-                                <h5 class="h4"><a href="/alessandria-come-va" class="text-white">Alessandria come va?</a></h5>
-                                <p class="mb-0 text-white">Un questionario per raccogliere informazioni legate agli aspetti della nostra vita quotidiana e ai cambiamenti avvenuti a causa dall’emergenza COVID-19</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 mt-3 mt-sm-0 mt-mb-0 mt-lg-0">
-                <div class="card bg-orange shadow hover-shadow-lg border-0 position-relative zindex-100" style="min-height: 258px;">
-                    <div class="card-body py-5">
-                        <div class="d-flex align-items-start">
-                            <div class="icon text-white">
-                                <i class="fas fa-list-alt"></i>
-                            </div>
-                            <div class="icon-text">
-                                <h5 class="h4"><a href="/emergenza-covid19" class="text-white">Gli effetti dell'emergenza Covid-19</a></h5>
-                                <p class="mb-0 text-white">Questo questionario è rivolto a società di capitali, di persone, liberi professionisti, ditte individuali, freelance e cooperative operanti nella Provincia di Alessandria</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>-->
 
 <div class="pt-5 pb-5 bg-grey1">
     <div class="container">
@@ -121,8 +10,10 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <!--<a href="http://community.covid19alessandria.help" target="_blank"><img src="/images/banner/forum.png" alt="Community Covid 19 Alessandria" class="responsive"></a>-->
-                <img src="/images/banner/volontari.jpg" alt="Ricerca volontari Covid 19 Alessandria" class="responsive" />
+                <picture>
+                    <source media="(max-width: 799px)" srcset="/images/banner/volontari_quadrato.jpg">
+                    <img src="/images/banner/volontari.jpg" alt="Ricerca volontari Covid 19 Alessandria" width="100%">
+                </picture>
             </div>
         </div>
     </div>

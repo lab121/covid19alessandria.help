@@ -42,7 +42,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="it-header-slim-wrapper-content">
-                        <a class="d-lg-block navbar-brand" href="#">{{ .Site.Title }}</a>
+                        <a class="d-lg-block navbar-brand" href="#">{{ .Site.Params.footer }}</a>
                     </div>
                 </div>
             </div>
@@ -188,7 +188,8 @@
 
 <main>
     {{ if and (not .IsHome) (not (eq .Page.Kind "404")) }}
-        <div class="container">
+        <div>
+            <div class="container">
                 {{ partial "breadcrumb.html" . }}
     {{ end }}
 
@@ -196,6 +197,7 @@
     {{ end }}
 
     {{ if and (not .IsHome) (not (eq .Page.Kind "404")) }}
+            </div>
         </div>
     {{ end }}
 </main>

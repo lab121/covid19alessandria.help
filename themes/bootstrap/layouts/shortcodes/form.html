@@ -6,6 +6,7 @@
         <h4 class="mb-3"><span class="fas fa-pencil-alt" aria-hidden="true"></span> {{ .Get "title" }}</h4>
         <div id="form-wrapper">
             <form-el source="{{ .Get "name" }}" v-bind:categories="[{{ range $index, $element := $options }}'{{ . }}'{{ if lt (add $index 1) $len }},{{ end }}{{ end }}]"></form-el>
+        </div>
     </div>
 </div>
 

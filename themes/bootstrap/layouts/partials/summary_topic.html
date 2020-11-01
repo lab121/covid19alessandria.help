@@ -3,7 +3,12 @@
     <div class="card-wrapper card-space">
         <div class="card card-bg">
             <div class="card-body">
-				<span class="fas fa-{{ .Params.logo }} font-60" aria-hidden="true"></span>
+                {{ if .Params.logo }}
+                    <div class="categoryicon-top">
+                        <span class="fas fa-{{ .Params.logo }}" aria-hidden="true"></span>
+                    </div>
+                {{ end }}
+
                 <h5 class="card-title">{{ .Title }}</h5>
 
                 {{ if .Content }}
