@@ -42,7 +42,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="it-header-slim-wrapper-content">
-                        <a class="d-lg-block navbar-brand" href="#">{{ .Site.Params.footer }}</a>
+                        <a class="d-lg-block navbar-brand" href="#">{{ .Site.Params.description }}</a>
                     </div>
                 </div>
             </div>
@@ -55,13 +55,12 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="it-header-center-content-wrapper">
+
                             <div class="it-brand-wrapper">
-                                <a href="/">
+                                <a href="#" class="">
+                                    <img src="/images/logo.png" alt="{{ .Site.Title }}" class="icon">
                                     <div class="it-brand-text">
                                         <h2 class="no_toc">{{ .Site.Title }}</h2>
-                                        <h3 class="no_toc d-none d-md-block">
-                                            {{ .Site.Params.description }}
-                                        </h3>
                                     </div>
                                 </a>
                             </div>
@@ -205,11 +204,11 @@
 <footer class="it-footer">
     <div class="it-footer-small-prints clearfix">
         <div class="container">
-            <h3 class="sr-only">Sezione Link Utili</h3>
             <ul class="it-footer-small-prints-list list-inline mb-0 d-flex flex-column flex-md-row">
                 <li class="list-inline-item">
                     <a href="/privacy/" title="Privacy-Cookies">Privacy policy</a>
                 </li>
+
             </ul>
         </div>
     </div>
