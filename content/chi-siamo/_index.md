@@ -3,7 +3,7 @@ title: "Chi siamo"
 layout: "page"
 logos: true
 menu: main
-weight: 2
+weight: 4
 ---
 
 {{< rawhtml >}}

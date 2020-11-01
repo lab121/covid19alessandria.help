@@ -1,7 +1,7 @@
 ---
 title: "Iniziative"
 menu: main
-weight: 3
+weight: 2
 ---
 
 {{< rawhtml >}}
