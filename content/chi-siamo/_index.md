@@ -6,11 +6,7 @@ menu: main
 weight: 4
 ---
 
-{{< rawhtml >}}
-<br/>
-        <<div align="center"><img src="/images/gruppo Covid.jpg"></div>
-<br/>
-{{< /rawhtml >}}
+![gruppo Covid](/images/gruppo Covid.jpg)
 
 {{< rawhtml >}}
 <div class="section section-muted">
