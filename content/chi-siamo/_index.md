@@ -5,8 +5,12 @@ logos: true
 menu: main
 weight: 4
 ---
-
+{{< rawhtml >}}
+<br/>
+Ecco alcune persone del Team Covid19 Alessandria
+<br/>
 ![gruppo Covid](/images/gruppo Covid.jpg)
+{{< rawhtml >}}
 
 {{< rawhtml >}}
 <div class="section section-muted">
