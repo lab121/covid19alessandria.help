@@ -138,11 +138,14 @@
 															<div class="col-12 col-lg-4">
 																<div class="link-list-wrapper">
 																	<ul class="link-list">
-																		<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
-																		</li>
-																		{{ range first 2 .Children }}
+																		<!--<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
+																		</li>-->
+																		{{ range first 3 .Children }}
 																			<li><a class="list-item" href="{{ .URL }}"><span>{{ .Title }}</span></a>
 																			</li>
+																		{{ end }}
+																		{{ if le (len .Children) 2 }}
+																			<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
 																		{{ end }}
 																		</ul>
 																</div>
@@ -150,9 +153,12 @@
 															<div class="col-12 col-lg-4">
 																<div class="link-list-wrapper">
 																	<ul class="link-list">
-																		{{ range first 3 (after 2 .Children) }}
+																		{{ range first 3 (after 3 .Children) }}
 																			<li><li><a class="list-item" href="{{ .URL }}"><span>{{ .Title }}</span></a>
 																			</li>
+																		{{ end }}
+																		{{ if and (le (len .Children) 5) (gt (len .Children) 3)  }}
+																			<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
 																		{{ end }}
 																	</ul>
 																</div>
@@ -160,9 +166,12 @@
 															<div class="col-12 col-lg-4">
 																<div class="link-list-wrapper">
 																	<ul class="link-list">
-																		{{ range first 3 (after 5 .Children) }}
+																		{{ range first 3 (after 6 .Children) }}
 																			<li><li><a class="list-item" href="{{ .URL }}"><span>{{ .Title }}</span></a>
 																			</li>
+																		{{ end }}
+																		{{ if and (le (len .Children) 8) (ge (len .Children) 6)  }}
+																			<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
 																		{{ end }}
 																	</ul>
 																</div>
