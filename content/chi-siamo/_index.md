@@ -7,14 +7,18 @@ weight: 4
 ---
 
 {{< rawhtml >}}
+<br/>
+        <img src="/images/gruppo Covid.jpg" />
+<br/>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <div class="section section-muted">
   <div class="section-content">
     <div class="container">
       <div class="row">
         <div class="col-12 col-lg-12 col-xl-12 pr-0 pr-md-5 mb-3">
         Ispirato alla piattaforma nazionale Covid19Italia.help, il progetto Covid19Alessandria.help un progetto no-profit promosso da alcune realtà locali per condividere informazioni utili durante l'emergenza e facilitare l'attivazione di persone ed organizzazioni nella città di Alessandria.
-        <br/>
-        <img src="/images/gruppo Covid.jpg" />
         </div>
       </div>
     </div>
