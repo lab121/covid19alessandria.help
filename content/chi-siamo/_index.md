@@ -9,7 +9,6 @@ weight: 4
 {{< rawhtml >}}
 <br/>
         <img src="/images/gruppo Covid.jpg" />
-<br/>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
