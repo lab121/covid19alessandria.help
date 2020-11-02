@@ -8,7 +8,8 @@ weight: 4
 
 {{< rawhtml >}}
 <br/>
-        <img src="/images/gruppo Covid.jpg" />
+        <<div align="center"><img src="/images/gruppo Covid.jpg"></div>
+<br/>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
