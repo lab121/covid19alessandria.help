@@ -10,7 +10,7 @@ weight: 4
 <br/>
 Ecco alcune persone del Team Covid19 Alessandria
 <br/>
-<img src="images/foto-varie/gruppo Covid.jpg" />
+<img src="/images/foto-varie/gruppo Covid.jpg" />
 <br/>
 <div class="section section-muted">
   <div class="section-content">
