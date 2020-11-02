@@ -43,7 +43,7 @@ Vue.component('form-el', {
 
         <div class="form-row">
           <div class="form-group col-md-12">
-            <textarea class="form-control" id="message" name="message" v-model="form.message" required></textarea>
+            <textarea id="message" name="message" v-model="form.message" required></textarea>
             <label for="message">Messaggio *</label>
           </div>
           <div class="form-group col-md-12">
