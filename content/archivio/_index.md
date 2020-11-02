@@ -9,6 +9,6 @@ In questa sezione sono mantenute le informazioni di quando siamo partiti, ad apr
 {{< rawhtml >}}
 <br/>
 <br/>
-<div align=”center”><img src="/images/foto-varie/affissioni.jpg" vspace=”10″ hspace="50" /> 
+<div align=”center”><img src="/images/foto-varie/affissioni2.jpg" vspace=”10″ hspace="50" /> 
 <br/>
 {{< /rawhtml >}}
