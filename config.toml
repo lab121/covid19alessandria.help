@@ -37,7 +37,7 @@ enableRobotsTXT = true
 [menu]
 [[menu.main]]
     identifier = "bisogni"
-    name = "Bisogni"
+    name = "Vedi tutti i bisogni"
     url  = "/bisogni"
     weight = 1
 	title = "Bisogni"
@@ -86,7 +86,7 @@ enableRobotsTXT = true
 	
 [[menu.main]]
     identifier = "iniziative"
-    name = "Iniziative"
+    name = "Vedi tutte le iniziative"
     url  = "/iniziative"
     weight = 2
 	title = "Iniziative"
