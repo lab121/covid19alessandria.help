@@ -33,3 +33,88 @@ enableRobotsTXT = true
 
 [sitemap]
     changefreq = "monthly"
+	
+[menu]
+[[menu.main]]
+    identifier = "bisogni"
+    name = "Bisogni"
+    url  = "/bisogni"
+    weight = 1
+	title = "Bisogni"
+[[menu.main]]
+    identifer = "mangiare"
+    parent = "bisogni"
+    name = "Mangiare"
+	title = "Mangiare"
+    url  = "/bisogni/mangiare"
+    weight = 1
+[[menu.main]]
+    identifer = "salute"
+    parent = "bisogni"
+    name = "Salute"
+	title = "Salute"
+    url  = "/bisogni/salute"
+    weight = 2
+[[menu.main]]
+    identifer = "sostegnoeconomico"
+    parent = "bisogni"
+    name = "Sostegno economico"
+	title = "Sostegno economico"
+    url  = "/bisogni/sostegno-economico"
+    weight = 3
+[[menu.main]]
+    identifer = "informazioniutili"
+    parent = "bisogni"
+    name = "Informazioni utili"
+	title = "Informazioni utili"
+    url  = "/bisogni/informazioni"
+    weight = 4
+[[menu.main]]
+    identifer = "scuola"
+    parent = "bisogni"
+    name = "Scuola"
+	title = "Scuola"
+    url  = "/bisogni/scuola"
+    weight = 5
+[[menu.main]]
+    identifer = "quarantena"
+    parent = "bisogni"
+    name = "Supporto alla quarantena"
+	title = "Supporto alla quarantena"
+    url  = "/bisogni/quarantena"
+    weight = 6
+	
+[[menu.main]]
+    identifier = "iniziative"
+    name = "Iniziative"
+    url  = "/iniziative"
+    weight = 2
+	title = "Iniziative"
+[[menu.main]]
+    identifer = "sportelli"
+    parent = "iniziative"
+    name = "Sportelli"
+	title = "Sportelli"
+    url  = "/iniziative/sportelli"
+    weight = 1
+[[menu.main]]
+    identifer = "assistenza-persona"
+    parent = "iniziative"
+    name = "Assistenza alla persona"
+	title = "Assistenza alla persona"
+    url  = "/iniziative/assistenza-alla-persona"
+    weight = 2
+[[menu.main]]
+    identifer = "bonus"
+    parent = "iniziative"
+    name = "Bonus"
+	title = "Bonus"
+    url  = "/iniziative/bonus"
+    weight = 3
+[[menu.main]]
+    identifer = "sostegno-economico"
+    parent = "iniziative"
+    name = "Misure di sostegno economico"
+	title = "Misure di sostegno economico"
+    url  = "/iniziative/misure-di-sostegno-economico"
+    weight = 4

@@ -130,49 +130,52 @@
                                 <div class="menu-wrapper">
                                     <ul class="navbar-nav">
                                         {{ range .Site.Menus.main }}
-                                        <li class="nav-item dropdown megamenu">
-                                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false"><span>{{ .Title }}</span></a>
-                                            <div class="dropdown-menu">
-                                                <div class="row">
-                                                    <div class="col-12 col-lg-4">
-                                                        <div class="link-list-wrapper">
-                                                            <ul class="link-list">
-                                                                <li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Title }}</span></a>
-                                                                </li>
-                                                                <li><a class="list-item" href="#"><span>Link list 2 </span></a>
-                                                                </li>
-                                                                <li><a class="list-item" href="#"><span>Link list 3 </span></a>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-12 col-lg-4">
-                                                        <div class="link-list-wrapper">
-                                                            <ul class="link-list">
-                                                                <li><a class="list-item" href="#"><span>Link list 1 </span></a>
-                                                                </li>
-                                                                <li><a class="list-item" href="#"><span>Link list 2 </span></a>
-                                                                </li>
-                                                                <li><a class="list-item" href="#"><span>Link list 3 </span></a>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-12 col-lg-4">
-                                                        <div class="link-list-wrapper">
-                                                            <ul class="link-list">
-                                                                <li><a class="list-item" href="#"><span>Link list 1 </span></a>
-                                                                </li>
-                                                                <li><a class="list-item" href="#"><span>Link list 2 </span></a>
-                                                                </li>
-                                                                <li><a class="list-item" href="#"><span>Link list 3 </span></a>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
+											{{ if .HasChildren }}
+												<li class="nav-item dropdown megamenu">
+													<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false"><span>{{ .Title }}</span></a>
+													<div class="dropdown-menu">
+														<div class="row">
+															<div class="col-12 col-lg-4">
+																<div class="link-list-wrapper">
+																	<ul class="link-list">
+																		<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Title }}</span></a>
+																		</li>
+																		{{ range first 2 .Children }}
+																			<li><a class="list-item" href="{{ .URL }}"><span>{{ .Title }}</span></a>
+																			</li>
+																		{{ end }}
+																		</ul>
+																</div>
+															</div>
+															<div class="col-12 col-lg-4">
+																<div class="link-list-wrapper">
+																	<ul class="link-list">
+																		{{ range first 3 (after 2 .Children) }}
+																			<li><li><a class="list-item" href="{{ .URL }}"><span>{{ .Title }}</span></a>
+																			</li>
+																		{{ end }}
+																	</ul>
+																</div>
+															</div>
+															<div class="col-12 col-lg-4">
+																<div class="link-list-wrapper">
+																	<ul class="link-list">
+																		{{ range first 3 (after 5 .Children) }}
+																			<li><li><a class="list-item" href="{{ .URL }}"><span>{{ .Title }}</span></a>
+																			</li>
+																		{{ end }}
+																	</ul>
+																</div>
+															</div>
+														</div>
+													</div>
+												</li>
+											{{ else }}
+												<li>
+													<a class="nav-link" href="{{ .URL }}"><span>{{ .Title }}</span>
+													</a>
+												</li>
+											{{ end }}
                                         {{ end }}
                                     </ul>
                                 </div>

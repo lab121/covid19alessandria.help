@@ -1,6 +1,5 @@
 ---
 title: "Iniziative"
-menu: main
 weight: 2
 ---
 
