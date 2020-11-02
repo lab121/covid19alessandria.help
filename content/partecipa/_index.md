@@ -16,7 +16,7 @@ Oggi più che mai crediamo che questo slancio sia utile e necessario per sostene
 <br/>
 Partecipa anche tu
 <br/>
-<div align=”center”><img src="/images/foto-varie/sportelli.jpg" border=”10″ vspace=”10″ hspace="50" /> <img src="/images/foto-varie/affissioni.jpg" border=”10″ vspace=”10″ hspace="50" />
+<div align=”center”><img src="/images/foto-varie/sportelli.jpg" border=”100″ vspace=”10″ hspace="50" /> <img src="/images/foto-varie/affissioni.jpg" border=”10″ vspace=”10″ hspace="50" />
 <br/>
 {{< /rawhtml >}}
 
