@@ -6,7 +6,7 @@
                 <h5 class="card-title">{{ .Title }}</h5>
 
                 {{ if .Content }}
-                <p class="card-text">{{ .Content }}</p>
+                <p class="card-text">{{ .Content | truncate 120 }}</p>
                 {{ end }}
 
                 {{ if .Params.phone }}
@@ -27,14 +27,14 @@
                 </div>
                 {{ end }}
 
-                {{ if .Params.link }}
+                
                 <a class="read-more" href="{{ .Permalink }}">
                     <span class="text">Leggi di più</span>
                     <svg class="icon">
                         <use xlink:href="/svg/sprite.svg#it-arrow-right"></use>
                     </svg>
                 </a>
-                {{ end }}
+                
             </div>
         </div>
     </div>
