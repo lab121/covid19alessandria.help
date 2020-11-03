@@ -7,11 +7,6 @@ weight: 4
 ---
 
 {{< rawhtml >}}
-<br/>
-Ecco alcune persone del Team Covid19 Alessandria
-<br/>
-<img src="/images/foto/gruppo Covid.jpg" />
-<br/>
 <div class="section section-muted">
   <div class="section-content">
     <div class="container">
@@ -35,3 +30,6 @@ Abbiamo previsto anche dei moduli ad hoc per permettere sia la segnalazione e l'
 Non intendiamo sostituirci a canali e fonti istituzionali, ma integrarci ad essi per garantire una migliore accessibilità a tutti i cittadini.
 
 La piattaforma è rigorosamente in progress, le informazioni vengono verificate e aggiornate da volontari in tempo reale, ci scusiamo preventivamente se alcune indicazioni non saranno complete al 100%.
+
+{{< figure src="/images/foto/gruppo Covid.jpg" title="Alcuni dei volontari del Team Covid19 Alessandria" >}}
+
