@@ -1,6 +1,6 @@
 ---
 title: "Informazioni utili"
-logo: "broadcast-tower"
+picture: "foto3.jpg"
 promote_to_home: true
 weight: 5
 ---
