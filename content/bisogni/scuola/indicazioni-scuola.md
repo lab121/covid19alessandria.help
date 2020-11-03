@@ -1,5 +1,5 @@
 ---
-title: "Domande e risposte sull'apertura delle scuole - Regione Piemonte"
+title: "Domande e risposte sulla riapertura delle scuole - Regione Piemonte"
 link: ""
 mail: ""
 date: 2020-10-29
