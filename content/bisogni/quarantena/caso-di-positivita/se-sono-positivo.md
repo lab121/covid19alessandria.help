@@ -5,7 +5,6 @@ mail: ""
 date: 2020-11-03
 weight: 3
 ---
-Scarica dall'Istituto Superiore di Sanità il [volantino](/documents/Poster Raccomandazioni isolamento rev 12 marzo.pdf)
 La persona con sospetta o accertata infezione COVID-19 deve stare lontana dagli altri familiari, se possibile, in una stanza singola ben ventilata e non deve ricevere visite.
 Chi l’assiste deve essere in buona salute e non avere malattie che lo mettano a rischio se contagiato.
 I membri della famiglia devono soggiornare in altre stanze o, se non è possibile, mantenere una distanza di almeno 1 metro dalla persona malata e dormire in un letto diverso.
