@@ -1,5 +1,5 @@
 ---
-title: "Un bando per gli "alberghi assistiti""
+title: "Un bando per gli "alberghi assistiti"
 link: "https://www.regione.piemonte.it/web/pinforma/notizie/un-bando-per-gli-alberghi-assistiti"
 mail: "ufficiostampa.giuntaregionale@regione.piemonte.it"
 date: 2020-11-03
