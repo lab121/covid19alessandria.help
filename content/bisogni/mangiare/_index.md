@@ -2,6 +2,7 @@
 title: "Mangiare"
 type: "group"
 layout: "subsection"
+picture: "foto1.jpg"
 logo: "utensils"
 weight: 1
 ---

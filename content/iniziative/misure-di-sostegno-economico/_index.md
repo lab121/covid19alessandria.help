@@ -7,6 +7,7 @@ promote_to_home: true
 weight: 6
 relate: ["/iniziative/sportelli"]
 draft: false
+picture: "Foto17.jpg"
 ---
 
 {{< rawhtml >}}
