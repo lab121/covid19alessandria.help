@@ -3,6 +3,7 @@ title: "Community"
 layout: "page"
 weight: 6
 logo: "comments"
+picture: "foto32.jpg"
 ---
 
 {{< rawhtml >}}
