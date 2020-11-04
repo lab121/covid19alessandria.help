@@ -104,17 +104,3 @@ enableRobotsTXT = true
 	title = "Assistenza alla persona"
     url  = "/iniziative/assistenza-alla-persona"
     weight = 2
-[[menu.main]]
-    identifer = "bonus"
-    parent = "iniziative"
-    name = "Bonus"
-	title = "Bonus"
-    url  = "/iniziative/bonus"
-    weight = 3
-[[menu.main]]
-    identifer = "sostegno-economico"
-    parent = "iniziative"
-    name = "Misure di sostegno economico"
-	title = "Misure di sostegno economico"
-    url  = "/iniziative/misure-di-sostegno-economico"
-    weight = 4

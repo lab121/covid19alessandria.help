@@ -8,4 +8,4 @@ picture: "bisogni_sostegno_economico.jpg"
 promote_to_home: true
 ---
 
-In questa pagina trovi informazioni relative a ristori e indennizzi economici promossi a livello locale e centrale.
+In questa pagina trovi informazioni relative a ristori e indennizzi economici per imprese e privati.

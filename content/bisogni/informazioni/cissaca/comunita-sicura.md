@@ -7,14 +7,15 @@ weight: 1
 phone: "335.524.0043"
 ---
 
-{{< rawhtml >}}
 È un'iniziativa del Cissaca, finanziata dalla compagnia di Sanpaolo con il bando Intrecci 2018, sperimentata per la prima volta nel quartiere Cristo di Alessandria 
 e finalizzate a promuovere il benessere dell'anziano al proprio domicilio.<br />
 La partnership costituita tra Cissaca, ASL Alessandria, e cooperativa Il Gabbiano sarà arricchita dalla rete di associazioni che già operano sul quartiere.
+{{< rawhtml >}}
 <br />
 Nasce dalla collaborazione di un gruppo di rappresentanti delle istituzioni, delle associazioni, del mondo del commercio e del terzo settore 
 ed è fondata sull'idea di partecipazione della comunità intera alla costruzione di una rete di aiuto efficace, frutto, non solo 
 dell'azione dei servizi socio-sanitari, ma anche della valorizzazione delle relazioni solidali che caratterizzano la vita del quartiere.
+<br />
 <br />
 <strong>Obiettivi del progetto</strong>
 <ul>
