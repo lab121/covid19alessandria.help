@@ -1,5 +1,5 @@
 ---
-title: "Sostegno privati"
+title: "Sostegno privati e famiglie"
 type: "group"
 layout: "subsection"
 logo: "life-ring"
