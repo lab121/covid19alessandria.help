@@ -8,6 +8,7 @@ weight: 3
 ---
 
 {{< rawhtml >}}
-Trovi tutte le informazioni che riguardano la scuola in <a href="/bisogni/scuola">questa sezione</a>
+In questa pagina trovi informazioni utili sulle modalità di contenimento del contagio in ambito scolastico.<br />
+Trovi informazioni che riguardano la scuola anche in <a href="/bisogni/scuola">questa sezione</a>
 {{< /rawhtml >}}
 

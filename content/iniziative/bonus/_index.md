@@ -9,4 +9,7 @@ draft: false
 picture: "foto3.jpg"
 ---
 
-Attività informativa e di supporto per comprendere e richiedere i Bonus per il nucleo familiare o singolo cittadino.
+{{< rawhtml >}}
+Attività informativa e di supporto per comprendere e richiedere i Bonus per il nucleo familiare o singolo cittadino.<br />
+Hai bisogno di aiuto? Controlla la pagina relativa ai nostri <a href="/iniziative/sportelli/" target="_blank">sportelli</a>
+{{< /rawhtml >}}

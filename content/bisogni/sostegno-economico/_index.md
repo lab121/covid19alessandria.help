@@ -8,4 +8,4 @@ picture: "foto21.jpg"
 promote_to_home: true
 ---
 
-In questa pagina trovi informazioni per avere dei sostegni economici in questo periodo di emergenza.
+In questa pagina trovi informazioni relative a ristori e indennizzi economici promossi a livello locale e centrale.

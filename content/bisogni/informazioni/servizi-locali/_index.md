@@ -6,5 +6,5 @@ layout: "subsection"
 weight: 6
 ---
 
-I servizi informativi e i contatti dei principali Enti e Istituzioni locali
+In questa pagina trovi informazioni e contatti dei principali Enti e Istituzioni locali, dalle Poste alla Questura.
 

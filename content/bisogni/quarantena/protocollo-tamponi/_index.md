@@ -7,5 +7,4 @@ layout: "subsection"
 weight: 2
 ---
 
-Ho fatto il tampone e sono positivo. **Come mi comporto con i miei famigliari conviventi?**
-
+Come funziona e a chi devo rivolgermi per fare il tampone?

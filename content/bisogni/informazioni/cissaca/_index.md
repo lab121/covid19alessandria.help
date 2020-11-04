@@ -7,4 +7,4 @@ layout: "subsection"
 weight: 2
 ---
 
-Informazioni da parte del C.I.S.S.A.C.A. Consorzio Servizi Sociali Alessandria, partner istituzionale della nostra piattaforma
+Informazioni da parte del C.I.S.S.A.C.A. Consorzio Servizi Sociali Alessandria, partner istituzionale della nostra piattaforma.

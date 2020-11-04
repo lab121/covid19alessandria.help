@@ -8,4 +8,4 @@ picture: "foto7.jpg"
 promote_to_home: true
 ---
 
-Tutto ciò che riguarda la scuola e l'ambito scolastico
+Tutto ciò che riguarda la scuola e l’ambito scolastico.

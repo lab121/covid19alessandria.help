@@ -11,6 +11,6 @@ picture: "Foto17.jpg"
 ---
 
 {{< rawhtml >}}
-		Raccolta di pagine e informazioni in tema di contributi e sostegno a persone e imprese.<br />
-		Ti possiamo aiutare. Controlla la pagina relativa ai nostri <a href="/iniziative/sportelli/" target="_blank">sportelli</a>
+Raccolta di pagine e informazioni in tema di contributi e sostegno a persone e imprese.<br />
+Hai bisogno di aiuto? Controlla la pagina relativa ai nostri <a href="/iniziative/sportelli/" target="_blank">sportelli</a>
 {{< /rawhtml >}}

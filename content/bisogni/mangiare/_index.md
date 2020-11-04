@@ -8,4 +8,4 @@ weight: 1
 promote_to_home: true
 ---
 
-In questa pagina trovi informazioni su come risolvere alcuni problemi fondamentali per nutrirsi in questo periodo di emergenza.
+In questa pagina trovi informazioni sulle iniziative di accesso e distribuzione di cibo attive in città in questo periodo di emergenza.

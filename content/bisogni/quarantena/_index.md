@@ -7,4 +7,4 @@ picture: "foto20.jpg"
 promote_to_home: true
 ---
 
-In questa pagina trovi tutte le informazioni se sei in quarantena
+In questa pagina trovi tutte le informazioni utili se sei in quarantena o isolamento fiduciario.

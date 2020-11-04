@@ -6,4 +6,4 @@ layout: "subsection"
 weight: 1
 ---
 
-Informazioni da parte dell'Ospedale di Alessandria, partner istituzionale della nostra piattaforma
+Informazioni da parte dell’Ospedale di Alessandria, partner istituzionale della nostra piattaforma
