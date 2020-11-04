@@ -6,4 +6,4 @@ menu: main
 
 In questa sezione sono mantenute le informazioni di quando siamo partiti, ad aprile 2020. Informazioni di archivio
 
-{{< figure src="/images/foto/affissioni2.jpg" >}}
+
