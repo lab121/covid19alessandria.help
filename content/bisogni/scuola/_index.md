@@ -4,7 +4,7 @@ logo: "chalkboard-teacher"
 type: "group"
 layout: "subsection"
 weight: 5
-picture: "foto7.jpg"
+picture: "bisogni_scuola.jpg"
 promote_to_home: true
 ---
 

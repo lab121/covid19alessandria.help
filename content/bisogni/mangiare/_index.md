@@ -2,7 +2,7 @@
 title: "Mangiare"
 type: "group"
 layout: "subsection"
-picture: "foto1.jpg"
+picture: "bisogni_mangiare.jpg"
 logo: "utensils"
 weight: 1
 promote_to_home: true

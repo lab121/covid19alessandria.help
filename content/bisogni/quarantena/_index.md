@@ -3,7 +3,7 @@ title: "Supporto alla quarantena"
 layout: "subsection"
 logo: "phone"
 weight: 7
-picture: "foto20.jpg"
+picture: "bisogni_supporto_quarantena.jpg"
 promote_to_home: true
 ---
 

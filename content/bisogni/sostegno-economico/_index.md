@@ -4,7 +4,7 @@ type: "group"
 layout: "subsection"
 logo: "money-bill"
 weight: 4
-picture: "foto21.jpg"
+picture: "bisogni_sostegno_economico.jpg"
 promote_to_home: true
 ---
 

@@ -5,6 +5,7 @@ promote_to_home: true
 type: "group"
 layout: "subsection"
 weight: 1
+picture: "quarantena_positivita.jpg"
 ---
 
 Ho fatto il tampone e sono positivo. **Cosa devo fare?**

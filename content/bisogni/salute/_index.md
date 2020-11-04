@@ -4,7 +4,7 @@ type: "group"
 layout: "subsection"
 logo: "head-side-mask"
 weight: 2
-picture: "foto8.jpg"
+picture: "bisogni_salute.jpg"
 promote_to_home: true
 ---
 

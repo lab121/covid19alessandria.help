@@ -6,7 +6,7 @@ logo: "life-ring"
 promote_to_home: true
 weight: 6
 draft: false
-picture: "foto3.jpg"
+picture: "iniziative_bonus.jpg"
 ---
 
 {{< rawhtml >}}
