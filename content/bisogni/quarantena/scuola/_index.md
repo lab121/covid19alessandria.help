@@ -5,6 +5,7 @@ promote_to_home: true
 type: "group"
 layout: "subsection"
 weight: 3
+picture: "quarantena_scuola.jpg"
 ---
 
 {{< rawhtml >}}
