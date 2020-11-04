@@ -4,6 +4,7 @@ type: "group"
 layout: "subsection"
 weight: 1
 logo: "book-reader"
+picture: "foto28.png"
 ---
 
 Pagina di archivio. 
