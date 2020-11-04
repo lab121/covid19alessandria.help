@@ -5,6 +5,7 @@ layout: "subsection"
 logo: "money-bill"
 weight: 4
 picture: "foto21.jpg"
+promote_to_home: true
 ---
 
 In questa pagina trovi informazioni per avere dei sostegni economici in questo periodo di emergenza.
