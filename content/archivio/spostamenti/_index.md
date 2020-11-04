@@ -4,6 +4,7 @@ type: "group"
 layout: "subsection"
 weight: 4
 logo: "suitcase-rolling"
+picture: "foto27.jpg"
 ---
 
 Pagina di archivio. 
