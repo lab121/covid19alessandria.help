@@ -4,6 +4,7 @@ type: "group"
 layout: "subsection"
 logo: "award"
 weight: 7
+picture: "archivio_buone_pratiche.jpg"
 ---
 
 Pagina di archivio. 

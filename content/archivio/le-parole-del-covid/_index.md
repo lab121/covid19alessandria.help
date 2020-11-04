@@ -4,7 +4,7 @@ type: "group"
 layout: "subsection"
 weight: 1
 logo: "book-reader"
-picture: "foto28.png"
+picture: "archivio_parole_covid.jpg"
 ---
 
 Pagina di archivio. 

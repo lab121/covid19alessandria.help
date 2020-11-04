@@ -4,7 +4,7 @@ weight: 5
 type: "group"
 layout: "section"
 logo: head-side-mask
-picture: "foto12.jpg"
+picture: "archivio_dpi.jpg"
 ---
 
 Pagina di archivio. 

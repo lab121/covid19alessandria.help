@@ -4,7 +4,7 @@ type: "group"
 layout: "section"
 logo: "puzzle-piece"
 weight: 3
-picture: "foto30.jpg"
+picture: "archivio_iniziative_culturali.jpg"
 ---
 
 Pagina di archivio. 
