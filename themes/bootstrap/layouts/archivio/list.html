@@ -16,9 +16,11 @@
                 <div class="card card-img no-after card-bg">
                     <div class="img-responsive-wrapper">
                         <div class="img-responsive" style="border-bottom: 6px solid #ec5923;">
-                            <figure class="img-wrapper">
-                                <img src="/images/foto/{{ .Params.picture }}" title="img title" alt="imagealt">
-                            </figure>
+                            <a href="{{ .Permalink }}">
+								<figure class="img-wrapper">
+									<img src="/images/foto/{{ .Params.picture }}" title="img title" alt="imagealt">
+								</figure>
+							</a>
                         </div>
                     </div>
                     <div class="card-body">
