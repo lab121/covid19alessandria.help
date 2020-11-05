@@ -1,10 +1,10 @@
 <div class="col-md-4">
 
-    <div class="card-wrapper card-space">
+    <div class="card-wrapper card-space text-center">
         <div class="card card-bg">
             <div class="card-body">
                 {{ if .Params.logo }}
-                    <div class="categoryicon-top">
+                    <div class="categoryicon-top" style="display: block">
 						<a href="{{ .Params.link }}">
 							<span class="fas fa-{{ .Params.logo }} font-60" aria-hidden="true"></span>
 						</a>
@@ -16,13 +16,6 @@
                 {{ if .Content }}
                     <p class="card-text">{{ .Content }}</p>
                 {{ end }}
-
-                <!--<a class="read-more" href="{{ .Params.link }}">
-                    <span class="text">Leggi di più</span>
-                    <svg class="icon">
-                        <use xlink:href="/svg/sprite.svg#it-arrow-right"></use>
-                    </svg>
-                </a>-->
             </div>
         </div>
     </div>

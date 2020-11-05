@@ -67,7 +67,7 @@ Vue.component('form-el', {
         <div class="form-row">
           <div class="form-group col-md-6">
             <div class="toggles">
-              <label for="togglePrivacy">
+              <label for="privacy">
                 Accetto l'informativa sul trattamento dei dati personali
                 <input type="checkbox" name="privacy" value="privacy" id="privacy" required>
                 <span class="lever"></span>
