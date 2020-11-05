@@ -8,8 +8,8 @@
                 {{ if .Content }}
                     <p class="card-text">{{ .Content | truncate 120 }}</p>
                 {{ end }}
-				{{ if .Lastmod }}
-                    <p class="card-text">{{ .Lastmod | truncate 120 }}</p>
+				{{ if .Params.date }}
+                    <p class="card-text">{{ .Params.date | truncate 120 }}</p>
                 {{ end }}
 
                 <a class="read-more" href="{{ .Permalink }}">
