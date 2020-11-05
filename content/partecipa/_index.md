@@ -14,9 +14,7 @@ Oggi più che mai crediamo che questo slancio sia utile e necessario per sostene
 
 Partecipa anche tu
 
-{{< figure src="/images/foto/sportelli.jpg" >}}
-
-{{< figure src="/images/foto/affissioni.jpg" >}}
+{{< figure src="/images/foto/sportelli.jpg" >}} {{< figure src="/images/foto/affissioni.jpg" >}}
 
 _____________________
 
