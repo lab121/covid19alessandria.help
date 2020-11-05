@@ -3,7 +3,6 @@ title: "Sportelli"
 type: "group"
 layout: "subsection"
 logo: "hands-helping"
-promote_to_home: true
 weight: 3
 draft: false
 picture: "sportelli2.jpg"

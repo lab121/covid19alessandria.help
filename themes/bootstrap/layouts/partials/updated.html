@@ -29,7 +29,7 @@
 		{{ end }}
 	{{ end }}
 
-	{{ range (sort (.Scratch.Get "latest") "Lastmod" "desc") | first 6 }}
+	{{ range (sort (.Scratch.Get "latest") "Lastmod" "desc") | first 9 }}
 	{{ partial "summary_short.html" . }}
 {{ end }}
 </div>
