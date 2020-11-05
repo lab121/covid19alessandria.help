@@ -18,10 +18,6 @@
 
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
-    {{ $style := resources.Get "css/bootstrap-italia.min.css" | resources.Fingerprint }}
-    <link href="{{ $style.Permalink }}" rel="stylesheet" {{ if not .Site.Params.disable_sri }}
-          integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" {{ end }}>
-
     {{ $style := resources.Get "css/style.css" | resources.Fingerprint }}
     <link href="{{ $style.Permalink }}" rel="stylesheet" {{ if not .Site.Params.disable_sri }}
           integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" {{ end }}>
