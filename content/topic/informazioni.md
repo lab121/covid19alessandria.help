@@ -7,4 +7,5 @@ weight: 2
 logo: "broadcast-tower"
 ---
 
-In questa pagina trovi informazioni da servizi locali della tua città e gli ultimi decreti e comunicati nazionali
+
+In questa pagina trovi informazioni ufficiali e dai servizi locali della città e gli ultimi decreti e comunicati nazionali.

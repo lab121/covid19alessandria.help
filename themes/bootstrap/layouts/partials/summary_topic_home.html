@@ -1,0 +1,30 @@
+<div class="col-md-4">
+
+    <div class="card-wrapper card-space">
+        <div class="card card-bg">
+            <div class="card-body">
+                {{ if .Params.logo }}
+                    <div class="categoryicon-top">
+						<a href="{{ .Params.link }}">
+							<span class="fas fa-{{ .Params.logo }} font-60" aria-hidden="true"></span>
+						</a>
+                    </div>
+                {{ end }}
+
+                <h5 class="card-title"><a href="{{ .Params.link }}">{{ .Title }}</a></h5>
+
+                {{ if .Content }}
+                    <p class="card-text">{{ .Content }}</p>
+                {{ end }}
+
+                <!--<a class="read-more" href="{{ .Params.link }}">
+                    <span class="text">Leggi di più</span>
+                    <svg class="icon">
+                        <use xlink:href="/svg/sprite.svg#it-arrow-right"></use>
+                    </svg>
+                </a>-->
+            </div>
+        </div>
+    </div>
+
+</div>

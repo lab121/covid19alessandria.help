@@ -7,4 +7,4 @@ weight: 3
 logo: "chalkboard-teacher"
 ---
 
-Tutto ciò che riguarda la scuola e l'ambito scolastico
+Tutto ciò che riguarda la scuola e l’ambito scolastico.

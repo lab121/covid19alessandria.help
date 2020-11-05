@@ -7,4 +7,5 @@ weight: 1
 logo: "phone"
 ---
 
-In questa pagina trovi tutte le informazioni se sei in quarantena
+
+In questa pagina trovi tutte le informazioni utili se sei in quarantena o isolamento fiduciario.
