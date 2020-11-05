@@ -1,5 +1,5 @@
 ---
-title: "###Informazioni utili###"
+title: "Informazioni utili"
 picture: "foto3.jpg"
 promote_to_home: true
 weight: 5
