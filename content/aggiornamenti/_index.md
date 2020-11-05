@@ -1,4 +1,0 @@
----
-title: "Aggiornamenti"
-layout: "page"
----

@@ -3,7 +3,7 @@ title: "Sportelli di ascolto e informativi"
 link: "https://www.facebook.com/casa.alessandria/"
 address: "Via Verona, 116 Alessandria"
 phone: "0131.533.848"
-date: 2020-11-05
+date: 2020-08-05
 weight: 1
 ---
 

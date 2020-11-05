@@ -3,14 +3,18 @@
     <div class="card-wrapper card-space">
         <div class="card card-bg">
             <div class="card-body">
-                <h5 class="card-title">{{ .Title }}</h5>
-
+				{{ if .Params.date }}
+					{{ $anno := substr .Params.date 0 4 }}
+					{{ $mese := substr .Params.date 5 2 }}
+					{{ $giorno := substr .Params.date 8 2 }}
+					{{ $dataItaliana := (print $giorno "-" $mese "-" $anno) }}
+                    <h6 class="card-title">{{ $dataItaliana }}</h6>
+                {{ end }}
+                <h5 class="card-title">{{ .Title }}</h5>		
                 {{ if .Content }}
                     <p class="card-text">{{ .Content | truncate 120 }}</p>
                 {{ end }}
-				{{ if .Params.date }}
-                    <p class="card-text">{{ .Params.date | truncate 120 }}</p>
-                {{ end }}
+				
 
                 <a class="read-more" href="{{ .Permalink }}">
                     <span class="text">Leggi di più</span>
