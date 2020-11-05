@@ -1,5 +1,5 @@
 ---
-title: "Mangiare"
+title: "Cibo"
 type: "group"
 layout: "subsection"
 picture: "bisogni_mangiare.jpg"
