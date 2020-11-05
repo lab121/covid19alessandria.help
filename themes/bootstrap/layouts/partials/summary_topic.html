@@ -11,7 +11,7 @@
                     </div>
                 {{ end }}
 
-                <h5 class="card-title"><a href="{{ .Params.link }}">{{ .Title }}</a></h5>
+                <h3 class="card-title"><a href="{{ .Params.link }}">{{ .Title }}</a></h3>
 
                 {{ if .Content }}
                     <p class="card-text">{{ .Content | truncate 120 }}</p>
