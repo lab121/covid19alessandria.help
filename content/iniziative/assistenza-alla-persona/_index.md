@@ -3,7 +3,6 @@ title: "Assistenza alla persona"
 type: "group"
 layout: "section"
 logo: "heart"
-promote_to_home: true
 weight: 5
 relate: ["/iniziative/sportelli"]
 draft: false

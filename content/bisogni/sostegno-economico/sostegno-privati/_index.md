@@ -3,7 +3,6 @@ title: "Sostegno privati e famiglie"
 type: "group"
 layout: "subsection"
 logo: "life-ring"
-promote_to_home: true
 weight: 6
 draft: false
 ---
