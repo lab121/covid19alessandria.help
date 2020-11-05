@@ -1,7 +1,7 @@
 ---
 title: "Elenco attività che effettuano consegne a domicilio"
-phone: "https://www.comune.alessandria.it/ristorazione-asporto"
-link: ""
+phone: ""
+link: "https://www.comune.alessandria.it/ristorazione-asporto"
 date: 2020-11-05
 draft: false
 weight: 2
