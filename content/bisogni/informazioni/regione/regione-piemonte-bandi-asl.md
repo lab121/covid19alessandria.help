@@ -16,8 +16,7 @@ Ogni candidato, all'atto dell'iscrizione, dovrà indicare per quale Azienda inte
 
 Per scadenze, condizioni e competenze richieste, consultare i diversi link attraverso i quali si accede agli avvisi pubblici.  
 {{< rawhtml >}}
-<a target="_blank" href="https://bandi.regione.piemonte.it/avvisi-beni-regionali/tecnico-sanitario-radiologia-medica-reclutamento-personale-emergenza-covid-19">https://bandi.regione.piemonte.it/avvisi-beni-regionali/tecnico-sanitario-radiologia-medica-reclutamento-personale-emergenza-covid-19</a><br /><br />
-<a target="_blank" href="https://bandi.regione.piemonte.it/avvisi-beni-regionali/tecnico-prevenzione-nellambiente-nei-luoghi-lavoro-reclutamento-personale-emergenza-covid-19">https://bandi.regione.piemonte.it/avvisi-beni-regionali/tecnico-prevenzione-nellambiente-nei-luoghi-lavoro-reclutamento-personale-emergenza-covid-19</a><br /><br />
-<a target="_blank" href="https://bandi.regione.piemonte.it/avvisi-beni-regionali/fisioterapista-reclutamento-personale-emergenza-covid-19">https://bandi.regione.piemonte.it/avvisi-beni-regionali/fisioterapista-reclutamento-personale-emergenza-covid-19</a><br /><br />
+<a target="_blank" href="https://bandi.regione.piemonte.it/avvisi-beni-regionali/infermieri-reclutamento-personale-36-mesi-emergenza-covid-19">Infermieri reclutamento personale (36 mesi) Emergenza Covid - 19 | Bandi Regione Piemonte</a><br /><br />
+<a target="_blank" href="https://bandi.regione.piemonte.it/avvisi-beni-regionali/infermieri-reclutamento-personale-emergenza-covid-19">Infermieri reclutamento personale Emergenza Covid-19 | Bandi Regione Piemonte</a><br /><br />
 <a target="_blank" href="https://aslcittaditorino.iscrizioneconcorsi.it/">https://aslcittaditorino.iscrizioneconcorsi.it/</a>
 {{< /rawhtml >}}
