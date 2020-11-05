@@ -42,11 +42,11 @@ enableRobotsTXT = true
     weight = 1
 	title = "Bisogni"
 [[menu.main]]
-    identifer = "mangiare"
+    identifer = "cibo"
     parent = "bisogni"
-    name = "Mangiare"
-	title = "Mangiare"
-    url  = "/bisogni/mangiare"
+    name = "Cibo"
+	title = "Cibo"
+    url  = "/bisogni/cibo"
     weight = 1
 [[menu.main]]
     identifer = "salute"
