@@ -1,7 +1,6 @@
 ---
 title: "Iniziative"
 weight: 2
-promote_to_home: true
 ---
 
 {{< rawhtml >}}
