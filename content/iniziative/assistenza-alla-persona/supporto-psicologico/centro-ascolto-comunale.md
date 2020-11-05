@@ -4,5 +4,5 @@ link: "https://www.comune.alessandria.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 mail: "urp@comune.alessandria.it"
 phone: "800.317.316"
 date: 2020-04-01
-draft: false
+draft: true
 ---

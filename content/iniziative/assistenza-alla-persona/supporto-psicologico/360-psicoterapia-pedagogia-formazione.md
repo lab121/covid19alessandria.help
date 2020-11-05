@@ -1,6 +1,6 @@
 ---
 title: "360° PSICOTERAPIA PEDAGOGIA FORMAZIONE"
-link: "https://www.studi360.it/360-news/rete-di-professionisti-per-l-emergenza-covid19.html"
+link: "https://www.studi360.it/"
 mail: "info@studi360.it"
 date: 2020-04-20
 ---

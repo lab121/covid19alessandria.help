@@ -1,4 +1,4 @@
-<nav aria-label="breadcrumb">
+<nav aria-label="breadcrumb" class="breadcrumb-container">
     <ol class="breadcrumb">
     {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
     </ol>
@@ -14,9 +14,9 @@
 <li class="breadcrumb-item active" aria-current="page">{{ .p1.Title }}</li>
 {{ else }}
 {{ if .p1.IsHome}}
-<li class="breadcrumb-item"><a href="{{ .p1.Permalink }}">Home</a></li>
+<li class="breadcrumb-item"><a href="{{ .p1.Permalink }}">Home</a><span class="separator">/</span></li>
 {{ else }}
-<li class="breadcrumb-item"><a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a></li>
+<li class="breadcrumb-item"><a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a><span class="separator">/</span></li>
 {{ end }}
 {{ end }}
 

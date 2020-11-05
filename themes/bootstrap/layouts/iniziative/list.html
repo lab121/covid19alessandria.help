@@ -9,14 +9,31 @@
         </div>
     </div>
 	<!--<h1>Sezioni</h1>-->
-    <div class="row mb-5">		
+    <div class="row mb-5">
         {{ range .Sections }}
-            <div class="col-md-3 mb-3 text-center">
-                <a href="{{ .Permalink }}">
-                    <span class="fas fa-{{ .Params.logo }} font-60" aria-hidden="true"></span>
-                    <h4>{{ .Title }}</h4>
-                </a>
+        <div class="col-md-3 mb-3 text-center">
+            <div class="card-wrapper card-space">
+                <div class="card card-img no-after card-bg">
+                    <div class="img-responsive-wrapper">
+                        <div class="img-responsive" style="border-bottom: 6px solid #ec5923;">
+                            <a href="{{ .Permalink }}">
+								<figure class="img-wrapper">
+									<img src="/images/foto/{{ .Params.picture }}" title="img title" alt="imagealt">
+								</figure>
+							</a>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <h3 class="card-title">{{ .Title }}</h3>
+                        <br/><br/>
+                        <p class="card-text"></p><a class="read-more" href="{{ .Permalink }}"><span class="text">Leggi di più</span>
+                        <svg class="icon">
+                            <use xlink:href="/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
+                        </svg></a>
+                    </div>
+                </div>
             </div>
+        </div>
         {{ end }}
     </div>
 {{ end }}

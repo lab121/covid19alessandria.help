@@ -1,8 +1,8 @@
 ---
-title: "Questura: Accesso all'Ufficio Immigrazione della Questura di Alessandria"
-link: "https://questure.poliziadistato.it/it/Alessandria/articolo/11105cac83d2db0d7181619818"
+title: "Questura: Sezione dedicata agli stranieri sul sito della Questura di Alessandria"
+link: "https://www.poliziadistato.it/archivio/category/1237"
 mail: "gab.quest.al@pecps.poliziadistato.it"
-date: 2020-04-01
+date: 2020-10-30
 draft: false
 weight: 1
 ---
