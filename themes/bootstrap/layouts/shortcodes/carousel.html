@@ -1,0 +1,29 @@
+{{ $el1 := split (.Get "el") "$" }}
+
+
+<div class="it-carousel-wrapper it-carousel-landscape-abstract">
+    <div class="it-carousel-all owl-carousel">
+        {{ range $el1 }}
+            {{ $el2 := split (.) "|" }}
+                <div class="it-single-slide-wrapper">
+                    <a href="#">
+                        <div class="img-responsive-wrapper">
+                            <div class="img-responsive">
+                                <div class="img-wrapper"><img src="{{ index $el2 0 }}" title="{{ index $el2 1 }}" alt="{{ index $el2 1 }}"></div>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="it-text-slider-wrapper-outside">
+                        <div class="card-wrapper">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title big-heading">{{ index $el2 1 }}</h5>
+                                    <p class="card-text">{{ index $el2 2 }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        {{ end }}
+    </div>
+</div>
