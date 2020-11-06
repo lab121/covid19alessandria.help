@@ -1,5 +1,5 @@
 ---
-title: "Regione"
+title: "Regione Piemonte"
 logo: "building"
 type: "group"
 layout: "subsection"

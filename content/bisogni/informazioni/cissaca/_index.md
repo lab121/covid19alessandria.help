@@ -1,5 +1,5 @@
 ---
-title: "Cissaca"
+title: "Cissaca Servizi socio-assistenziali"
 logo: "hands-helping"
 link: "www.cissaca.it"
 type: "group"

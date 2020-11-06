@@ -1,5 +1,5 @@
 ---
-title: "Iniziative"
+title: "Azioni sul territorio"
 type: "group"
 layout: "subsection"
 logo: "puzzle-piece"
@@ -9,4 +9,4 @@ picture: "archivio_iniziative.jpg"
 
 Pagina di archivio.
 
-Le nostre iniziative durante la fase 1.
+Le nostre azioni sul territorio durante la fase 1.
