@@ -54,6 +54,10 @@ main {
   background-color: #f5f5f5;
 }
 
+figcaption h4 {
+  font-size: 1em;
+}
+
 @keyframes bs-notify-fadeOut {
   0% {
     opacity: 0.9;
