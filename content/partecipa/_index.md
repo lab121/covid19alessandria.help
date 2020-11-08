@@ -1,7 +1,6 @@
 ---
 title: "Partecipa"
 layout: "page"
-menu: main
 weight: 5
 ---
 

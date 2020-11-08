@@ -2,7 +2,6 @@
 title: "Chi siamo"
 layout: "page"
 logos: true
-menu: main
 weight: 4
 ---
 

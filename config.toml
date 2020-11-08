@@ -104,3 +104,31 @@ enableRobotsTXT = true
 	title = "Assistenza alla persona"
     url  = "/iniziative/assistenza-alla-persona"
     weight = 2
+	
+[[menu.main]]
+    identifier = "archivio"
+    name = "Archivio"
+    url  = "/archivio"
+    weight = 3
+	title = "Archivio"
+	
+[[menu.main]]
+    identifier = "chi-siamo"
+    name = "Chi siamo"
+    url  = "/chi-siamo"
+    weight = 4
+	title = "Chi siamo"
+
+[[menu.main]]
+    identifier = "partecipa"
+    name = "Partecipa"
+    url  = "/partecipa"
+    weight = 5
+	title = "Partecipa"
+
+[[menu.main]]
+    identifier = "faq"
+    name = "Faq"
+    url  = "/faq"
+    weight = 6
+	title = "FAQ"
