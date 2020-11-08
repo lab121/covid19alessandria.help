@@ -6,4 +6,5 @@ date: 2020-11-07
 weight: 1
 ---
 
-Cliccando sulla mappa è possibile visualizzare le FAQ relative alle specifiche disposizioni della propria Regione. 
+Cliccando sulla mappa è possibile visualizzare le FAQ relative alle specifiche disposizioni della propria Regione.
+ 
