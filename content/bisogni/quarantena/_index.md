@@ -1,6 +1,7 @@
 ---
 title: "Supporto alla quarantena"
-layout: "subsection"
+type: group
+layout: foto 
 logo: "phone"
 weight: 7
 topic: "true"
