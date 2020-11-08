@@ -1,6 +1,20 @@
-<h3 class="text-center mb-5">In primo piano</h3>
+<!--<h3 class="text-center mb-5">In primo piano</h3>
 <div class="row">
     {{- range where site.RegularPages "Section" "topic" | last 3  }}
 	   {{ partial "summary_topic_home.html" . }}
     {{ end }}
+</div>-->
+
+<h3 class="text-center mb-5">In primo piano</h3>
+<div class="row">
+{{ .Scratch.Add "topic" slice }}
+	{{ range .Site.AllPages }}
+		{{ if .Params.topic}}
+			{{ $.Scratch.Add "topic" . }}
+		{{ end }}
+	{{ end }}
+
+	{{ range (sort (.Scratch.Get "topic") ".Params.date" "desc") | first 3 }}
+	{{ partial "summary_topic_home.html" . }}
+{{ end }}
 </div>
