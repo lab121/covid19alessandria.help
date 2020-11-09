@@ -1,6 +1,5 @@
 ---
 title: "Informazioni utili"
-picture: "foto3.jpg"
 weight: 5
 topic: "true"
 picture: "bisogni_informazioni_utili_2.jpg"

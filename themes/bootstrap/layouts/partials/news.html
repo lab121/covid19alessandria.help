@@ -1,7 +1,0 @@
-<h3 class="text-center mb-5">News</h3>
-<div class="row">
-    {{- range ( where site.RegularPages "Section" "news" | first 3 ) }}
-        {{ partial "summary_short.html" . }}
-    {{ end }}
-</div>
-<h5 class="text-center"><a href="/news">Leggi tutte le news</a></h5>
