@@ -7,4 +7,4 @@ draft: false
 weight: 6
 ---
 
-Crowfunding che la Fondazione intende avviare un dialogo e uno scambio con enti e associazioni del Terzo Settore attivi in campo ambientale.
+Bando per avviare un dialogo e uno scambio con Enti e associazioni del Terzo Settore attivi in campo ambientale.
