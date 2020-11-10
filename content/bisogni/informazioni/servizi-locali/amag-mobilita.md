@@ -1,7 +1,7 @@
 ---
-title: "Amag Mobilita - Orari e aggiornamenti on line"
-link: "https://www.amagmobilita.it/"
-date: 2020-11-03
+title: "Amag Mobilita - Nuovi orari Bus Alessandria dal 09-11-2020"
+link: "https://www.amagmobilita.it/trasporti-alessandria/orari-autobus-alessandria"
+date: 2020-11-10
 draft: false
 weight: 11
 ---
