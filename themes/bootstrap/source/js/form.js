@@ -97,7 +97,7 @@ Vue.component('form-el', {
       this.loading = true;
       this.message = '';
 
-      this.$http.post('https://7prb5mz3vb.execute-api.eu-west-1.amazonaws.com/dev/save', this.form)
+      this.$http.post('https://f472npuuea.execute-api.eu-west-1.amazonaws.com/dev/save', this.form)
         .then(response => {
           this.message = 'Grazie per la tua segnalazione!'
         })
