@@ -23,7 +23,7 @@
                         <div class="col-md-12">
                             <h2>{{ .Title }}</h2>
                             <div class="row discover">
-                                {{ range .Pages }}
+                                {{ range (sort .Pages ".Params.date" "desc") }}
                                     {{ partial "summary.html" . }}
                                 {{ end }}
                             </div>

@@ -10,7 +10,7 @@
     </div>
 
     <div class="row mb-5 discover">
-        {{ range .Pages }}
+		{{ range (sort .Pages ".Params.date" "desc") }}
             {{ partial "summary.html" . }}
         {{ end }}
     </div>
