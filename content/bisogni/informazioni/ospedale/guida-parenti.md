@@ -6,7 +6,7 @@ date: 2020-11-12
 weight: 1
 ---
 
-# **REPARTI COVID**
+### **REPARTI COVID**
 Visite ai familiari
 Le visite ai familiari non sono consentite, sono però attive altre forme di contatto con i propri cari ad esempio tramite le videochiamate ove possibile
 
@@ -21,11 +21,11 @@ La biancheria che viene consegnata ai parenti dai reparti Covid è avvolta in sa
 A casa occorre aprire solo il sacco esterno. Quello interno, che contiene la biancheria del paziente, è idrosolubile e si scioglierà con il contatto dell’acqua e del detersivo: pertanto i panni sporchi rimangono al suo interno e vengono messi in lavatrice in modo sicuro. Si consiglia di utilizzare oltre al detersivo anche prodotti disinfettanti. In questo modo i parenti non entrano mai in contatto diretto con la biancheria del paziente affetto da Covid.
 Si ricorda infine di lavarsi sempre le mani al termine della procedura.
 
-[biancheriacovid](\static\images\foto\Biancheria_covid.jpg\)
+![biancheriacovid](\static\images\foto\Biancheria_covid.jpg\)
 
-[visitecovid](\static\images\foto\Visite_covid.jpg\)
+![visitecovid](\static\images\foto\Visite_covid.jpg\)
 
-# **REPARTI NON COVID**
+### **REPARTI NON COVID**
 Visite ai familiari
 Le visite ai familiari non sono consentite, salvo nelle seguenti eccezioni:
 Urgenze: il personale comunica alla portineria il nome del parente autorizzato a far visita al paziente
@@ -38,5 +38,5 @@ Cambio della biancheria
 + All’ingresso del reparto il parente consegna all’operatore la biancheria pulita, ma non può entrare
 + Il personale ritira la biancheria pulita e consegna quella sporca
 
-[biancheria-non-covid](\static\images\foto\Biancheria_non-covid.jpg\)
-[visite-non-covid](\static\images\foto\Visite_non-covid.jpg\)
+![biancheria-non-covid](\static\images\foto\Biancheria_non-covid.jpg\)
+![visite-non-covid](\static\images\foto\Visite_non-covid.jpg\)
