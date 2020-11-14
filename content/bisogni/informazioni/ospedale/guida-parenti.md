@@ -22,8 +22,8 @@ A casa occorre aprire solo il sacco esterno. Quello interno, che contiene la bia
 
 Si ricorda infine di lavarsi sempre le mani al termine della procedura.
 
-{{< figure src="/static/images/foto/Visite_covid.jpg" title="Visite reparti Covid" >}}
-{{< figure src="/static/images/foto/Biancheria_covid.jpg" title="Biancheria reparti Covid" >}}
+{{< figure src="/static/images/foto/Visite_covid.jpg/" title="Visite reparti Covid" >}}
+{{< figure src="/static/images/foto/Biancheria_covid.jpg/" title="Biancheria reparti Covid" >}}
 
 ### **REPARTI NON COVID**
 Visite ai familiari
@@ -38,5 +38,5 @@ Cambio della biancheria
 + All’ingresso del reparto il parente consegna all’operatore la biancheria pulita, ma non può entrare
 + Il personale ritira la biancheria pulita e consegna quella sporca
 
-{{< figure src="/static/images/foto/Visite_non-covid.jpg" title="Visite reparti NON Covid" >}}
-{{< figure src="/static/images/foto/Biancheria_non-covid.jpg" title="Biancheria reparti NON Covid" >}}
+{{< figure src="/static/images/foto/Visite_non-covid.jpg/" title="Visite reparti NON Covid" >}}
+{{< figure src="/static/images/foto/Biancheria_non-covid.jpg/" title="Biancheria reparti NON Covid" >}}
