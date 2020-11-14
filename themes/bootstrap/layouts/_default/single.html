@@ -12,7 +12,7 @@
 
     {{ if .Params.mail }}
         <div class="cart-mail mb-3">
-            <b>Email:</b> {{ .Params.mail }}
+            <b>Email:</b> <a href="mailto:{{ .Params.mail }}">{{ .Params.mail }}</a>
         </div>
     {{ end }}
 
