@@ -7,6 +7,6 @@ weight: 2
 ---
 
 Non è permesso l'ingresso in Italia in caso di:
--Diagnosi di positività per COVID-19
--Presenza di sintomatologia compatibile con COVID-19
--Contatto stretto con un caso positivo confermato di COVID-19 nei 14 giorni precedenti il viaggio
+- Diagnosi di positività per COVID-19
+- Presenza di sintomatologia compatibile con COVID-19
+- Contatto stretto con un caso positivo confermato di COVID-19 nei 14 giorni precedenti il viaggio

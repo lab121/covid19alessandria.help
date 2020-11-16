@@ -4,6 +4,7 @@ link: "https://www.labsociale.it/2020/05/apre-lo-sportello-gratuito-di-consulenz
 mail: "info.laboratoriosociale@gmail.com"
 date: 2020-05-11
 draft: false
+phone: "351.966.9772"
 weight: 5
 ---
 

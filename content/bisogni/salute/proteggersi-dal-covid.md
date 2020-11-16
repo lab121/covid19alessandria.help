@@ -6,5 +6,7 @@ date: 2020-11-03
 weight: 12
 ---
 
-Cosa posso fare per proteggermi? Quali sono e come vanno usati i dispositivi di protezione? Come mantenere pulite superfici e ambienti?
+Cosa posso fare per proteggermi?  
+Quali sono e come vanno usati i dispositivi di protezione?  
+Come mantenere pulite superfici e ambienti?  
 Segui il link per trovare le risposte ufficiali del Ministero della Salute.

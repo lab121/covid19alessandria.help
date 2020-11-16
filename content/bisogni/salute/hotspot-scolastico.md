@@ -6,8 +6,8 @@ date: 2020-10-29
 weight: 1
 ---
 
-Modalità di accesso
-Si accede solo se lo studente è stato preso in carico dal Pediatra di Libera Scelta o dal Medico di Medicina Generale dopo aver fatto la segnalazione nella piattaforma Covid regionale
+Modalità di accesso  
+Si accede solo se lo studente è stato preso in carico dal Pediatra di Libera Scelta o dal Medico di Medicina Generale dopo aver fatto la segnalazione nella piattaforma Covid regionale  
 Se lo studente è minorenne deve essere accompagnato da un genitore o tutore ...
 
 Puoi leggere tutte le informazioni al link 

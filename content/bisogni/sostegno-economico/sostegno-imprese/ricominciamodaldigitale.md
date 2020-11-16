@@ -8,6 +8,5 @@ draft: false
 weight: 1
 ---
 
-#Ricominciamo è una piattaforma gratuita di formazione d'eccellenza ideata e promossa da WeSchool e Fondazione Italiana Accenture.
-
+Ricominciamo è una piattaforma gratuita di formazione d'eccellenza ideata e promossa da WeSchool e Fondazione Italiana Accenture.  
 Il suo scopo è affiancare le piccole e medie imprese italiane colpite dall’emergenza Covid-19 accelerando lo sviluppo di nuove competenze digitali.

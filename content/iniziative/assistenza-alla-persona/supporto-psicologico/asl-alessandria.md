@@ -6,4 +6,5 @@ phone: "366.430.9876"
 date: 2020-11-10
 ---
 
-Da mercoledì 11 novembre torna a rispondere il numero d'aiuto 3664309876 Supporto Psicologico - Emergenza Coronavirus. Al telefono educatori e psicologi in grado di fornire sostegno alla popolazione.
+Da mercoledì 11 novembre torna a rispondere il numero d'aiuto 3664309876 Supporto Psicologico - Emergenza Coronavirus.  
+Al telefono educatori e psicologi in grado di fornire sostegno alla popolazione.

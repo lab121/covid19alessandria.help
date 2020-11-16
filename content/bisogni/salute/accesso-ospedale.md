@@ -6,6 +6,6 @@ date: 2020-10-29
 weight: 1
 ---
 
-I comportamenti da adottare per accedere all’interno dell’Azienda Ospedaliera. 
+I comportamenti da adottare per accedere all’interno dell’Azienda Ospedaliera.   
 Ricorda: l’accesso agli accompagnatori non è consentito tranne alcune eccezioni.
 

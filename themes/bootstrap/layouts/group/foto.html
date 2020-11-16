@@ -24,12 +24,16 @@
                             </div>
                         </div>
                         <div class="card-body">
-                            <h3 class="card-title">{{ .Title }}</h3>
-                            <br/><br/>
+                            <h3 class="card-title">
+								<a href="{{ .Permalink }}">
+									{{ .Title }}
+								</a>
+							</h3>
+                            <!--<br/><br/>
                             <p class="card-text"></p><a class="read-more" href="{{ .Permalink }}"><span class="text">Leggi di più</span>
                             <svg class="icon">
                                 <use xlink:href="/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
-                            </svg></a>
+                            </svg></a>-->
                         </div>
                     </div>
                 </div>

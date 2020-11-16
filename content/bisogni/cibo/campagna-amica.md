@@ -8,4 +8,4 @@ weight: 15
 
 Di fronte alla nuova impennata di contagi e in vista di nuove restrizioni le aziende di Campagna Amica sono a disposizione dei consumatori nella consegna della spesa a domicilio: dalla carne ai salumi, dagli ortaggi alla frutta, dai formaggi alla pasta e al riso, dal vino ai succhi di frutta, dalle uova alle nocciole.
 
-Scarica la locandina al seguente link https://piemonte.coldiretti.it/wp-content/uploads/2020/11/Spesa-Domicilio-ALESSANDRIA_Mer-28-Ott-scaled.jpg
+Scarica la locandina al [seguente link](https://piemonte.coldiretti.it/wp-content/uploads/2020/11/Spesa-Domicilio-ALESSANDRIA_Mer-28-Ott-scaled.jpg)

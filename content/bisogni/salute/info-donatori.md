@@ -7,5 +7,6 @@ weight: 15
 phone: ""
 ---
 
-Sono un donatore di sangue, come mi devo comportare? Quali misure di prevenzione sono state adottate per chi dona o ha ricevuto in donazione organi e tessuti?
+Sono un donatore di sangue, come mi devo comportare?  
+Quali misure di prevenzione sono state adottate per chi dona o ha ricevuto in donazione organi e tessuti?  
 Segui il link per trovare le risposte ufficiali del Ministero della Salute.
