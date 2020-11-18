@@ -1,7 +1,7 @@
 ---
 title: "Elenco attività che effettuano consegne a domicilio - Confesercenti"
 phone: ""
-link: ""
+link: "https://www.facebook.com/confesercentiAL"
 date: 2020-11-18
 draft: false
 weight: 2
