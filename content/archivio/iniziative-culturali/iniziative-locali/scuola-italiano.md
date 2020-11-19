@@ -6,6 +6,7 @@ mail: "casaquartiere@gmail.com"
 address: "Via Verona, 116 Alessandria"
 source: ""
 date: 2020-11-19
+weight: 3
 ---
 
 Lezioni di italiano online per la scuola popolare del quartiere Borgo Rovereto.
