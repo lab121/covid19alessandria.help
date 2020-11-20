@@ -5,6 +5,25 @@ title = "Covid19Alessandria.help"
 theme = "bootstrap"
 enableRobotsTXT = true
 
+[languages]
+	[languages.it]
+		title = "Covid19Alessandria.help"
+		weight = 10
+		contentDir = "content"
+	[languages.en]
+		title = "Covid19Alessandria.help English"
+		weight = 20
+		contentDir = "content/english"
+		[languages.en.params]
+			description = "A project to share info"
+		[languages.en.menu]
+			[[languages.en.menu.main]]
+				identifier = "bisogni"
+				name = "See all owns"
+				url  = "/bisogni"
+				weight = 1
+				title = "Owns"
+
 [frontmatter]
     lastmod = [":fileModTime", ":default"]
 
