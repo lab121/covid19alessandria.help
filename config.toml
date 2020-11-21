@@ -7,22 +7,65 @@ enableRobotsTXT = true
 
 [languages]
 	[languages.it]
+		languageName = "Italian"
 		title = "Covid19Alessandria.help"
 		weight = 10
-		contentDir = "content"
 	[languages.en]
+		languageName = "English"
 		title = "Covid19Alessandria.help English"
 		weight = 20
-		contentDir = "content/english"
 		[languages.en.params]
-			description = "A project to share info"
+			description = "(inglese) Descrizione"
+			follow = "(inglese) Seguici su"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
 				identifier = "bisogni"
-				name = "See all owns"
-				url  = "/bisogni"
+				name = "(inglese) Vedi tutti i bisogni"
+				url  = "bisogni"
 				weight = 1
-				title = "Owns"
+				title = "(inglese) Bisogni"
+			[[languages.en.menu.main]]
+				identifer = "cibo"
+				parent = "bisogni"
+				name = "(inglese) Cibo"
+				title = "(inglese) Cibo"
+				url  = "/bisogni/cibo"
+				weight = 1
+			[[languages.en.menu.main]]
+				identifer = "salute"
+				parent = "bisogni"
+				name = "(inglese) Salute"
+				title = "(inglese) Salute"
+				url  = "/bisogni/salute"
+				weight = 2
+			[[languages.en.menu.main]]
+				identifer = "sostegnoeconomico"
+				parent = "bisogni"
+				name = "(inglese) Sostegno economico"
+				title = "(inglese) Sostegno economico"
+				url  = "/bisogni/sostegno-economico"
+				weight = 3
+			[[languages.en.menu.main]]
+				identifer = "informazioniutili"
+				parent = "bisogni"
+				name = "(inglese) Informazioni utili"
+				title = "(inglese) Informazioni utili"
+				url  = "/bisogni/informazioni"
+				weight = 4
+			[[languages.en.menu.main]]
+				identifer = "scuola"
+				parent = "bisogni"
+				name = "(inglese) Scuola"
+				title = "(inglese) Scuola"
+				url  = "/bisogni/scuola"
+				weight = 5
+			[[languages.en.menu.main]]
+				identifer = "quarantena"
+				parent = "bisogni"
+				name = "(inglese) Supporto alla quarantena"
+				title = "(inglese) Supporto alla quarantena"
+				url  = "/bisogni/quarantena"
+				weight = 6
 
 [frontmatter]
     lastmod = [":fileModTime", ":default"]
@@ -36,6 +79,7 @@ enableRobotsTXT = true
     footer = "Made with Love for Alessandria"
     images = ["images/banner/covid19alessandriahelp_banner_quadrato.png"]
     prodURL = "https://covid19alessandria.help"
+	follow = "Seguici su"
 
 [outputFormats.Algolia]
     baseName = "algolia"
