@@ -36,35 +36,35 @@ enableRobotsTXT = true
 				parent = "bisogni"
 				name = "(inglese) Salute"
 				title = "(inglese) Salute"
-				url  = "/bisogni/salute"
+				url  = "/en/bisogni/salute"
 				weight = 2
 			[[languages.en.menu.main]]
 				identifer = "sostegnoeconomico"
 				parent = "bisogni"
 				name = "(inglese) Sostegno economico"
 				title = "(inglese) Sostegno economico"
-				url  = "/bisogni/sostegno-economico"
+				url  = "/en/bisogni/sostegno-economico"
 				weight = 3
 			[[languages.en.menu.main]]
 				identifer = "informazioniutili"
 				parent = "bisogni"
 				name = "(inglese) Informazioni utili"
 				title = "(inglese) Informazioni utili"
-				url  = "/bisogni/informazioni"
+				url  = "/en/bisogni/informazioni"
 				weight = 4
 			[[languages.en.menu.main]]
 				identifer = "scuola"
 				parent = "bisogni"
 				name = "(inglese) Scuola"
 				title = "(inglese) Scuola"
-				url  = "/bisogni/scuola"
+				url  = "/en/bisogni/scuola"
 				weight = 5
 			[[languages.en.menu.main]]
 				identifer = "quarantena"
 				parent = "bisogni"
 				name = "(inglese) Supporto alla quarantena"
 				title = "(inglese) Supporto alla quarantena"
-				url  = "/bisogni/quarantena"
+				url  = "/en/bisogni/quarantena"
 				weight = 6
 				
 			[[languages.en.menu.main]]
@@ -120,42 +120,42 @@ enableRobotsTXT = true
 				parent = "bisogni"
 				name = "(spagnolo) Cibo"
 				title = "(spagnolo) Cibo"
-				url  = "/bisogni/cibo"
+				url  = "/es/bisogni/cibo"
 				weight = 1
 			[[languages.es.menu.main]]
 				identifer = "salute"
 				parent = "bisogni"
 				name = "(spagnolo) Salute"
 				title = "(spagnolo) Salute"
-				url  = "/bisogni/salute"
+				url  = "/es/bisogni/salute"
 				weight = 2
 			[[languages.es.menu.main]]
 				identifer = "sostegnoeconomico"
 				parent = "bisogni"
 				name = "(spagnolo) Sostegno economico"
 				title = "(spagnolo) Sostegno economico"
-				url  = "/bisogni/sostegno-economico"
+				url  = "/es/bisogni/sostegno-economico"
 				weight = 3
 			[[languages.es.menu.main]]
 				identifer = "informazioniutili"
 				parent = "bisogni"
 				name = "(spagnolo) Informazioni utili"
 				title = "(spagnolo) Informazioni utili"
-				url  = "/bisogni/informazioni"
+				url  = "/es/bisogni/informazioni"
 				weight = 4
 			[[languages.es.menu.main]]
 				identifer = "scuola"
 				parent = "bisogni"
 				name = "(spagnolo) Scuola"
 				title = "(spagnolo) Scuola"
-				url  = "/bisogni/scuola"
+				url  = "/es/bisogni/scuola"
 				weight = 5
 			[[languages.es.menu.main]]
 				identifer = "quarantena"
 				parent = "bisogni"
 				name = "(spagnolo) Supporto alla quarantena"
 				title = "(spagnolo) Supporto alla quarantena"
-				url  = "/bisogni/quarantena"
+				url  = "/es/bisogni/quarantena"
 				weight = 6
 				
 			[[languages.es.menu.main]]
