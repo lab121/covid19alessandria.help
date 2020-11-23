@@ -66,6 +66,132 @@ enableRobotsTXT = true
 				title = "(inglese) Supporto alla quarantena"
 				url  = "/bisogni/quarantena"
 				weight = 6
+				
+			[[languages.en.menu.main]]
+				identifier = "iniziative"
+				name = "(inglese) Vedi tutte le iniziative"
+				url  = "/iniziative"
+				weight = 2
+				title = "(inglese) Iniziative"
+			[[languages.en.menu.main]]
+				identifer = "sportelli"
+				parent = "iniziative"
+				name = "(inglese) Sportelli"
+				title = "(inglese) Sportelli"
+				url  = "/iniziative/sportelli"
+				weight = 1
+			[[languages.en.menu.main]]
+				identifer = "assistenza-persona"
+				parent = "iniziative"
+				name = "(inglese) Assistenza alla persona"
+				title = "(inglese) Assistenza alla persona"
+				url  = "/iniziative/assistenza-alla-persona"
+				weight = 2
+				
+			[[languages.en.menu.main]]
+				identifier = "chi-siamo"
+				name = "(inglese) Chi siamo"
+				url  = "/chi-siamo"
+				weight = 4
+				title = "(inglese) Chi siamo"
+
+			[[languages.en.menu.main]]
+				identifier = "partecipa"
+				name = "(inglese)Partecipa"
+				url  = "/partecipa"
+				weight = 5
+				title = "(inglese) Partecipa"
+	[languages.es]
+		languageName = "Espanol"
+		title = "Covid19Alessandria.help Espanol"
+		weight = 30
+		[languages.es.params]
+			description = "(spagnolo) Descrizione"
+			follow = "(spagnolo) Seguici su"
+		[languages.es.menu]
+			[[languages.es.menu.main]]
+				identifier = "bisogni"
+				name = "(spagnolo) Vedi tutti i bisogni"
+				url  = "bisogni"
+				weight = 1
+				title = "(spagnolo) Bisogni"
+			[[languages.es.menu.main]]
+				identifer = "cibo"
+				parent = "bisogni"
+				name = "(spagnolo) Cibo"
+				title = "(spagnolo) Cibo"
+				url  = "/bisogni/cibo"
+				weight = 1
+			[[languages.es.menu.main]]
+				identifer = "salute"
+				parent = "bisogni"
+				name = "(spagnolo) Salute"
+				title = "(spagnolo) Salute"
+				url  = "/bisogni/salute"
+				weight = 2
+			[[languages.es.menu.main]]
+				identifer = "sostegnoeconomico"
+				parent = "bisogni"
+				name = "(spagnolo) Sostegno economico"
+				title = "(spagnolo) Sostegno economico"
+				url  = "/bisogni/sostegno-economico"
+				weight = 3
+			[[languages.es.menu.main]]
+				identifer = "informazioniutili"
+				parent = "bisogni"
+				name = "(spagnolo) Informazioni utili"
+				title = "(spagnolo) Informazioni utili"
+				url  = "/bisogni/informazioni"
+				weight = 4
+			[[languages.es.menu.main]]
+				identifer = "scuola"
+				parent = "bisogni"
+				name = "(spagnolo) Scuola"
+				title = "(spagnolo) Scuola"
+				url  = "/bisogni/scuola"
+				weight = 5
+			[[languages.es.menu.main]]
+				identifer = "quarantena"
+				parent = "bisogni"
+				name = "(spagnolo) Supporto alla quarantena"
+				title = "(spagnolo) Supporto alla quarantena"
+				url  = "/bisogni/quarantena"
+				weight = 6
+				
+			[[languages.es.menu.main]]
+				identifier = "iniziative"
+				name = "(spagnolo) Vedi tutte le iniziative"
+				url  = "/iniziative"
+				weight = 2
+				title = "(spagnolo) Iniziative"
+			[[languages.es.menu.main]]
+				identifer = "sportelli"
+				parent = "iniziative"
+				name = "(spagnolo) Sportelli"
+				title = "(spagnolo) Sportelli"
+				url  = "/iniziative/sportelli"
+				weight = 1
+			[[languages.es.menu.main]]
+				identifer = "assistenza-persona"
+				parent = "iniziative"
+				name = "(spagnolo) Assistenza alla persona"
+				title = "(spagnolo) Assistenza alla persona"
+				url  = "/iniziative/assistenza-alla-persona"
+				weight = 2
+				
+			[[languages.es.menu.main]]
+				identifier = "chi-siamo"
+				name = "(spagnolo) Chi siamo"
+				url  = "/chi-siamo"
+				weight = 4
+				title = "(spagnolo) Chi siamo"
+
+			[[languages.es.menu.main]]
+				identifier = "partecipa"
+				name = "(spagnolo)Partecipa"
+				url  = "/partecipa"
+				weight = 5
+				title = "(spagnolo) Partecipa"
 
 [frontmatter]
     lastmod = [":fileModTime", ":default"]
