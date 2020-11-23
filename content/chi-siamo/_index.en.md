@@ -1,5 +1,5 @@
 ---
-title: "Chi siamo"
+title: "Who we are"
 layout: "page"
 logos: true
 weight: 4
