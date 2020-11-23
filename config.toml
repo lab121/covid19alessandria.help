@@ -83,8 +83,8 @@ enableRobotsTXT = true
 			[[languages.en.menu.main]]
 				identifer = "assistenza-persona"
 				parent = "iniziative"
-				name = "(inglese) Assistenza alla persona"
-				title = "(inglese) Assistenza alla persona"
+				name = "Personal care"
+				title = "Personal care"
 				url  = "/iniziative/assistenza-alla-persona"
 				weight = 2
 				
@@ -97,7 +97,7 @@ enableRobotsTXT = true
 
 			[[languages.en.menu.main]]
 				identifier = "partecipa"
-				name = "(inglese) Partecipa"
+				name = "Join us"
 				url  = "/partecipa"
 				weight = 5
 				title = "(inglese) Partecipa"
