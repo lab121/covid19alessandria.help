@@ -7,4 +7,4 @@ type: group
 layout: foto 
 ---
 
-(inglese) In questa pagina trovi informazioni ufficiali e dai servizi locali della città e gli ultimi decreti e comunicati nazionali.
+On this page you will find official information from the local services of the city and the latest national decrees and announcements.
