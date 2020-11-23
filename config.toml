@@ -29,7 +29,7 @@ enableRobotsTXT = true
 				parent = "bisogni"
 				name = "(inglese) Cibo"
 				title = "(inglese) Cibo"
-				url  = "/bisogni/cibo"
+				url  = "/en/bisogni/cibo"
 				weight = 1
 			[[languages.en.menu.main]]
 				identifer = "salute"
