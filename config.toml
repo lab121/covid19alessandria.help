@@ -29,7 +29,7 @@ enableRobotsTXT = true
 				parent = "bisogni"
 				name = "Food"
 				title = "Food"
-				url  = "/en/bisogni/cibo"
+				url  = "bisogni/cibo"
 				weight = 1
 			[[languages.en.menu.main]]
 				identifer = "salute"
@@ -70,7 +70,7 @@ enableRobotsTXT = true
 			[[languages.en.menu.main]]
 				identifier = "iniziative"
 				name = "See all activities"
-				url  = "/iniziative"
+				url  = "/en/iniziative"
 				weight = 2
 				title = "Activity"
 			[[languages.en.menu.main]]
@@ -78,27 +78,27 @@ enableRobotsTXT = true
 				parent = "iniziative"
 				name = "(inglese) Sportelli"
 				title = "(inglese) Sportelli"
-				url  = "/iniziative/sportelli"
+				url  = "/en/iniziative/sportelli"
 				weight = 1
 			[[languages.en.menu.main]]
 				identifer = "assistenza-persona"
 				parent = "iniziative"
 				name = "Personal care"
 				title = "Personal care"
-				url  = "/iniziative/assistenza-alla-persona"
+				url  = "/en/iniziative/assistenza-alla-persona"
 				weight = 2
 				
 			[[languages.en.menu.main]]
 				identifier = "chi-siamo"
 				name = "Who we are"
-				url  = "/chi-siamo"
+				url  = "/en/chi-siamo"
 				weight = 4
 				title = "Who we are"
 
 			[[languages.en.menu.main]]
 				identifier = "partecipa"
 				name = "Join us"
-				url  = "/partecipa"
+				url  = "/en/partecipa"
 				weight = 5
 				title = "Join us"
 	[languages.es]
@@ -146,8 +146,8 @@ enableRobotsTXT = true
 			[[languages.es.menu.main]]
 				identifer = "scuola"
 				parent = "bisogni"
-				name = "(spagnolo) Scuola"
-				title = "(spagnolo) Scuola"
+				name = "Escuela"
+				title = "Escuela"
 				url  = "/es/bisogni/scuola"
 				weight = 5
 			[[languages.es.menu.main]]
@@ -161,7 +161,7 @@ enableRobotsTXT = true
 			[[languages.es.menu.main]]
 				identifier = "iniziative"
 				name = "(spagnolo) Vedi tutte le iniziative"
-				url  = "/iniziative"
+				url  = "iniziative"
 				weight = 2
 				title = "(spagnolo) Iniziative"
 			[[languages.es.menu.main]]
