@@ -62,17 +62,17 @@ enableRobotsTXT = true
 			[[languages.en.menu.main]]
 				identifer = "quarantena"
 				parent = "bisogni"
-				name = "(inglese) Supporto alla quarantena"
-				title = "(inglese) Supporto alla quarantena"
+				name = "Quarantine support"
+				title = "Quarantine support"
 				url  = "/en/bisogni/quarantena"
 				weight = 6
 				
 			[[languages.en.menu.main]]
 				identifier = "iniziative"
-				name = "(inglese) Vedi tutte le iniziative"
+				name = "See all activities"
 				url  = "/iniziative"
 				weight = 2
-				title = "(inglese) Iniziative"
+				title = "Activity"
 			[[languages.en.menu.main]]
 				identifer = "sportelli"
 				parent = "iniziative"
@@ -100,7 +100,7 @@ enableRobotsTXT = true
 				name = "Join us"
 				url  = "/partecipa"
 				weight = 5
-				title = "(inglese) Partecipa"
+				title = "Join us"
 	[languages.es]
 		languageName = "Espanol"
 		title = "Covid19Alessandria.help Espanol"
