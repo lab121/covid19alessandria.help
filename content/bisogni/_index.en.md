@@ -1,5 +1,5 @@
 ---
-title: "(inglese) Bisogni"
+title: "Needs"
 weight: 1
 promote_to_home: true
 type: group

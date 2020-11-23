@@ -1,5 +1,5 @@
 ---
-title: "(inglese) Informazioni utili"
+title: "Useful information"
 weight: 5
 picture: "bisogni_informazioni_utili_2.jpg"
 logo: "broadcast-tower"

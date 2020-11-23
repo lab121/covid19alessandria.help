@@ -20,43 +20,43 @@ enableRobotsTXT = true
 		[languages.en.menu]
 			[[languages.en.menu.main]]
 				identifier = "bisogni"
-				name = "(inglese) Vedi tutti i bisogni"
+				name = "See all needs"
 				url  = "bisogni"
 				weight = 1
-				title = "(inglese) Bisogni"
+				title = "Needs"
 			[[languages.en.menu.main]]
 				identifer = "cibo"
 				parent = "bisogni"
-				name = "(inglese) Cibo"
-				title = "(inglese) Cibo"
+				name = "Food"
+				title = "Food"
 				url  = "/en/bisogni/cibo"
 				weight = 1
 			[[languages.en.menu.main]]
 				identifer = "salute"
 				parent = "bisogni"
-				name = "(inglese) Salute"
-				title = "(inglese) Salute"
+				name = "Health"
+				title = "Health"
 				url  = "/en/bisogni/salute"
 				weight = 2
 			[[languages.en.menu.main]]
 				identifer = "sostegnoeconomico"
 				parent = "bisogni"
-				name = "(inglese) Sostegno economico"
-				title = "(inglese) Sostegno economico"
+				name = "Economic support"
+				title = "Economic support"
 				url  = "/en/bisogni/sostegno-economico"
 				weight = 3
 			[[languages.en.menu.main]]
 				identifer = "informazioniutili"
 				parent = "bisogni"
-				name = "(inglese) Informazioni utili"
-				title = "(inglese) Informazioni utili"
+				name = "Useful information"
+				title = "Useful information"
 				url  = "/en/bisogni/informazioni"
 				weight = 4
 			[[languages.en.menu.main]]
 				identifer = "scuola"
 				parent = "bisogni"
-				name = "(inglese) Scuola"
-				title = "(inglese) Scuola"
+				name = "School"
+				title = "School"
 				url  = "/en/bisogni/scuola"
 				weight = 5
 			[[languages.en.menu.main]]
@@ -90,14 +90,14 @@ enableRobotsTXT = true
 				
 			[[languages.en.menu.main]]
 				identifier = "chi-siamo"
-				name = "(inglese) Chi siamo"
+				name = "Who we are"
 				url  = "/chi-siamo"
 				weight = 4
-				title = "(inglese) Chi siamo"
+				title = "Who we are"
 
 			[[languages.en.menu.main]]
 				identifier = "partecipa"
-				name = "(inglese)Partecipa"
+				name = "(inglese) Partecipa"
 				url  = "/partecipa"
 				weight = 5
 				title = "(inglese) Partecipa"
