@@ -29,7 +29,7 @@ enableRobotsTXT = true
 				parent = "bisogni"
 				name = "Food"
 				title = "Food"
-				url  = "bisogni/cibo"
+				url  = "/en/bisogni/cibo"
 				weight = 1
 			[[languages.en.menu.main]]
 				identifer = "salute"
@@ -70,7 +70,7 @@ enableRobotsTXT = true
 			[[languages.en.menu.main]]
 				identifier = "iniziative"
 				name = "See all activities"
-				url  = "/en/iniziative"
+				url  = "/iniziative"
 				weight = 2
 				title = "Activity"
 			[[languages.en.menu.main]]
@@ -146,8 +146,8 @@ enableRobotsTXT = true
 			[[languages.es.menu.main]]
 				identifer = "scuola"
 				parent = "bisogni"
-				name = "Escuela"
-				title = "Escuela"
+				name = "(spagnolo) Scuola"
+				title = "(spagnolo) Scuola"
 				url  = "/es/bisogni/scuola"
 				weight = 5
 			[[languages.es.menu.main]]
@@ -161,7 +161,7 @@ enableRobotsTXT = true
 			[[languages.es.menu.main]]
 				identifier = "iniziative"
 				name = "(spagnolo) Vedi tutte le iniziative"
-				url  = "iniziative"
+				url  = "/iniziative"
 				weight = 2
 				title = "(spagnolo) Iniziative"
 			[[languages.es.menu.main]]
@@ -169,27 +169,27 @@ enableRobotsTXT = true
 				parent = "iniziative"
 				name = "(spagnolo) Sportelli"
 				title = "(spagnolo) Sportelli"
-				url  = "/iniziative/sportelli"
+				url  = "/es/iniziative/sportelli"
 				weight = 1
 			[[languages.es.menu.main]]
 				identifer = "assistenza-persona"
 				parent = "iniziative"
 				name = "(spagnolo) Assistenza alla persona"
 				title = "(spagnolo) Assistenza alla persona"
-				url  = "/iniziative/assistenza-alla-persona"
+				url  = "/es/iniziative/assistenza-alla-persona"
 				weight = 2
 				
 			[[languages.es.menu.main]]
 				identifier = "chi-siamo"
 				name = "(spagnolo) Chi siamo"
-				url  = "/chi-siamo"
+				url  = "/es/chi-siamo"
 				weight = 4
 				title = "(spagnolo) Chi siamo"
 
 			[[languages.es.menu.main]]
 				identifier = "partecipa"
 				name = "(spagnolo)Partecipa"
-				url  = "/partecipa"
+				url  = "/es/partecipa"
 				weight = 5
 				title = "(spagnolo) Partecipa"
 
