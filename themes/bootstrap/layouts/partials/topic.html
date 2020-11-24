@@ -6,10 +6,11 @@
 </div>-->
 
 <h3 class="text-center mb-5">In primo piano</h3>
+{{ $linguaSito := .Site.Language }}
 <div class="row">
 {{ .Scratch.Add "topic" slice }}
 	{{ range .Site.AllPages }}
-		{{ if .Params.topic}}
+		{{ if and (.Params.topic) (eq .Language $linguaSito) }}
 			{{ $.Scratch.Add "topic" . }}
 		{{ end }}
 	{{ end }}

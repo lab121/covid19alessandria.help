@@ -10,7 +10,7 @@
 					{{ $dataItaliana := (print $giorno "-" $mese "-" $anno) }}
                     <h6 class="card-title">{{ $dataItaliana }}</h6>
                 {{ end }}
-                <h5 class="card-title">{{ .Title }}</h5>		
+                <h5 class="card-title">{{ .Title }} {{ .Language }} {{ .Site.Language }}</h5>		
                 {{ if .Content }}
                     <p class="card-text">{{ .Content | truncate 120 }}</p>
                 {{ end }}

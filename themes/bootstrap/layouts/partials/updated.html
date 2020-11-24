@@ -13,10 +13,11 @@
     </div>
 </div>-->
 <h3 class="text-center mb-5">Ultimi aggiornamenti</h3>
+{{ $linguaSito := .Site.Language }}
 <div class="row">
 {{ .Scratch.Add "latest" slice }}
 	{{ range .Site.AllPages }}
-		{{ if .Params.promote_to_home}}
+		{{ if and (.Params.promote_to_home) (eq .Language $linguaSito) }}
 			{{ range .Pages }}
 				{{ if .Pages }}
 					{{ range .Pages }}

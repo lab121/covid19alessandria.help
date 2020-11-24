@@ -4,6 +4,7 @@ type: group
 layout: foto 
 logo: "phone"
 weight: 7
+topic: "true"
 picture: "bisogni_supporto_quarantena.jpg"
 ---
 
