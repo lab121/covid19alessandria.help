@@ -1,5 +1,5 @@
 ---
-title: "(spagnolo) Cibo"
+title: "Comida"
 type: "group"
 layout: "subsection"
 picture: "bisogni_mangiare.jpg"

@@ -1,11 +1,4 @@
-<!--<h3 class="text-center mb-5">In primo piano</h3>
-<div class="row">
-    {{- range where site.RegularPages "Section" "topic" | last 3  }}
-	   {{ partial "summary_topic_home.html" . }}
-    {{ end }}
-</div>-->
-
-<h3 class="text-center mb-5">In primo piano</h3>
+<h3 class="text-center mb-5">{{ .Site.Params.primopiano }}</h3>
 {{ $linguaSito := .Site.Language }}
 <div class="row">
 {{ .Scratch.Add "topic" slice }}
@@ -15,7 +8,7 @@
 		{{ end }}
 	{{ end }}
 
-	{{ range (sort (.Scratch.Get "topic") ".Params.date" "desc") | first 3 }}
+	{{ range (sort (.Scratch.Get "topic") ".Params.date" "desc") | first .Site.Params.numbertopic }}
 	{{ partial "summary_topic_home.html" . }}
 {{ end }}
 </div>

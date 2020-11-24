@@ -5,6 +5,25 @@ title = "Covid19Alessandria.help"
 theme = "bootstrap"
 enableRobotsTXT = true
 
+[params]
+    author = "lab121.org"
+    description = "Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19"
+    footer = "Made with Love for Alessandria"
+    images = ["images/banner/covid19alessandriahelp_banner_quadrato.png"]
+    prodURL = "https://covid19alessandria.help"
+	follow = "Seguici su"
+	search = "Cerca"
+	promoters = "Promotori"
+	primopiano = "In primo piano"
+	lastupdate = "Ultimi aggiornamenti"
+	readmore = "Leggi di più"
+	moreinterest = "Potrebbe interessarti anche"
+	tel = "Tel"
+	address = "Indirizzo"
+	truncatewords = 120
+	numbertopic = 3
+	numberlastupdates = 9
+
 [languages]
 	[languages.it]
 		languageName = "Italian"
@@ -12,11 +31,20 @@ enableRobotsTXT = true
 		weight = 10
 	[languages.en]
 		languageName = "English"
-		title = "Covid19Alessandria.help English"
+		title = "Covid19Alessandria.help"
 		weight = 20
 		[languages.en.params]
 			description = "(inglese) Descrizione"
-			follow = "(inglese) Seguici su"
+			follow = "Follow us"
+			search = "Search"
+			promoters = "Promoters"
+			primopiano = "Important news"
+			lastupdate = "Last updates"
+			readmore = "Read more"
+			moreinterest = "You could also be interested in"
+			tel = "Phone"
+			address = "Address"
+			prodURL = "https://covid19alessandria.help/en"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
 				identifier = "bisogni"
@@ -38,13 +66,13 @@ enableRobotsTXT = true
 				title = "Health"
 				url  = "/en/bisogni/salute"
 				weight = 2
-			[[languages.en.menu.main]]
-				identifer = "sostegnoeconomico"
-				parent = "bisogni"
-				name = "Economic support"
-				title = "Economic support"
-				url  = "/en/bisogni/sostegno-economico"
-				weight = 3
+			#[[languages.en.menu.main]]
+			#	identifer = "sostegnoeconomico"
+			#	parent = "bisogni"
+			#	name = "Economic support"
+			#	title = "Economic support"
+			#	url  = "/en/bisogni/sostegno-economico"
+			#	weight = 3
 			[[languages.en.menu.main]]
 				identifer = "informazioniutili"
 				parent = "bisogni"
@@ -52,13 +80,13 @@ enableRobotsTXT = true
 				title = "Useful information"
 				url  = "/en/bisogni/informazioni"
 				weight = 4
-			[[languages.en.menu.main]]
-				identifer = "scuola"
-				parent = "bisogni"
-				name = "School"
-				title = "School"
-				url  = "/en/bisogni/scuola"
-				weight = 5
+			#[[languages.en.menu.main]]
+			#	identifer = "scuola"
+			#	parent = "bisogni"
+			#	name = "School"
+			#	title = "School"
+			#	url  = "/en/bisogni/scuola"
+			#	weight = 5
 			[[languages.en.menu.main]]
 				identifer = "quarantena"
 				parent = "bisogni"
@@ -67,26 +95,26 @@ enableRobotsTXT = true
 				url  = "/en/bisogni/quarantena"
 				weight = 6
 				
-			[[languages.en.menu.main]]
-				identifier = "iniziative"
-				name = "See all activities"
-				url  = "/iniziative"
-				weight = 2
-				title = "Activity"
-			[[languages.en.menu.main]]
-				identifer = "sportelli"
-				parent = "iniziative"
-				name = "(inglese) Sportelli"
-				title = "(inglese) Sportelli"
-				url  = "/en/iniziative/sportelli"
-				weight = 1
-			[[languages.en.menu.main]]
-				identifer = "assistenza-persona"
-				parent = "iniziative"
-				name = "Personal care"
-				title = "Personal care"
-				url  = "/en/iniziative/assistenza-alla-persona"
-				weight = 2
+			#[[languages.en.menu.main]]
+			#	identifier = "iniziative"
+			#	name = "See all activities"
+			#	url  = "/iniziative"
+			#	weight = 2
+			#	title = "Activity"
+			#[[languages.en.menu.main]]
+			#	identifer = "sportelli"
+			#	parent = "iniziative"
+			#	name = "(inglese) Sportelli"
+			#	title = "(inglese) Sportelli"
+			#	url  = "/en/iniziative/sportelli"
+			#	weight = 1
+			#[[languages.en.menu.main]]
+			#	identifer = "assistenza-persona"
+			#	parent = "iniziative"
+			#	name = "Personal care"
+			#	title = "Personal care"
+			#	url  = "/en/iniziative/assistenza-alla-persona"
+			#	weight = 2
 				
 			[[languages.en.menu.main]]
 				identifier = "chi-siamo"
@@ -95,117 +123,118 @@ enableRobotsTXT = true
 				weight = 4
 				title = "Who we are"
 
-			[[languages.en.menu.main]]
-				identifier = "partecipa"
-				name = "Join us"
-				url  = "/en/partecipa"
-				weight = 5
-				title = "Join us"
+			#[[languages.en.menu.main]]
+			#	identifier = "partecipa"
+			#	name = "Join us"
+			#	url  = "/en/partecipa"
+			#	weight = 5
+			#	title = "Join us"
 	[languages.es]
 		languageName = "Espanol"
-		title = "Covid19Alessandria.help Espanol"
+		title = "Covid19Alessandria.help"
 		weight = 30
 		[languages.es.params]
 			description = "(spagnolo) Descrizione"
-			follow = "(spagnolo) Seguici su"
+			follow = "Síguenos"
+			search = "Busca"
+			promoters = "Promotores"
+			primopiano = "En primer plano"
+			lastupdate = "últimas actualizaciones"
+			readmore = "Lee mas"
+			moreinterest = "También te puede interesar"
+			tel = "Tel"
+			address = "Dirección"
+			prodURL = "https://covid19alessandria.help/es"
 		[languages.es.menu]
 			[[languages.es.menu.main]]
 				identifier = "bisogni"
-				name = "(spagnolo) Vedi tutti i bisogni"
+				name = "Mira todas las necesidades"
 				url  = "bisogni"
 				weight = 1
-				title = "(spagnolo) Bisogni"
+				title = "Necesidades"
 			[[languages.es.menu.main]]
 				identifer = "cibo"
 				parent = "bisogni"
-				name = "(spagnolo) Cibo"
-				title = "(spagnolo) Cibo"
+				name = "Comida"
+				title = "Comida"
 				url  = "/es/bisogni/cibo"
 				weight = 1
-			[[languages.es.menu.main]]
-				identifer = "salute"
-				parent = "bisogni"
-				name = "(spagnolo) Salute"
-				title = "(spagnolo) Salute"
-				url  = "/es/bisogni/salute"
-				weight = 2
-			[[languages.es.menu.main]]
-				identifer = "sostegnoeconomico"
-				parent = "bisogni"
-				name = "(spagnolo) Sostegno economico"
-				title = "(spagnolo) Sostegno economico"
-				url  = "/es/bisogni/sostegno-economico"
-				weight = 3
-			[[languages.es.menu.main]]
-				identifer = "informazioniutili"
-				parent = "bisogni"
-				name = "(spagnolo) Informazioni utili"
-				title = "(spagnolo) Informazioni utili"
-				url  = "/es/bisogni/informazioni"
-				weight = 4
-			[[languages.es.menu.main]]
-				identifer = "scuola"
-				parent = "bisogni"
-				name = "(spagnolo) Scuola"
-				title = "(spagnolo) Scuola"
-				url  = "/es/bisogni/scuola"
-				weight = 5
-			[[languages.es.menu.main]]
-				identifer = "quarantena"
-				parent = "bisogni"
-				name = "(spagnolo) Supporto alla quarantena"
-				title = "(spagnolo) Supporto alla quarantena"
-				url  = "/es/bisogni/quarantena"
-				weight = 6
+			#[[languages.es.menu.main]]
+			#	identifer = "salute"
+			#	parent = "bisogni"
+			#	name = "(spagnolo) Salute"
+			#   title = "(spagnolo) Salute"
+			#	url  = "/es/bisogni/salute"
+			#	weight = 2
+			#[[languages.es.menu.main]]
+			#	identifer = "sostegnoeconomico"
+			#	parent = "bisogni"
+			#	name = "(spagnolo) Sostegno economico"
+			#	title = "(spagnolo) Sostegno economico"
+			#	url  = "/es/bisogni/sostegno-economico"
+			#	weight = 3
+			#[[languages.es.menu.main]]
+			#	identifer = "informazioniutili"
+			#	parent = "bisogni"
+			#	name = "(spagnolo) Informazioni utili"
+			#	title = "(spagnolo) Informazioni utili"
+			#	url  = "/es/bisogni/informazioni"
+			#	weight = 4
+			#[[languages.es.menu.main]]
+			#	identifer = "scuola"
+			#	parent = "bisogni"
+			#	name = "(spagnolo) Scuola"
+			#	title = "(spagnolo) Scuola"
+			#	url  = "/es/bisogni/scuola"
+			#	weight = 5
+			#[[languages.es.menu.main]]
+			#	identifer = "quarantena"
+			#	parent = "bisogni"
+			#	name = "(spagnolo) Supporto alla quarantena"
+			#	title = "(spagnolo) Supporto alla quarantena"
+			#	url  = "/es/bisogni/quarantena"
+			#	weight = 6
 				
-			[[languages.es.menu.main]]
-				identifier = "iniziative"
-				name = "(spagnolo) Vedi tutte le iniziative"
-				url  = "/iniziative"
-				weight = 2
-				title = "(spagnolo) Iniziative"
-			[[languages.es.menu.main]]
-				identifer = "sportelli"
-				parent = "iniziative"
-				name = "(spagnolo) Sportelli"
-				title = "(spagnolo) Sportelli"
-				url  = "/es/iniziative/sportelli"
-				weight = 1
-			[[languages.es.menu.main]]
-				identifer = "assistenza-persona"
-				parent = "iniziative"
-				name = "(spagnolo) Assistenza alla persona"
-				title = "(spagnolo) Assistenza alla persona"
-				url  = "/es/iniziative/assistenza-alla-persona"
-				weight = 2
+			#[[languages.es.menu.main]]
+			#	identifier = "iniziative"
+			#	name = "(spagnolo) Vedi tutte le iniziative"
+			#	url  = "/iniziative"
+			#	weight = 2
+			#	title = "(spagnolo) Iniziative"
+			#[[languages.es.menu.main]]
+			#	identifer = "sportelli"
+			#	parent = "iniziative"
+			#	name = "(spagnolo) Sportelli"
+			#	title = "(spagnolo) Sportelli"
+			#	url  = "/es/iniziative/sportelli"
+			#	weight = 1
+			#[[languages.es.menu.main]]
+			#	identifer = "assistenza-persona"
+			#	parent = "iniziative"
+			#	name = "(spagnolo) Assistenza alla persona"
+			#	title = "(spagnolo) Assistenza alla persona"
+			#	url  = "/es/iniziative/assistenza-alla-persona"
+			#	weight = 2
 				
-			[[languages.es.menu.main]]
-				identifier = "chi-siamo"
-				name = "(spagnolo) Chi siamo"
-				url  = "/es/chi-siamo"
-				weight = 4
-				title = "(spagnolo) Chi siamo"
+			#[[languages.es.menu.main]]
+			#	identifier = "chi-siamo"
+			#	name = "(spagnolo) Chi siamo"
+			#	url  = "/es/chi-siamo"
+			#	weight = 4
+			#	title = "(spagnolo) Chi siamo"
 
-			[[languages.es.menu.main]]
-				identifier = "partecipa"
-				name = "(spagnolo)Partecipa"
-				url  = "/es/partecipa"
-				weight = 5
-				title = "(spagnolo) Partecipa"
+			#[[languages.es.menu.main]]
+			#	identifier = "partecipa"
+			#	name = "(spagnolo)Partecipa"
+			#	url  = "/es/partecipa"
+			#	weight = 5
+			#	title = "(spagnolo) Partecipa"
 
 [frontmatter]
     lastmod = [":fileModTime", ":default"]
 
 [taxonomies]
     categoria = "categoria"
-
-[params]
-    author = "lab121.org"
-    description = "Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19"
-    footer = "Made with Love for Alessandria"
-    images = ["images/banner/covid19alessandriahelp_banner_quadrato.png"]
-    prodURL = "https://covid19alessandria.help"
-	follow = "Seguici su"
 
 [outputFormats.Algolia]
     baseName = "algolia"
@@ -223,6 +252,7 @@ enableRobotsTXT = true
 [sitemap]
     changefreq = "monthly"
 	
+# definizione del menu in italiano
 [menu]
 [[menu.main]]
     identifier = "bisogni"

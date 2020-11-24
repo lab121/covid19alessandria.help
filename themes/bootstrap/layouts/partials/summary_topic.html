@@ -14,15 +14,8 @@
                 <h3 class="card-title"><a href="{{ .Params.link }}">{{ .Title }}</a></h3>
 
                 {{ if .Content }}
-                    <p class="card-text">{{ .Content | truncate 120 }}</p>
+                    <p class="card-text">{{ .Content | truncate .Site.Params.truncatewords }}</p>
                 {{ end }}
-
-                <!--<a class="read-more" href="{{ .Params.link }}">
-                    <span class="text">Leggi di più</span>
-                    <svg class="icon">
-                        <use xlink:href="/svg/sprite.svg#it-arrow-right"></use>
-                    </svg>
-                </a>-->
             </div>
         </div>
     </div>

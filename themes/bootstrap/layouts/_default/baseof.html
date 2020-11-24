@@ -38,7 +38,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="it-header-slim-wrapper-content">
-                        <a class="d-lg-block navbar-brand" href="#">Made with Love for Alessandria</a>
+                        <a class="d-lg-block navbar-brand" href="#">{{ .Site.Params.footer }}</a>
                     </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@
                         <div class="it-header-center-content-wrapper">
 
                             <div class="it-brand-wrapper">
-                                <a href="/" class="">
+                                <a href="{{ .Site.Params.prodURL }}" class="">
                                     <img src="/images/logo.png" alt="{{ .Site.Title }}" class="icon">
                                     <div class="it-brand-text">
                                         <h2 class="no_toc">{{ .Site.Title }}</h2>
@@ -65,7 +65,7 @@
                             </div>
                             <div class="it-right-zone">
                                 <div class="it-socials d-none d-md-flex">
-                                    <span>Seguici su</span>
+                                    <span>{{ .Site.Params.follow }}</span>
                                     <ul>
                                         <li>
                                             <a aria-label="Facebook" href="https://www.facebook.com/Covid19AlessandriaHelp-108070144209559" target="_blank">
@@ -98,8 +98,8 @@
                                     </ul>
                                 </div>
                                 <div class="it-search-wrapper">
-                                    <span class="d-none d-md-block">Cerca</span>
-                                    <a aria-label="Cerca" class="search-link rounded-icon" href="/cerca">
+                                    <span class="d-none d-md-block">{{ .Site.Params.search }}</span>
+                                    <a aria-label="Cerca" class="search-link rounded-icon" href="{{ .Site.Params.prodURL }}/cerca">
                                         <svg class="icon">
                                             <use xlink:href="/svg/sprite.svg#it-search   "></use>
                                         </svg>

@@ -3,21 +3,23 @@
     <div class="card-wrapper card-space">
         <div class="card card-bg">
             <div class="card-body">
-				{{ if .Params.date }}
+				{{ if and (.Params.date) (ne .Site.Language.Lang "en") }}
 					{{ $anno := substr .Params.date 0 4 }}
 					{{ $mese := substr .Params.date 5 2 }}
 					{{ $giorno := substr .Params.date 8 2 }}
-					{{ $dataItaliana := (print $giorno "-" $mese "-" $anno) }}
-                    <h6 class="card-title">{{ $dataItaliana }}</h6>
+					{{ $dataOttenuta := (print $giorno "-" $mese "-" $anno) }}
+                    <h6 class="card-title">{{ $dataOttenuta }}</h6>
+				{{ else }}
+					<h6 class="card-title">{{ substr .Params.date 0 10 }}</h6>
                 {{ end }}
-                <h5 class="card-title">{{ .Title }} {{ .Language }} {{ .Site.Language }}</h5>		
+                <h5 class="card-title">{{ .Title }}</h5>		
                 {{ if .Content }}
-                    <p class="card-text">{{ .Content | truncate 120 }}</p>
+                    <p class="card-text">{{ .Content | truncate .Site.Params.truncatewords }}</p>
                 {{ end }}
 				
 
                 <a class="read-more" href="{{ .Permalink }}">
-                    <span class="text">Leggi di più</span>
+                    <span class="text">{{ .Site.Params.readmore }}</span>
                     <svg class="icon">
                         <use xlink:href="/svg/sprite.svg#it-arrow-right"></use>
                     </svg>

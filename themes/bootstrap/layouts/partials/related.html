@@ -1,7 +1,7 @@
 {{ if .Params.relate }}
 <div class="row mb-5">
     <div class="col-12">
-        <h3>Potrebbe interessarti anche:</h3>
+        <h3>{{ .Site.Params.moreinterest }}:</h3>
 
         <ul>
             {{ range .Params.relate }}

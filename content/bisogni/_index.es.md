@@ -1,5 +1,5 @@
 ---
-title: "(spagnolo) Bisogni"
+title: "Necesitades"
 weight: 1
 promote_to_home: true
 type: group
