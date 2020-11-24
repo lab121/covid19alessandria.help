@@ -3,6 +3,7 @@ title: "Telefono Amico-Sportello Connessioni"
 link: "https://www.facebook.com/sportelloconnessioni/"
 mail: ""
 date: 2020-04-16
+draft: true
 ---
 
 Come potete contattarci? Chiamate e video-chiamate (Skype, WhatsApp).  

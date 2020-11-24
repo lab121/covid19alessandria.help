@@ -4,5 +4,5 @@ link: "http://www.confcommercio.al.it/it/focus/nuovo-servizio-per-i-soci-ascolto
 phone: "338.875.3935"
 date: 2020-04-01
 mail: "info@benedettalombardi.it"
-draft: false
+draft: true
 ---

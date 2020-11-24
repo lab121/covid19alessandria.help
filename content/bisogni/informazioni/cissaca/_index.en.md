@@ -1,5 +1,5 @@
 ---
-title: "Cissaca Servizi socio-assistenziali"
+title: "Cissaca"
 logo: "hands-helping"
 link: "www.cissaca.it"
 type: "group"
@@ -8,4 +8,4 @@ weight: 2
 picture: "informazioni_utili_cissaca.jpg"
 ---
 
-(inglese) Informazioni da parte del C.I.S.S.A.C.A. Consorzio Servizi Sociali Alessandria, partner istituzionale della nostra piattaforma.
+Information from C.I.S.S.A.C.A., istitutional partner of our site.

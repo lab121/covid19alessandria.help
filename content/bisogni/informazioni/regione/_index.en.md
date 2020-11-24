@@ -7,4 +7,4 @@ weight: 4
 picture: "informazioni_utili_regione.jpg"
 ---
 
-(inglese) Informazioni da parte della Regione Piemonte
+Information from Regione Piemonte
