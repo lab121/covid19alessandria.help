@@ -63,6 +63,21 @@ figcaption h4 {
   font-size: 20px;
 }
 
+.medicalsupport {
+  background-color: #EC5923;
+  color: #ffffff;
+}
+
+.medicalsupport a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.medicalsupport a:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
 @keyframes bs-notify-fadeOut {
   0% {
     opacity: 0.9;
