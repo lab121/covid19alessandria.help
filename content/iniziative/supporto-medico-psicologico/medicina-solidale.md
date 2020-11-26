@@ -31,3 +31,5 @@ Modalità tecniche del servizio:
 Non sai come inviare al Servizio referti e documenti via e-mail o WhatsApp? Per ricevere aiuto, contatta i numeri 0131.533.848 e 335.474.786  
 
 L’iniziativa è nata a Milano da un’idea del Dott. Alessandro Lanzani specialista in Ortopedia e Medicina dello Sport.
+
+Scarica il volantino in [pdf](/documents/MedicinaSolidale.pdf)
