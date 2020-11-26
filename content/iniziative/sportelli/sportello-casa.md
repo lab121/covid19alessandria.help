@@ -8,4 +8,4 @@ weight: 3
 ---
 
 Presso Casa di Quartiere Alessandria. Tutti i giorni dalle 14.30 alle 18.30.   
-Intimazione di sfratto, morosità, problemi con l’affitto, difficoltà di conduzione, necessità di mediazione, inquilini o piccoli proprietari in difficoltà.
+Lo sportello casa è adibito a informare i cittadini sui requisiti di accesso ai servizi dell'abitare presenti sul territorio del Comune di Alessandria. Fornisce inoltre supporto nella mediazione dei conflitti in tema abitativo (intimazione di sfratto, morosità, problemi con l’affitto, difficoltà di conduzione, necessità di mediazione, inquilini o piccoli proprietari in difficoltà).
