@@ -8,4 +8,3 @@ draft: false
 picture: "supporto-medico-psicologico.jpg"
 ---
 
-testo sezione
