@@ -100,7 +100,7 @@ enableRobotsTXT = true
 			[[languages.en.menu.main]]
 				identifier = "iniziative"
 				name = "See all initiatives"
-				url  = "iniziative"
+				url  = "/en/iniziative"
 				weight = 2
 				title = "Initiatives"
 			[[languages.en.menu.main]]
@@ -140,7 +140,7 @@ enableRobotsTXT = true
 			[[languages.es.menu.main]]
 				identifier = "bisogni"
 				name = "Mira todas las necesidades"
-				url  = "bisogni"
+				url  = "/es/bisogni"
 				weight = 1
 				title = "Necesidades"
 			[[languages.es.menu.main]]
@@ -172,7 +172,7 @@ enableRobotsTXT = true
 			[[languages.fr.menu.main]]
 				identifier = "bisogni"
 				name = "Voir tous les besoins"
-				url  = "bisogni"
+				url  = "/fr/bisogni"
 				weight = 1
 				title = "Besoins"
 			[[languages.fr.menu.main]]
