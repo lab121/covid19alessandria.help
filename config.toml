@@ -96,6 +96,21 @@ enableRobotsTXT = true
 				title = "Quarantine support"
 				url  = "/en/bisogni/quarantena"
 				weight = 6
+				
+			[[languages.en.menu.main]]
+				identifier = "iniziative"
+				name = "See all initiatives"
+				url  = "iniziative"
+				weight = 2
+				title = "Initiatives"
+			[[languages.en.menu.main]]
+				identifer = "medico-psicologico"
+				parent = "iniziative"
+				name = "Medical and psychological support"
+				title = "Medical and psychological support"
+				url  = "/en/iniziative/supporto-medico-psicologico"
+				weight = 3
+					
 			
 			[[languages.en.menu.main]]
 				identifier = "chi-siamo"
