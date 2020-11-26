@@ -413,7 +413,7 @@ enableRobotsTXT = true
     identifer = "sportelli"
     parent = "iniziative"
     name = "Sportelli"
-	title = "Sportelli"
+	title = "Sportelli di ascolto e informativi"
     url  = "/iniziative/sportelli"
     weight = 1
 [[menu.main]]
@@ -423,6 +423,13 @@ enableRobotsTXT = true
 	title = "Assistenza alla persona"
     url  = "/iniziative/assistenza-alla-persona"
     weight = 2
+[[menu.main]]
+    identifer = "medico-psicologico"
+    parent = "iniziative"
+    name = "Supporto medico e psicologico"
+	title = "Supporto medico e psicologico"
+    url  = "/iniziative/supporto-medico-psicologico"
+    weight = 3
 	
 [[menu.main]]
     identifier = "archivio"
