@@ -4,6 +4,7 @@ link: ""
 mail: ""
 date: 2020-11-10
 weight: 1
+draft: true
 ---
 
 Sono attivi da giovedì 29 ottobre, i numeri telefonici ASL AL a cui prenotare le vaccinazioni.  

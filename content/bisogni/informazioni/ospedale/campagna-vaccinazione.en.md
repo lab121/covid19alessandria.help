@@ -4,6 +4,7 @@ link: ""
 mail: ""
 date: 2020-11-10
 weight: 1
+draft: true
 ---
 
 The ASL AL phone numbers through which booking the vaccination are active from Thursday October 29th.  

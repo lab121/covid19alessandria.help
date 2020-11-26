@@ -66,13 +66,13 @@ enableRobotsTXT = true
 				title = "Health"
 				url  = "/en/bisogni/salute"
 				weight = 2
-			#[[languages.en.menu.main]]
-			#	identifer = "sostegnoeconomico"
-			#	parent = "bisogni"
-			#	name = "Economic support"
-			#	title = "Economic support"
-			#	url  = "/en/bisogni/sostegno-economico"
-			#	weight = 3
+			[[languages.en.menu.main]]
+				identifer = "sostegnoeconomico"
+				parent = "bisogni"
+				name = "Economic support"
+				title = "Economic support"
+				url  = "/en/bisogni/sostegno-economico"
+				weight = 3
 			[[languages.en.menu.main]]
 				identifer = "informazioniutili"
 				parent = "bisogni"
@@ -80,13 +80,13 @@ enableRobotsTXT = true
 				title = "Useful information"
 				url  = "/en/bisogni/informazioni"
 				weight = 4
-			#[[languages.en.menu.main]]
-			#	identifer = "scuola"
-			#	parent = "bisogni"
-			#	name = "School"
-			#	title = "School"
-			#	url  = "/en/bisogni/scuola"
-			#	weight = 5
+			[[languages.en.menu.main]]
+				identifer = "scuola"
+				parent = "bisogni"
+				name = "School"
+				title = "School"
+				url  = "/en/bisogni/scuola"
+				weight = 5
 			[[languages.en.menu.main]]
 				identifer = "quarantena"
 				parent = "bisogni"
@@ -224,6 +224,106 @@ enableRobotsTXT = true
 			#	title = "(spagnolo) Chi siamo"
 
 			#[[languages.es.menu.main]]
+			#	identifier = "partecipa"
+			#	name = "(spagnolo)Partecipa"
+			#	url  = "/es/partecipa"
+			#	weight = 5
+			#	title = "(spagnolo) Partecipa"
+	[languages.fr]
+		languageName = "Français"
+		title = "Covid19Alessandria.help"
+		weight = 40
+		[languages.fr.params]
+			description = "(francese) Descrizione"
+			follow = "Suivez nous"
+			search = "Rechercher"
+			promoters = "Promoteurs"
+			primopiano = "Au premier plan"
+			lastupdate = "Dernières mises à jour"
+			readmore = "Lire la suite"
+			moreinterest = "Cela pourrait aussi vous intéresser"
+			tel = "Tél"
+			address = "Adresse"
+			prodURL = "https://covid19alessandria.help/fr"
+		[languages.fr.menu]
+			[[languages.fr.menu.main]]
+				identifier = "bisogni"
+				name = "Voir tous les besoins"
+				url  = "bisogni"
+				weight = 1
+				title = "Besoins"
+			[[languages.fr.menu.main]]
+				identifer = "cibo"
+				parent = "bisogni"
+				name = "Nourriture"
+				title = "Nourriture"
+				url  = "/fr/bisogni/cibo"
+				weight = 1
+			#[[languages.fr.menu.main]]
+			#	identifer = "salute"
+			#	parent = "bisogni"
+			#	name = "(spagnolo) Salute"
+			#   title = "(spagnolo) Salute"
+			#	url  = "/es/bisogni/salute"
+			#	weight = 2
+			#[[languages.fr.menu.main]]
+			#	identifer = "sostegnoeconomico"
+			#	parent = "bisogni"
+			#	name = "(spagnolo) Sostegno economico"
+			#	title = "(spagnolo) Sostegno economico"
+			#	url  = "/es/bisogni/sostegno-economico"
+			#	weight = 3
+			#[[languages.fr.menu.main]]
+			#	identifer = "informazioniutili"
+			#	parent = "bisogni"
+			#	name = "(spagnolo) Informazioni utili"
+			#	title = "(spagnolo) Informazioni utili"
+			#	url  = "/es/bisogni/informazioni"
+			#	weight = 4
+			#[[languages.fr.menu.main]]
+			#	identifer = "scuola"
+			#	parent = "bisogni"
+			#	name = "(spagnolo) Scuola"
+			#	title = "(spagnolo) Scuola"
+			#	url  = "/es/bisogni/scuola"
+			#	weight = 5
+			#[[languages.fr.menu.main]]
+			#	identifer = "quarantena"
+			#	parent = "bisogni"
+			#	name = "(spagnolo) Supporto alla quarantena"
+			#	title = "(spagnolo) Supporto alla quarantena"
+			#	url  = "/es/bisogni/quarantena"
+			#	weight = 6
+				
+			#[[languages.fr.menu.main]]
+			#	identifier = "iniziative"
+			#	name = "(spagnolo) Vedi tutte le iniziative"
+			#	url  = "/iniziative"
+			#	weight = 2
+			#	title = "(spagnolo) Iniziative"
+			#[[languages.fr.menu.main]]
+			#	identifer = "sportelli"
+			#	parent = "iniziative"
+			#	name = "(spagnolo) Sportelli"
+			#	title = "(spagnolo) Sportelli"
+			#	url  = "/es/iniziative/sportelli"
+			#	weight = 1
+			#[[languages.fr.menu.main]]
+			#	identifer = "assistenza-persona"
+			#	parent = "iniziative"
+			#	name = "(spagnolo) Assistenza alla persona"
+			#	title = "(spagnolo) Assistenza alla persona"
+			#	url  = "/es/iniziative/assistenza-alla-persona"
+			#	weight = 2
+				
+			#[[languages.fr.menu.main]]
+			#	identifier = "chi-siamo"
+			#	name = "(spagnolo) Chi siamo"
+			#	url  = "/es/chi-siamo"
+			#	weight = 4
+			#	title = "(spagnolo) Chi siamo"
+
+			#[[languages.fr.menu.main]]
 			#	identifier = "partecipa"
 			#	name = "(spagnolo)Partecipa"
 			#	url  = "/es/partecipa"
