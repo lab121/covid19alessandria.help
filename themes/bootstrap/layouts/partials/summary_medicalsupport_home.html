@@ -1,0 +1,23 @@
+<div class="col-md-4">
+
+    <div class="card-wrapper card-space text-center">
+        <div class="card card-bg">
+            <div class="card-body">
+                {{ if .Params.logo }}
+                    <div class="categoryicon-top" style="display: block">
+						<a href="{{ .Permalink }}">
+							<span class="fas fa-{{ .Params.logo }} font-60" aria-hidden="true"></span>
+						</a>
+                    </div>
+                {{ end }}
+
+                <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+
+                {{ if .Content }}
+                    <p class="card-text">{{ .Content | truncate .Site.Params.truncatewords }}</p>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+
+</div>

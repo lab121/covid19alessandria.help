@@ -1,10 +1,11 @@
 ---
-title: "Psychological support - Coronavirus emergency: the ASL AL help desk is active again"
+title: "Psychological support - Coronavirus emergency ASL AL"
 link: "http://www.aslal.it/supporto-psicologico-attivo-il-numero-di-aiuto-asl-al"
 mail: ""
 date: 2020-11-11
 phone: "366.430.9876"
 weight: 1
+medicalsupport: true
 ---
 
 From Wednesday November 11th the help desk of psychological support Coronavirus emergency 3664309876 is supporting again.  

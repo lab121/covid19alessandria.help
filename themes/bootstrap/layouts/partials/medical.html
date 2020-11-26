@@ -1,0 +1,14 @@
+<h3 class="text-center mb-5">{{ .Site.Params.medicalsupport }}</h3>
+{{ $linguaSito := .Site.Language }}
+<div class="row">
+{{ .Scratch.Add "medicalsupport" slice }}
+	{{ range .Site.AllPages }}
+		{{ if and (.Params.medicalsupport) (eq .Language $linguaSito) }}
+			{{ $.Scratch.Add "medicalsupport" . }}
+		{{ end }}
+	{{ end }}
+
+	{{ range (sort (.Scratch.Get "medicalsupport") ".Params.date" "desc") | first .Site.Params.numbertopic }}
+	{{ partial "summary_medicalsupport_home.html" . }}
+{{ end }}
+</div>
