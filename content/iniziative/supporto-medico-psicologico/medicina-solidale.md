@@ -8,7 +8,7 @@ weight: 1
 medicalsupport: true
 ---
 
-Servizio di consulenza medica on-line aperto a chi necessita di consulti medici e si trova in condizioni di indigenza economica, non può pagare le strutture private, o si trova in difficoltà - a causa delle attuali restrizioni - ad accedere al Servizio Sanitario Nazionale.  
+Servizio di consulenza medica on-line aperto a chi necessita di consulti medici e si trova in condizioni di difficoltà, indigenza economica, non può pagare le strutture private, o non riesce - a causa delle attuali restrizioni - ad accedere al Servizio Sanitario Nazionale.
 Ricevi consulti medici nelle aree di (elenco in costante aggiornamento):  
 + Medicina generale
 + Ortopedia
