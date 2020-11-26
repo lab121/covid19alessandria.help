@@ -78,6 +78,14 @@ figcaption h4 {
   text-decoration: none;
 }
 
+.topic a {
+  text-decoration: none;
+}
+
+.topic a:hover {
+  text-decoration: none;
+}
+
 @keyframes bs-notify-fadeOut {
   0% {
     opacity: 0.9;

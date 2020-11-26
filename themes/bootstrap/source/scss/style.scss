@@ -82,7 +82,13 @@ figcaption h4 {
 	color: #ffffff;
 	text-decoration: none;
 }
+.topic a {
+	text-decoration: none;
+}
 
+.topic a:hover {
+	text-decoration: none;
+}
 // PRIMARY COLORS DEFINITION //
 $primary-h: 16 !default;
 $primary-s: 85 !default;
