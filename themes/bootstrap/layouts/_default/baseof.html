@@ -159,6 +159,9 @@
 																		{{ if and (le (len .Children) 5) (gt (len .Children) 3)  }}
 																			<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
 																		{{ end }}
+																		{{ if eq (len .Children) 3 }}
+																			<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
+																		{{ end }}
 																	</ul>
 																</div>
 															</div>
