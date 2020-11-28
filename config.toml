@@ -250,6 +250,20 @@ enableRobotsTXT = true
 				title = "Comida"
 				url  = "/es/bisogni/cibo"
 				weight = 1
+			[[languages.es.menu.main]]
+                identifer = "informazioniutili"
+                parent = "bisogni"
+                name = "Información útil"
+            	title = "Información útil"
+                url  = "/es/bisogni/informazioni"
+                weight = 4
+			[[languages.es.menu.main]]
+                identifer = "scuola"
+                parent = "bisogni"
+                name = "Escuela"
+            	title = "Escuela"
+                url  = "/es/bisogni/scuola"
+                weight = 5
 
 	[languages.fr]
 		languageName = "Français"
