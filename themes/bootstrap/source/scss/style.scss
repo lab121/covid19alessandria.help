@@ -1,3 +1,10 @@
+// PRIMARY COLORS DEFINITION //
+$primary-h: 16 !default;
+$primary-s: 85 !default;
+$primary-b: 93 !default;
+
+@import "../../node_modules/bootstrap-italia/src/scss/bootstrap-italia";
+
 // element
 
 html {
@@ -69,20 +76,24 @@ figcaption h4 {
 }
 
 .medicalsupport {
-	background-color: #EC5923;
-	color: #ffffff;
-}
+  > .card-body {
+    background-color: #EC5923;
+    color: #ffffff;
+  }
 
-.medicalsupport a {
-	color: #ffffff;
-	text-decoration: none;
-}
+  &:after {
+    content: unset;
+  }
 
-.medicalsupport a:hover {
-	color: #ffffff;
-	text-decoration: none;
+  a {
+    color: #ffffff;
+    text-decoration: none;
+    &:hover {
+      color: #ffffff;
+      text-decoration: none;
+    }
+  }
 }
-
 
 .topic a {
 	text-decoration: none;
@@ -91,9 +102,3 @@ figcaption h4 {
 .topic a:hover {
 	text-decoration: none;
 }
-// PRIMARY COLORS DEFINITION //
-$primary-h: 16 !default;
-$primary-s: 85 !default;
-$primary-b: 93 !default;
-
-@import "../../node_modules/bootstrap-italia/src/scss/bootstrap-italia";

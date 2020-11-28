@@ -30,6 +30,106 @@ enableRobotsTXT = true
 		languageName = "Italian"
 		title = "Covid19Alessandria.help"
 		weight = 10
+		[languages.it.menu]
+		    [[languages.it.menu.main]]
+                identifier = "bisogni"
+                name = "Vedi tutti i bisogni"
+                url  = "/bisogni"
+                weight = 1
+            	title = "Bisogni"
+            [[languages.it.menu.main]]
+                identifer = "cibo"
+                parent = "bisogni"
+                name = "Cibo"
+            	title = "Cibo"
+                url  = "/bisogni/cibo"
+                weight = 1
+            [[languages.it.menu.main]]
+                identifer = "salute"
+                parent = "bisogni"
+                name = "Salute"
+            	title = "Salute"
+                url  = "/bisogni/salute"
+                weight = 2
+            [[languages.it.menu.main]]
+                identifer = "sostegnoeconomico"
+                parent = "bisogni"
+                name = "Sostegno economico"
+            	title = "Sostegno economico"
+                url  = "/bisogni/sostegno-economico"
+                weight = 3
+            [[languages.it.menu.main]]
+                identifer = "informazioniutili"
+                parent = "bisogni"
+                name = "Informazioni utili"
+            	title = "Informazioni utili"
+                url  = "/bisogni/informazioni"
+                weight = 4
+            [[languages.it.menu.main]]
+                identifer = "scuola"
+                parent = "bisogni"
+                name = "Scuola"
+            	title = "Scuola"
+                url  = "/bisogni/scuola"
+                weight = 5
+            [[languages.it.menu.main]]
+                identifer = "quarantena"
+                parent = "bisogni"
+                name = "Supporto alla quarantena"
+            	title = "Supporto alla quarantena"
+                url  = "/bisogni/quarantena"
+                weight = 6
+            [[languages.it.menu.main]]
+                identifier = "iniziative"
+                name = "Vedi tutte le iniziative"
+                url  = "/iniziative"
+                weight = 2
+            	title = "Iniziative"
+            [[languages.it.menu.main]]
+                identifer = "sportelli"
+                parent = "iniziative"
+                name = "Sportelli"
+            	title = "Sportelli di ascolto e informativi"
+                url  = "/iniziative/sportelli"
+                weight = 1
+            [[languages.it.menu.main]]
+                identifer = "assistenza-persona"
+                parent = "iniziative"
+                name = "Assistenza alla persona"
+            	title = "Assistenza alla persona"
+                url  = "/iniziative/assistenza-alla-persona"
+                weight = 2
+            [[languages.it.menu.main]]
+                identifer = "medico-psicologico"
+                parent = "iniziative"
+                name = "Supporto medico e psicologico"
+            	title = "Supporto medico e psicologico"
+                url  = "/iniziative/supporto-medico-psicologico"
+                weight = 3
+            [[languages.it.menu.main]]
+                identifier = "archivio"
+                name = "Archivio"
+                url  = "/archivio"
+                weight = 3
+            	title = "Archivio"
+            [[languages.it.menu.main]]
+                identifier = "chi-siamo"
+                name = "Chi siamo"
+                url  = "/chi-siamo"
+                weight = 4
+            	title = "Chi siamo"
+            [[languages.it.menu.main]]
+                identifier = "partecipa"
+                name = "Partecipa"
+                url  = "/partecipa"
+                weight = 5
+            	title = "Partecipa"
+            [[languages.it.menu.main]]
+                identifier = "faq"
+                name = "Faq"
+                url  = "/faq"
+                weight = 6
+            	title = "FAQ"
 	[languages.en]
 		languageName = "English"
 		title = "Covid19Alessandria.help"
@@ -204,110 +304,3 @@ enableRobotsTXT = true
 
 [sitemap]
     changefreq = "monthly"
-	
-# definizione del menu in italiano
-[menu]
-[[menu.main]]
-    identifier = "bisogni"
-    name = "Vedi tutti i bisogni"
-    url  = "/bisogni"
-    weight = 1
-	title = "Bisogni"
-[[menu.main]]
-    identifer = "cibo"
-    parent = "bisogni"
-    name = "Cibo"
-	title = "Cibo"
-    url  = "/bisogni/cibo"
-    weight = 1
-[[menu.main]]
-    identifer = "salute"
-    parent = "bisogni"
-    name = "Salute"
-	title = "Salute"
-    url  = "/bisogni/salute"
-    weight = 2
-[[menu.main]]
-    identifer = "sostegnoeconomico"
-    parent = "bisogni"
-    name = "Sostegno economico"
-	title = "Sostegno economico"
-    url  = "/bisogni/sostegno-economico"
-    weight = 3
-[[menu.main]]
-    identifer = "informazioniutili"
-    parent = "bisogni"
-    name = "Informazioni utili"
-	title = "Informazioni utili"
-    url  = "/bisogni/informazioni"
-    weight = 4
-[[menu.main]]
-    identifer = "scuola"
-    parent = "bisogni"
-    name = "Scuola"
-	title = "Scuola"
-    url  = "/bisogni/scuola"
-    weight = 5
-[[menu.main]]
-    identifer = "quarantena"
-    parent = "bisogni"
-    name = "Supporto alla quarantena"
-	title = "Supporto alla quarantena"
-    url  = "/bisogni/quarantena"
-    weight = 6
-	
-[[menu.main]]
-    identifier = "iniziative"
-    name = "Vedi tutte le iniziative"
-    url  = "/iniziative"
-    weight = 2
-	title = "Iniziative"
-[[menu.main]]
-    identifer = "sportelli"
-    parent = "iniziative"
-    name = "Sportelli"
-	title = "Sportelli di ascolto e informativi"
-    url  = "/iniziative/sportelli"
-    weight = 1
-[[menu.main]]
-    identifer = "assistenza-persona"
-    parent = "iniziative"
-    name = "Assistenza alla persona"
-	title = "Assistenza alla persona"
-    url  = "/iniziative/assistenza-alla-persona"
-    weight = 2
-[[menu.main]]
-    identifer = "medico-psicologico"
-    parent = "iniziative"
-    name = "Supporto medico e psicologico"
-	title = "Supporto medico e psicologico"
-    url  = "/iniziative/supporto-medico-psicologico"
-    weight = 3
-	
-[[menu.main]]
-    identifier = "archivio"
-    name = "Archivio"
-    url  = "/archivio"
-    weight = 3
-	title = "Archivio"
-	
-[[menu.main]]
-    identifier = "chi-siamo"
-    name = "Chi siamo"
-    url  = "/chi-siamo"
-    weight = 4
-	title = "Chi siamo"
-
-[[menu.main]]
-    identifier = "partecipa"
-    name = "Partecipa"
-    url  = "/partecipa"
-    weight = 5
-	title = "Partecipa"
-
-[[menu.main]]
-    identifier = "faq"
-    name = "Faq"
-    url  = "/faq"
-    weight = 6
-	title = "FAQ"
