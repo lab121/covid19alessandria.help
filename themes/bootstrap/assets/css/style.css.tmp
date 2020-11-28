@@ -27762,6 +27762,10 @@ figcaption h4 {
   text-decoration: none;
 }
 
+.topic:after {
+  content: unset;
+}
+
 .topic a {
   text-decoration: none;
 }

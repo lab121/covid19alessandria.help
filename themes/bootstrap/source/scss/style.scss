@@ -95,10 +95,15 @@ figcaption h4 {
   }
 }
 
-.topic a {
-	text-decoration: none;
-}
+.topic {
+  &:after {
+    content: unset;
+  }
 
-.topic a:hover {
-	text-decoration: none;
+  a {
+    text-decoration: none;
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }
