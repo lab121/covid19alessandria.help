@@ -1,5 +1,5 @@
 ---
-title: Buoni spesa per generi alimentari e beni di prima necessità."
+title: "Buoni spesa per generi alimentari e beni di prima necessità"
 link: "https://servizionline.comune.alessandria.it/cmsalessandria/portale/contactcenter/istanzeonline.aspx?IDNODE&IDC=25&IDR&CW=SESO&fbclid=IwAR3BDt9ksN0CNNGGrn72Vdd09wgZ5FcnoBUz3LpkNBFr07UJga3Opaw8tZk"
 date: 2020-12-02
 weight: 1
