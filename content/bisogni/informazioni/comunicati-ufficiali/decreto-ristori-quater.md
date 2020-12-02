@@ -6,4 +6,4 @@ date: 2020-11-25
 weight: 1
 ---
 
-E' stato pubblicato in Gazzetta ufficiale il Decreto Ristori Quater, ulteriori misure urgenti connesse all'emergenza epidemiologica da COVID-19..
+E' stato pubblicato in Gazzetta ufficiale il Decreto Ristori Quater, ulteriori misure urgenti connesse all'emergenza epidemiologica da COVID-19
