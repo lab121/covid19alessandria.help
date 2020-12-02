@@ -10,15 +10,17 @@ I buoni spesa dovranno essere utilizzati esclusivamente in uno degli esercizi co
 
 
 DOCUMENTI NECESSARI
-carta d'identità
-codice fiscale
-per cittadini stranieri: permesso di soggiorno
++ carta d'identità
++ codice fiscale
++ per cittadini stranieri: permesso di soggiorno
+
 REQUISITI PER BONUS SPESA
-solo per residenti nel comune di Alessandria
-soggetti privi di reddito o copertura assistenziale
-nucleo familiare monoreddito, derivante da lavoro dipendente il cui datore ha richiesto sostegno al reddito a 0 ore o orario di lavoro ridotto
-nucleo familiare che non sia titolare di alcun reddito o monoreddito anche da attività autonoma ma con richiesta di sostegno al reddito
-nuclei familiari segnalati dai servizi sociali non beneficiari di trattamenti pensionistici
-nuclei familiari in carico dei servizi sociali anche beneficiari di reddito di cittadinanza
++ solo per residenti nel comune di Alessandria
++ soggetti privi di reddito o copertura assistenziale
++ nucleo familiare monoreddito, derivante da lavoro dipendente il cui datore ha richiesto sostegno al reddito a 0 ore o orario di lavoro ridotto
++ nucleo familiare che non sia titolare di alcun reddito o monoreddito anche da attività autonoma ma con richiesta di sostegno al reddito
++ nuclei familiari segnalati dai servizi sociali non beneficiari di trattamenti pensionistici
++ nuclei familiari in carico dei servizi sociali anche beneficiari di reddito di cittadinanza
+
 EROGAZIONE
 I bonus verranno consegnati personalmente ai beneficiari dagli incaricati del comune.
