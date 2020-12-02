@@ -14,7 +14,7 @@
                 <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 
                 {{ if .Content }}
-                    <p class="card-text">{{ .Content }}</p>
+                    <p class="card-text">{{ .Content | truncate .Site.Params.truncatewords }}</p>
                 {{ end }}
             </div>
         </div>
