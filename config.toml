@@ -106,6 +106,13 @@ enableRobotsTXT = true
             	title = "Supporto medico e psicologico"
                 url  = "/iniziative/supporto-medico-psicologico"
                 weight = 3
+			[[languages.it.menu.main]]
+                identifer = "iniziative-locali"
+                parent = "iniziative"
+                name = "Iniziative locali"
+            	title = "Iniziative locali"
+                url  = "/iniziative/iniziative-locali"
+                weight = 4
             [[languages.it.menu.main]]
                 identifier = "archivio"
                 name = "Archivio"
