@@ -303,7 +303,13 @@ enableRobotsTXT = true
 				title = "Nourriture"
 				url  = "/fr/bisogni/cibo"
 				weight = 1
-
+			[[languages.fr.menu.main]]
+				identifer = "salute"
+				parent = "bisogni"
+				name = "Santé"
+				title = "Santé"
+				url  = "/fr/bisogni/salute"
+				weight = 1
 [frontmatter]
     lastmod = [":fileModTime", ":default"]
 
