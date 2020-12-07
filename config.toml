@@ -309,6 +309,38 @@ enableRobotsTXT = true
 				name = "Santé"
 				title = "Santé"
 				url  = "/fr/bisogni/salute"
+				weight = 2
+	[languages.ar]
+		languageName = "Arabo"
+		title = "Covid19Alessandria.help"
+		weight = 50
+		languagedirection = "rtl"
+		[languages.ar.params]
+			description = "(arabo) Descrizione"
+			follow = "Seguici"
+			search = "Cerca"
+			promoters = "Promotori"
+			primopiano = "In primo piano"
+			lastupdate = "Ultimi aggiornamenti"
+			readmore = "Leggi di più"
+			moreinterest = "Potrebbe anche interessarti"
+			tel = "Tél"
+			address = "Indirizzo"
+			medicalsupport = "Supporto medico e psicologico"
+			prodURL = "https://covid19alessandria.help/ar"	
+		[languages.ar.menu]
+			[[languages.ar.menu.main]]
+				identifier = "bisogni"
+				name = "Vedi tutti i bisogni"
+				url  = "/ar/bisogni"
+				weight = 1
+				title = "Bisogni"
+			[[languages.ar.menu.main]]
+				identifer = "cibo"
+				parent = "bisogni"
+				name = "طعام"
+				title = "طعام"
+				url  = "/ar/bisogni/cibo"
 				weight = 1
 [frontmatter]
     lastmod = [":fileModTime", ":default"]
