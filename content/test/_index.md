@@ -1,8 +1,9 @@
 ---
-title: "Test chat"
+title: "Sportelli virtuali"
 layout: "page"
+type: "group"
 weight: 5
 ---
 
-Test chat
-{{< chat >}}
++ [Sportello virtuale antiviolenza](/test/antiviolenza)
++ [Sportello virtuale ascolto e informativo](/test/ascolto)
