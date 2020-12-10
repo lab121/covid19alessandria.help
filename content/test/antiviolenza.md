@@ -5,4 +5,4 @@ weight: 1
 ---
 
 Sportello antiviolenza
-{{< antiviolenza >}}
+{{< chat party="violenzadomestica" operatorname="Sportello Antiviolenza" >}}

@@ -5,4 +5,4 @@ weight: 2
 ---
 
 Ascolto e informativo
-{{< ascolto >}}
+{{< chat party="ascoltoeinformativo" operatorname="Sportello Ascolto e Informativo" >}}
