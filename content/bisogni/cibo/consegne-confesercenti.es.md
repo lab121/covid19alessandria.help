@@ -7,7 +7,4 @@ draft: false
 weight: 2
 ---
 
-{{<rawhtml>}} 
-<a href="/documents/consegne-domicilio-confesercenti-novembre-2020.pdf" target="_blank">Lista de las actividades</a> que efectúan entregas a domicilio ofrecida por Confesercenti Alessandria.
-<p>
-{{</rawhtml>}}
+[Lista de las actividades](/documents/consegne-domicilio-confesercenti-novembre-2020.pdf) que efectúan entregas a domicilio ofrecida por Confesercenti Alessandria.

@@ -4,10 +4,11 @@ link: "https://www.facebook.com/262042007253372/posts/2182630765194477/?d=n"
 address: "Via Verona, 116 Alessandria"
 phone: "0131.533.848"
 date: 2020-12-02
-weight: 1
-topic: "true"
+weight: 1   
 logo: "shopping-cart"
 draft: true
+categoria:
+    - Topic
 ---
 
 Presso Casa di Quartiere Alessandria. Via Verona 116, Alessandria.   

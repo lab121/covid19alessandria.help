@@ -5,7 +5,8 @@ mail: ""
 date: 2020-11-11
 phone: "366.430.9876"
 weight: 1
-medicalsupport: true
+categoria:
+    - Medical
 ---
 
 From Wednesday November 11th the help desk of psychological support Coronavirus emergency 3664309876 is supporting again.  

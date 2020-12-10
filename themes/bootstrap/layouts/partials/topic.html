@@ -1,14 +1,7 @@
 <h3 class="text-center mb-5">{{ .Site.Params.primopiano }}</h3>
-{{ $linguaSito := .Site.Language }}
-<div class="row">
-{{ .Scratch.Add "topic" slice }}
-	{{ range .Site.AllPages }}
-		{{ if and (.Params.topic) (eq .Language $linguaSito) }}
-			{{ $.Scratch.Add "topic" . }}
-		{{ end }}
-	{{ end }}
 
-	{{ range (sort (.Scratch.Get "topic") ".Params.date" "desc") | first .Site.Params.numbertopic }}
-	{{ partial "summary_topic_home.html" . }}
-{{ end }}
+<div class="row">
+	{{ range where .Paginator.Pages ".Params.categoria" "intersect" (slice "Topic")}}
+		{{ partial "summary_topic_home.html" . }}
+	{{ end }}
 </div>

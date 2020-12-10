@@ -7,7 +7,4 @@ draft: false
 weight: 2
 ---
 
-{{<rawhtml>}} 
-<a href="/documents/consegne-domicilio-confesercenti-novembre-2020.pdf" target="_blank">List of the commercial activities</a> making home delivery, edited by Confesercenti Alessandria.
-<p>
-{{</rawhtml>}}
+[List of the commercial activities](/documents/consegne-domicilio-confesercenti-novembre-2020.pdf) making home delivery, edited by Confesercenti Alessandria.

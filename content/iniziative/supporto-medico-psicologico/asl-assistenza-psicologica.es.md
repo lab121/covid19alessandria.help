@@ -5,7 +5,8 @@ mail: ""
 date: 2020-11-11
 phone: "366.430.9876"
 weight: 1
-medicalsupport: true
+categoria:
+    - Medical
 ---
 
 Desde el miércoles 11 de noviembre vuelve a responder el número de ayuda 3664309876 Apoyo Psicológico - Emergencia por Coronavirus.  

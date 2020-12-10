@@ -7,7 +7,5 @@ weight: 12
 ---
 
 Information and useful documents from the Regione Piemonte for return from abroad to our region
-{{< rawhtml >}}
-<br />
-Go to <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=WOGEjRmyjUSC-_2bbdHheXnmScf3LH9Mv6dDpK8sDgFUQ1dLUlFEV1lMWVlMUElQTVNJWEVBWEJQNS4u">the form return from abroad</a>
-{{< /rawhtml >}}
+
+Go to [the form return from abroad]([/documents/consegne-domicilio-confesercenti-novembre-2020.pdf](https://forms.office.com/Pages/ResponsePage.aspx?id=WOGEjRmyjUSC-_2bbdHheXnmScf3LH9Mv6dDpK8sDgFUQ1dLUlFEV1lMWVlMUElQTVNJWEVBWEJQNS4u))
