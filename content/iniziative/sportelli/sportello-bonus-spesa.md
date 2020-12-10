@@ -7,6 +7,7 @@ date: 2020-12-02
 weight: 1
 topic: "true"
 logo: "shopping-cart"
+draft: true
 ---
 
 Presso Casa di Quartiere Alessandria. Via Verona 116, Alessandria.   
