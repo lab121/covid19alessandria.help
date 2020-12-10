@@ -27748,6 +27748,16 @@ figcaption h4 {
   color: #ffffff;
 }
 
+.medicalsupport > .card-body .card-title {
+  min-height: 130px;
+}
+
+.medicalsupport > .card-body .card-text {
+  color: #ffffff;
+  font-family: "Titillium Web",Geneva,Tahoma,sans-serif;
+  font-size: 1rem;
+}
+
 .medicalsupport:after {
   content: unset;
 }
@@ -27760,6 +27770,15 @@ figcaption h4 {
 .medicalsupport a:hover {
   color: #ffffff;
   text-decoration: none;
+}
+
+.topic > .card-body .card-title {
+  min-height: 130px;
+}
+
+.topic > .card-body .card-text {
+  font-family: "Titillium Web",Geneva,Tahoma,sans-serif;
+  font-size: 1rem;
 }
 
 .topic:after {
