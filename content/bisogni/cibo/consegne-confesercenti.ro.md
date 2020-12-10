@@ -9,5 +9,4 @@ weight: 2
 
 {{<rawhtml>}} 
 <a href="/documents/consegne-domicilio-confesercenti-novembre-2020.pdf" target="_blank">Lista activităților </a> care efectuează livrări la domiciliu furnizate de Confesercenti Alessandria.  
-<p>
 {{</rawhtml>}}
