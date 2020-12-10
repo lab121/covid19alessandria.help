@@ -1,28 +1,6 @@
 <h3 class="text-center mb-5">{{ .Site.Params.lastupdate }}</h3>
-{{ $linguaSito := .Site.Language }}
 <div class="row">
-{{ .Scratch.Add "latest" slice }}
-	{{ range .Site.AllPages }}
-		{{ if and (.Params.promote_to_home) (eq .Language $linguaSito) }}
-			{{ range .Pages }}
-				{{ if .Pages }}
-					{{ range .Pages }}
-						{{ if .Pages }}
-							{{ range .Pages }}
-								{{ $.Scratch.Add "latest" . }}
-							{{ end }}
-						{{ else }}
-							{{ $.Scratch.Add "latest" . }}
-						{{ end }}
-					{{ end }}
-				{{ else }}
-					{{ $.Scratch.Add "latest" . }}
-				{{ end }}
-			{{ end }}
-		{{ end }}
-	{{ end }}
-
-	{{ range (sort (.Scratch.Get "latest") ".Params.date" "desc") | first .Site.Params.numberlastupdates }}
+{{ range .Site.Pages | first .Site.Params.numberlastupdates }}
 	{{ partial "summary_short.html" . }}
 {{ end }}
 </div>

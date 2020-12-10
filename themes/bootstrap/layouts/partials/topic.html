@@ -1,7 +1,7 @@
 <h3 class="text-center mb-5">{{ .Site.Params.primopiano }}</h3>
 
 <div class="row">
-	{{ range where .Paginator.Pages ".Params.categoria" "intersect" (slice "Topic")}}
+	{{ range where .Site.Pages ".Params.categoria" "intersect" (slice "Topic")}}
 		{{ partial "summary_topic_home.html" . }}
 	{{ end }}
 </div>

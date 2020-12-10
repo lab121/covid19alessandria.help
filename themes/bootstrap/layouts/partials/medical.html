@@ -1,7 +1,7 @@
 <h3 class="text-center mb-5">{{ .Site.Params.medicalsupport }}</h3>
 
 <div class="row">
-	{{ range where .Paginator.Pages ".Params.categoria" "intersect" (slice "Medical")}}
+	{{ range where .Site.Pages ".Params.categoria" "intersect" (slice "Medical")}}
 		{{ partial "summary_medicalsupport_home.html" . }}
 	{{ end }}
 </div>
