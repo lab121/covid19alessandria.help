@@ -12,5 +12,4 @@ weight: 2
 قائمة الأنشطة التي تنفذ التوصيل للمنازل مقدمة وفقا لنقابة التجار بمدينة ألساندريا.
 
 <a href="/documents/consegne-domicilio-confesercenti-novembre-2020.pdf">
-<p>
 {{</rawhtml>}}
