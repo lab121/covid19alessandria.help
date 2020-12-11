@@ -8,4 +8,4 @@ Rivolgiti a questo sportello per ricevere informazioni su ISEE, Reddito di emerg
 Ti aspettiamo il mercoledì dalle ore 15 alle ore 17.  
 Lo sportello è gestito da operatori della Casa di Quartiere di Alessandria.
 
-{{< chat party="supportoeconomico" operatorname="Sportello misure di sostegno economico" >}}
+{{< chat party="sostegnoeconomico" operatorname="Sportello misure di sostegno economico" >}}
