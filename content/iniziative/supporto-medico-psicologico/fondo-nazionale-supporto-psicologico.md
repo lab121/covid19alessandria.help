@@ -19,6 +19,5 @@ Nella seconda fase dell’emergenza Covid, Soleterre  ha ampliato l’intervento
 Per queste persone **Soleterre ha istituito un Fondo Nazionale per il Supporto Psicologico Covid-19.**  
 I beneficiari possono chiedere aiuto telefonando al 3357711805 a cui rispondono operatori attivi da marzo 2020. L’operatore mette in contatto il beneficiario con un professionista che in videochiamata o in presenza sul territorio di Alessandria effettua fino a 8 incontri gratuiti.
 
-{{< rawhtml >}}
-Scarica il volantino in <a href="/documents/ADV_FONDO_ALESSANDRIAHELP_NOV2020_A5.pdf" target="_blank">pdf</a>
-{{< /rawhtml >}}
+Scarica il volantino in [pdf](https://covid19alessandria.help/documents/ADV_FONDO_ALESSANDRIAHELP_NOV2020_A5.pdf)
+

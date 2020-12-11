@@ -33,6 +33,5 @@ Non sai come inviare al Servizio referti e documenti via e-mail o WhatsApp? Per 
 
 L’iniziativa è nata a Milano da un’idea del Dott. Alessandro Lanzani specialista in Ortopedia e Medicina dello Sport.
 
-{{< rawhtml >}}
-Scarica il volantino in <a href="/documents/MedicinaSolidale.pdf" target="_blank">pdf</a>
-{{< /rawhtml >}}
+Scarica il volantino in [pdf](https://covid19alessandria.help//documents/MedicinaSolidale.pdf)
+

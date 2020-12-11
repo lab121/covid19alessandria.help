@@ -7,7 +7,6 @@ weight: 12
 ---
 
 Informazioni e documenti utili da parte della Regione Piemonte per il rientro dall'estero nella nostra regione
-{{< rawhtml >}}
-<br />
-Vai al <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=WOGEjRmyjUSC-_2bbdHheXnmScf3LH9Mv6dDpK8sDgFUQ1dLUlFEV1lMWVlMUElQTVNJWEVBWEJQNS4u">form rientro stati esteri</a>
-{{< /rawhtml >}}
+
+Vai al [form rientro stati esteri](https://forms.office.com/Pages/ResponsePage.aspx?id=WOGEjRmyjUSC-_2bbdHheXnmScf3LH9Mv6dDpK8sDgFUQ1dLUlFEV1lMWVlMUElQTVNJWEVBWEJQNS4u)
+
