@@ -1,11 +1,11 @@
 ---
-title: "Sportello antiviolenza"
+title: "Sportello di ascolto per donne vittime di violenza"
 layout: "page"
 weight: 1
 ---
 
-Violenza domestica.
-Appuntamenti settimanali differenti rivolti a donne vittime di violenza e uomini violenti.  
-Lunedì 16:30-18:30 / Mercoledì 9-10:30 - Giovedì 11-12.
+Rivolgiti a questo sportello per ricevere .................  
+Ti aspettiamo il venerdì dalle ore 14,00 alle ore 16,00.  
+Lo sportello è gestito da operatori dell'associazione me.dea  
 
-{{< chat party="violenzadomestica" operatorname="Sportello Antiviolenza" >}}
+{{< chat party="violenzadomestica" operatorname="Sportello donne vittime di violenza" >}}
