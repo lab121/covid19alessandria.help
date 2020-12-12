@@ -12,7 +12,12 @@
 
                 <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 				{{ if .Params.orario }}
-					<h6 class="card-title">{{ .Params.orario }}</h6>
+					<h6 class="card-title">
+					{{ .Params.orario }}
+					{{ if .Params.orario1 }}
+						<br />{{ .Params.orario1 }}
+					{{ end }}
+					</h6>
 				{{ end }}
                 
                 {{ if .Content }}
