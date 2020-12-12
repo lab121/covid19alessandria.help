@@ -4,7 +4,6 @@ DefaultContentLanguage = "it"
 title = "Covid19Alessandria.help"
 theme = "bootstrap"
 enableRobotsTXT = true
-disableLanguages = ["es","ro","fr","ar"]
 
 [params]
     author = "lab121.org"
