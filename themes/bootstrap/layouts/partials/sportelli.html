@@ -1,0 +1,25 @@
+<h3 class="text-center mb-5">{{ .Site.Params.sportellionline }}</h3>
+{{ $linguaSito := .Site.Language }}
+<div class="row">
+	<div class="col-md-4">
+		<div class="card-wrapper card-space text-center">
+			<div class="card card-bg topic">
+				<div class="card-body">
+					<p class="card-text"><a href="/iniziative/sportelli-on-line"><img src="/images/foto/sportelloascoltoonline.jpg" style="width: 100%" /></a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+{{ .Scratch.Add "sportelli" slice }}
+	{{range ( where site.RegularPages "Section" "iniziative") }}
+			{{ if and (.Params.orario) (eq .Language $linguaSito) }}
+				{{ $.Scratch.Add "sportelli" . }}
+			{{ end }}
+		
+	{{ end }}
+
+	{{ range (.Scratch.Get "sportelli") | first .Site.Params.numbersportelli }}
+	{{ partial "summary_sportelli_home.html" . }}
+{{ end }}
+</div>
+	

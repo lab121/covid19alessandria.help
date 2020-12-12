@@ -4,6 +4,7 @@ DefaultContentLanguage = "it"
 title = "Covid19Alessandria.help"
 theme = "bootstrap"
 enableRobotsTXT = true
+disableLanguages = ["es","ro","fr","ar"]
 
 [params]
     author = "lab121.org"
@@ -18,12 +19,14 @@ enableRobotsTXT = true
 	lastupdate = "Ultimi aggiornamenti"
 	readmore = "Leggi di più"
 	moreinterest = "Potrebbe interessarti anche"
+	sportellionline = "Sportelli on line"
 	tel = "Tel"
 	address = "Indirizzo"
 	medicalsupport = "Supporto medico e psicologico"
 	truncatewords = 120
 	numbertopic = 3
 	numberlastupdates = 9
+	numbersportelli = 5
 
 [languages]
 	[languages.it]
@@ -113,6 +116,13 @@ enableRobotsTXT = true
             	title = "Iniziative locali"
                 url  = "/iniziative/iniziative-locali"
                 weight = 4
+			[[languages.it.menu.main]]
+                identifer = "sportellionline"
+                parent = "iniziative"
+                name = "Sportelli on line"
+            	title = "Sportelli on line"
+                url  = "/iniziative/sportelli-on-line"
+                weight = 5
             [[languages.it.menu.main]]
                 identifier = "archivio"
                 name = "Archivio"
@@ -150,6 +160,7 @@ enableRobotsTXT = true
 			lastupdate = "Last updates"
 			readmore = "Read more"
 			moreinterest = "You could also be interested in"
+			sportellionline = "Sportelli on line"
 			tel = "Phone"
 			address = "Address"
 			medicalsupport = "Medical and psychological support"
@@ -239,6 +250,7 @@ enableRobotsTXT = true
 			lastupdate = "últimas actualizaciones"
 			readmore = "Lee mas"
 			moreinterest = "También te puede interesar"
+			sportellionline = "Sportelli on line"
 			tel = "Tel"
 			address = "Dirección"
 			medicalsupport = "Apoyo médico y psicológico"
@@ -285,6 +297,7 @@ enableRobotsTXT = true
 			lastupdate = "Dernières mises à jour"
 			readmore = "Lire la suite"
 			moreinterest = "Cela pourrait aussi vous intéresser"
+			sportellionline = "Sportelli on line"
 			tel = "Tél"
 			address = "Adresse"
 			medicalsupport = "Soutien médical et psychologique"
@@ -324,6 +337,7 @@ enableRobotsTXT = true
 			lastupdate = "Ultimi aggiornamenti"
 			readmore = "Leggi di più"
 			moreinterest = "Potrebbe anche interessarti"
+			sportellionline = "Sportelli on line"
 			tel = "Tél"
 			address = "Indirizzo"
 			medicalsupport = "Supporto medico e psicologico"
@@ -355,6 +369,7 @@ enableRobotsTXT = true
 			lastupdate = "Ultimi aggiornamenti"
 			readmore = "Leggi di più"
 			moreinterest = "Potrebbe anche interessarti"
+			sportellionline = "Sportelli on line"
 			tel = "Tél"
 			address = "Indirizzo"
 			medicalsupport = "Supporto medico e psicologico"
