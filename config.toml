@@ -61,31 +61,30 @@ enableRobotsTXT = true
                 url  = "/bisogni/sostegno-economico"
                 weight = 3
             [[languages.it.menu.main]]
-                identifer = "informazioniutili"
-                parent = "bisogni"
-                name = "Informazioni utili"
-            	title = "Informazioni utili"
-                url  = "/bisogni/informazioni"
-                weight = 4
-            [[languages.it.menu.main]]
                 identifer = "scuola"
                 parent = "bisogni"
                 name = "Scuola"
             	title = "Scuola"
                 url  = "/bisogni/scuola"
-                weight = 5
+                weight = 4
             [[languages.it.menu.main]]
                 identifer = "quarantena"
                 parent = "bisogni"
                 name = "Supporto alla quarantena"
             	title = "Supporto alla quarantena"
                 url  = "/bisogni/quarantena"
-                weight = 6
-            [[languages.it.menu.main]]
+                weight = 5
+			[[languages.it.menu.main]]
+                identifer = "informazioniutili"
+                name = "Vedi tutte le informazioni"
+            	title = "Informazioni utili"
+                url  = "/informazioni"
+                weight = 2
+			[[languages.it.menu.main]]
                 identifier = "iniziative"
                 name = "Vedi tutte le iniziative"
                 url  = "/iniziative"
-                weight = 2
+                weight = 3
             	title = "Iniziative"
             [[languages.it.menu.main]]
                 identifer = "sportelli"
@@ -126,25 +125,25 @@ enableRobotsTXT = true
                 identifier = "archivio"
                 name = "Archivio"
                 url  = "/archivio"
-                weight = 3
+                weight = 4
             	title = "Archivio"
             [[languages.it.menu.main]]
                 identifier = "chi-siamo"
                 name = "Chi siamo"
                 url  = "/chi-siamo"
-                weight = 4
+                weight = 5
             	title = "Chi siamo"
             [[languages.it.menu.main]]
                 identifier = "partecipa"
                 name = "Partecipa"
                 url  = "/partecipa"
-                weight = 5
+                weight = 6
             	title = "Partecipa"
             [[languages.it.menu.main]]
                 identifier = "faq"
                 name = "Faq"
                 url  = "/faq"
-                weight = 6
+                weight = 7
             	title = "FAQ"
 	[languages.en]
 		languageName = "English"
@@ -193,32 +192,30 @@ enableRobotsTXT = true
 				url  = "/en/bisogni/sostegno-economico"
 				weight = 3
 			[[languages.en.menu.main]]
-				identifer = "informazioniutili"
-				parent = "bisogni"
-				name = "Useful information"
-				title = "Useful information"
-				url  = "/en/bisogni/informazioni"
-				weight = 4
-			[[languages.en.menu.main]]
 				identifer = "scuola"
 				parent = "bisogni"
 				name = "School"
 				title = "School"
 				url  = "/en/bisogni/scuola"
-				weight = 5
+				weight = 4
 			[[languages.en.menu.main]]
 				identifer = "quarantena"
 				parent = "bisogni"
 				name = "Quarantine support"
 				title = "Quarantine support"
 				url  = "/en/bisogni/quarantena"
-				weight = 6
-				
+				weight = 5
+			[[languages.en.menu.main]]
+                identifer = "informazioniutili"
+                name = "See all useful information"
+            	title = "Useful information"
+                url  = "/en/informazioni"
+                weight = 2
 			[[languages.en.menu.main]]
 				identifier = "iniziative"
 				name = "See all initiatives"
 				url  = "/en/iniziative"
-				weight = 2
+				weight = 3
 				title = "Initiatives"
 			[[languages.en.menu.main]]
 				identifer = "medico-psicologico"
@@ -233,7 +230,7 @@ enableRobotsTXT = true
 				identifier = "chi-siamo"
 				name = "Who we are"
 				url  = "/en/chi-siamo"
-				weight = 4
+				weight = 5
 				title = "Who we are"
 
 	[languages.es]
@@ -269,19 +266,18 @@ enableRobotsTXT = true
 				url  = "/es/bisogni/cibo"
 				weight = 1
 			[[languages.es.menu.main]]
-                identifer = "informazioniutili"
-                parent = "bisogni"
-                name = "Información útil"
-            	title = "Información útil"
-                url  = "/es/bisogni/informazioni"
-                weight = 4
-			[[languages.es.menu.main]]
                 identifer = "scuola"
                 parent = "bisogni"
                 name = "Escuela"
             	title = "Escuela"
                 url  = "/es/bisogni/scuola"
-                weight = 5
+                weight = 6
+			[[languages.es.menu.main]]
+                identifer = "informazioniutili"
+                name = "Mira todas las informaciónes útiles"
+            	title = "Informaciónes útiles"
+                url  = "/es/informazioni"
+                weight = 2
 
 	[languages.fr]
 		languageName = "Français"
