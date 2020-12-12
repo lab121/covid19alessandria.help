@@ -1,7 +1,7 @@
 ---
 title: "Sportello online di ascolto per uomini autori di violenza di genere"
 layout: "page"
-weight: 50
+weight: 40
 orario: "giovedì dalle ore 11 alle ore 12"
 ---
 

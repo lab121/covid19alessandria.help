@@ -75,11 +75,53 @@ enableRobotsTXT = true
                 url  = "/bisogni/quarantena"
                 weight = 5
 			[[languages.it.menu.main]]
-                identifer = "informazioniutili"
-                name = "Vedi tutte le informazioni"
-            	title = "Informazioni utili"
+                identifier = "informazioni"
+                name = "Vedi tutti le informazioni"
                 url  = "/informazioni"
                 weight = 2
+            	title = "Informazioni utili"
+            [[languages.it.menu.main]]
+                identifer = "ospedale"
+                parent = "informazioni"
+                name = "Azienda Ospedaliera"
+            	title = "Azienda Ospedaliera"
+                url  = "/informazioni/ospedale"
+                weight = 1
+			[[languages.it.menu.main]]
+                identifer = "cissaca"
+                parent = "informazioni"
+                name = "Cissaca Servizi socio-assistenziali"
+            	title = "Cissaca Servizi socio-assistenziali"
+                url  = "/informazioni/cissaca"
+                weight = 2
+			[[languages.it.menu.main]]
+                identifer = "comune"
+                parent = "informazioni"
+                name = "Comune di Alessandria"
+            	title = "Comune di Alessandria"
+                url  = "/informazioni/comune"
+                weight = 3
+			[[languages.it.menu.main]]
+                identifer = "regione"
+                parent = "informazioni"
+                name = "Regione Piemonte"
+            	title = "Regione Piemonte"
+                url  = "/informazioni/regione"
+                weight = 4
+			[[languages.it.menu.main]]
+                identifer = "servizilocali"
+                parent = "informazioni"
+                name = "Servizi locali"
+            	title = "Servizi locali"
+                url  = "/informazioni/servizi-locali"
+                weight = 5
+			[[languages.it.menu.main]]
+                identifer = "comunicati"
+                parent = "informazioni"
+                name = "Comunicati ufficiali, ordinanze, DPCM"
+            	title = "Comunicati ufficiali, ordinanze, DPCM"
+                url  = "/informazioni/comunicati-ufficiali"
+                weight = 6
 			[[languages.it.menu.main]]
                 identifier = "iniziative"
                 name = "Vedi tutte le iniziative"
@@ -121,6 +163,13 @@ enableRobotsTXT = true
             	title = "Sportelli on line"
                 url  = "/iniziative/sportelli-on-line"
                 weight = 5
+			[[languages.it.menu.main]]
+                identifer = "testo"
+				parent = "iniziative"
+                name = "Testo"
+            	title = "Testo"
+                url  = "/testo"
+                weight = 6
             [[languages.it.menu.main]]
                 identifier = "archivio"
                 name = "Archivio"
@@ -171,7 +220,7 @@ enableRobotsTXT = true
 				weight = 1
 				title = "Needs"
 			[[languages.en.menu.main]]
-				identifer = "cibo"
+				identifier = "cibo"
 				parent = "bisogni"
 				name = "Food"
 				title = "Food"
@@ -206,11 +255,53 @@ enableRobotsTXT = true
 				url  = "/en/bisogni/quarantena"
 				weight = 5
 			[[languages.en.menu.main]]
-                identifer = "informazioniutili"
-                name = "See all useful information"
-            	title = "Useful information"
+                identifier = "informazioni"
+                name = "See all information"
                 url  = "/en/informazioni"
                 weight = 2
+            	title = "Useful information"
+            [[languages.en.menu.main]]
+                identifier = "ospedale"
+                parent = "informazioni"
+                name = "Azienda Ospedaliera (Hospital)"
+            	title = "Azienda Ospedaliera (Hospital)"
+                url  = "/en/informazioni/ospedale"
+                weight = 1
+			[[languages.en.menu.main]]
+                identifier = "cissaca"
+                parent = "informazioni"
+                name = "Cissaca"
+            	title = "Cissaca"
+                url  = "/en/informazioni/cissaca"
+                weight = 2
+			[[languages.en.menu.main]]
+                identifer = "comune"
+                parent = "informazioni"
+                name = "Municipality of Alessandria"
+            	title = "Municipality of Alessandria"
+                url  = "/en/informazioni/comune"
+                weight = 3
+			[[languages.en.menu.main]]
+                identifer = "regione"
+                parent = "informazioni"
+                name = "Regione Piemonte"
+            	title = "Regione Piemonte"
+                url  = "/en/informazioni/regione"
+                weight = 4
+			[[languages.en.menu.main]]
+                identifer = "servizilocali"
+                parent = "informazioni"
+                name = "Local Services"
+            	title = "Local Services"
+                url  = "/en/informazioni/servizi-locali"
+                weight = 5
+			[[languages.en.menu.main]]
+                identifer = "comunicati"
+                parent = "informazioni"
+                name = "Comunicati ufficiali, ordinanze, DPCM"
+            	title = "Comunicati ufficiali, ordinanze, DPCM"
+                url  = "/en/informazioni/comunicati-ufficiali"
+                weight = 6
 			[[languages.en.menu.main]]
 				identifier = "iniziative"
 				name = "See all initiatives"
@@ -273,12 +364,39 @@ enableRobotsTXT = true
                 url  = "/es/bisogni/scuola"
                 weight = 6
 			[[languages.es.menu.main]]
-                identifer = "informazioniutili"
+                identifier = "informazioni"
                 name = "Mira todas las informaciónes útiles"
-            	title = "Informaciónes útiles"
                 url  = "/es/informazioni"
                 weight = 2
-
+            	title = "Informaciónes útiles"
+            [[languages.es.menu.main]]
+                identifier = "ospedale"
+                parent = "informazioni"
+                name = "Azienda Ospedaliera"
+            	title = "Azienda Ospedaliera"
+                url  = "/es/informazioni/ospedale"
+                weight = 1
+			[[languages.es.menu.main]]
+                identifier = "cissaca"
+                parent = "informazioni"
+                name = "Cissaca Servicios socio-asistenciales"
+            	title = "Cissaca Servicios socio-asistenciales"
+                url  = "/es/informazioni/cissaca"
+                weight = 2
+			[[languages.es.menu.main]]
+                identifer = "comune"
+                parent = "informazioni"
+                name = "Ayuntamiento de Alessandria"
+            	title = "Ayuntamiento de Alessandria"
+                url  = "/es/informazioni/comune"
+                weight = 3
+			[[languages.es.menu.main]]
+                identifer = "servizilocali"
+                parent = "informazioni"
+                name = "Servicios locales"
+            	title = "Servicios locales"
+                url  = "/es/informazioni/servizi-locali"
+                weight = 5
 	[languages.fr]
 		languageName = "Français"
 		title = "Covid19Alessandria.help"
@@ -379,10 +497,37 @@ enableRobotsTXT = true
 			[[languages.ro.menu.main]]
 				identifer = "cibo"
 				parent = "bisogni"
-				name = "cibo"
-				title = "cibo"
+				name = "Cibo"
+				title = "Cibo"
 				url  = "/ro/bisogni/cibo"
 				weight = 1
+			[[languages.ro.menu.main]]
+                identifier = "informazioni"
+                name = "Vedi tutte le informazioni"
+                url  = "/ro/informazioni"
+                weight = 2
+            	title = "Informazioni utili"
+            [[languages.ro.menu.main]]
+                identifier = "ospedale"
+                parent = "informazioni"
+                name = "Structura sanitară"
+            	title = "Structura sanitară"
+                url  = "/ro/informazioni/ospedale"
+                weight = 1
+			[[languages.ro.menu.main]]
+                identifier = "cissaca"
+                parent = "informazioni"
+                name = "Cissaca Servicii de asistență socială"
+            	title = "Cissaca Servicii de asistență socială"
+                url  = "/ro/informazioni/cissaca"
+                weight = 2
+			[[languages.ro.menu.main]]
+                identifer = "comune"
+                parent = "informazioni"
+                name = "Municipiul Alessandria"
+            	title = "Municipiul Alessandria"
+                url  = "/ro/informazioni/comune"
+                weight = 3
 [frontmatter]
     lastmod = [":fileModTime", ":default"]
 

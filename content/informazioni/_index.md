@@ -1,8 +1,6 @@
 ---
 title: "Informazioni utili"
 weight: 5
-picture: "bisogni_informazioni_utili_2.jpg"
-logo: "broadcast-tower"
 type: group
 layout: foto
 promote_to_home: true 
