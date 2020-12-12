@@ -6,5 +6,4 @@ date: 2020-11-29
 weight: 1
 ---
 
-Fino al 23 dicembre  2020, nelle Istituzioni Scolastiche Secondarie di Secondo Grado, Statali e Paritarie, comprese quelle in cui sono attivi i percorsi di secondo livello dell’istruzione degli adulti (C.P.I.A.), l’attività didattica in presenza è sospesa e sostituita dalla didattica digitale a distanza fino al 24 novembre 2020, per tutte le classi del ciclo di istruzione, fatte salve le attività curriculari di laboratorio previste dai rispettivi ordinamenti didattici e la frequenza in presenza degli alunni con bisogni educativi speciali.
-
+A decorrere dal 29 novembre 2020, nelle classi seconde e terze delle Istituzioni Scolastiche Secondarie di Primo Grado, Statali e Paritarie, l'attività didattica in presenza è sospesa e sostituita dalla didattica digitale a distanza fino al 23 dicembre 2020. Resta salva la possibilità di svolgere in presenza le attività di laboratorio o le lezioni in presenza per gli alunni con disabilità e con bisogni educativi speciali.
