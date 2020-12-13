@@ -9,4 +9,4 @@ draft: true
 
 A partire dal 21 gennaio è previsto che la Pfizer consegni i vaccini anti-Covid19 nei centri di stoccaggio della Regione Piemonte.
 
-Scarica il [comunnicato stampa](/documents/COMUNICATO-ASL-AL-Campagna-vaccinale-COVID19.pdf) dell'ASL.
+Scarica il [comunicato stampa](/documents/COMUNICATO-ASL-AL-Campagna-vaccinale-COVID19.pdf) dell'ASL.
