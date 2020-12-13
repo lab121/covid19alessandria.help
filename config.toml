@@ -26,6 +26,7 @@ enableRobotsTXT = true
 	numbertopic = 3
 	numberlastupdates = 9
 	numbersportelli = 5
+	zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
 
 [languages]
 	[languages.it]
@@ -212,6 +213,7 @@ enableRobotsTXT = true
 			address = "Address"
 			medicalsupport = "Medical and psychological support"
 			prodURL = "https://covid19alessandria.help/en"
+			zonagialla = "In this moment Piemonte is in yellow zone"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
 				identifier = "bisogni"
