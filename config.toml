@@ -164,13 +164,6 @@ enableRobotsTXT = true
             	title = "Sportelli on line"
                 url  = "/iniziative/sportelli-on-line"
                 weight = 5
-			[[languages.it.menu.main]]
-                identifer = "testo"
-				parent = "iniziative"
-                name = "Testo"
-            	title = "Testo"
-                url  = "/testo"
-                weight = 6
             [[languages.it.menu.main]]
                 identifier = "archivio"
                 name = "Archivio"
