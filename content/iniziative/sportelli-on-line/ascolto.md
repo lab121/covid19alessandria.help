@@ -1,6 +1,5 @@
 ---
 title: "Sportello online di ascolto e orientamento ai servizi"
-layout: "page"
 weight: 10
 orario: "dal lunedì al venerdì"
 orario1: "dalle ore 17.30 alle ore 19.30"
