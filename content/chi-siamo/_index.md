@@ -17,9 +17,7 @@ Non intendiamo sostituirci a canali e fonti istituzionali, ma integrarci ad essi
 
 La piattaforma è rigorosamente in progress, le informazioni vengono verificate e aggiornate da volontari in tempo reale, ci scusiamo preventivamente se alcune indicazioni non saranno complete al 100%.
 
-{{<rawhtml>}}
-<img src="/images/foto/gruppo Covid.jpg" class="img-fluid">
-{{</rawhtml>}}
+{{< figure src="/images/foto/gruppo Covid.jpg" class="img-fluid" >}}
 
 Covid19Alessandria.help è stata premiata dal Comitato Scientifico di Corriere Buone Notizie, il supplemento dedicato al Terzo Settore del quotidiano milanese, come l’esperienza di rete più significativa emersa durante la pandemia, con la seguente motivazione:
 
