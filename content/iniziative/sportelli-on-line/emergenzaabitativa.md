@@ -1,6 +1,5 @@
 ---
 title: "Sportello online emergenza abitativa"
-layout: "page"
 weight: 40
 orario: "venerdì dalle ore 10 alle ore 12"
 ---

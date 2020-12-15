@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    {{ partial "head-scripts.html" . }}
+    {{ partial "head-meta.html" . }}
+
+    {{ block "schema-dot-org" . }}
+    <!-- schema.org metadata differs for Nodes and Pages -->
+    {{ end }}
+
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <link rel="icon" type="image/png" href="/favicon.png" />
+
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
+    {{ $style := resources.Get "css/style.css" | resources.Fingerprint }}
+    <link href="{{ $style.Permalink }}" rel="stylesheet" {{ if not .Site.Params.disable_sri }}
+          integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" {{ end }}>
+
+    {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `
+    <link rel="%s" type="%s" href="%s" title="%s"/>
+    ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+
+    {{ template "_internal/google_analytics_async.html" . }}
+</head>
+<body>
+
+<header class="it-header-wrapper it-header-sticky">
+	<div class="it-header-slim-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="it-header-slim-wrapper-content">
+						<a class="d-lg-block navbar-brand" href="#">{{ .Site.Params.footer }}</a>
+						<div class="it-header-slim-right-zone">
+							<div class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
+									<span>{{ upper .Site.Language.Lang }}</span>
+									<svg class="icon d-none d-lg-block">
+										<use xlink:href="/svg/sprite.svg#it-expand"></use>
+									</svg>
+								</a>
+								<div class="dropdown-menu">
+									<div class="row">
+										<div class="col-12">
+											<div class="link-list-wrapper">
+												<ul class="link-list">
+													<li><a class="list-item" href="/"><span>ITA</span></a></li>
+													<li><a class="list-item" href="/en/"><span>ENG</span></a></li>
+													<li><a class="list-item disabled" href="/fr/" aria-disabled="true"><span>FRA</span></a></li>
+													<li><a class="list-item disabled" href="/es/" aria-disabled="true"><span>ESP</span></a></li>
+													<li><a class="list-item disabled" href="/ro/" aria-disabled="true"><span>ROM</span></a></li>
+													<li><a class="list-item disabled" href="/ar/" aria-disabled="true"><span>ARA</span></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+    <div class="it-nav-wrapper">
+        <div class="it-header-center-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="it-header-center-content-wrapper">
+
+                            <div class="it-brand-wrapper">
+                                <a href="{{ .Site.Params.prodURL }}" class="">
+                                    <img src="/images/logo.png" alt="{{ .Site.Title }}" class="icon">
+                                    <div class="it-brand-text">
+                                        <h2 class="no_toc">{{ .Site.Title }}</h2>
+                                        <h3 class="no_toc d-none d-md-block">
+                                            {{ .Site.Params.description }}
+                                        </h3>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="it-right-zone">
+                                <div class="it-socials d-none d-md-flex">
+                                    <span>{{ .Site.Params.follow }}</span>
+                                    <ul>
+                                        <li>
+                                            <a aria-label="Facebook" href="https://www.facebook.com/Covid19AlessandriaHelp-108070144209559" target="_blank">
+                                                <svg class="icon">
+                                                    <use xlink:href="/svg/sprite.svg#it-facebook"></use>
+                                                </svg>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a aria-label="Github" href="https://github.com/lab121/covid19alessandria.help" target="_blank">
+                                                <svg class="icon">
+                                                    <use xlink:href="/svg/sprite.svg#it-github"></use>
+                                                </svg>
+                                            </a>
+                                        </li>
+                                        <!--<li>
+                                            <a aria-label="Twitter" href="#" target="_blank">
+                                                <svg class="icon">
+                                                    <use xlink:href="/svg/sprite.svg#it-twitter"></use>
+                                                </svg>
+                                            </a>
+                                        </li>-->
+										<li>
+                                            <a aria-label="Instagram" href="https://www.instagram.com/covid19alessandria.help/" target="_blank">
+                                                <svg class="icon">
+                                                    <use xlink:href="/svg/sprite.svg#it-instagram"></use>
+                                                </svg>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+								
+								
+								<!--<div class="nav-item dropdown white-color">
+									<a class="nav-link dropdown-toggle white-color" href="#" data-toggle="dropdown" aria-expanded="true">
+										<span>{{ upper .Site.Language.Lang }}</span>
+										<svg class="icon icon-xs d-none d-lg-inline icon-white align-middle">
+											<use xlink:href="/svg/sprite.svg#it-expand"></use>
+										</svg>
+									</a>
+									<div class="dropdown-menu">
+										<div class="row">
+											<div class="col-12">
+												<div class="link-list-wrapper">
+													<ul class="link-list">
+														<li><a class="list-item" href="/"><span>ITA</span></a></li>
+														<li><a class="list-item" href="/en/"><span>ENG</span></a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>-->
+								<div class="it-search-wrapper">
+                                    <span class="d-none d-md-block">{{ .Site.Params.search }}</span>
+                                    <a aria-label="Cerca" class="search-link rounded-icon" href="{{ .Site.Params.prodURL }}/cerca">
+                                        <svg class="icon">
+                                            <use xlink:href="/svg/sprite.svg#it-search   "></use>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="it-header-navbar-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <nav class="navbar navbar-expand-lg has-megamenu">
+                            <button class="custom-navbar-toggler" type="button" aria-controls="navbarNavC" aria-expanded="false" aria-label="Toggle navigation" data-target="#navbarNavC">
+                                <svg class="icon icon-sm icon-light"><use xlink:href="/svg/sprite.svg#it-list"></use></svg>
+                            </button>
+                            <div class="navbar-collapsable" id="navbarNavC">
+                                <div class="overlay"></div>
+                                <div class="close-div sr-only">
+                                    <button class="btn close-menu" type="button">
+                                        <svg class="icon icon-sm icon-light"><use xlink:href="/svg/sprite.svg#it-close"></use></svg>close
+                                    </button>
+                                </div>
+                                <div class="menu-wrapper">
+                                    <ul class="navbar-nav">
+                                        {{ range .Site.Menus.main }}
+											{{ if .HasChildren }}
+												<li class="nav-item dropdown megamenu">
+													<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false"><span>{{ .Title }}</span></a>
+													<div class="dropdown-menu">
+														<div class="row">
+															<div class="col-12 col-lg-4">
+																<div class="link-list-wrapper">
+																	<ul class="link-list">
+																		<!--<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
+																		</li>-->
+																		{{ range first 3 .Children }}
+																			<li><a class="list-item" href="{{ .URL }}"><span>{{ .Title }}</span></a>
+																			</li>
+																		{{ end }}
+																		{{ if le (len .Children) 2 }}
+																			<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
+																		{{ end }}
+																		</ul>
+																</div>
+															</div>
+															<div class="col-12 col-lg-4">
+																<div class="link-list-wrapper">
+																	<ul class="link-list">
+																		{{ range first 3 (after 3 .Children) }}
+																			<li><li><a class="list-item" href="{{ .URL }}"><span>{{ .Title }}</span></a>
+																			</li>
+																		{{ end }}
+																		{{ if and (le (len .Children) 5) (gt (len .Children) 3)  }}
+																			<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
+																		{{ end }}
+																		{{ if eq (len .Children) 3 }}
+																			<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
+																		{{ end }}
+																	</ul>
+																</div>
+															</div>
+															<div class="col-12 col-lg-4">
+																<div class="link-list-wrapper">
+																	<ul class="link-list">
+																		{{ range first 3 (after 6 .Children) }}
+																			<li><li><a class="list-item" href="{{ .URL }}"><span>{{ .Title }}</span></a>
+																			</li>
+																		{{ end }}
+																		{{ if and (le (len .Children) 8) (ge (len .Children) 6)  }}
+																			<li><a class="list-item" href="{{ .URL }}" title="{{ .Title }}"><span>{{ .Name }}</span></a>
+																		{{ end }}
+																	</ul>
+																</div>
+															</div>
+														</div>
+													</div>
+												</li>
+											{{ else }}
+												<li>
+													<a class="nav-link" href="{{ .URL }}"><span>{{ .Title }}</span>
+													</a>
+												</li>
+											{{ end }}
+                                        {{ end }}
+                                    </ul>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<main>
+    {{ if and (not .IsHome) (not (eq .Page.Kind "404")) }}
+        <div>
+            <div class="container">
+                {{ partial "breadcrumb.html" . }}
+    {{ end }}
+
+    {{ block "main" . }}
+    {{ end }}
+
+    {{ if and (not .IsHome) (not (eq .Page.Kind "404")) }}
+            </div>
+        </div>
+    {{ end }}
+</main>
+
+<footer class="it-footer">
+    <div class="it-footer-small-prints clearfix">
+        <div class="container">
+            <ul class="it-footer-small-prints-list list-inline mb-0 d-flex flex-column flex-md-row">
+                <li class="list-inline-item">
+                    <a style ="position:relative; bottom:7px;" href="/privacy/" title="Privacy-Cookies"><strong>Privacy policy</strong> </a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</footer>
+
+<a href="#" aria-hidden="true" data-attribute="back-to-top" class="back-to-top">
+    <svg class="icon icon-light">
+        <use xlink:href="/svg/sprite.svg#it-arrow-up"></use>
+    </svg>
+</a>
+
+{{ $fontawesome := resources.Get "js/fontawesome.min.js" | resources.Fingerprint }}
+<script defer src="{{ $fontawesome.Permalink }}" integrity="{{ $fontawesome.Data.Integrity }}"
+        crossorigin="anonymous"></script>
+
+<script>window.__PUBLIC_PATH__ = '/fonts'</script>
+
+{{ $bootstrap := resources.Get "js/bootstrap-italia.bundle.min.js" | resources.Fingerprint }}
+<script defer src="{{ $bootstrap.Permalink }}" integrity="{{ $bootstrap.Data.Integrity }}"
+        crossorigin="anonymous"></script>
+
+</body>
+</html>
