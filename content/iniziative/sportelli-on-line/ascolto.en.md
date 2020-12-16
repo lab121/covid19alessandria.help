@@ -1,8 +1,8 @@
 ---
 title: "Online help desk and service orientation"
 weight: 10
-orario: "dal lunedì al venerdì"
-orario1: "dalle ore 17.30 alle ore 19.30"
+orario: "from Mondays to Fridays"
+orario1: "from 5.30pm to 7.30pm"
 ---
 
 Online help desk and service orientation
