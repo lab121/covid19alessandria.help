@@ -300,9 +300,7 @@ enableRobotsTXT = true
                 name = "Comunicati ufficiali, ordinanze, DPCM"
             	title = "Comunicati ufficiali, ordinanze, DPCM"
                 url  = "/en/informazioni/comunicati-ufficiali"
-                weight = 6
-				
-				
+                weight = 6				
 			[[languages.en.menu.main]]
                 identifier = "iniziative"
 				name = "See all initiatives"
@@ -329,6 +327,18 @@ enableRobotsTXT = true
 				url  = "/en/chi-siamo"
 				weight = 5
 				title = "Who we are"
+			[[languages.en.menu.main]]
+                identifier = "partecipa"
+                name = "Join us"
+                url  = "/en/partecipa"
+                weight = 6
+            	title = "Join us"
+            [[languages.en.menu.main]]
+                identifier = "faq"
+                name = "Faq"
+                url  = "/en/faq"
+                weight = 7
+            	title = "FAQ"
 
 	[languages.es]
 		languageName = "Espanol"
