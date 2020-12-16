@@ -301,21 +301,28 @@ enableRobotsTXT = true
             	title = "Comunicati ufficiali, ordinanze, DPCM"
                 url  = "/en/informazioni/comunicati-ufficiali"
                 weight = 6
+				
+				
 			[[languages.en.menu.main]]
-				identifier = "iniziative"
+                identifier = "iniziative"
 				name = "See all initiatives"
 				url  = "/en/iniziative"
 				weight = 3
 				title = "Initiatives"
-			[[languages.en.menu.main]]
+            [[languages.en.menu.main]]
 				identifer = "medico-psicologico"
 				parent = "iniziative"
 				name = "Medical and psychological support"
 				title = "Medical and psychological support"
 				url  = "/en/iniziative/supporto-medico-psicologico"
 				weight = 3
-					
-			
+			[[languages.en.menu.main]]
+                identifer = "sportellionline"
+                parent = "iniziative"
+                name = "Online desk"
+            	title = "Online desk"
+                url  = "/en/iniziative/sportelli-on-line"
+                weight = 5
 			[[languages.en.menu.main]]
 				identifier = "chi-siamo"
 				name = "Who we are"
