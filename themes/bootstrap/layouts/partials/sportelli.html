@@ -1,11 +1,18 @@
 <h3 class="text-center mb-5">{{ .Site.Params.sportellionline }}</h3>
 {{ $linguaSito := .Site.Language }}
+{{ $linksportelli := "" }} 
+{{ if (ne .Site.Language.Lang "it") }}
+	{{ $linksportelli = print "/" .Site.Language.Lang "/inziative/sportelli-on-line" }}
+{{ else }}
+	{{ $linksportelli = "/iniziative/sportelli-on-line" }}
+{{ end }}
+		
 <div class="row">
 	<div class="col-md-4">
 		<div class="card-wrapper card-space text-center">
 			<div class="card card-bg topic">
 				<div class="card-body">
-					<p class="card-text"><a href="/iniziative/sportelli-on-line"><img src="/images/foto/sportelloascoltoonline.jpg" style="width: 100%" /></a></p>
+					<p class="card-text"><a href="{{ $linksportelli }}"><img src="/images/foto/sportelloascoltoonline.jpg" style="width: 100%" /></a></p>
 				</div>
 			</div>
 		</div>
