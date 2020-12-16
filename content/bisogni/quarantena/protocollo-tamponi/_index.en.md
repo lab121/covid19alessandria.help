@@ -7,4 +7,4 @@ weight: 2
 picture: "quarantena_protocollo_tamponi.jpg"
 ---
 
-(inglese) Come funziona e a chi devo rivolgermi per fare il tampone?
+How does it work and who should I contact to get the swab?

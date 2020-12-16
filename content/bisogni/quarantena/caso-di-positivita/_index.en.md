@@ -7,4 +7,4 @@ weight: 1
 picture: "quarantena_positivita.jpg"
 ---
 
-(inglese) Ho fatto il tampone e sono positivo. **Cosa devo fare?**
+I swabbed and I’m positive. **What should I do?**
