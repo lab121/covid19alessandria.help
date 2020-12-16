@@ -29,6 +29,7 @@ enableRobotsTXT = true
 	zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
 	orario = "Orario"
 	data = "Data"
+	contributo = "Con il contributo di"
 
 [languages]
 	[languages.it]
@@ -195,7 +196,7 @@ enableRobotsTXT = true
 		title = "Covid19Alessandria.help"
 		weight = 20
 		[languages.en.params]
-			description = "(inglese) Descrizione"
+			description = "A project to share information and take action to support the COVID19 emergency"
 			follow = "Follow us"
 			search = "Search"
 			promoters = "Promoters"
@@ -211,6 +212,7 @@ enableRobotsTXT = true
 			zonagialla = "In this moment Piemonte is in yellow zone"
 			orario = "Schedule"
 			data = "Date"
+			contributo = "With the contribution of"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
 				identifier = "bisogni"
@@ -361,6 +363,7 @@ enableRobotsTXT = true
 			zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
 			orario = "Orario"
 			data = "Data"
+			contributo = "Con il contributo di"
 		[languages.es.menu]
 			[[languages.es.menu.main]]
 				identifier = "bisogni"
@@ -437,6 +440,7 @@ enableRobotsTXT = true
 			zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
 			orario = "Orario"
 			data = "Data"
+			contributo = "Con il contributo di"
 		[languages.fr.menu]
 			[[languages.fr.menu.main]]
 				identifier = "bisogni"
@@ -480,6 +484,7 @@ enableRobotsTXT = true
 			zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
 			orario = "Orario"
 			data = "Data"
+			contributo = "Con il contributo di"
 		[languages.ar.menu]
 			[[languages.ar.menu.main]]
 				identifier = "bisogni"
@@ -515,6 +520,7 @@ enableRobotsTXT = true
 			zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
 			orario = "Orario"
 			data = "Data"
+			contributo = "Con il contributo di"
 		[languages.ro.menu]
 			[[languages.ro.menu.main]]
 				identifier = "bisogni"
