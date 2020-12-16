@@ -1,5 +1,5 @@
 ---
-title: "Comunicati ufficiali, ordinanze, DPCM"
+title: "National and regional decrees and regulations"
 type: "group"
 logo: "file-alt"
 layout: "subsection"
@@ -7,5 +7,4 @@ weight: 7
 picture: "informazioni_utili_DCPM.jpg"
 ---
 
-(inglese) Lo storico dei Decreti e dei regolamenti nazionali e regionali
-
+Overview of national and regional decrees and regulations

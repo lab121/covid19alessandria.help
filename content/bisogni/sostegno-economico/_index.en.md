@@ -7,4 +7,4 @@ weight: 4
 picture: "bisogni_sostegno_economico.jpg"
 ---
 
-(inglese) In questa pagina trovi informazioni relative a ristori e indennizzi economici per imprese e privati.
+On this page you will find information on financial compensation for businesses and individuals.

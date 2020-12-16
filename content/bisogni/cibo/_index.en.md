@@ -7,4 +7,4 @@ logo: "utensils"
 weight: 1
 ---
 
-(inglese) In questa pagina trovi informazioni sulle iniziative di accesso e distribuzione di cibo attive in città in questo periodo di emergenza.
+Here you will find information about food supply and delivery in the city during this emergency period.

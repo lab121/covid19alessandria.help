@@ -8,4 +8,4 @@ draft: false
 picture: "supporto-medico-psicologico.jpg"
 ---
 
-(inglese) Attivita di supporto psicologico e di consulenza medica a distanza. Gli sportelli sono gestiti dall'ASL AL e da iniziative nazionali divenute Partner della nostra piattaforma e che hanno esteso i loro servizi ai cittadini di Alessandria
+Remote psychological support and medical consulting service. The desks are managed by ASL AL and by national projects which became partners of our platform and extended their services to the citizens of Alessandria.
