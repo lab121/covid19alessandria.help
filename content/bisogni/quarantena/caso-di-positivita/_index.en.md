@@ -1,5 +1,5 @@
 ---
-title: "(inglese) Informazioni in caso di positività"
+title: "Information in case you are positive"
 logo: "briefcase-medical"
 type: "group"
 layout: "subsection"

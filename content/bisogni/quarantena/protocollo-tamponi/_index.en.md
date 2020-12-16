@@ -1,5 +1,5 @@
 ---
-title: "Protocollo tamponi"
+title: "Information over tests"
 logo: "briefcase-medical"
 type: "group"
 layout: "subsection"
