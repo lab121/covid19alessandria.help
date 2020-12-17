@@ -9,7 +9,6 @@ draft: false
 picture: "iniziative_assistenza_alla_persona.jpg"
 ---
 
-Services and activities to support people, promoted by local authorities and institutions.  
-Need help? Visit our [helpdesk page](/en/iniziative/sportelli/)
-
+Servizi e iniziative di supporto alla persona attivate da Enti e Istituzioni cittadine.  
+Hai bisogno di aiuto? Controlla la pagina relativa ai nostri [sportelli](/iniziative/sportelli/)
 
