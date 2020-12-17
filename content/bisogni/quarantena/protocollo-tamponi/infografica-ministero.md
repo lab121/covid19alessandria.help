@@ -8,6 +8,4 @@ weight: 3
 
 Infografica Ministero della Salute" CONTATTO STRETTO O CASO POSITIVO?
 
-{{< rawhtml >}}
-{{< figure src="/images/foto" title="infografica-positivita.jpg">}}
-{{< /rawhtml >}}
+{{< figure src="/images/foto/infografica-positivita.jpg" title="Infografica Ministero">}}
