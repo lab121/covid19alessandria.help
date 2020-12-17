@@ -225,7 +225,7 @@ enableRobotsTXT = true
 				parent = "bisogni"
 				name = "Food"
 				title = "Food"
-				url  = "/ePersonal care assistancen/bisogni/cibo"
+				url  = "/en/bisogni/cibo"
 				weight = 1
 			[[languages.en.menu.main]]
 				identifer = "salute"
