@@ -1,5 +1,5 @@
 ---
-title: "Assistenza alla persona"
+title: "Personal care assistance"
 type: "group"
 layout: "section"
 logo: "heart"

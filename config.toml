@@ -312,8 +312,8 @@ enableRobotsTXT = true
 			[[languages.en.menu.main]]
                 identifer = "sportelli"
                 parent = "iniziative"
-                name = "Online help desk and service orientation"
-            	title = "Online help desk and service orientation"
+                name = "Listening and information desks"
+            	title = "Listening and information desks"
                 url  = "/en/iniziative/sportelli"
                 weight = 1
             [[languages.en.menu.main]]
