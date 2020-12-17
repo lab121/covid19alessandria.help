@@ -1,5 +1,5 @@
 ---
-title: "Cosa si può fare?"
+title: "What can I do?"
 weight: 2
 ---
 
