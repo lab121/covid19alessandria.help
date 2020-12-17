@@ -225,7 +225,7 @@ enableRobotsTXT = true
 				parent = "bisogni"
 				name = "Food"
 				title = "Food"
-				url  = "/en/bisogni/cibo"
+				url  = "/ePersonal care assistancen/bisogni/cibo"
 				weight = 1
 			[[languages.en.menu.main]]
 				identifer = "salute"
@@ -309,6 +309,20 @@ enableRobotsTXT = true
 				url  = "/en/iniziative"
 				weight = 3
 				title = "Initiatives"
+			[[languages.en.menu.main]]
+                identifer = "sportelli"
+                parent = "iniziative"
+                name = "Online help desk and service orientation"
+            	title = "Online help desk and service orientation"
+                url  = "/en/iniziative/sportelli"
+                weight = 1
+            [[languages.en.menu.main]]
+                identifer = "assistenza-persona"
+                parent = "iniziative"
+                name = "Personal care assistance"
+            	title = "Personal care assistance"
+                url  = "/en/iniziative/assistenza-alla-persona"
+                weight = 2
             [[languages.en.menu.main]]
 				identifer = "medico-psicologico"
 				parent = "iniziative"
@@ -316,6 +330,13 @@ enableRobotsTXT = true
 				title = "Medical and psychological support"
 				url  = "/en/iniziative/supporto-medico-psicologico"
 				weight = 3
+			[[languages.en.menu.main]]
+                identifer = "iniziative-locali"
+                parent = "iniziative"
+                name = "Local initiatives"
+            	title = "Local initiatives"
+                url  = "/en/iniziative/iniziative-locali"
+                weight = 4
 			[[languages.en.menu.main]]
                 identifer = "sportellionline"
                 parent = "iniziative"
