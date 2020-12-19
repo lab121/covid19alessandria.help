@@ -8,4 +8,4 @@ topic: "true"
 picture: "bisogni_supporto_quarantena.jpg"
 ---
 
-(inglese) In questa pagina trovi tutte le informazioni utili se sei in quarantena o isolamento fiduciario.
+On this page you will find all the information you need if you are in quarantine or fiduciary confinement.

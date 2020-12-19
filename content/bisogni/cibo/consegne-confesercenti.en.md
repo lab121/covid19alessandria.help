@@ -7,4 +7,4 @@ draft: false
 weight: 2
 ---
 
-[List of the commercial activities](/documents/consegne-domicilio-confesercenti-novembre-2020.pdf) making home delivery, edited by Confesercenti Alessandria.
+[List of the commercial activities](https://covid19alessandria.help/documents/consegne-domicilio-confesercenti-novembre-2020.pdf) making home delivery, edited by Confesercenti Alessandria.

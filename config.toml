@@ -18,12 +18,18 @@ enableRobotsTXT = true
 	lastupdate = "Ultimi aggiornamenti"
 	readmore = "Leggi di più"
 	moreinterest = "Potrebbe interessarti anche"
+	sportellionline = "Sportelli online"
 	tel = "Tel"
 	address = "Indirizzo"
 	medicalsupport = "Supporto medico e psicologico"
 	truncatewords = 120
 	numbertopic = 3
 	numberlastupdates = 9
+	numbersportelli = 5
+	zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
+	orario = "Orario"
+	data = "Data"
+	contributo = "Con il contributo di"
 
 [languages]
 	[languages.it]
@@ -59,31 +65,72 @@ enableRobotsTXT = true
                 url  = "/bisogni/sostegno-economico"
                 weight = 3
             [[languages.it.menu.main]]
-                identifer = "informazioniutili"
-                parent = "bisogni"
-                name = "Informazioni utili"
-            	title = "Informazioni utili"
-                url  = "/bisogni/informazioni"
-                weight = 4
-            [[languages.it.menu.main]]
                 identifer = "scuola"
                 parent = "bisogni"
                 name = "Scuola"
             	title = "Scuola"
                 url  = "/bisogni/scuola"
-                weight = 5
+                weight = 4
             [[languages.it.menu.main]]
                 identifer = "quarantena"
                 parent = "bisogni"
                 name = "Supporto alla quarantena"
             	title = "Supporto alla quarantena"
                 url  = "/bisogni/quarantena"
-                weight = 6
+                weight = 5
+			[[languages.it.menu.main]]
+                identifier = "informazioni"
+                name = "Vedi tutti le informazioni"
+                url  = "/informazioni"
+                weight = 2
+            	title = "Informazioni utili"
             [[languages.it.menu.main]]
+                identifer = "ospedale"
+                parent = "informazioni"
+                name = "Azienda Ospedaliera"
+            	title = "Azienda Ospedaliera"
+                url  = "/informazioni/ospedale"
+                weight = 1
+			[[languages.it.menu.main]]
+                identifer = "cissaca"
+                parent = "informazioni"
+                name = "Cissaca Servizi socio-assistenziali"
+            	title = "Cissaca Servizi socio-assistenziali"
+                url  = "/informazioni/cissaca"
+                weight = 2
+			[[languages.it.menu.main]]
+                identifer = "comune"
+                parent = "informazioni"
+                name = "Comune di Alessandria"
+            	title = "Comune di Alessandria"
+                url  = "/informazioni/comune"
+                weight = 3
+			[[languages.it.menu.main]]
+                identifer = "regione"
+                parent = "informazioni"
+                name = "Regione Piemonte"
+            	title = "Regione Piemonte"
+                url  = "/informazioni/regione"
+                weight = 4
+			[[languages.it.menu.main]]
+                identifer = "servizilocali"
+                parent = "informazioni"
+                name = "Servizi locali"
+            	title = "Servizi locali"
+                url  = "/informazioni/servizi-locali"
+                weight = 5
+			[[languages.it.menu.main]]
+                identifer = "comunicati"
+                parent = "informazioni"
+                name = "Comunicati ufficiali, ordinanze, DPCM"
+            	title = "Comunicati ufficiali, ordinanze, DPCM"
+                url  = "/informazioni/comunicati-ufficiali"
+                weight = 6
+			[[languages.it.menu.main]]
                 identifier = "iniziative"
                 name = "Vedi tutte le iniziative"
                 url  = "/iniziative"
-                weight = 2
+                weight = 3
             	title = "Iniziative"
             [[languages.it.menu.main]]
                 identifer = "sportelli"
@@ -113,36 +160,43 @@ enableRobotsTXT = true
             	title = "Iniziative locali"
                 url  = "/iniziative/iniziative-locali"
                 weight = 4
+			[[languages.it.menu.main]]
+                identifer = "sportellionline"
+                parent = "iniziative"
+                name = "Sportelli on line"
+            	title = "Sportelli on line"
+                url  = "/iniziative/sportelli-on-line"
+                weight = 5
             [[languages.it.menu.main]]
                 identifier = "archivio"
                 name = "Archivio"
                 url  = "/archivio"
-                weight = 3
+                weight = 4
             	title = "Archivio"
             [[languages.it.menu.main]]
                 identifier = "chi-siamo"
                 name = "Chi siamo"
                 url  = "/chi-siamo"
-                weight = 4
+                weight = 5
             	title = "Chi siamo"
             [[languages.it.menu.main]]
                 identifier = "partecipa"
                 name = "Partecipa"
                 url  = "/partecipa"
-                weight = 5
+                weight = 6
             	title = "Partecipa"
             [[languages.it.menu.main]]
                 identifier = "faq"
                 name = "Faq"
                 url  = "/faq"
-                weight = 6
+                weight = 7
             	title = "FAQ"
 	[languages.en]
 		languageName = "English"
 		title = "Covid19Alessandria.help"
 		weight = 20
 		[languages.en.params]
-			description = "(inglese) Descrizione"
+			description = "A project to share information and take action to support the COVID19 emergency"
 			follow = "Follow us"
 			search = "Search"
 			promoters = "Promoters"
@@ -150,10 +204,15 @@ enableRobotsTXT = true
 			lastupdate = "Last updates"
 			readmore = "Read more"
 			moreinterest = "You could also be interested in"
+			sportellionline = "Online helpdesk"
 			tel = "Phone"
 			address = "Address"
 			medicalsupport = "Medical and psychological support"
 			prodURL = "https://covid19alessandria.help/en"
+			zonagialla = "In this moment Piemonte is in yellow zone"
+			orario = "Schedule"
+			data = "Date"
+			contributo = "With the contribution of"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
 				identifier = "bisogni"
@@ -162,7 +221,7 @@ enableRobotsTXT = true
 				weight = 1
 				title = "Needs"
 			[[languages.en.menu.main]]
-				identifer = "cibo"
+				identifier = "cibo"
 				parent = "bisogni"
 				name = "Food"
 				title = "Food"
@@ -183,48 +242,126 @@ enableRobotsTXT = true
 				url  = "/en/bisogni/sostegno-economico"
 				weight = 3
 			[[languages.en.menu.main]]
-				identifer = "informazioniutili"
-				parent = "bisogni"
-				name = "Useful information"
-				title = "Useful information"
-				url  = "/en/bisogni/informazioni"
-				weight = 4
-			[[languages.en.menu.main]]
 				identifer = "scuola"
 				parent = "bisogni"
 				name = "School"
 				title = "School"
 				url  = "/en/bisogni/scuola"
-				weight = 5
+				weight = 4
 			[[languages.en.menu.main]]
 				identifer = "quarantena"
 				parent = "bisogni"
 				name = "Quarantine support"
 				title = "Quarantine support"
 				url  = "/en/bisogni/quarantena"
-				weight = 6
-				
+				weight = 5
 			[[languages.en.menu.main]]
-				identifier = "iniziative"
+                identifier = "informazioni"
+                name = "See all information"
+                url  = "/en/informazioni"
+                weight = 2
+            	title = "Useful information"
+            [[languages.en.menu.main]]
+                identifier = "ospedale"
+                parent = "informazioni"
+                name = "Azienda Ospedaliera (Hospital)"
+            	title = "Azienda Ospedaliera (Hospital)"
+                url  = "/en/informazioni/ospedale"
+                weight = 1
+			[[languages.en.menu.main]]
+                identifier = "cissaca"
+                parent = "informazioni"
+                name = "Cissaca"
+            	title = "Cissaca"
+                url  = "/en/informazioni/cissaca"
+                weight = 2
+			[[languages.en.menu.main]]
+                identifer = "comune"
+                parent = "informazioni"
+                name = "Municipality of Alessandria"
+            	title = "Municipality of Alessandria"
+                url  = "/en/informazioni/comune"
+                weight = 3
+			[[languages.en.menu.main]]
+                identifer = "regione"
+                parent = "informazioni"
+                name = "Regione Piemonte"
+            	title = "Regione Piemonte"
+                url  = "/en/informazioni/regione"
+                weight = 4
+			[[languages.en.menu.main]]
+                identifer = "servizilocali"
+                parent = "informazioni"
+                name = "Local Services"
+            	title = "Local Services"
+                url  = "/en/informazioni/servizi-locali"
+                weight = 5
+			[[languages.en.menu.main]]
+                identifer = "comunicati"
+                parent = "informazioni"
+                name = "Comunicati ufficiali, ordinanze, DPCM"
+            	title = "Comunicati ufficiali, ordinanze, DPCM"
+                url  = "/en/informazioni/comunicati-ufficiali"
+                weight = 6				
+			[[languages.en.menu.main]]
+                identifier = "iniziative"
 				name = "See all initiatives"
 				url  = "/en/iniziative"
-				weight = 2
+				weight = 3
 				title = "Initiatives"
 			[[languages.en.menu.main]]
+                identifer = "sportelli"
+                parent = "iniziative"
+                name = "Listening and information desks"
+            	title = "Listening and information desks"
+                url  = "/en/iniziative/sportelli"
+                weight = 1
+            [[languages.en.menu.main]]
+                identifer = "assistenza-persona"
+                parent = "iniziative"
+                name = "Personal care assistance"
+            	title = "Personal care assistance"
+                url  = "/en/iniziative/assistenza-alla-persona"
+                weight = 2
+            [[languages.en.menu.main]]
 				identifer = "medico-psicologico"
 				parent = "iniziative"
 				name = "Medical and psychological support"
 				title = "Medical and psychological support"
 				url  = "/en/iniziative/supporto-medico-psicologico"
 				weight = 3
-					
-			
+			[[languages.en.menu.main]]
+                identifer = "iniziative-locali"
+                parent = "iniziative"
+                name = "Local initiatives"
+            	title = "Local initiatives"
+                url  = "/en/iniziative/iniziative-locali"
+                weight = 4
+			[[languages.en.menu.main]]
+                identifer = "sportellionline"
+                parent = "iniziative"
+                name = "Online desk"
+            	title = "Online desk"
+                url  = "/en/iniziative/sportelli-on-line"
+                weight = 5
 			[[languages.en.menu.main]]
 				identifier = "chi-siamo"
 				name = "Who we are"
 				url  = "/en/chi-siamo"
-				weight = 4
+				weight = 5
 				title = "Who we are"
+			[[languages.en.menu.main]]
+                identifier = "partecipa"
+                name = "Join us"
+                url  = "/en/partecipa"
+                weight = 6
+            	title = "Join us"
+            [[languages.en.menu.main]]
+                identifier = "faq"
+                name = "Faq"
+                url  = "/en/faq"
+                weight = 7
+            	title = "FAQ"
 
 	[languages.es]
 		languageName = "Espanol"
@@ -239,10 +376,15 @@ enableRobotsTXT = true
 			lastupdate = "últimas actualizaciones"
 			readmore = "Lee mas"
 			moreinterest = "También te puede interesar"
+			sportellionline = "Sportelli on line"
 			tel = "Tel"
 			address = "Dirección"
 			medicalsupport = "Apoyo médico y psicológico"
 			prodURL = "https://covid19alessandria.help/es"
+			zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
+			orario = "Orario"
+			data = "Data"
+			contributo = "Con il contributo di"
 		[languages.es.menu]
 			[[languages.es.menu.main]]
 				identifier = "bisogni"
@@ -258,20 +400,46 @@ enableRobotsTXT = true
 				url  = "/es/bisogni/cibo"
 				weight = 1
 			[[languages.es.menu.main]]
-                identifer = "informazioniutili"
-                parent = "bisogni"
-                name = "Información útil"
-            	title = "Información útil"
-                url  = "/es/bisogni/informazioni"
-                weight = 4
-			[[languages.es.menu.main]]
                 identifer = "scuola"
                 parent = "bisogni"
                 name = "Escuela"
             	title = "Escuela"
                 url  = "/es/bisogni/scuola"
+                weight = 6
+			[[languages.es.menu.main]]
+                identifier = "informazioni"
+                name = "Mira todas las informaciónes útiles"
+                url  = "/es/informazioni"
+                weight = 2
+            	title = "Informaciónes útiles"
+            [[languages.es.menu.main]]
+                identifier = "ospedale"
+                parent = "informazioni"
+                name = "Azienda Ospedaliera"
+            	title = "Azienda Ospedaliera"
+                url  = "/es/informazioni/ospedale"
+                weight = 1
+			[[languages.es.menu.main]]
+                identifier = "cissaca"
+                parent = "informazioni"
+                name = "Cissaca Servicios socio-asistenciales"
+            	title = "Cissaca Servicios socio-asistenciales"
+                url  = "/es/informazioni/cissaca"
+                weight = 2
+			[[languages.es.menu.main]]
+                identifer = "comune"
+                parent = "informazioni"
+                name = "Ayuntamiento de Alessandria"
+            	title = "Ayuntamiento de Alessandria"
+                url  = "/es/informazioni/comune"
+                weight = 3
+			[[languages.es.menu.main]]
+                identifer = "servizilocali"
+                parent = "informazioni"
+                name = "Servicios locales"
+            	title = "Servicios locales"
+                url  = "/es/informazioni/servizi-locali"
                 weight = 5
-
 	[languages.fr]
 		languageName = "Français"
 		title = "Covid19Alessandria.help"
@@ -285,10 +453,15 @@ enableRobotsTXT = true
 			lastupdate = "Dernières mises à jour"
 			readmore = "Lire la suite"
 			moreinterest = "Cela pourrait aussi vous intéresser"
+			sportellionline = "Sportelli on line"
 			tel = "Tél"
 			address = "Adresse"
 			medicalsupport = "Soutien médical et psychologique"
 			prodURL = "https://covid19alessandria.help/fr"
+			zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
+			orario = "Orario"
+			data = "Data"
+			contributo = "Con il contributo di"
 		[languages.fr.menu]
 			[[languages.fr.menu.main]]
 				identifier = "bisogni"
@@ -324,10 +497,15 @@ enableRobotsTXT = true
 			lastupdate = "Ultimi aggiornamenti"
 			readmore = "Leggi di più"
 			moreinterest = "Potrebbe anche interessarti"
+			sportellionline = "Sportelli on line"
 			tel = "Tél"
 			address = "Indirizzo"
 			medicalsupport = "Supporto medico e psicologico"
 			prodURL = "https://covid19alessandria.help/ar"	
+			zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
+			orario = "Orario"
+			data = "Data"
+			contributo = "Con il contributo di"
 		[languages.ar.menu]
 			[[languages.ar.menu.main]]
 				identifier = "bisogni"
@@ -355,10 +533,15 @@ enableRobotsTXT = true
 			lastupdate = "Ultimi aggiornamenti"
 			readmore = "Leggi di più"
 			moreinterest = "Potrebbe anche interessarti"
+			sportellionline = "Sportelli on line"
 			tel = "Tél"
 			address = "Indirizzo"
 			medicalsupport = "Supporto medico e psicologico"
 			prodURL = "https://covid19alessandria.help/ar"	
+			zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
+			orario = "Orario"
+			data = "Data"
+			contributo = "Con il contributo di"
 		[languages.ro.menu]
 			[[languages.ro.menu.main]]
 				identifier = "bisogni"
@@ -369,10 +552,37 @@ enableRobotsTXT = true
 			[[languages.ro.menu.main]]
 				identifer = "cibo"
 				parent = "bisogni"
-				name = "cibo"
-				title = "cibo"
+				name = "Cibo"
+				title = "Cibo"
 				url  = "/ro/bisogni/cibo"
 				weight = 1
+			[[languages.ro.menu.main]]
+                identifier = "informazioni"
+                name = "Vedi tutte le informazioni"
+                url  = "/ro/informazioni"
+                weight = 2
+            	title = "Informazioni utili"
+            [[languages.ro.menu.main]]
+                identifier = "ospedale"
+                parent = "informazioni"
+                name = "Structura sanitară"
+            	title = "Structura sanitară"
+                url  = "/ro/informazioni/ospedale"
+                weight = 1
+			[[languages.ro.menu.main]]
+                identifier = "cissaca"
+                parent = "informazioni"
+                name = "Cissaca Servicii de asistență socială"
+            	title = "Cissaca Servicii de asistență socială"
+                url  = "/ro/informazioni/cissaca"
+                weight = 2
+			[[languages.ro.menu.main]]
+                identifer = "comune"
+                parent = "informazioni"
+                name = "Municipiul Alessandria"
+            	title = "Municipiul Alessandria"
+                url  = "/ro/informazioni/comune"
+                weight = 3
 [frontmatter]
     lastmod = [":fileModTime", ":default"]
 

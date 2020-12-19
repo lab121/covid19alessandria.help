@@ -2,6 +2,29 @@
 
 {{ define "main" }}
     <h1>{{ .Page.Title }}</h1>
+	{{ if .Params.date }}
+		<div class="cart-phone mb-3">
+		{{ if (ne .Site.Language.Lang "en") }}
+			{{ $anno := substr .Params.date 0 4 }}
+			{{ $mese := substr .Params.date 5 2 }}
+			{{ $giorno := substr .Params.date 8 2 }}
+			{{ $dataOttenuta := (print $giorno "-" $mese "-" $anno) }}
+			<b>{{ .Site.Params.data }}:</b> {{ $dataOttenuta }}
+		{{ else }}
+			<b>{{ .Site.Params.data }}:</b> {{ substr .Params.date 0 10 }}
+		{{ end }}
+		</div>
+	{{ end }}
+			
+	{{ if .Params.orario }}
+		<div class="cart-phone mb-3">
+			<b>{{ .Site.Params.orario }}:</b> {{ .Params.orario }}
+			{{ if .Params.orario1 }}
+				{{ .Params.orario1 }}
+			{{ end }}
+		</div>
+	{{ end }}
+				
     {{ .Page.Content }}
 
     {{ if .Params.phone }}

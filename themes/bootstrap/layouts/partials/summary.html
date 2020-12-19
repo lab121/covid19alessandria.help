@@ -3,13 +3,32 @@
     <div class="card-wrapper card-space">
         <div class="card card-bg">
             <div class="card-body">
+				{{ if and (.Params.date) (ne .Site.Language.Lang "en") }}
+					{{ $anno := substr .Params.date 0 4 }}
+					{{ $mese := substr .Params.date 5 2 }}
+					{{ $giorno := substr .Params.date 8 2 }}
+					{{ $dataOttenuta := (print $giorno "-" $mese "-" $anno) }}
+                    <h6 class="card-title">{{ $dataOttenuta }}</h6>
+				{{ else }}
+					<h6 class="card-title">{{ substr .Params.date 0 10 }}</h6>
+                {{ end }}
+				
                 <h5 class="card-title">{{ .Title }}</h5>
-
+				
+				{{ if .Params.orario }}
+                <div class="cart-phone mb-3">
+                    <b>{{ .Site.Params.orario }}:</b> {{ .Params.orario }}
+					{{ if .Params.orario1 }}
+						<br /> {{ .Params.orario1 }}
+					{{ end }}
+                </div>
+                {{ end }}
+				
                 {{ if .Content }}
                 <span class="card-text">{{ .Content | truncate .Site.Params.truncatewords }}</span>
                 {{ end }}
-
-                {{ if .Params.phone }}
+				
+				{{ if .Params.phone }}
                 <div class="cart-phone mb-3">
                     <b>{{ .Site.Params.tel }}:</b> {{ .Params.phone }}
                 </div>

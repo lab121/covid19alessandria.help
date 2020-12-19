@@ -1,5 +1,5 @@
 ---
-title: "(inglese) Informazioni in caso di positività"
+title: "Information in case you are positive"
 logo: "briefcase-medical"
 type: "group"
 layout: "subsection"
@@ -7,4 +7,4 @@ weight: 1
 picture: "quarantena_positivita.jpg"
 ---
 
-(inglese) Ho fatto il tampone e sono positivo. **Cosa devo fare?**
+I swabbed and I’m positive. **What should I do?**

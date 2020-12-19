@@ -7,4 +7,4 @@ draft: false
 weight: 2
 ---
 
-[Liste des commerces](/documents/consegne-domicilio-confesercenti-novembre-2020.pdf) qui proposent des livraisons à domicile, fournie par la Confesercenti.
+[Liste des commerces](https://covid19alessandria.help/documents/consegne-domicilio-confesercenti-novembre-2020.pdf) qui proposent des livraisons à domicile, fournie par la Confesercenti.

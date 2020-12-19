@@ -12,9 +12,5 @@ Questo questionario è un primo passo in quella direzione e ha l'obiettivo di ce
 
 L'indagine è promossa dall'Associazione di Promozione Sociale Lab121 di concerto con il Dipartimento di Giurisprudenza e Scienze Politiche, Economiche e Sociali dell'Università del Piemonte Orientale, l'Incubatore di impresa del Piemonte Orientale Enne3 e la Cooperativa Proteina con il Patrocinio del Comune di Alessandria e della Camera di Commercio di Alessandria.
 
-{{< rawhtml >}}
-<div class="row">
-    <div class="col-12 text-center mt-5">
-    <a class="btn btn-primary" href="https://survey.uniupo.it/index.php/945625?lang=it" role="button" target="_blank">Compila il questionario</a></div>
-</div>
-{{< /rawhtml >}}
+[Compila il questionario](https://survey.uniupo.it/index.php/945625?lang=it)
+

@@ -7,4 +7,4 @@ draft: false
 weight: 2
 ---
 
-[Elenco delle attività](/documents/consegne-domicilio-confesercenti-novembre-2020.pdf) che effettuano consegne a domicilio fornito da Confesercenti Alessandria.
+[Elenco delle attività](https://covid19alessandria.help/documents/consegne-domicilio-confesercenti-novembre-2020.pdf) che effettuano consegne a domicilio fornito da Confesercenti Alessandria

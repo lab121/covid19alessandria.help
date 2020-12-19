@@ -7,4 +7,4 @@ draft: false
 weight: 2
 ---
 
-[Lista activităților](/documents/consegne-domicilio-confesercenti-novembre-2020.pdf) care efectuează livrări la domiciliu furnizate de Confesercenti Alessandria.
+[Lista activităților](https://covid19alessandria.help/documents/consegne-domicilio-confesercenti-novembre-2020.pdf) care efectuează livrări la domiciliu furnizate de Confesercenti Alessandria.

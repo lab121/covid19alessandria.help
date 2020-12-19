@@ -6,4 +6,4 @@ type: group
 layout: foto 
 ---
 
-(Inglese) In questa sezione trovi le informazioni utili organizzate per aree tematiche per affrontare questa seconda fase dell’emergenza sanitaria.
+In this section you will find useful information organized by thematic areas to deal with this second phase of the health emergency.

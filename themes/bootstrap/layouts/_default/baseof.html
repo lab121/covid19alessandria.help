@@ -33,17 +33,43 @@
 <body>
 
 <header class="it-header-wrapper it-header-sticky">
-    <div class="it-header-slim-wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="it-header-slim-wrapper-content">
-                        <a class="d-lg-block navbar-brand" href="#">{{ .Site.Params.footer }}</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+	<div class="it-header-slim-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="it-header-slim-wrapper-content">
+						<a class="d-lg-block navbar-brand" href="#">{{ .Site.Params.footer }}</a>
+						<div class="it-header-slim-right-zone">
+							<div class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
+									<span>{{ upper .Site.Language.Lang }}</span>
+									<svg class="icon d-none d-lg-block">
+										<use xlink:href="/svg/sprite.svg#it-expand"></use>
+									</svg>
+								</a>
+								<div class="dropdown-menu">
+									<div class="row">
+										<div class="col-12">
+											<div class="link-list-wrapper">
+												<ul class="link-list">
+													<li><a class="list-item" href="/"><span>ITA</span></a></li>
+													<li><a class="list-item" href="/en/"><span>ENG</span></a></li>
+													<li><a class="list-item disabled" href="/fr/" aria-disabled="true"><span>FRA</span></a></li>
+													<li><a class="list-item disabled" href="/es/" aria-disabled="true"><span>ESP</span></a></li>
+													<li><a class="list-item disabled" href="/ro/" aria-disabled="true"><span>ROM</span></a></li>
+													<li><a class="list-item disabled" href="/ar/" aria-disabled="true"><span>ARA</span></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
     <div class="it-nav-wrapper">
         <div class="it-header-center-wrapper">
@@ -97,7 +123,29 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="it-search-wrapper">
+								
+								
+								<!--<div class="nav-item dropdown white-color">
+									<a class="nav-link dropdown-toggle white-color" href="#" data-toggle="dropdown" aria-expanded="true">
+										<span>{{ upper .Site.Language.Lang }}</span>
+										<svg class="icon icon-xs d-none d-lg-inline icon-white align-middle">
+											<use xlink:href="/svg/sprite.svg#it-expand"></use>
+										</svg>
+									</a>
+									<div class="dropdown-menu">
+										<div class="row">
+											<div class="col-12">
+												<div class="link-list-wrapper">
+													<ul class="link-list">
+														<li><a class="list-item" href="/"><span>ITA</span></a></li>
+														<li><a class="list-item" href="/en/"><span>ENG</span></a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>-->
+								<div class="it-search-wrapper">
                                     <span class="d-none d-md-block">{{ .Site.Params.search }}</span>
                                     <a aria-label="Cerca" class="search-link rounded-icon" href="{{ .Site.Params.prodURL }}/cerca">
                                         <svg class="icon">
