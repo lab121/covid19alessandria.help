@@ -27748,7 +27748,7 @@ figcaption h4 {
   color: #ffffff;
 }
 
-.medicalsupport > .card-body .card-title {
+.medicalsupport > .card-body h3.card-title {
   min-height: 130px;
 }
 
@@ -27772,7 +27772,7 @@ figcaption h4 {
   text-decoration: none;
 }
 
-.topic > .card-body .card-title {
+.topic > .card-body h3.card-title {
   min-height: 130px;
 }
 

@@ -80,7 +80,7 @@ figcaption h4 {
     background-color: #EC5923;
     color: #ffffff;
 
-    & .card-title {
+    & h3.card-title {
       min-height: 130px;
     }
 
@@ -107,7 +107,7 @@ figcaption h4 {
 
 .topic {
   > .card-body {
-    & .card-title {
+    & h3.card-title {
       min-height: 130px;
     }
 
