@@ -30,6 +30,18 @@ enableRobotsTXT = true
 	orario = "Orario"
 	data = "Data"
 	contributo = "Con il contributo di"
+	formNome = "Nome"
+	formCategoria = "Categoria"
+	formMessaggio = "Messaggio"
+	formIndirizzo = "Indirizzo"
+	formTelefono = "Telefono"
+	formEmail = "Email"
+	formLink = "Link"
+	formPrivacy = "Accetto l'informativa sul trattamento dei dati personali"
+	formInvio = "Invio"
+	formMessaggioInvio = "Invio in corso..."
+	formMessaggioOK = "Grazie per la tua segnalazione!"
+	formMessaggioKO = "Si è verificato un errore!"
 
 [languages]
 	[languages.it]
@@ -213,6 +225,18 @@ enableRobotsTXT = true
 			orario = "Schedule"
 			data = "Date"
 			contributo = "With the contribution of"
+			formNome = "Name"
+			formCategoria = "Category"
+            formMessaggio = "Message"
+            formIndirizzo = "Address"
+            formTelefono = "Phone"
+            formEmail = "Email"
+            formLink = "Link"
+            formPrivacy = "Accetto l'informativa sul trattamento dei dati personali"
+            formInvio = "Send"
+            formMessaggioInvio = "Sending..."
+            formMessaggioOK = "Grazie per la tua segnalazione!"
+            formMessaggioKO = "Si è verificato un errore!"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
 				identifier = "bisogni"
