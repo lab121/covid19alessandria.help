@@ -578,6 +578,13 @@ enableRobotsTXT = true
                 url  = "/ro/bisogni/salute"
                 weight = 2
 			[[languages.ro.menu.main]]
+                identifer = "sostegnoeconomico"
+                parent = "bisogni"
+                name = "Sprijin economic"
+            	title = "Sprijin economic"
+                url  = "/ro/bisogni/sostegno-economico"
+                weight = 3
+			[[languages.ro.menu.main]]
                 identifier = "informazioni"
                 name = "Vedi tutte le informazioni"
                 url  = "/ro/informazioni"

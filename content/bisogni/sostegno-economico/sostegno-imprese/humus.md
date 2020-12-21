@@ -1,5 +1,5 @@
 ---
-title:  "La prima piattaforma di ricerca lavoro dedicata all’agricoltura e impegnata a favorire contratti regolari."
+title:  "La prima piattaforma di ricerca lavoro dedicata all’agricoltura e impegnata a favorire contratti regolari"
 link: "https://www.humusjob.it/"
 mail: "rete@humusjob.it"
 date: 2020-04-16

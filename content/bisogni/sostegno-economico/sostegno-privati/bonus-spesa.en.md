@@ -11,20 +11,17 @@ This list is constantly updated on the web site of the Municipality of Alessandr
 
 
 NECESSARY DOCUMENTS
-
-Identity card
-Tax code (codice fiscale)
-For foreign citizenship: residency permit
++ Identity card
++ Tax code (codice fiscale)
++ For foreign citizenship: residency permit
 
 STORE CREDIT REQUIREMENTS
-
-Only for residents of the municipality of Alessandria
-People without earnings or healthcare cover
-Family units with a single income deriving from a job, where the employer requested a "zero-hours" salary support or a reduced work hour
-Family units which do not have any earnings, even from self-employed activities, but with a salary support request
-Family units reported at the social services not beneficiary of retirement benefits
-Family units in charge of the social services even taking advantage of the citizenship income (reddito di cittadinanza)
++ Only for residents of the municipality of Alessandria
++ People without earnings or healthcare cover
++ Family units with a single income deriving from a job, where the employer requested a "zero-hours" salary support or a reduced work hour
++ Family units which do not have any earnings, even from self-employed activities, but with a salary support request
++ Family units reported at the social services not beneficiary of retirement benefits
++ Family units in charge of the social services even taking advantage of the citizenship income (reddito di cittadinanza)
 
 ASSIGNMENT
-
 The store credits are personally given to the recipients by the municipality staff.

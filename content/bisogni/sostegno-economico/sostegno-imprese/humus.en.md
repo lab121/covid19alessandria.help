@@ -1,5 +1,5 @@
 ---
-title:  "The first platform for job searching, dedicated to agriculture and regular contracts modality."
+title:  "The first platform for job searching, dedicated to agriculture and regular contracts modality"
 link: "https://www.humusjob.it/"
 mail: "rete@humusjob.it"
 date: 2020-04-16
