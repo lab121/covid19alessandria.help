@@ -346,10 +346,10 @@ enableRobotsTXT = true
                 weight = 5
 			[[languages.en.menu.main]]
 				identifier = "chi-siamo"
-				name = "Who we are"
+				name = "About us"
 				url  = "/en/chi-siamo"
 				weight = 5
-				title = "Who we are"
+				title = "About us"
 			[[languages.en.menu.main]]
                 identifier = "partecipa"
                 name = "Join us"
