@@ -1,6 +1,6 @@
 ---
 title: "116117: attivo il nuovo Numero Europeo Armonizzato per il servizio di Continuità Assistenziale (ex guardia medica)"
-link: ""
+link: "http://www.aslal.it/attivo-sul-territorio-asl-al-il-nuovo-numero-116117"
 mail: ""
 date: 2020-12-21
 weight: 1
