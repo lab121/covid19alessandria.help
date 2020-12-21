@@ -483,6 +483,20 @@ enableRobotsTXT = true
 				title = "Santé"
 				url  = "/fr/bisogni/salute"
 				weight = 2
+			[[languages.fr.menu.main]]
+                identifer = "scuola"
+                parent = "bisogni"
+                name = "École"
+            	title = "École"
+                url  = "/fr/bisogni/scuola"
+                weight = 4
+			[[languages.fr.menu.main]]
+                identifer = "quarantena"
+                parent = "bisogni"
+                name = "Assistance à la quarantaine"
+            	title = "Assistance à la quarantaine"
+                url  = "/fr/bisogni/quarantena"
+                weight = 5
 	[languages.ar]
 		languageName = "Arabo"
 		title = "Covid19Alessandria.help"
@@ -552,10 +566,17 @@ enableRobotsTXT = true
 			[[languages.ro.menu.main]]
 				identifer = "cibo"
 				parent = "bisogni"
-				name = "Cibo"
-				title = "Cibo"
+				name = "Alimente"
+				title = "Alimente"
 				url  = "/ro/bisogni/cibo"
 				weight = 1
+            [[languages.ro.menu.main]]
+                identifer = "salute"
+                parent = "bisogni"
+                name = "Sănătate"
+            	title = "Sănătate"
+                url  = "/ro/bisogni/salute"
+                weight = 2
 			[[languages.ro.menu.main]]
                 identifier = "informazioni"
                 name = "Vedi tutte le informazioni"
