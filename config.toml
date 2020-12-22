@@ -585,6 +585,20 @@ enableRobotsTXT = true
                 url  = "/ro/bisogni/sostegno-economico"
                 weight = 3
 			[[languages.ro.menu.main]]
+                identifer = "scuola"
+                parent = "bisogni"
+                name = "Şcoală"
+            	title = "Şcoală"
+                url  = "/ro/bisogni/scuola"
+                weight = 4
+			[[languages.ro.menu.main]]
+                identifer = "quarantena"
+                parent = "bisogni"
+                name = "Sprijin în carantină"
+            	title = "Sprijin în carantină"
+                url  = "/ro/bisogni/quarantena"
+                weight = 5
+			[[languages.ro.menu.main]]
                 identifier = "informazioni"
                 name = "Vedi tutte le informazioni"
                 url  = "/ro/informazioni"
