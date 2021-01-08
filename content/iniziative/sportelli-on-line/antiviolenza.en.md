@@ -10,7 +10,6 @@ Please turn to this help desk to get a first contact with the anti-violence cent
 
 It is open on Fridays from 2pm to 4pm.
 The help desk is managed by the Me.dea association operators.
-The help desk is actually closed and will be closed Dec 25th and Jan 1st. It will be reopened Jan 8th.  
 For information please turn to the Me.dea toll free number 800098981
 
 {{< chat party="violenzadomestica" operatorname="Sportello online di ascolto per le donne vittime di violenza" >}}
