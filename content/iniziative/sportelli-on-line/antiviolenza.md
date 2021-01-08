@@ -10,4 +10,4 @@ Lo sportello è gestito da operatori dell'associazione me.dea
 
 Lo sportello attualmente è chiuso e rimarrà chiuso il 25 dicembre e il 1 gennaio, riprendendo la regolare attività da venerdì 08 gennaio.  
 Per informazioni rivolgersi al numero verde di me.dea 800098981
-<!--{{< chat party="violenzadomestica" operatorname="Sportello online di ascolto per le donne vittime di violenza" >}}-->
+{{< chat party="violenzadomestica" operatorname="Sportello online di ascolto per le donne vittime di violenza" >}}
