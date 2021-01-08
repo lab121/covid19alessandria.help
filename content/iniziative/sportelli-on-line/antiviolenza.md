@@ -8,5 +8,5 @@ Rivolgiti a questo sportello per ricevere un primo contatto con le operatrici de
 Ti aspettiamo il venerdì dalle ore 14 alle ore 16.  
 Lo sportello è gestito da operatori dell'associazione me.dea
 
-Per informazioni rivolgersi al numero verde di me.dea 800098981
+Per informazioni rivolgersi al numero verde di me.dea 800098981  
 {{< chat party="violenzadomestica" operatorname="Sportello online di ascolto per le donne vittime di violenza" >}}
