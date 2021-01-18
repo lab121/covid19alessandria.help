@@ -5,7 +5,8 @@ mail: ""
 date: 2020-11-26
 phone: "335.771.1805"
 weight: 1
-medicalsupport: true
+categoria:
+    - Medical
 ---
 
 Soleterre ha maturato un’esperienza diretta nell’emergenza Covid attraverso un team di 14 psicologi che hanno garantito supporto psicologico a staff medico, pazienti e famigliari del Policlinico San Matteo di Pavia. 

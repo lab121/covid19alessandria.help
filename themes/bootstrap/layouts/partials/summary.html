@@ -25,7 +25,7 @@
                 {{ end }}
 				
                 {{ if .Content }}
-                <p class="card-text">{{ .Content | truncate .Site.Params.truncatewords }}</p>
+                <span class="card-text">{{ .Content | truncate .Site.Params.truncatewords }}</span>
                 {{ end }}
 				
 				{{ if .Params.phone }}

@@ -79,6 +79,16 @@ figcaption h4 {
   > .card-body {
     background-color: #EC5923;
     color: #ffffff;
+
+    & h3.card-title {
+      min-height: 130px;
+    }
+
+    & .card-text {
+      color: #ffffff;
+      font-family: "Titillium Web",Geneva,Tahoma,sans-serif;
+      font-size: 1rem;
+    }
   }
 
   &:after {
@@ -96,6 +106,17 @@ figcaption h4 {
 }
 
 .topic {
+  > .card-body {
+    & h3.card-title {
+      min-height: 130px;
+    }
+
+    & .card-text {
+      font-family: "Titillium Web",Geneva,Tahoma,sans-serif;
+      font-size: 1rem;
+    }
+  }
+
   &:after {
     content: unset;
   }
