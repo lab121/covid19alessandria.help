@@ -29,9 +29,9 @@
     <div class="container">
         {{ $linkarancione := "" }} 
         {{ if (ne .Site.Language.Lang "it") }}
-            {{ $linkarancione = print "/" .Site.Language.Lang "/informazioni/comunicati-ufficiali/ordinanza-salute-27-novembre//" }}
+            {{ $linkarancione = print "/" .Site.Language.Lang "/informazioni/comunicati-ufficiali/decreto-14-gennaio2021//" }}
         {{ else }}
-            {{ $linkarancione = "/informazioni/comunicati-ufficiali/ordinanza-salute-27-novembre//" }}
+            {{ $linkarancione = "/informazioni/comunicati-ufficiali/decreto-14-gennaio2021//" }}
         {{ end }}
         <a href="{{ $linkarancione }}" style="text-decoration: none; color: black;">
             {{ .Site.Params.zonaarancione }}
