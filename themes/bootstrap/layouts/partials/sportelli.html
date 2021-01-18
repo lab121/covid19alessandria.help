@@ -8,7 +8,7 @@
 {{ end }}
 		
 <div class="row">
-	<div class="col-md-4">
+	<!--<div class="col-md-4">
 		<div class="card-wrapper card-space text-center">
 			<div class="card card-bg topic">
 				<div class="card-body">
@@ -16,7 +16,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>-->
 {{ .Scratch.Add "sportelli" slice }}
 	{{range ( where site.RegularPages "Section" "iniziative") }}
 			{{ if and (.Params.orario) (eq .Language $linguaSito) }}
