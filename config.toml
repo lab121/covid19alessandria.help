@@ -529,6 +529,12 @@ enableRobotsTXT = true
             	title = "Assistance à la quarantaine"
                 url  = "/fr/bisogni/quarantena"
                 weight = 5
+			[[languages.fr.menu.main]]
+                identifier = "chi-siamo"
+                name = "Qui sommes-nous?"
+                url  = "/fr/chi-siamo"
+                weight = 5
+            	title = "Qui sommes-nous?"
 	[languages.ar]
 		languageName = "Arabo"
 		title = "Covid19Alessandria.help"
