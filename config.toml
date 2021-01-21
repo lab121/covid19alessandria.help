@@ -535,6 +535,13 @@ enableRobotsTXT = true
                 url  = "/fr/chi-siamo"
                 weight = 5
             	title = "Qui sommes-nous?"
+			[[languages.fr.menu.main]]
+                identifier = "partecipa"
+                name = "S'impliquer"
+                url  = "/fr/partecipa"
+                weight = 6
+            	title = "S'impliquer"
+            
 	[languages.ar]
 		languageName = "Arabo"
 		title = "Covid19Alessandria.help"
