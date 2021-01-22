@@ -5,7 +5,8 @@ mail: "medisolidale@gmail.com"
 date: 2020-11-26
 phone: "351.695.5152"
 weight: 1
-medicalsupport: true
+categoria:
+    - Medical
 ---
 
 Medical online counseling service for those who need medical consultation and are in difficulty, economic destitution, can't pay for private structures fees,

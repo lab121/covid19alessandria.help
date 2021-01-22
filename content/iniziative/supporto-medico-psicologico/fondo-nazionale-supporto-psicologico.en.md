@@ -5,7 +5,8 @@ mail: ""
 date: 2020-11-26
 phone: "335.771.1805"
 weight: 1
-medicalsupport: true
+categoria:
+    - Medical
 ---
 
 Soleterre gained a direct experience in the Covid-19 emergency thanks to a team of 14 psychologists, who granted psychological support to medical staff,
