@@ -22,4 +22,4 @@ _____________________
 
 Fill in the dedicated form or write us an e-mail at this address covid19alessandria.help@lab121.org and we will contact you to give you more information and figure out what to do together.
 
-{{< form options="Donazioni di beni,Sviluppo del sito,Volontariato,Altro" title="Segnala" name="partecipa->segnala" >}}
+{{< form options="Donations, Site development, Volunteering, Other" title="Tell us" name="partecipa->segnala" >}}
