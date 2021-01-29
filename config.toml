@@ -553,6 +553,12 @@ enableRobotsTXT = true
                 url  = "/fr/partecipa"
                 weight = 6
             	title = "S'impliquer"
+			[[languages.fr.menu.main]]
+                identifier = "faq"
+                name = "Faq"
+                url  = "/fr/faq"
+                weight = 7
+            	title = "FAQ"
             
 	[languages.ar]
 		languageName = "Arabo"
