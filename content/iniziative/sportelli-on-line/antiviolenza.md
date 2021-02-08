@@ -2,6 +2,7 @@
 title: "Sportello online di ascolto per le donne vittime di violenza"
 weight: 70
 orario: "venerdì dalle ore 14 alle ore 16"
+attivo: "true"
 ---
 
 Rivolgiti a questo sportello per ricevere un primo contatto con le operatrici del Centro antiviolenza me.dea e per ricevere maggiori informazioni riguardo la violenza sulle donne.  

@@ -1,7 +1,11 @@
 <div class="col-md-3">
     <div class="card-wrapper card-space text-center">
         <div class="card card-bg topic">
-            <div class="card-body">
+			{{ if .Params.attivo }}
+				<div class="card-body" style="background-color: #ec5923; color: #fff;">
+			{{ else }}
+				<div class="card-body">
+			{{ end }}			
 				{{ if .Params.logo }}
                     <div class="categoryicon-top" style="display: block">
 						<a href="{{ .Permalink }}">
@@ -9,8 +13,15 @@
 						</a>
                     </div>
                 {{ end }}
-
-                <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <h3 class="card-title">
+				{{ if .Params.attivo }}
+					<a href="{{ .Permalink }}" style="color: #fff;">
+				{{ else }}
+					<a href="{{ .Permalink }}">
+				{{ end }}
+				{{ .Title }}
+				</a>
+				</h3>
 				{{ if .Params.orario }}
 					<h6 class="card-title">
 					{{ .Params.orario }}
@@ -18,6 +29,9 @@
 						<br />{{ .Params.orario1 }}
 					{{ end }}
 					</h6>
+				{{ end }}
+				{{ if .Params.attivo }}
+					<h6 class="card-title">ATTIVO ADESSO!!!</h6>
 				{{ end }}
                 
                 <!--{{ if .Content }}
