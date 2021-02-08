@@ -1,5 +1,5 @@
 ---
-title: "Sportello online di ascolto e orientamento ai servizi"
+title: "Sportello online orientamento ai servizi"
 weight: 10
 orario: "dal lunedì al venerdì"
 orario1: "dalle ore 17.30 alle ore 19.30"
@@ -10,4 +10,4 @@ Ti aspettiamo tutti i giorni, dal lunedì al venerdì, dalle ore 17.30 alle ore 
 Lo sportello è gestito da volontari dell'iniziativa Covid19Alessandria.help  
 Puoi anche telefonare al numero 0131.197.8117
 
-{{< chat party="ascoltoeinformativo" operatorname="Sportello online di ascolto e orientamento ai servizi" >}}
+{{< chat party="ascoltoeinformativo" operatorname="Sportello online orientamento ai servizi" >}}
