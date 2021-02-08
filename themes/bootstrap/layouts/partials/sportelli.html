@@ -2,7 +2,7 @@
 {{ $linguaSito := .Site.Language }}
 {{ $linksportelli := "" }} 
 {{ if (ne .Site.Language.Lang "it") }}
-	{{ $linksportelli = print "/" .Site.Language.Lang "/inziative/sportelli-on-line" }}
+	{{ $linksportelli = print "/" .Site.Language.Lang "/iniziative/sportelli-on-line" }}
 {{ else }}
 	{{ $linksportelli = "/iniziative/sportelli-on-line" }}
 {{ end }}
