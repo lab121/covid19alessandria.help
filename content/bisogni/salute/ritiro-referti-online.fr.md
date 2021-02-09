@@ -6,4 +6,4 @@ date: 2020-11-03
 weight: 7
 ---
 
-D'après le site de Salute Piemonte : « Authentifiez-vous et vous pourrez récupérer en automatique vos résultats médicaux, ainsi que ceux des personnes qui vous ont délégué »
+D'après le site de Salute Piemonte : « Authentifiez-vous et vous pourrez récupérer en automatique vos résultats médicaux, ainsi que ceux des personnes qui vous ont délégué ».

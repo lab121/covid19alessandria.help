@@ -36,7 +36,7 @@
 
                 {{ if .Params.mail }}
                 <div class="cart-mail mb-3">
-                    <b>Email:</b> <a href="mailto:{{ .Params.mail }}">{{ .Params.mail }}</a>
+                    <b>{{ .Site.Params.email }}:</b> <a href="mailto:{{ .Params.mail }}">{{ .Params.mail }}</a>
                 </div>
                 {{ end }}
 

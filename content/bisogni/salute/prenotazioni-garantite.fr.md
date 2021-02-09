@@ -7,5 +7,5 @@ weight: 1
 ---
 
 Compte tenu de la rapide progression de l'épidémie et face à l'accroissement des hospitalisations, sur la base des indications fournies par la Région Piémont, l'hôpital d'Alessandria a modifié son plan d'urgence, en accord avec les autres organismes sanitaires locaux. 
-Par conséquent il est prévu une réorganisation des services ayant pou but de concentrer les ressources pour mieux faire face à l'accroissement des hospitalisations Covid.
+Par conséquent il est prévu une réorganisation des services ayant pour but de concentrer les ressources pour mieux faire face à l'accroissement des hospitalisations Covid.
 Vous trouverez toutes les informations en cliquant sur ce lien.

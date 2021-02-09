@@ -35,7 +35,7 @@
 
     {{ if .Params.mail }}
         <div class="cart-mail mb-3">
-            <b>Email:</b> <a href="mailto:{{ .Params.mail }}">{{ .Params.mail }}</a>
+            <b>{{ .Site.Params.email }}:</b> <a href="mailto:{{ .Params.mail }}">{{ .Params.mail }}</a>
         </div>
     {{ end }}
 
@@ -47,7 +47,7 @@
 
     {{ if .Params.link }}
         <div class="btn-group cart-link">
-            <a href="{{ .Params.link }}" class="btn btn-sm btn-outline-secondary" target="_blank" style="background-color: #EC5923; color: #ffffff">Link</a>
+            <a href="{{ .Params.link }}" class="btn btn-sm btn-outline-secondary" target="_blank" style="background-color: #EC5923; color: #ffffff">{{ .Site.Params.link }}</a>
         </div>
     {{ end }}
 {{ end }}
