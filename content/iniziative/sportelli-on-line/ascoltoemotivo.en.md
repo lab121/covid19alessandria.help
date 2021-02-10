@@ -2,6 +2,7 @@
 title: "Online helpdesk for emotional emergency"
 weight: 30
 orario: "Wednesdays from 1pm to 2pm"
+attivo: "true"
 ---
 
 Please turn to this helpdesk if you need someone listening to you for emotional support, to improve your relationships and your reactions in crisis and difficulty moments.  
