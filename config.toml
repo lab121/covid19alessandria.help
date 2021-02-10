@@ -32,6 +32,9 @@ enableRobotsTXT = true
 	orario = "Orario"
 	data = "Data"
 	contributo = "Con il contributo di"
+	link = "Link"
+	home = "Home"
+	email = "Email"
 	formNome = "Nome"
 	formCategoria = "Categoria"
 	formMessaggio = "Messaggio"
@@ -229,6 +232,9 @@ enableRobotsTXT = true
 			orario = "Schedule"
 			data = "Date"
 			contributo = "With the contribution of"
+			link = "Link"
+			home = "Home"
+			email = "Email"
 			formNome = "Name"
 			formCategoria = "Category"
             formMessaggio = "Message"
@@ -415,6 +421,9 @@ enableRobotsTXT = true
 			orario = "Orario"
 			data = "Data"
 			contributo = "Con il contributo di"
+			link = "Link"
+			home = "Home"
+			email = "Email"
 		[languages.es.menu]
 			[[languages.es.menu.main]]
 				identifier = "bisogni"
@@ -494,6 +503,9 @@ enableRobotsTXT = true
 			orario = "Programme"
 			data = "Date"
 			contributo = "Avec la contribution de"
+			link = "Lien"
+			home = "Accueil"
+			email = "E-mail"
 			formNome = "Prénom et nom"
 			formCategoria = "Catégorie"
             formMessaggio = "Message"
@@ -585,6 +597,9 @@ enableRobotsTXT = true
 			orario = "Orario"
 			data = "Data"
 			contributo = "Con il contributo di"
+			link = "Link"
+			home = "Home"
+			email = "Email"
 		[languages.ar.menu]
 			[[languages.ar.menu.main]]
 				identifier = "bisogni"
@@ -623,6 +638,9 @@ enableRobotsTXT = true
 			orario = "Orario"
 			data = "Data"
 			contributo = "Con il contributo di"
+			link = "Link"
+			home = "Home"
+			email = "Email"
 		[languages.ro.menu]
 			[[languages.ro.menu.main]]
 				identifier = "bisogni"

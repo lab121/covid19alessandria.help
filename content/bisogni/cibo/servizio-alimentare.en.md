@@ -11,4 +11,4 @@ All people living in Alessandria who: have financial difficulties and are quaran
 home detention or house arrest in difficulty and without external help; alone women with small children without resources and in difficulty
 
 Can activate the Food Service Help-Covid at the Casa di Quartiere calling (+39)0131/533848 (Federico)  
-A box of essential goods or baby-food will be home delivered.
+A Box of essential goods or baby-food will be home delivered.
