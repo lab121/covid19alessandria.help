@@ -30,7 +30,11 @@
 				
 				{{ if .Params.phone }}
                 <div class="cart-phone mb-3">
-                    <b>{{ .Site.Params.tel }}:</b> {{ .Params.phone }}
+					{{ if (eq .Site.Language.Lang "fr") }}
+						<b>{{ .Site.Params.tel }}.</b> {{ .Params.phone }}
+					{{ else }}
+						<b>{{ .Site.Params.tel }}:</b> {{ .Params.phone }}
+					{{ end }}
                 </div>
                 {{ end }}
 
