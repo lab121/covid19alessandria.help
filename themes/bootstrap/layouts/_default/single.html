@@ -9,7 +9,11 @@
 			{{ $mese := substr .Params.date 5 2 }}
 			{{ $giorno := substr .Params.date 8 2 }}
 			{{ $dataOttenuta := (print $giorno "-" $mese "-" $anno) }}
-			<b>{{ .Site.Params.data }}:</b> {{ $dataOttenuta }}
+			{{ if (eq .Site.Language.Lang "fr") }}
+				<b>{{ .Site.Params.data }} :</b> {{ $dataOttenuta }}
+			{{ else }}
+				<b>{{ .Site.Params.data }}:</b> {{ $dataOttenuta }}
+			{{ end }}
 		{{ else }}
 			<b>{{ .Site.Params.data }}:</b> {{ substr .Params.date 0 10 }}
 		{{ end }}
@@ -29,7 +33,11 @@
 
     {{ if .Params.phone }}
         <div class="cart-phone mb-3">
-            <b>{{ .Site.Params.tel }}:</b> {{ .Params.phone }}
+			{{ if (eq .Site.Language.Lang "fr") }}
+				<b>{{ .Site.Params.tel }}.</b> {{ .Params.phone }}
+			{{ else }}
+				<b>{{ .Site.Params.tel }}:</b> {{ .Params.phone }}
+			{{ end }}
         </div>
     {{ end }}
 

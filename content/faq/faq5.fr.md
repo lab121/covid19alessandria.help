@@ -1,9 +1,9 @@
 ---
-title: "Comment puis-je faire un signalement?"
+title: "Comment puis-je faire un signalement ?"
 weight: 5
 ---
 
-Voici les instructions étape après étape:  
+Voici les instructions étape après étape :  
 * Allez sur la page d'accueil covid19alessandria.help.
 * Choisissez la catégorie de votre signalement.
 * Remplissez le formulaire avec les informations demandées.

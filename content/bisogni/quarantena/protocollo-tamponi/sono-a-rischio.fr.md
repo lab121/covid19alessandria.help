@@ -1,5 +1,5 @@
 ---
-title: "Suis-je à risque d'être contaminé?"
+title: "Suis-je à risque d'être contaminé ?"
 link: "http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioFaqNuovoCoronavirus.jsp?lingua=italiano&id=234#2"
 mail: ""
 date: 2020-11-03

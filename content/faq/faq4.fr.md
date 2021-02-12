@@ -1,5 +1,5 @@
 ---
-title: "Quel genre d'informations puis-je trouver ou signaler?"
+title: "Quel genre d'informations puis-je trouver ou signaler ?"
 weight: 4
 ---
 
@@ -11,7 +11,7 @@ weight: 4
 * Offres d'aide - initiatives individuelles ou organisées visant à offrir tout genre d'aide.
 * Demandes d'aide - Nous partageons en réseau les besoins et les nécessités pour y trouver des solutions rapides.
 * Livraisons et courses - Livraisons à domicile de produits de base, nourriture, médicaments, services de petites courses.
-* Commerces ouverts - pharmacies, commerces et entreprises de services ouverts dans la ville.
+* Commerces ouverts - Pharmacies, commerces et entreprises de services ouverts dans la ville.
 * Soutien psychologique - Les services de soutien psychologique offerts par de différentes associations.
 * Centre d'aide aux femmes victimes de violence - Les numéros de contact du Centre d'aide violence Me.Dea.
 * Guichet étrangers - Informations pour les communautés étrangères et les réfugiés.
