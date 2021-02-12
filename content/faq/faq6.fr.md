@@ -1,5 +1,5 @@
 ---
-title: "Comment puis-je m'impliquer?"
+title: "Comment puis-je m'impliquer ?"
 weight: 6
 ---
 
