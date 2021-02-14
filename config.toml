@@ -485,6 +485,7 @@ enableRobotsTXT = true
 		weight = 40
 		[languages.fr.params]
 			description = "Un projet pour partager des informations et agir pour soutenir l'urgence COVID19"
+			footer = "Fait avec amour pour Alessandria"
 			follow = "Suivez-nous"
 			search = "Rechercher"
 			promoters = "Promoteurs"
