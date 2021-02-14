@@ -9,7 +9,11 @@
 			{{ $mese := substr .Params.date 5 2 }}
 			{{ $giorno := substr .Params.date 8 2 }}
 			{{ $dataOttenuta := (print $giorno "-" $mese "-" $anno) }}
-			<b>{{ .Site.Params.data }}:</b> {{ $dataOttenuta }}
+			{{ if (eq .Site.Language.Lang "fr") }}
+				<b>{{ .Site.Params.data }} :</b> {{ $dataOttenuta }}
+			{{ else }}
+				<b>{{ .Site.Params.data }}:</b> {{ $dataOttenuta }}
+			{{ end }}
 		{{ else }}
 			<b>{{ .Site.Params.data }}:</b> {{ substr .Params.date 0 10 }}
 		{{ end }}
@@ -29,13 +33,17 @@
 
     {{ if .Params.phone }}
         <div class="cart-phone mb-3">
-            <b>{{ .Site.Params.tel }}:</b> {{ .Params.phone }}
+			{{ if (eq .Site.Language.Lang "fr") }}
+				<b>{{ .Site.Params.tel }}.</b> {{ .Params.phone }}
+			{{ else }}
+				<b>{{ .Site.Params.tel }}:</b> {{ .Params.phone }}
+			{{ end }}
         </div>
     {{ end }}
 
     {{ if .Params.mail }}
         <div class="cart-mail mb-3">
-            <b>Email:</b> <a href="mailto:{{ .Params.mail }}">{{ .Params.mail }}</a>
+            <b>{{ .Site.Params.email }}:</b> <a href="mailto:{{ .Params.mail }}">{{ .Params.mail }}</a>
         </div>
     {{ end }}
 
@@ -47,7 +55,7 @@
 
     {{ if .Params.link }}
         <div class="btn-group cart-link">
-            <a href="{{ .Params.link }}" class="btn btn-sm btn-outline-secondary" target="_blank" style="background-color: #EC5923; color: #ffffff">Link</a>
+            <a href="{{ .Params.link }}" class="btn btn-sm btn-outline-secondary" target="_blank" style="background-color: #EC5923; color: #ffffff">{{ .Site.Params.link }}</a>
         </div>
     {{ end }}
 {{ end }}

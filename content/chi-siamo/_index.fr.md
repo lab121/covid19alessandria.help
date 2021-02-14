@@ -1,5 +1,5 @@
 ---
-title: "Qui sommes-nous?"
+title: "Qui sommes-nous ?"
 layout: "page"
 logos: true
 weight: 4
@@ -7,7 +7,7 @@ weight: 4
 
 À l'instar de la plateforme nationale Covid19Italia.help, le projet Covid19Alessandria.help est une initiative à but non lucratif qu'a lancé un groupement d'associations rassemblées autour des mêmes objectifs : partager les informations utiles pour faire face à la crise sanitaire et faciliter le travail des personnes et des organisations qui œuvrent à Alessandria.
 
-Nous poursuivons nos objectifs en regroupant et en vérifiant tout genre d'information afin de **mettre en contact ceux qui offrent des biens et des services et ceux qui en ont besoin***.
+Nous poursuivons nos objectifs en regroupant et en vérifiant tout genre d'information afin de **mettre en contact ceux qui offrent des biens et des services et ceux qui en ont besoin**.
 
 En plus de donner des informations de service, **notre site comprend des informations institutionnelles, dans la perspective d'offrir aux utilisateurs un tableau aussi complet que possible de tout ce qu'il faut savoir en cette période si compliquée**.
 

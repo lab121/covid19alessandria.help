@@ -1,5 +1,5 @@
 ---
-title: "Est-il utile de faire des signalements?"
+title: "Est-il utile de faire des signalements ?"
 weight: 3
 ---
 

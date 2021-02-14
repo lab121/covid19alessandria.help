@@ -30,13 +30,17 @@
 				
 				{{ if .Params.phone }}
                 <div class="cart-phone mb-3">
-                    <b>{{ .Site.Params.tel }}:</b> {{ .Params.phone }}
+					{{ if (eq .Site.Language.Lang "fr") }}
+						<b>{{ .Site.Params.tel }}.</b> {{ .Params.phone }}
+					{{ else }}
+						<b>{{ .Site.Params.tel }}:</b> {{ .Params.phone }}
+					{{ end }}
                 </div>
                 {{ end }}
 
                 {{ if .Params.mail }}
                 <div class="cart-mail mb-3">
-                    <b>Email:</b> <a href="mailto:{{ .Params.mail }}">{{ .Params.mail }}</a>
+                    <b>{{ .Site.Params.email }}:</b> <a href="mailto:{{ .Params.mail }}">{{ .Params.mail }}</a>
                 </div>
                 {{ end }}
 
