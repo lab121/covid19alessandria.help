@@ -3,7 +3,6 @@ title: "Sportello online orientamento ai servizi"
 weight: 10
 orario: "dal lunedì al venerdì"
 orario1: "dalle ore 17.30 alle ore 19.30"
-attivo: "true"
 ---
 
 Rivolgiti a questo sportello per ricevere ascolto e informazioni utili sui servizi locali attivati durante l'emergenza sanitaria.  
