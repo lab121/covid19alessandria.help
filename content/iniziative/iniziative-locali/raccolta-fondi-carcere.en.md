@@ -5,7 +5,7 @@ date: 2020-12-03
 weight: 1
 ---
 
-**The Covid19 epidemic does not spare anyone, but somebody do not have the chance to protect themselves. You can help them.**
+The Covid19 epidemic does not spare anyone, but somebody do not have the chance to protect themselves. You can help them.
 
 The situation in the Italian prisons is difficult.
 

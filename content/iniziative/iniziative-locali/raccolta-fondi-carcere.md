@@ -5,7 +5,7 @@ date: 2020-12-03
 weight: 1
 ---
 
-**La pandemia da Covid19 non guarda in faccia nessuno, ma ci sono volti che non hanno la possibilità di coprirsi con la mascherina, tu puoi aiutarli.**
+La pandemia da Covid19 non guarda in faccia nessuno, ma ci sono volti che non hanno la possibilità di coprirsi con la mascherina, tu puoi aiutarli.
 
 La situazione nelle carceri Italiane è difficile.
 
