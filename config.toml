@@ -96,6 +96,13 @@ enableRobotsTXT = true
                 url  = "/bisogni/quarantena"
                 weight = 5
 			[[languages.it.menu.main]]
+                identifer = "campagnavaccinazione"
+                parent = "bisogni"
+                name = "Campagna di vaccinazione"
+            	title = "Campagna di vaccinazione"
+                url  = "/bisogni/campagna-vaccinazione"
+                weight = 6
+			[[languages.it.menu.main]]
                 identifier = "informazioni"
                 name = "Vedi tutti le informazioni"
                 url  = "/informazioni"
