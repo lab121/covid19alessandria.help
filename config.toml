@@ -297,6 +297,13 @@ enableRobotsTXT = true
 				url  = "/en/bisogni/quarantena"
 				weight = 5
 			[[languages.en.menu.main]]
+                identifer = "campagnavaccinazione"
+                parent = "bisogni"
+                name = "Vaccination campaign"
+            	title = "Vaccination campaign"
+                url  = "/en/bisogni/campagna-vaccinazione"
+                weight = 6
+			[[languages.en.menu.main]]
                 identifier = "informazioni"
                 name = "See all information"
                 url  = "/en/informazioni"
@@ -637,7 +644,7 @@ enableRobotsTXT = true
 			moreinterest = "Potrebbe anche interessarti"
 			sportellionline = "Sportelli on line"
 			tel = "Tél"
-			address = "Indirizzo"
+			address = "Adresa"
 			medicalsupport = "Supporto medico e psicologico"
 			prodURL = "https://covid19alessandria.help/ar"	
 			zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
@@ -718,6 +725,25 @@ enableRobotsTXT = true
             	title = "Municipiul Alessandria"
                 url  = "/ro/informazioni/comune"
                 weight = 3
+			[[languages.ro.menu.main]]
+                identifier = "iniziative"
+                name = "Vedeți toate inițiativele"
+                url  = "/ro/iniziative"
+                weight = 3
+            	title = "Inițiative"
+            [[languages.ro.menu.main]]
+                identifer = "sportelli"
+                parent = "iniziative"
+                name = "Ghișee de ascultare și informare"
+            	title = "Ghișee de ascultare și informare"
+                url  = "/ro/iniziative/sportelli"
+                weight = 1
+            [[languages.ro.menu.main]]
+                identifier = "chi-siamo"
+                name = "Cine suntem"
+                url  = "/ro/chi-siamo"
+                weight = 5
+            	title = "Cine suntem"
 [frontmatter]
     lastmod = [":fileModTime", ":default"]
 
