@@ -2,7 +2,6 @@
 title: "Online help desk for men who use gender-violence"
 weight: 40
 orario: "Thursdays from 11am to 12am"
-attivo: "true"
 ---
 
 Please turn to this help desk to get more information about our listening/orientation/counseling service; we offer psychological awarenessd paths for people who want to question about their aggressive/abusive/violent behaviours.
