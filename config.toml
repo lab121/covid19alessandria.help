@@ -634,35 +634,47 @@ enableRobotsTXT = true
 		title = "Covid19Alessandria.help"
 		weight = 60
 		[languages.ro.params]
-			description = "(rumeno) Descrizione"
-			follow = "Seguici"
-			search = "Cerca"
+			description = "Un proiect pentru a partaja informații și a lua măsuri pentru a sprijini situația de urgență COVID19"
+			follow = "Urmează-ne"
+			search = "Caută"
 			promoters = "Promotori"
-			primopiano = "In primo piano"
-			lastupdate = "Ultimi aggiornamenti"
-			readmore = "Leggi di più"
-			moreinterest = "Potrebbe anche interessarti"
-			sportellionline = "Sportelli on line"
+			primopiano = "În prim-plan"
+			lastupdate = "Ultimele actualizări"
+			readmore = "Citeste mai mult"
+			moreinterest = "Ați putea fi interesat și de"
+			sportellionline = "Ghișee online"
 			tel = "Tél"
 			address = "Adresa"
-			medicalsupport = "Supporto medico e psicologico"
+			medicalsupport = "Sprijin medical și psihologic"
 			prodURL = "https://covid19alessandria.help/ar"	
-			zonagialla = "Il Piemonte in questo momento è classificato zona gialla"
-			zonarossa = "Il Piemonte in questo momento è classificato zona rossa"
-			zonaarancione = "Il Piemonte in questo momento è classificato zona arancione"
-			orario = "Orario"
+			zonagialla = "Piemontul este clasificat în prezent ca zonă galbenă"
+			zonarossa = "Piemontul este clasificat în prezent ca zonă roșie"
+			zonaarancione = "Piemontul este clasificat în prezent ca zonă portocalie"
+			orario = "Orar"
 			data = "Data"
-			contributo = "Con il contributo di"
+			contributo = "Cu contribuția lui"
 			link = "Link"
 			home = "Home"
-			email = "Email"
+			email = "E-mail"
+			formNome = "Nume"
+			formCategoria = "Categorie"
+			formMessaggio = "Mesaj"
+			formIndirizzo = "Adresă"
+			formTelefono = "Telefon"
+			formEmail = "E-mail"
+			formLink = "Link"
+			formPrivacy = "Accept informațiile privind prelucrarea datelor cu caracter personal"
+			formInvio = "Trimite"
+			formMessaggioInvio = "Trimiterea în curs..."
+			formMessaggioOK = "Vă mulțumim pentru recomandare!"
+			formMessaggioKO = "A avut loc o eroare!"
 		[languages.ro.menu]
 			[[languages.ro.menu.main]]
 				identifier = "bisogni"
-				name = "Vedi tutti i bisogni"
+				name = "Vezi toate nevoile"
 				url  = "/ro/bisogni"
 				weight = 1
-				title = "Bisogni"
+				title = "Are nevoie"
 			[[languages.ro.menu.main]]
 				identifer = "cibo"
 				parent = "bisogni"
@@ -700,10 +712,10 @@ enableRobotsTXT = true
                 weight = 5
 			[[languages.ro.menu.main]]
                 identifier = "informazioni"
-                name = "Vedi tutte le informazioni"
+                name = "Vezi toate informațiile"
                 url  = "/ro/informazioni"
                 weight = 2
-            	title = "Informazioni utili"
+            	title = "Informatii utile"
             [[languages.ro.menu.main]]
                 identifier = "ospedale"
                 parent = "informazioni"
@@ -738,12 +750,52 @@ enableRobotsTXT = true
             	title = "Ghișee de ascultare și informare"
                 url  = "/ro/iniziative/sportelli"
                 weight = 1
+			[[languages.ro.menu.main]]
+                identifer = "assistenza-persona"
+                parent = "iniziative"
+                name = "Servicii de asistență destinate persoanei"
+            	title = "Servicii de asistență destinate persoanei"
+                url  = "/ro/iniziative/assistenza-alla-persona"
+                weight = 2
+			[[languages.ro.menu.main]]
+                identifer = "medico-psicologico"
+                parent = "iniziative"
+                name = "Sprijin medical și psihologic"
+            	title = "Sprijin medical și psihologic"
+                url  = "/ro/iniziative/supporto-medico-psicologico"
+                weight = 3
+			[[languages.ro.menu.main]]
+                identifer = "iniziative-locali"
+                parent = "iniziative"
+                name = "Inițiative locale"
+            	title = "Inițiative locale"
+                url  = "/ro/iniziative/iniziative-locali"
+                weight = 4
+			[[languages.ro.menu.main]]
+                identifer = "sportellionline"
+                parent = "iniziative"
+                name = "Ghișee online"
+            	title = "Ghișee online"
+                url  = "/ro/iniziative/sportelli-on-line"
+                weight = 5
             [[languages.ro.menu.main]]
                 identifier = "chi-siamo"
                 name = "Cine suntem"
                 url  = "/ro/chi-siamo"
                 weight = 5
             	title = "Cine suntem"
+			[[languages.it.menu.main]]
+                identifier = "partecipa"
+                name = "Participă"
+                url  = "/ro/partecipa"
+                weight = 6
+            	title = "Participă"
+			[[languages.ro.menu.main]]
+                identifier = "faq"
+                name = "Faq"
+                url  = "/ro/faq"
+                weight = 7
+            	title = "FAQ"
 [frontmatter]
     lastmod = [":fileModTime", ":default"]
 
