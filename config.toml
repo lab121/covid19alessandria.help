@@ -758,6 +758,13 @@ enableRobotsTXT = true
                 url  = "/ro/iniziative/assistenza-alla-persona"
                 weight = 2
 			[[languages.ro.menu.main]]
+                identifer = "medico-psicologico"
+                parent = "iniziative"
+                name = "Sprijin medical și psihologic"
+            	title = "Sprijin medical și psihologic"
+                url  = "/ro/iniziative/supporto-medico-psicologico"
+                weight = 3
+			[[languages.ro.menu.main]]
                 identifer = "iniziative-locali"
                 parent = "iniziative"
                 name = "Inițiative locale"
