@@ -641,7 +641,7 @@ enableRobotsTXT = true
 			primopiano = "In primo piano"
 			lastupdate = "Ultimi aggiornamenti"
 			readmore = "Leggi di più"
-			moreinterest = "Potrebbe anche interessarti"
+			moreinterest = "Ați putea fi interesat și de"
 			sportellionline = "Sportelli on line"
 			tel = "Tél"
 			address = "Adresa"
@@ -659,10 +659,10 @@ enableRobotsTXT = true
 		[languages.ro.menu]
 			[[languages.ro.menu.main]]
 				identifier = "bisogni"
-				name = "Vedi tutti i bisogni"
+				name = "Vezi toate nevoile"
 				url  = "/ro/bisogni"
 				weight = 1
-				title = "Bisogni"
+				title = "Are nevoie"
 			[[languages.ro.menu.main]]
 				identifer = "cibo"
 				parent = "bisogni"
@@ -700,10 +700,10 @@ enableRobotsTXT = true
                 weight = 5
 			[[languages.ro.menu.main]]
                 identifier = "informazioni"
-                name = "Vedi tutte le informazioni"
+                name = "Vezi toate informațiile"
                 url  = "/ro/informazioni"
                 weight = 2
-            	title = "Informazioni utili"
+            	title = "Informatii utile"
             [[languages.ro.menu.main]]
                 identifier = "ospedale"
                 parent = "informazioni"
@@ -738,6 +738,20 @@ enableRobotsTXT = true
             	title = "Ghișee de ascultare și informare"
                 url  = "/ro/iniziative/sportelli"
                 weight = 1
+			[[languages.ro.menu.main]]
+                identifer = "assistenza-persona"
+                parent = "iniziative"
+                name = "Servicii de asistență destinate persoanei"
+            	title = "Servicii de asistență destinate persoanei"
+                url  = "/ro/iniziative/assistenza-alla-persona"
+                weight = 2
+			[[languages.ro.menu.main]]
+                identifer = "iniziative-locali"
+                parent = "iniziative"
+                name = "Inițiative locale"
+            	title = "Inițiative locale"
+                url  = "/ro/iniziative/iniziative-locali"
+                weight = 4
             [[languages.ro.menu.main]]
                 identifier = "chi-siamo"
                 name = "Cine suntem"

@@ -1,9 +1,9 @@
 ---
-title: "Bisogni"
+title: "Are nevoie"
 weight: 1
 promote_to_home: true
 type: group
 layout: foto 
 ---
 
-In questa sezione trovi le informazioni utili organizzate per aree tematiche per affrontare questa seconda fase dell’emergenza sanitaria.
+În această secțiune veți găsi informații utile organizate pe zone tematice pentru a face față acestei a doua etape a urgenței de sănătate.

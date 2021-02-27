@@ -1,5 +1,5 @@
 ---
-title: "Informazioni utili"
+title: "Informatii utile"
 weight: 5
 picture: "bisogni_informazioni_utili_2.jpg"
 logo: "broadcast-tower"
@@ -8,4 +8,4 @@ layout: foto
 promote_to_home: true 
 ---
 
-(romeno) In questa pagina trovi informazioni ufficiali e dai servizi locali della città e gli ultimi decreti e comunicati nazionali.
+Pe această pagină veți găsi informații oficiale și din serviciile locale ale orașului și cele mai recente decrete naționale și comunicate de presă.
