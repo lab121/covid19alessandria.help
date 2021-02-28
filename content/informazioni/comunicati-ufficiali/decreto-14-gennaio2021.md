@@ -9,6 +9,6 @@ weight: 1
 Pubblicato in GU Serie Generale n.10 del 14-01-2021 il Decreto legge del 14 gennaio 2021 n. 2
 
 {{<rawhtml>}}
-<img src="/images/foto/zona-gialla-nazionale.jpg" class="img-fluid">
+<img src="/images/foto/zona-arancione-nazionale.jpg" class="img-fluid">
 {{</rawhtml>}}
 
