@@ -674,7 +674,7 @@ enableRobotsTXT = true
 				name = "Vezi toate nevoile"
 				url  = "/ro/bisogni"
 				weight = 1
-				title = "Are nevoie"
+				title = "Nevoi"
 			[[languages.ro.menu.main]]
 				identifer = "cibo"
 				parent = "bisogni"
