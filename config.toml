@@ -784,7 +784,7 @@ enableRobotsTXT = true
                 url  = "/ro/chi-siamo"
                 weight = 5
             	title = "Cine suntem"
-			[[languages.it.menu.main]]
+			[[languages.ro.menu.main]]
                 identifier = "partecipa"
                 name = "Participă"
                 url  = "/ro/partecipa"
