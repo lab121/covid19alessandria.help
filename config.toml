@@ -515,7 +515,7 @@ enableRobotsTXT = true
 			zonagialla = "Le Piémont est actuellement placé en zone jaune."
 			zonarossa = "Le Piémont est actuellement placé en zone rouge"
 			zonaarancione = "Le Piémont est actuellement placé en zone orange"
-			orario = "Programme"
+			orario = "Horaire"
 			data = "Date"
 			contributo = "Avec la contribution de"
 			link = "Lien"
@@ -567,6 +567,19 @@ enableRobotsTXT = true
                 name = "Soutien à la quarantaine"
             	title = "Soutien à la quarantaine"
                 url  = "/fr/bisogni/quarantena"
+                weight = 5
+			[[languages.fr.menu.main]]
+                identifier = "iniziative"
+                name = "Voir toutes les initiatives"
+                url  = "/fr/iniziative"
+                weight = 3
+            	title = "Iniziatives"
+			[[languages.fr.menu.main]]
+                identifer = "sportellionline"
+                parent = "iniziative"
+                name = "Services d'aide en ligne"
+            	title = "Services d'aide en ligne"
+                url  = "/fr/iniziative/sportelli-on-line"
                 weight = 5
 			[[languages.fr.menu.main]]
                 identifier = "chi-siamo"
