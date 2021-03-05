@@ -575,6 +575,13 @@ enableRobotsTXT = true
                 weight = 3
             	title = "Iniziatives"
 			[[languages.fr.menu.main]]
+                identifer = "medico-psicologico"
+                parent = "iniziative"
+                name = "Soutien médical et psychologique"
+            	title = "Soutien médical et psychologique"
+                url  = "/fr/iniziative/supporto-medico-psicologico"
+                weight = 3
+			[[languages.fr.menu.main]]
                 identifer = "sportellionline"
                 parent = "iniziative"
                 name = "Services d'aide en ligne"
