@@ -1,9 +1,9 @@
 ---
-title: "Bisogni"
+title: "يحتاج"
 weight: 1
 promote_to_home: true
 type: group
 layout: foto 
 ---
 
-In questa sezione trovi le informazioni utili organizzate per aree tematiche per affrontare questa seconda fase dell’emergenza sanitaria.
+ستجد في هذا القسم معلومات مفيدة تنظمها المجالات المواضيعية للتعامل مع هذه المرحلة الثانية من حالة الطوارئ الصحية.
