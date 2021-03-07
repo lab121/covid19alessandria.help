@@ -1,9 +1,9 @@
 ---
-title:  "Companies Guarantee Fund"
+title:  "Fondo Garanzia Imprese"
 link: "https://www.fondidigaranzia.it/normativa-e-modulistica/modulistica/"
 date: 2020-04-15
 draft: false
 weight: 1
 ---
 
-The public guarantee facilitating the assignment of until €25000 for small medium companies and for professionals.
+La garanzia pubblica che facilita l'accesso allo stanziamento fino a 25.000,00€ per le PMI e dei Professionisti.

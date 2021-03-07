@@ -615,7 +615,7 @@ enableRobotsTXT = true
 		[languages.ar.params]
 			description = "(arabo) Descrizione"
 			follow = "Seguici"
-			search = "Cerca"
+			search = "ابحث"
 			promoters = "Promotori"
 			primopiano = "In primo piano"
 			lastupdate = "Ultimi aggiornamenti"
@@ -649,6 +649,13 @@ enableRobotsTXT = true
 				title = "طعام"
 				url  = "/ar/bisogni/cibo"
 				weight = 1
+			[[languages.ar.menu.main]]
+                identifer = "sostegnoeconomico"
+                parent = "bisogni"
+                name = "الدعم الاقتصادي"
+            	title = "الدعم الاقتصادي"
+                url  = "/ar/bisogni/sostegno-economico"
+                weight = 3
 			[[languages.ar.menu.main]]
                 identifer = "scuola"
                 parent = "bisogni"

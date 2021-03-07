@@ -5,4 +5,4 @@ date: 2020-06-07
 weight: 3
 ---
 
-Il “Bonus vacanze”  offre un contributo fino 500 euro da utilizzare per soggiorni in alberghi, campeggi, villaggi turistici, agriturismi e bed & breakfast in Italia.
+Il “Bonus vacanze” offre un contributo fino 500 euro da utilizzare per soggiorni in alberghi, campeggi, villaggi turistici, agriturismi e bed & breakfast in Italia.
