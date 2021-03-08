@@ -35,6 +35,7 @@ enableRobotsTXT = true
 	link = "Link"
 	home = "Home"
 	email = "Email"
+	faq = "FAQ"
 	formNome = "Nome"
 	formCategoria = "Categoria"
 	formMessaggio = "Messaggio"
@@ -242,6 +243,7 @@ enableRobotsTXT = true
 			link = "Link"
 			home = "Home"
 			email = "Email"
+			faq = "FAQ"
 			formNome = "Name"
 			formCategoria = "Category"
             formMessaggio = "Message"
@@ -438,6 +440,7 @@ enableRobotsTXT = true
 			link = "Link"
 			home = "Home"
 			email = "Email"
+			faq = "FAQ"
 		[languages.es.menu]
 			[[languages.es.menu.main]]
 				identifier = "bisogni"
@@ -521,6 +524,7 @@ enableRobotsTXT = true
 			link = "Lien"
 			home = "Accueil"
 			email = "E-mail"
+			faq = "FAQ"
 			formNome = "Prénom et nom"
 			formCategoria = "Catégorie"
             formMessaggio = "Message"
@@ -635,6 +639,7 @@ enableRobotsTXT = true
 			link = "Link"
 			home = "Home"
 			email = "البريد الإلكتروني"
+			faq = "التعليمات"
 		[languages.ar.menu]
 			[[languages.ar.menu.main]]
 				identifier = "bisogni"
@@ -709,6 +714,7 @@ enableRobotsTXT = true
 			link = "Link"
 			home = "Home"
 			email = "E-mail"
+			faq = "FAQ"
 			formNome = "Nume"
 			formCategoria = "Categorie"
 			formMessaggio = "Mesaj"

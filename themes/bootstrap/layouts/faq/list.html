@@ -1,7 +1,7 @@
-{{ define "title" }}FAQ{{ end }}
+{{ define "title" }}{{ .Site.Params.faq }}{{ end }}
 
 {{ define "main" }}
-<h1>FAQ</h1>
+<h1>{{ .Site.Params.faq }}</h1>
 {{ .Page.Content }}
 
 <div class="accordion">
