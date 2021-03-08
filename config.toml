@@ -670,6 +670,13 @@ enableRobotsTXT = true
             	title = "دعم الحجر الصحي"
                 url  = "/ar/bisogni/quarantena"
                 weight = 5
+			[[languages.ar.menu.main]]
+                identifier = "chi-siamo"
+                name = "من نحن"
+                url  = "/ar/chi-siamo"
+                weight = 5
+            	title = "من نحن"
+            
 	[languages.ro]
 		languageName = "Rumeno"
 		title = "Covid19Alessandria.help"
