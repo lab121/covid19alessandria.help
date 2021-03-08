@@ -676,6 +676,26 @@ enableRobotsTXT = true
                 url  = "/ar/bisogni/quarantena"
                 weight = 5
 			[[languages.ar.menu.main]]
+                identifier = "informazioni"
+                name = "Vedi tutti le informazioni"
+                url  = "/ar/informazioni"
+                weight = 2
+            	title = "معلومات مفيدة"
+			[[languages.ar.menu.main]]
+                identifer = "cissaca"
+                parent = "informazioni"
+                name = "CISSACA"
+            	title = "CISSACA"
+                url  = "/ar/informazioni/cissaca"
+                weight = 2
+			[[languages.ar.menu.main]]
+                identifer = "comune"
+                parent = "informazioni"
+                name = "بلدية اليساندريا"
+            	title = "بلدية اليساندريا"
+                url  = "/ar/informazioni/comune"
+                weight = 3
+			[[languages.ar.menu.main]]
                 identifier = "chi-siamo"
                 name = "من نحن"
                 url  = "/ar/chi-siamo"
