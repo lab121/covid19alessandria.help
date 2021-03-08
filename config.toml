@@ -676,7 +676,12 @@ enableRobotsTXT = true
                 url  = "/ar/chi-siamo"
                 weight = 5
             	title = "من نحن"
-            
+			[[languages.ar.menu.main]]
+                identifier = "faq"
+                name = "التعليمات"
+                url  = "/ar/faq"
+                weight = 7
+            	title = "التعليمات"            
 	[languages.ro]
 		languageName = "Rumeno"
 		title = "Covid19Alessandria.help"
