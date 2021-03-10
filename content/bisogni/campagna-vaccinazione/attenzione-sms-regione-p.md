@@ -7,4 +7,4 @@ date: 2021-03-10
 weight: 1
 ---
 
-La regione piemonte agli utlra80enni: Attenzione agli SMS e ai numeri telefonici non autorizzati. Puoi leggere tutte le informazioni al al link 
+La Regione Piemonte agli Ultra80enni: Attenzione agli SMS e ai numeri telefonici non autorizzati. Puoi leggere tutte le informazioni al link
