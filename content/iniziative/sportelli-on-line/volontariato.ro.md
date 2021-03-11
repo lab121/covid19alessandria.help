@@ -3,6 +3,7 @@ title: "Ghid online privind lumea voluntariatului"
 weight: 50
 orario: "joi de la 15 la 16"
 draft: false
+attivo: "true"
 ---
 
 CSVAA - Centro Servizi per il Volontariato Asti Alessandria este activ pentru a sprijini activitățile ETS (Entități din sectorul terțiar) prin furnizarea gratuită de servicii tehnice, de formare și de informare pentru a promova răspândirea solidarității și a acțiunilor voluntare, atât în ​​mod independent, cât și în sinergie cu ceilalți actori sociali.  

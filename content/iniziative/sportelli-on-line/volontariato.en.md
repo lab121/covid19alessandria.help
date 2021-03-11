@@ -3,6 +3,7 @@ title: "Online orientation help desk about thw world of volunteering"
 weight: 50
 orario: "Thursdays from 3pm to 4pm"
 draft: false
+attivo: "true"
 ---
 
 Il CSVAA – Centro Servizi per il Volontariato Asti Alessandria è attivo per supportare le attività degli ETS attraverso l’erogazione di servizi gratuiti di supporto tecnico, formativo e informativo per promuovere la diffusione della solidarietà e dell’agire volontario, sia autonomamente che in sinergia con gli altri attori sociali.  
