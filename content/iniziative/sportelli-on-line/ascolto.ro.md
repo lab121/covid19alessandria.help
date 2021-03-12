@@ -3,6 +3,7 @@ title: "Ghișeu online pentru orientare către servicii"
 weight: 10
 orario: "de luni până vineri"
 orario1: "de la 17.30 la 19.30"
+attivo: "true"
 ---
 
 Contactați acest birou pentru a primi informații utile despre serviciile locale activate în timpul urgenței Coronavirus.   
