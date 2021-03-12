@@ -2,6 +2,7 @@
 title: "Service d'écoute en ligne pour les violences faites aux femmes"
 weight: 70
 orario: "vendredi de 14h à 16h"
+attivo: "true"
 ---
 
 Adressez-vous à ce service pour un premier contact avec les intervenantes du Centre d'aide Me.Dea, ainsi que pour avoir plus d'informations sur les violences faites aux femmes.  
