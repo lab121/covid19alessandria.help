@@ -2,6 +2,7 @@
 title: "Online listening desk for women who are victims of violence"
 weight: 90
 orario: "Fridays from 2pm to 4pm"
+attivo: "true"
 ---
 
 Please turn to this help desk to get a first contact with the anti-violence center Me.dea operators, and to get more information about violence against women.
