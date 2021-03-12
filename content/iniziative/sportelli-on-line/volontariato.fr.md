@@ -1,6 +1,6 @@
 ---
 title: "Service d'orientation en ligne sur le bénévolat"
-weight: 50
+weight: 60
 orario: "jeudi de 15h à 16h."
 draft: false
 ---

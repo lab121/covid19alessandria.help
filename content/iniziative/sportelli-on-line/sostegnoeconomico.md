@@ -1,6 +1,6 @@
 ---
 title: "Sportello online misure di sostegno economico"
-weight: 20
+weight: 30
 orario: "martedì dalle ore 15 alle ore 17"
 ---
 

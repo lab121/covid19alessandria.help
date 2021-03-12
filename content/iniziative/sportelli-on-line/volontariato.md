@@ -1,6 +1,6 @@
 ---
 title: "Sportello online di orientamento sul mondo del volontariato"
-weight: 50
+weight: 60
 orario: "giovedì dalle ore 15 alle ore 16"
 draft: false
 ---

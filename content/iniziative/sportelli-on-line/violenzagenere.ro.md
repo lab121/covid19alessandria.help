@@ -1,6 +1,6 @@
 ---
 title: "Ghișeu online pentru bărbați care au comis acte de violență pe bază de gen"
-weight: 40
+weight: 50
 orario: "joi de la 11 la 12"
 ---
 
