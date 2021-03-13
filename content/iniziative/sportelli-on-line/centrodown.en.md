@@ -1,6 +1,6 @@
 ---
 title: "Online informative helpdesk Centro Down Alessandria"
-weight: 70
+weight: 25
 orario: "Mondays from 2pm until 4pm"
 draft: false
 ---

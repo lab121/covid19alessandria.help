@@ -1,6 +1,6 @@
 ---
 title: "Sportello online informativo Centro Down Alessandria"
-weight: 70
+weight: 25
 orario: "lunedì dalle ore 14 alle ore 16"
 draft: false
 ---
