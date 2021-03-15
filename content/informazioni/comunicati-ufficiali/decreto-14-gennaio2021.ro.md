@@ -9,6 +9,6 @@ weight: 1
 Publicat în GU n. 10 ​​pe 14.01.2021 Decretul-lege din 14 ianuarie 2021 n. 2
 
 {{<rawhtml>}}
-<img src="/images/foto/zona-arancione-nazionale.jpg" class="img-fluid">
+<img src="/images/foto/zona-rossa-nazionale.jpg" class="img-fluid">
 {{</rawhtml>}}
 

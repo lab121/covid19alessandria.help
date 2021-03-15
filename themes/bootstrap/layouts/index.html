@@ -11,21 +11,21 @@
             {{ .Site.Params.zonagialla }}
         </a>
     </div>
-</div>
+</div>-->
 <div style="background-color: red; text-align: center; padding: 0.5em;">
     <div class="container">
         {{ $linkrosso := "" }} 
         {{ if (ne .Site.Language.Lang "it") }}
-            {{ $linkrosso = print "/" .Site.Language.Lang "/informazioni/comunicati-ufficiali/zona-rossa/" }}
+            {{ $linkrosso = print "/" .Site.Language.Lang "/informazioni/comunicati-ufficiali/decreto-14-gennaio2021/" }}
         {{ else }}
-            {{ $linkrosso = "/informazioni/comunicati-ufficiali/zona-rossa/" }}
+            {{ $linkrosso = "/informazioni/comunicati-ufficiali/decreto-14-gennaio2021/" }}
         {{ end }}
         <a href="{{ $linkrosso }}" style="text-decoration: none; color: black;">
             {{ .Site.Params.zonarossa }}
         </a>
     </div>
-</div>-->
-<div style="background-color: orange; text-align: center; padding: 0.5em;">
+</div>
+<!--<div style="background-color: orange; text-align: center; padding: 0.5em;">
     <div class="container">
         {{ $linkarancione := "" }} 
         {{ if (ne .Site.Language.Lang "it") }}
@@ -37,7 +37,7 @@
             {{ .Site.Params.zonaarancione }}
         </a>
     </div>
-</div>
+</div>-->
 
 <div class="pt-5 pb-5 bg-grey1">
     <div class="container">
