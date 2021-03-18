@@ -1,5 +1,5 @@
 ---
-title: "Ghișeu online  pentru femeile victime ale violenței"
+title: "Ghișeu online pentru femeile victime ale violenței"
 weight: 70
 orario: "vineri de la 14:00 la 16:00"
 ---
