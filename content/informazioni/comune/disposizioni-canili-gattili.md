@@ -6,4 +6,4 @@ date: 2021-03-17
 weight: 1
 ---
 
-Nuove disposizioni per canili e gattili del comune di Alessandria durante la zona rossa. Per maggiorni informazioni consulta il link. 
+Nuove disposizioni per canili e gattili del comune di Alessandria durante la zona rossa. Per maggiori informazioni consulta il link. 
