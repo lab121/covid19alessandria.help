@@ -3,7 +3,6 @@ title: "Online informative helpdesk Centro Down Alessandria"
 weight: 25
 orario: "Mondays from 2pm until 4pm"
 draft: false
-attivo: "true"
 ---
 
 Our organisation is since ever committed in supporting families with Down Syndrome and intellective disabled people.  
