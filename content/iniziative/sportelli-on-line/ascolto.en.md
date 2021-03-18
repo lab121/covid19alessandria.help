@@ -3,7 +3,6 @@ title: "Online help desk and service orientation"
 weight: 10
 orario: "From Mondays to Fridays"
 orario1: "from 5.30pm to 7.30pm"
-attivo: "true"
 ---
 
 Online help desk and service orientation
