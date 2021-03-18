@@ -10,4 +10,4 @@ Le service est animé par le personnel de l'association Me.Dea.
 
 Pour plus d'informations, appelez le numéro vert de Me.Dea : 800098981.
 
-{{< chat party="violenzadomestica" operatorname="Sportello online di ascolto per le donne vittime di violenza" >}}
+<!--{{< chat party="violenzadomestica" operatorname="Sportello online di ascolto per le donne vittime di violenza" >}}-->
