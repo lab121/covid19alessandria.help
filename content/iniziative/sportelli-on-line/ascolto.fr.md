@@ -3,7 +3,6 @@ title: "Service d'orientation en ligne"
 weight: 10
 orario: "du lundi au vendredi"
 orario1: " de 17h30 à 19h30"
-attivo: "true"
 ---
 
 Adressez-vous à ce service si vous avez besoin d'écoute ou d'informations sur les autres services actifs sur le terrain pendant la crise sanitaire.  
