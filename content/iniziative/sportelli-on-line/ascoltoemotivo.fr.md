@@ -2,6 +2,7 @@
 title: "Service détresse émotionnelle en ligne"
 weight: 40
 orario: "mercredi de 13h à 14h"
+attivo: "true"
 ---
 
 Adressez-vous à ce service si vous avez besoin d'écoute et de soutien émotionnel, ainsi que si vous souhaitez améliorer vos relations ou maîtriser vos réactions durant cette période de crise et de difficultés.  
