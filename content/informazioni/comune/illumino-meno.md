@@ -6,4 +6,4 @@ date: 2021-03-26
 weight: 10
 ---
 
-Spegniamo le luci per l’ambiente e accendiamo la ricerca. Per maggiori informazioni consulta il link 
+Spegniamo le luci per l’ambiente e accendiamo la ricerca. Per maggiori informazioni consulta il link
