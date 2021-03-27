@@ -7,4 +7,5 @@ address: ""
 source: ""
 date: 2021-03-19
 ---
+
 La Città di Alessandria rende omaggio al pittore Pietro Sassi. Per maggiori informazioni visita il link 
