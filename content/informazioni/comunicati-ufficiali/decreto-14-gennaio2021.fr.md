@@ -9,6 +9,6 @@ weight: 1
 Publié dans la série générale GU n.10 du 14-01-2021 le décret-loi du 14 janvier 2021 n. 2
 
 {{<rawhtml>}}
-<img src="/images/foto/zona-rossa-nazionale.jpg" class="img-fluid">
+<img src="/images/foto/zona-arancione-nazionale.jpg" class="img-fluid">
 {{</rawhtml>}}
 
