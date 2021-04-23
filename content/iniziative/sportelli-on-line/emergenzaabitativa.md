@@ -2,6 +2,7 @@
 title: "Sportello online emergenza abitativa"
 weight: 80
 orario: "venerdì dalle ore 10 alle ore 12"
+attivo: "true"
 ---
 
 Rivolgiti a questo sportello per ricevere informazioni sui requisiti di accesso ai servizi dell’abitare del Comune di Alessandria e supporto nella mediazione dei conflitti in tema abitativo.  

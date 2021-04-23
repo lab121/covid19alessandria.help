@@ -2,7 +2,7 @@
 title:  "Cantieri di Lavoro per disoccupati over 45"
 link: "https://www.comune.alessandria.it/cantieri-di-lavoro-per-disoccupati-over-45"
 mail: ""
-date: 2020-04-22
+date: 2021-04-22
 draft: false
 weight: 2
 ---
