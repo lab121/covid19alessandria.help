@@ -9,6 +9,6 @@ weight: 1
 Published in GU (official gazette) n. 10 of January 14th 2021, decree law of January 14th 2021 n. 2  
 
 {{<rawhtml>}}
-<img src="/images/foto/zona-arancione-nazionale.jpg" class="img-fluid">
+<img src="/images/foto/zona-gialla-nazionale.jpg" class="img-fluid">
 {{</rawhtml>}}
 
