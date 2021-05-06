@@ -3,6 +3,7 @@ title: "Online orientation help desk about thw world of volunteering"
 weight: 60
 orario: "Thursdays from 3pm to 4pm"
 draft: false
+attivo: "true"
 ---
 
 The CSVAA (Centro Servizi per il Volontariato Asti Alessandria) is helping the Third Sector Entities by providing free services of technical, educational and informational support. The aim is promoting solidarity and volunteering, in indipendent modality as well as together with other social parties.  
