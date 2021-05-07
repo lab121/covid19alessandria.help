@@ -2,6 +2,7 @@
 title: "Online help desk about housing emergency"
 weight: 80
 orario: "Fridays from 10am to 12am"
+attivo: "true"
 ---
 
 Please turn to this help desk to get information about the access requirements for housing services of the municipality of Alessandria and for support in conflicts mediation.
