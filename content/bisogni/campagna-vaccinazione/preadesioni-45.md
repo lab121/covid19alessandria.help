@@ -1,5 +1,5 @@
 ---
-title: "Preadesioni per persone tra i 45 e 49 anni "
+title: "Preadesioni per persone tra i 45 e 49 anni"
 link: "https://www.ilpiemontetivaccina.it/preadesione/#/"
 mail: 
 phone: 
