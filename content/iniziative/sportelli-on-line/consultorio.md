@@ -1,5 +1,5 @@
 ---
-title: "Sportello online informativo consultorio per la persona e la famiglia"
+title: "Sportello online informativo consultorio per la persona e la famiglia (prossima attivazione)"
 weight: 70
 orario: "giovedì dalle ore 17 alle ore 18"
 draft: false

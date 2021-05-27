@@ -1,5 +1,5 @@
 ---
-title: "Online counselling help desk for individuals and families."
+title: "Online counselling help desk for individuals and families. (coming soon)"
 weight: 70
 orario: "Thursdays from 5pm to 6 pm"
 draft: false
