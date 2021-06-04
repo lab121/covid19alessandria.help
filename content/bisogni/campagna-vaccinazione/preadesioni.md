@@ -1,5 +1,5 @@
 ---
-title: "preadesioni per essere vaccinato "
+title: "Preadesioni per essere vaccinato "
 link: "https://www.ilpiemontetivaccina.it/preadesione/#/"
 mail: 
 phone: 
