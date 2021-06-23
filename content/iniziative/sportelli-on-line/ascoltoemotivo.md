@@ -2,6 +2,7 @@
 title: "Sportello online emergenza emotiva"
 weight: 40
 orario: "mercoledì dalle ore 13 alle ore 14"
+attivo: "true"
 ---
 
 Rivolgiti a questo sportello se hai bisogno di essere ascoltato, se senti di aver bisogno di aiuto emotivo, di migliorare le tue relazioni e reazioni in momenti di crisi e di difficoltà.  
