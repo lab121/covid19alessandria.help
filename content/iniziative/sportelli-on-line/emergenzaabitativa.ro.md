@@ -2,7 +2,6 @@
 title: "Ghișeu online de urgență pentru locuințe"
 weight: 90
 orario: "vineri de la 10 la 12"
-attivo: "true"
 ---
 
 Contactați acest birou pentru a primi informații cu privire la accesul la serviciile de locuințe ale municipiului Alessandria și sprijin pentru medierea conflictelor de locuințe.  
