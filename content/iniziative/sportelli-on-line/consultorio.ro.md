@@ -1,6 +1,6 @@
 ---
 title: "Ghișeu de asistență online pentru persoane și familii (următoarea activare)"
-weight: 70
+weight: 30
 orario: "Joi între orele 17:00 - 18:00"
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ghid online privind lumea voluntariatului"
-weight: 60
+weight: 70
 orario: "joi de la 15 la 16"
 draft: false
 ---
