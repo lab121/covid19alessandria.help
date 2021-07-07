@@ -1,7 +1,7 @@
 ---
-title: "Service d'information en ligne - centre de consultation individuelle et familiale (Bientôt disponible)"
+title: "Service d'information en ligne - centre de consultation individuelle et familiale"
 weight: 30
-orario: "Jeudi de 17h00 à 18h00"
+orario: "Lundi de 17h00 à 18h00"
 draft: false
 ---
 
