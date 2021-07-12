@@ -1,5 +1,5 @@
 ---
-title: "Sportello online informativo Centro Down Alessandria"
+title: "Sportello online informativo Centro Down Alessandria (in pausa)"
 weight: 25
 orario: "lunedì dalle ore 14 alle ore 16"
 draft: false

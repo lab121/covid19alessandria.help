@@ -1,5 +1,5 @@
 ---
-title: "Ghișeu online Centro Down Alessandria"
+title: "Ghișeu online Centro Down Alessandria (pauză)"
 weight: 25
 orario: "luni de la 14:00 la 16:00"
 draft: false

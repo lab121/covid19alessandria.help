@@ -1,5 +1,5 @@
 ---
-title: "﻿Service d'information en ligne - Centre Trisomie 21 Alessandria"
+title: "﻿Service d'information en ligne - Centre Trisomie 21 Alessandria (pause)"
 weight: 25
 orario: "lundi de 14h00 à 16h00"
 draft: false

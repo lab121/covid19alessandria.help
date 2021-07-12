@@ -1,5 +1,5 @@
 ---
-title: "Online informative helpdesk Centro Down Alessandria"
+title: "Online informative helpdesk Centro Down Alessandria (pause)"
 weight: 25
 orario: "Mondays from 2pm until 4pm"
 draft: false
