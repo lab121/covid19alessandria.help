@@ -1,8 +1,7 @@
 ---
 title: "Sportello online misure di sostegno economico"
-weight: 30
+weight: 40
 orario: "martedì dalle ore 15 alle ore 17"
-attivo: "true"
 ---
 
 Rivolgiti a questo sportello per ricevere informazioni su ISEE, Reddito di emergenza, Carta acquisti OVER 65, Bonus e tanto altro.  
