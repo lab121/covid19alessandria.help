@@ -2,6 +2,7 @@
 title: "Ghișeu online pentru măsuri de sprijin economic"
 weight: 40
 orario: "marți între orele 15-17"
+attivo: "true"
 ---
 
 Contactați acest birou pentru a primi informații despre ISEE, venituri de urgență, card de achiziție PESTE 65 de ani, Bonus și multe altele.  
