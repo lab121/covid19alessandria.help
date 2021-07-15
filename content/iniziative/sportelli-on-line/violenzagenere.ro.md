@@ -2,7 +2,6 @@
 title: "Ghișeu online pentru bărbați care au comis acte de violență pe bază de gen"
 weight: 60
 orario: "joi de la 11 la 12"
-attivo: "true"
 ---
 
 Contactați acest birou pentru a primi mai multe informații despre serviciul nostru de ascultare, îndrumare și consiliere; oferim conștientizare și căi psihologice în favoarea persoanelor care intenționează să se întrebe despre punerea în aplicare a comportamentelor agresive, abuzive, violente.  
