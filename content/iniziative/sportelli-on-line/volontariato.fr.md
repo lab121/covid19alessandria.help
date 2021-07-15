@@ -3,7 +3,6 @@ title: "Service d'orientation en ligne sur le bénévolat"
 weight: 70
 orario: "jeudi de 15h à 16h."
 draft: false
-attivo: "true"
 ---
 
 Le CSVAA - Centro Servizi per il Volontariato Asti Alessandria soutient l'action des organisations du troisième secteur par ses activités d'assistance technique, formation et information. Son objectif est de promouvoir l'esprit de solidarité et encourager le bénévolat, que ce soit individuel ou collectif.  
