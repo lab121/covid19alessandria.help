@@ -3,6 +3,7 @@ title: "Online counselling help desk for individuals and families"
 weight: 30
 orario: "Mondays from 5pm to 6 pm"
 draft: false
+attivo: "true"
 ---
 
 The counselling centre for individuals and families available in the Alessandria area aims to accomodate and listen to difficulties, uneasiness and distress in life of individuals, couples or families.

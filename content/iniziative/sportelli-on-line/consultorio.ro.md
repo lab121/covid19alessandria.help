@@ -3,6 +3,7 @@ title: "Ghișeu de asistență online pentru persoane și familii"
 weight: 30
 orario: "Luni între orele 17:00 - 18:00"
 draft: false
+attivo: "true"
 ---
 
 Centrul de consiliere pentru persoane și familii disponibil în zona Alessandria își propune să sprijine și să asculte dificultățile, neliniștea și suferința în viața indivizilor, cuplurilor sau familiilor.

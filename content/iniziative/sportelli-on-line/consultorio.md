@@ -3,6 +3,7 @@ title: "Sportello online informativo consultorio per la persona e la famiglia"
 weight: 30
 orario: "lunedì dalle ore 17 alle ore 18"
 draft: false
+attivo: "true"
 ---
 
 Il Consultorio per la persona e la famiglia opera sul territorio Alessandrino e da sempre si propone, attraverso lo strumento della consulenza, l'obiettivo dell'accoglienza e dell'ascolto delle difficoltà, dei malesseri e dei disagi che, in tutto l'arco di vita, la singola persona, la coppia o la famiglia si può trovare ad affrontare.
