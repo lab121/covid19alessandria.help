@@ -3,7 +3,6 @@ title: "Service d'information en ligne - centre de consultation individuelle et 
 weight: 30
 orario: "Lundi de 17h00 à 18h00"
 draft: false
-attivo: "true"
 ---
 
 Le centre de consultation individuelle et familiale est actif à Alessandria et dans ses environs. Ses actions s’axent depuis toujours sur le conseil, l'accueil et l'écoute des souffrances, des mal-êtres et des difficultés que les familles, les couples et les individus peuvent rencontrer au cours de leur vie.
