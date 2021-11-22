@@ -1,5 +1,5 @@
 ---
-title: "Sportello online informativo consultorio per la persona e la famiglia (chiuso lunedì 22 novembre 2021)"
+title: "Sportello online informativo consultorio per la persona e la famiglia"
 weight: 30
 orario: "lunedì dalle ore 17 alle ore 18"
 draft: false
